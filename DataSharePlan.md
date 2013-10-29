@@ -22,3 +22,5 @@ All reagents or kits will be clearly described in publications, including catalo
 Notes
 -----
 Inspired by, and language used from: https://github.com/BridgesLab/Lab-Documents
+
+Quick changes test.
