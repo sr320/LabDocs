@@ -23,6 +23,3 @@ Notes
 -----
 Inspired by, and language used from: https://github.com/BridgesLab/Lab-Documents
 
-Quick changes test.
-
-OK, I just edited this without being prompted to fork it, now that I'm a collaborator.  Seems like collaborators might be the way to go.  
