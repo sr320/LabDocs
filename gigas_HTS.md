@@ -25,7 +25,7 @@
 | BSseqGill               | Illumina | DNA           | gill pool        | 36 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_BSseqGill_L003_R1.fastq            |
 |                         |          |               |                  |             |                                                                                                                  |
 |                         |          |               |                  |             |                                                                                                                  |
-| 400 & 2800              | Illumina | RNA           | gill             |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/ETS_tagseq.zip                              |
+| ETStagseq               | Illumina | RNA           | gill             |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/ETS_tagseq.zip                              |
 |                         |          |               |                  |             |                                                                                                                  |
 |                         |          |               |                  |             |                                                                                                                  |
 |                         |          |               |                  |             |                                                                                                                  |
