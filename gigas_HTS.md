@@ -16,13 +16,13 @@
 | GC                      | SOLiD    |               | larvae           | 50 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20100107_Roberts_GC_F3_QV.qual    |
 |                         |          |               |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20100107_Roberts_GC_F3.csfasta    |
 |                         |          |               |                  |             |                                                                                                                  |
-| SB Unmeth C.gigas       | SOLiD    | DNA           | gill pool        | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20110412_SB_UNMETH.csfasta        |
+| SBunmeth                | SOLiD    | DNA           | gill pool        | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20110412_SB_UNMETH.csfasta        |
 |                         |          |               |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20110412_SB_UNMETH.qual           |
 |                         |          |               |                  |             |                                                                                                                  |
-| SB Meth C.gigas         | SOLiD    |               | gill pool        | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20110412_SB_METH.csfasta          |
+| SBmeth                  | SOLiD    |               | gill pool        | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20110412_SB_METH.csfasta          |
 |                         |          | DNA           |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20110412_SB_METH.qual             |
 |                         |          |               |                  |             |                                                                                                                  |
-| SB MBD meth (bisulfite) | Illumina | DNA           | gill pool        | 36 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_BSseqGill_L003_R1.fastq            |
+| BSseqGill               | Illumina | DNA           | gill pool        | 36 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/filtered_BSseqGill_L003_R1.fastq            |
 |                         |          |               |                  |             |                                                                                                                  |
 |                         |          |               |                  |             |                                                                                                                  |
 | 400 & 2800              | Illumina | RNA           | gill             |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/ETS_tagseq.zip                              |
