@@ -2,21 +2,13 @@
 |-------------------------|----------|---------------|------------------|-------------|------------------------------------------------------------------------------------------------------------------|
 | BB3                     | SOLiD    | RNA           | gill             | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_BB3.csfasta              |
 |                         |          |               |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_BB3.qual                 |
-|                         |          |               |                  |             | ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR325/SRR325176/SRR325176.sra              |
-|                         |          |               |                  |             |                                                                                                                  |
+|                         |          |               |                  |               |                                                                                                                |
 | DH3                     | SOLiD    | RNA           | gill             | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH3.csfasta              |
 |                         |          |               |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH3.qual                 |
-|                         |          |               |                  |             | ftp://ftp-trace.ncbi.nlm.nih.gov/sra/sra-instant/reads/ByRun/sra/SRR/SRR325/SRR325177/SRR325177.sra              |
+|                         |          |               |                  |             
 |                         |          |               |                  |             |                                                                                                                  |
 | DH2                     | SOLiD    | RNA           | gill             | 25 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH2.csfasta              |
 |                         |          |               |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_DH2.qual                 |
-|                         |          |               |                  |             |                                                                                                                  |
-|                         |          |               |                  |             |                                                                                                                  |
-| GE                      | Illumina |               |                  | 36 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/                                            |
-|                         |          |               |                  |             |                                                                                                                  |
-|                         |          |               |                  |             |                                                                                                                  |
-| GC                      | Illumina |               |                  | 36 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/                                            |
-|                         |          |               |                  |             |                                                                                                                  |
 |                         |          |               |                  |             |                                                                                                                  |
 | GE                      | SOLiD    |               | larvae           | 50 x 1      | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_RbbertsLab_GE_F3_QV.qual |
 |                         |          |               |                  |             | http://eagle.fish.washington.edu/trilobite/Crassostrea_gigas_HTSdata/solid0078_20091105_RbbertsLab_GE_F3.csfasta |
