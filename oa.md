@@ -18,9 +18,7 @@ Timmins-Schiffman E, Coffey W, Hua W, Nunn B, Dickinson G, Roberts S. (in revisi
 Timmins-Schiffman E, O’Donnell M, Friedman C, and Roberts S. (2012) [Elevated pCO2 causes developmental delay in early larval Pacific oysters, _Crassostrea gigas_.](http://link.springer.com/article/10.1007%2Fs00227-012-2055-x) Marine Biology. doi:10.1007/s00227-012-2055-x ([preprint](http://dx.doi.org/10.6084/m9.figshare.95828))
 
 ###Theses
-David Metzger (2012) [Characterizing the effects of ocean acidification in larval and juvenile Manila clam, _Ruditapes philippinarum_, using a transcriptomic approach](http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf) Advisor: Roberts
-
-Elene Dorfmeier (2012) [Ocean acidification and disease: How will a changing climate impact *Vibrio tubiashii* growth and pathogenicity to Pacific oyster larvae?](https://digital.lib.washington.edu/researchworks/handle/1773/20742) Advisor: Friedman
+David Metzger (2012) [Characterizing the effects of ocean acidification in larval and juvenile Manila clam, _Ruditapes philippinarum_, using a transcriptomic approach](http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf) 
 
 
 
