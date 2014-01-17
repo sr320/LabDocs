@@ -1,8 +1,8 @@
 #Ocean Acidification Research
 
-With our labs' focus on the physiological repsonse of marine organisms to environmental change we have considerable interest in how changes in ocean chemistry impacts biology. Our efforts in this front can be categorized into 1) the organismal response to acute elevated carbon dioxide exposure and 2) the population level impact, which will be strongly influenced by local adaptation and phenotypic plasticity. While our research often integrates the impact at all levels our findings and research progress is outline below based on these two biological levels. In addition to the research carried out be graduate students, undergraduate students, and scientists in Roberts Lab; research projects completed as part of courses are also hightlighted.
+With our labs' focus on the physiological response of marine organisms to environmental change we have considerable interest in how changes in ocean chemistry impacts biology. Our efforts in this front can be categorized into 1) the organismal response to acute elevated carbon dioxide exposure and 2) the population level impact, which will be strongly influenced by local adaptation and phenotypic plasticity. While our research often integrates the impact at all levels our findings and research progress is outline below based on these two biological levels. In addition to the research carried out be graduate students, undergraduate students, and scientists in Roberts Lab; research projects completed as part of courses are also highlighted.
 
-Collaborations: Over the years we have collaborated with several groups with primary on ongoing work with the lab of Dr. Carolyn Friedman (UW SAFS). More information on our activities can be found on our blog: Ocean Acidicition Resarch in SAFS.
+Collaborations: Over the years we have collaborated with several groups with primary on ongoing work with the lab of Dr. Carolyn Friedman (UW SAFS). More information on our activities can be found on our blog: Ocean Acidification Research in SAFS.
 
 
 ## Organismal Response to Ocean Acidification
@@ -16,7 +16,7 @@ During this period, Emma Timmins-Schiffman (a graduate student in our lab primar
 Below is list of products from our efforts.
 
 ####Peer-Reviewed Papers
-Timmins-Sciffman E, Coffey W, Hua W, Nunn B, Dickinson G, Roberts S. (in revision) From shell deposition to protein expression: An integrative assessment of ocean acidification impacts on a marine invertebrate.
+Timmins-Schiffman E, Coffey W, Hua W, Nunn B, Dickinson G, Roberts S. (in revision) From shell deposition to protein expression: An integrative assessment of ocean acidification impacts on a marine invertebrate.
 
 Timmins-Schiffman E, O’Donnell M, Friedman C, and Roberts S. (2012) [Elevated pCO2 causes developmental delay in early larval Pacific oysters, _Crassostrea gigas_.](http://link.springer.com/article/10.1007%2Fs00227-012-2055-x) Marine Biology. doi:10.1007/s00227-012-2055-x ([preprint](http://dx.doi.org/10.6084/m9.figshare.95828))
 
