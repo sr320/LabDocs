@@ -82,7 +82,7 @@ Thompson R and Roberts SB (preprint) [Influence of carbon dioxide-induced acidif
 
 More recently our research efforts have turned to local adaptation and how shellfish populations with respond to changes in ocean chemistry. Central to this phenomenon is our [fundamental research on the role of epigenetics on phenotypic plasticity and local adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) (Roberts and Gavery 2012). Early on this work concentrated on molecular mechanisms ([Gavery and Roberts 2010](http://www.biomedcentral.com/1471-2164/11/483)). Currently we are addressing the potential for local adaption in the Olympia oyster. This work focus on a suite of environmental conditions include ocean chemistry and is funded by an award from the NOAA Aquaculture Program entitled, [_Alleviating Regulatory Impediments to Native Shellfish Aquaculture_](http://oystergen.es/olympia/).
 
-In 2014 as part of an award from Washington Sea Grant to Dr. Joth Davis entitled, _Crossbreeding and Selection for Resistance to Ocean Acidification in Pacific Oysters_ we will be examining the the underlying molecular mechanisms responsible for differences in Pacific oyster performance in the face of ocean acidification.
+In 2014 as part of an award from Washington Sea Grant to Dr. Joth Davis entitled, _Crossbreeding and Selection for Resistance to Ocean Acidification in Pacific Oysters_ we will be examining the underlying molecular mechanisms responsible for differences in Pacific oyster performance in the face of ocean acidification.
 
 ---
 More information on our activities can be found on the blog: [Ocean Acidification: Research notes from SAFS](http://safsoa.wordpress.com/).
