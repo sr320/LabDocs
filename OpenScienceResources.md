@@ -1,49 +1,50 @@
 #Open Science Resources
 
 
+## Beginning - Ideas and collaboration
 
-##Ideas collaboration
+###Ideas collaboration
 
-google.Scholar
+[Google Scholar] (http://scholar.google.com/)
 
-mendeley
+[Mendeley] (http://www.mendeley.com/)
 
-google hangout
+[Google Hangout] (http://www.google.com/+/learnmore/hangouts/)
 
-twitter
+[Twitter] (https://twitter.com/)
 
 
-##Writing Proposal and papers
-authorea (https://www.authorea.com/)
+###Writing proposal and papers
+[Authorea] (https://www.authorea.com/)
 
-google docs
+[Google docs]
 
-dropbox
+[Dropbox] (https://www.dropbox.com/)
 
-##Middle phase
+##Middle phase - data acquisition and analysis
 
-Data storage/archiving
+###Data storage/archiving
 
-Figshare
+[Figshare] (http://figshare.com/)
 
-Dryad
+[Dryad] (http://datadryad.org/)
 
 Library
 
-NCBI
+[NCBI] (http://www.ncbi.nlm.nih.gov/)
 
 ENSEMBL
 
 Nsrp aquaculture
 
-Iplant
+[iPlant] (http://www.iplantcollaborative.org/)
 
 Genome space
 
 
-##Open notebook
+###Open notebook
 
-Wordpress
+[Wordpress] (http://wordpress.org/)
 
 Wikispaces
 
@@ -55,11 +56,11 @@ Knitr-R
 
 GitHub
 
-##Analysis Platform
+###Analysis Platform
 
-Sqlshare
+[Sqlshare] (https://sqlshare.escience.washington.edu)
 
-Galaxy
+[Galaxy] (https://usegalaxy.org/)
 
 Taverna
 
@@ -71,24 +72,25 @@ R
 
 IPython
 
+##End Phase - publication & dissemination ...then back to the beginning
+###Altmetrics analytics
 
-##Altmetrics analytics
-Impact Story
+[Impact Story] (http://impactstory.org/)
 
-Plum
+[Plum] (http://www.plumanalytics.com/press.html)
 
 Other
 
 Thinkup
 
-##Web logs- document
+###Web logs- document
 Wordpress
 
 Tumblr
 
 Squarespace
 
-##Social media
+###Social media
 Twitter
 
 Facebook
@@ -101,33 +103,33 @@ Vimeo
 
 
 
-Sharing finding ins
+###Sharing finding ins
 
 Preprint
 
 PeerJ
 
-Arvix
+[ArXiv] (http://arxiv.org/)
 
-Arvix biology
+[Arvix biology] (http://arxiv.org/archive/q-bio)
 
 Figshare
 
 Authorea
 
 
-Slides
+###Slides
 
-Slideshare
+[Slideshare] (http://www.slideshare.net/)
 
 Figshare
 
 Google docs
 
 
-Open Access peer review
+###Open Access peer review
 
-BMC Gen
+[BMC Genomics] (http://www.biomedcentral.com/bmcgenomics/)
 
 Conservation Physiology
 
@@ -139,13 +141,13 @@ Frontiers
 
 Elife
 
-New types pubs
+###New types pubs
 
-Scientific data
+[Scientific Data - Nature] (http://www.nature.com/scientificdata/)
 
-Even more
+##Even more
 
-Rocket hub
+[Rocket hub] (http://www.rockethub.com/)
 
 Microryza
 
