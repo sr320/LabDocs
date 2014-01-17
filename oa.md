@@ -1,17 +1,16 @@
-With our labs' focus on the physiological response of marine organisms to environmental change we have considerable interest in how changes in ocean chemistry impacts biology. Our efforts in this front can be categorized into 1) the organismal response to acute elevated carbon dioxide exposure and 2) the population level impact, which will be strongly influenced by local adaptation and phenotypic plasticity. While our research often integrates the impact at all levels our findings and research progress is outline below based on these two biological levels. In addition to the research carried out be graduate students, undergraduate students, and scientists in Roberts Lab; research projects completed as part of courses are also highlighted.
+With our labs' focus on the physiological response of marine organisms to environmental change we have considerable interest in how changes in ocean chemistry impacts biology. Our efforts on this front can be categorized into **1) the organismal response to acute elevated carbon dioxide exposure** and **2) the population level impact, which will be strongly influenced by local adaptation and phenotypic plasticity**. While our research often integrates the impact at all levels, research highlights are outlined below based on these two biological levels. In addition to the research carried out by graduate students, undergraduate students, and scientists in Roberts Lab; research projects completed as part of UW courses are also highlighted.
 
-Collaborations: Over the years we have collaborated with several groups with primary on ongoing work with the lab of [Dr. Carolyn Friedman (UW SAFS)](http://fish.washington.edu/people/friedman/). More information on our activities can be found on our blog: [Ocean Acidification: Research notes from SAFS](http://safsoa.wordpress.com/).
-
+Collaborations: Over the years we have worked with several groups, the primary collaboration with the lab of [Dr. Carolyn Friedman](http://fish.washington.edu/people/friedman/). 
 
 # Organismal Response to Ocean Acidification
 
-Our work began in 2009 with support from NOAA. This award entitled, _Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change_ (PI Roberts) focused on ocean acidification and the interaction with oysters and vibrio.
+Our work began in 2009 with support from the NOAA Saltonstall Kennedy Program. This award entitled, _Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change_ (PI Dr. Roberts) focused on ocean acidification and the interaction with oysters and vibrio.
 
-This work continued with an award to Dr. Friedman from Washington SeaGrant, _Effects of Ocean Acidification on Declining Puget Sound Shellfish_. 
+Work continued with an award to Dr. Friedman from Washington SeaGrant, _Effects of Ocean Acidification on Declining Puget Sound Shellfish_. 
 
-During this period, Emma Timmins-Schiffman (a graduate student in our lab primarily funded by the NOAA award) successfully raised over $5000 to fund her acidification research in [a crowdfunding effort](http://www.rockethub.com/projects/6330-save-oysters-from-ocean-acidification).
+During this period, [Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html) (graduate student) successfully raised over $5000 to [fund her acidification research in a crowdfunding effort](http://www.rockethub.com/projects/6330-save-oysters-from-ocean-acidification).
 
-Below is list of products from our efforts.
+Below is a list of products from our efforts.
 
 ###Peer-Reviewed Papers
 Timmins-Schiffman E, Coffey W, Hua W, Nunn B, Dickinson G, Roberts S. (in revision) From shell deposition to protein expression: An integrative assessment of ocean acidification impacts on a marine invertebrate.
@@ -19,16 +18,16 @@ Timmins-Schiffman E, Coffey W, Hua W, Nunn B, Dickinson G, Roberts S. (in revisi
 Timmins-Schiffman E, O’Donnell M, Friedman C, and Roberts S. (2012) [Elevated pCO2 causes developmental delay in early larval Pacific oysters, _Crassostrea gigas_.](http://link.springer.com/article/10.1007%2Fs00227-012-2055-x) Marine Biology. doi:10.1007/s00227-012-2055-x ([preprint](http://dx.doi.org/10.6084/m9.figshare.95828))
 
 ###Theses
-David Metzger (2012) [Characterizing the effects of ocean acidification in larval and juvenile Manila clam, _Ruditapes philippinarum_, using a transcriptomic approach](http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf) 
+David Metzger (2012) [Characterizing the effects of ocean acidification in larval and juvenile Manila clam, _Ruditapes philippinarum_, using a transcriptomic approach](http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf) Advisor: Roberts
 
-Elene Dorfmeier (2012) [Ocean acidification and disease: How will a changing climate impact *Vibrio tubiashii* growth and pathogenicity to Pacific oyster larvae?](https://digital.lib.washington.edu/researchworks/handle/1773/20742) 
+Elene Dorfmeier (2012) [Ocean acidification and disease: How will a changing climate impact *Vibrio tubiashii* growth and pathogenicity to Pacific oyster larvae?](https://digital.lib.washington.edu/researchworks/handle/1773/20742) Advisor: Friedman
 
 
 
 ###Preprints
 David C. Metzger, Paul McElhany, Shallin Busch, Carolyn S. Friedman, Steven B. Roberts (preprint) [Underlying impact of ocean acidification on Manila clam (_Ruditapes philippinarum_) larvae revealed through RNA-Seq analysis](https://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit). 
 
-David C. Metzger, Carolyn S. Friedman, Emma B. Timmins-Schiffman and Steven B. Roberts (preprint) Thermal tolerance and gene expression characterization in Manila clams (_Ruditapes philippinarum_) exposed to elevated carbon dioxide.
+David C. Metzger, Carolyn S. Friedman, Emma B. Timmins-Schiffman and Steven B. Roberts (preprint) [Thermal tolerance and gene expression characterization in Manila clams (_Ruditapes philippinarum_) exposed to elevated carbon dioxide](https://docs.google.com/document/d/1xbVdGEOeRfJH36aT9vyf4gZh3Fk4jLPCB-wYjD7QQWI/edit).
 
 Thompson R and Roberts SB (preprint) [Influence of carbon dioxide-induced acidification and mechanical stress on gene expression and microbial community composition in oysters.](https://docs.google.com/document/d/1jYvaWR4RsSonl95ElqNX29epsO69LE4af5Rgd4xC8EI/edit)
 
@@ -84,3 +83,6 @@ Thompson R and Roberts SB (preprint) [Influence of carbon dioxide-induced acidif
 More recently our research efforts have turned to local adaptation and how shellfish populations with respond to changes in ocean chemistry. Central to this phenomenon is our [fundamental research on the role of epigenetics on phenotypic plasticity and local adaptation](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) (Roberts and Gavery 2012). Early on this work concentrated on molecular mechanisms ([Gavery and Roberts 2010](http://www.biomedcentral.com/1471-2164/11/483)). Currently we are addressing the potential for local adaption in the Olympia oyster. This work focus on a suite of environmental conditions include ocean chemistry and is funded by an award from the NOAA Aquaculture Program entitled, [_Alleviating Regulatory Impediments to Native Shellfish Aquaculture_](http://oystergen.es/olympia/).
 
 In 2014 as part of an award from Washington Sea Grant to Dr. Joth Davis entitled, _Crossbreeding and Selection for Resistance to Ocean Acidification in Pacific Oysters_ we will be examining the the underlying molecular mechanisms responsible for differences in Pacific oyster performance in the face of ocean acidification.
+
+---
+More information on our activities can be found on the blog: [Ocean Acidification: Research notes from SAFS](http://safsoa.wordpress.com/).
