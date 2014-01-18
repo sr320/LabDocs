@@ -18,12 +18,14 @@ Below is a compilation of resources (most of which we use).
 [Twitter](https://twitter.com/)
 
 
-###Writing proposal and papers
+###Writing proposal (and papers)
 [Authorea](https://www.authorea.com/)
 
 [Google Drive]
 
 [Dropbox](https://www.dropbox.com/)
+
+[Draft](https://draftin.com/)
 
 <br>
 
@@ -87,7 +89,10 @@ IPython
 
 ##Phase 3 Publication
 
-###Web logs- document
+###Static Webpage options
+
+
+###Blog Platforms
 Wordpress
 
 Tumblr
@@ -128,7 +133,7 @@ Figshare
 Google docs
 
 
-###Peer Review Journasl - Open Access
+###Peer Review Journals - Open Access
 
 [BMC Genomics](http://www.biomedcentral.com/bmcgenomics/)
 
