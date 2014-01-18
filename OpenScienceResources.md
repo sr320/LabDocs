@@ -1,50 +1,60 @@
 #Open Science Resources
+Below is a compilation of resources (most of which we use). 
+
+<br>
 
 
-## Beginning - Ideas and collaboration
+##Phase 1: Idea Generation
+###Ideas and collaboration
 
-###Ideas collaboration
+[Google Scholar](http://scholar.google.com/)
 
-[Google Scholar] (http://scholar.google.com/)
+[Mendeley](http://www.mendeley.com/)
 
-[Mendeley] (http://www.mendeley.com/)
+[Google Hangout](http://www.google.com/+/learnmore/hangouts/)
 
-[Google Hangout] (http://www.google.com/+/learnmore/hangouts/)
+[MindMiester]
 
-[Twitter] (https://twitter.com/)
+[Twitter](https://twitter.com/)
 
 
 ###Writing proposal and papers
-[Authorea] (https://www.authorea.com/)
+[Authorea](https://www.authorea.com/)
 
-[Google docs]
+[Google Drive]
 
-[Dropbox] (https://www.dropbox.com/)
+[Dropbox](https://www.dropbox.com/)
 
-##Middle phase - data acquisition and analysis
+<br>
 
-###Data storage/archiving
 
-[Figshare] (http://figshare.com/)
 
-[Dryad] (http://datadryad.org/)
+##Phase 2: Data Acquisition and Analysis 
+
+
+###Data and archiving 
+
+[Figshare](http://figshare.com/)
+
+[Dryad](http://datadryad.org/)
 
 Library
 
-[NCBI] (http://www.ncbi.nlm.nih.gov/)
+[NCBI](http://www.ncbi.nlm.nih.gov/)   
+	- SRA   
+	- 
 
 ENSEMBL
 
 Nsrp aquaculture
 
-[iPlant] (http://www.iplantcollaborative.org/)
+[iPlant](http://www.iplantcollaborative.org/)
 
 Genome space
 
 
-###Open notebook
-
-[Wordpress] (http://wordpress.org/)
+###Electronic Lab Notebook Platforms
+[Wordpress](http://wordpress.org/)
 
 Wikispaces
 
@@ -56,15 +66,15 @@ Knitr-R
 
 GitHub
 
-###Analysis Platform
+###Analysis Platforms
 
-[Sqlshare] (https://sqlshare.escience.washington.edu)
+[Sqlshare](https://sqlshare.escience.washington.edu)
 
-[Galaxy] (https://usegalaxy.org/)
+[Galaxy](https://usegalaxy.org/)
 
 Taverna
 
-Iplant
+IPlant
 
 Aqua
 
@@ -72,16 +82,10 @@ R
 
 IPython
 
-##End Phase - publication & dissemination ...then back to the beginning
-###Altmetrics analytics
+<br>
 
-[Impact Story] (http://impactstory.org/)
 
-[Plum] (http://www.plumanalytics.com/press.html)
-
-Other
-
-Thinkup
+##Phase 3 Publication
 
 ###Web logs- document
 Wordpress
@@ -102,16 +106,13 @@ YouTube
 Vimeo
 
 
-
-###Sharing finding ins
-
-Preprint
+###Preprint Options
 
 PeerJ
 
-[ArXiv] (http://arxiv.org/)
+[ArXiv](http://arxiv.org/)
 
-[Arvix biology] (http://arxiv.org/archive/q-bio)
+[bioRxiv](http://biorxiv.org/)
 
 Figshare
 
@@ -120,16 +121,16 @@ Authorea
 
 ###Slides
 
-[Slideshare] (http://www.slideshare.net/)
+[Slideshare](http://www.slideshare.net/)
 
 Figshare
 
 Google docs
 
 
-###Open Access peer review
+###Peer Review Journasl - Open Access
 
-[BMC Genomics] (http://www.biomedcentral.com/bmcgenomics/)
+[BMC Genomics](http://www.biomedcentral.com/bmcgenomics/)
 
 Conservation Physiology
 
@@ -141,14 +142,30 @@ Frontiers
 
 Elife
 
-###New types pubs
+###Data Descriptor
 
-[Scientific Data - Nature] (http://www.nature.com/scientificdata/)
+[Scientific Data - Nature](http://www.nature.com/scientificdata/)
+
+
+<br>
+
+---
 
 ##Even more
 
-[Rocket hub] (http://www.rockethub.com/)
+[Impact Story](http://impactstory.org/)
+
+[Plum](http://www.plumanalytics.com/press.html)
+
+Altmetrics 
+
+Thinkup
+
+[Rocket hub](http://www.rockethub.com/)
 
 Microryza
 
-Ifttt
+Ifttt   
+
+
+
