@@ -1,15 +1,14 @@
 #Principal Investigator
-###Steven Roberts
+###[Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
+<img src="http://media.tumblr.com/99f1ba03b528653ec31b4647ce7d8a1e/tumblr_inline_mn45dn66rM1qz4rgp.jpg" width="144" height="142" /> 
 
+An Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
 
 
 ---
 
 #Graduate Students
-
-
-
 
 
 
@@ -53,59 +52,42 @@ I am currently a masters student in Steven Roberts’ lab at the University of W
 
 ---
 
-[box]
-<h3>Jake Heare</h3>
-<img class="alignleft" alt="" src="https://lh4.googleusercontent.com/fIWV41xl4x1D1M3YQyk4HVp_FCLQQil-Wsl2EDO0aTcH2ndsjvYWddPg79eIYV-zk7_1AHeLwETGAnT5KT0ifaApnYw3hxAv" width="180" height="250" />My current research focuses on understanding the phenotypic and genotypic effects of local adaptation in Washington’s native Olympia oyster (Ostrea lurida). I use tools such as next generation genomic and epigenomic sequencing as well as standard molecular methods such as PCR and qPCR.
+###Jake Heare
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_home_188DDB31.png" alt="olyo_-_home_188DDB31_png" width="180" height="200" />
+
+My current research focuses on understanding the phenotypic and genotypic effects of local adaptation in Washington’s native Olympia oyster (Ostrea lurida). I use tools such as next generation genomic and epigenomic sequencing as well as standard molecular methods such as PCR and qPCR.
 
 I’m interested in understanding the ecology, biology, and physiology of oyster reefs with my primary focus on oysters themselves. I have used tools such as histology, immunohistochemistry, western blots, PCR, and qPCR to study various phenomena in oysters. I seek to improve conservation and aquaculture methods to ensure beautiful coastal areas and bountiful seafood catches for years to come.
 
 My previous work has been in the Eastern oyster (Crassostrea virginica) with focus on reproduction and maturation at Louisiana State University, Oyster habitat damage assessment from the Deepwater Horizon oil spill with the National Resource Damage Assessment (NRDA) work group, and disease testing in oysters at Texas A&M University at Galveston (TAMUG). I have a Bachelors of Science degree in Marine Biology from TAMUG.
-[/box]
+
+---
+
+#Research Scientists
+Sam White
+
+Brent Vadopalas
+
+Crystal Simchick
+
+Giles Goetz
+
+---
+
+#Undergraduate Students
 
 
-<h1 style="text-align: right;"></h1>
-<h1 style="text-align: right;"></h1>
-[box type="bio"]
+Katie Jackson
 
-If you are interested in joining our lab group, please see <a href="http://faculty.washington.edu/sr320/?p=596">Information for Prospective Students</a>.
+Hannah Wear
 
-[/box]
-<h1 style="text-align: right;"></h1>
-<h1 style="text-align: right;"></h1>
-&nbsp;
-<h1 style="text-align: right;">Research Scientists</h1>
-[box]
-<h3>Sam White</h3>
-[/box]
+Charles Duber  
 
-[box]
-<h3><a href="http://fish.washington.edu/people/vadopalas/">Brent Vadopalas</a></h3>
-[/box]
-<pre></pre>
-[box]
-<h3>Crystal Simchick</h3>
-[/box]
+---
 
-[box]
-<h3>Giles Goetz</h3>
-[/box]
-
-&nbsp;
-
-&nbsp;
-<h1 style="text-align: right;">Undergraduate Students</h1>
-[box]
-<h3>Katie Jackson</h3>
-<p style="padding-left: 30px;"><a href="http://genefish.wikispaces.com/Katie%27s+Notebook">notebook</a></p>
-[/box]
-
-[box]
-<h3>Hannah Wear</h3>
-<p style="padding-left: 30px;"><a href="http://genefish.wikispaces.com/Hannah%27s+notebook">notebook</a></p>
-
-
-
-#Alumni - Graduate Students
+#Alumni
+##Graduate Students
 
 
 ###Caroline Storer
@@ -116,9 +98,8 @@ I grew up in Chicago (proper), but have always had a penchant for the ocean and 
 ###Dave Metzger
 The goal of my research is to use molecular tools to uncover the biological pathways being affected by these changing ocean conditions. This work will hopefully shed some light on possible molecular indicators that we can use to monitor the health of an ecosystem in regards to CO2 concentrations as well as better understand the relationship between various molecular pathways and their physiological roles in responding to adverse environmental conditions. <strong><em>Currently - </em></strong>PhD. Program at UBC.
 
----
 
-#Alumni - Undergraduates
+##Undergraduates
 
 
 <!---
@@ -184,6 +165,6 @@ Tushara Saint Vitus; UW SAFS <a title="http://docs.google.com/Presentation?id=d
 
 Lindsay Braun; Santa Clara University <a title="http://fish.washington.edu/research/genefish/media/abalone_poster.gif" href="http://fish.washington.edu/research/genefish/media/abalone_poster.gif">project</a>
 
-Mairead Bermingham; N Univ of Ireland, Cork <a title="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html" href="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html">project</a>
+Mairead Bermingham; N Univ of Ireland, Cork <a title="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html" href="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html">project</a>   
 
 Zachary Schiller; Tufts University <a title="http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf" href="http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf">project</a>
