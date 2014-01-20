@@ -1,6 +1,6 @@
-###Mackenzie Gavery     
+#Mackenzie Gavery     
 PhD Candiate; School of Aquatic & Fishery Sciences, 
-Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyster (Crassostrea gigas) 
+Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyster (Crassostrea gigas)   
 Expected Completion: Spring 2014
 
 Contact Info   
@@ -92,7 +92,7 @@ William H. Pierre Sr. Fellowship, School of Aquatic and Fisheries Science, Unive
 
 
 
-##TEACHING
+##TEACHING ExPERIENCE
 Graduate Teaching Assistant, 
 UNIVERSITY OF WASHINGTON SCHOOL OF AQUATIC & FISHERY SCIENCES
 Spring 2009-2011	Biology of Shellfish (FISH 310).
@@ -117,7 +117,7 @@ Read biology and zoology textbooks on tape for visually impaired students.
 
 
 
-##Synergistic Activitis 
+##Synergistic Activities 
 
 Editor- 
 
