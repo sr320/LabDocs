@@ -14,12 +14,13 @@ BRIEF couple of sentence of research interest
 
 ###Datasets
 
-[NCBI SRA] [_Crassostrea gigas_ MBD bisulfite sequencing – gill](http://www.ncbi.nlm.nih.gov/sra/SRX327373)   
-[NCBI SRA] [*Crassostrea gigas* RNA-seq – gill](http://www.ncbi.nlm.nih.gov/sra/SRX367081)   
-
-other NCBI
-
-Figshare?
+[NCBI SRA] [_Crassostrea gigas_ MBD bisulfite sequencing – gill](http://www.ncbi.nlm.nih.gov/sra/SRX327373) | SRX327373   
+[NCBI SRA] [*Crassostrea gigas* RNA-seq – gill](http://www.ncbi.nlm.nih.gov/sra/SRX367081) |  SRX367081    
+[NCBI GenBank] [*Crassostrea gigas* cyclooxygenase (COX) mRNA, complete cds](http://www.ncbi.nlm.nih.gov/nuccore/293601668)  |  FJ375303   
+[Figshare] [*Crassostrea gigas* high-throughput bisulfite sequencing (gill tissue) feature tracks](
+http://dx.doi.org/10.6084/m9.figshare.749728)  
+[Figshare] [Facilitating analysis of genomic variation in Olympia oysters: transcriptome feature tracks](http://dx.doi.org/10.6084/m9.figshare.654049)   
+[Figshare] [DNA methylation coverage in two tissues of the Pacific Oyster](http://dx.doi.org/10.6084/m9.figshare.652964)
 
 
 
@@ -36,11 +37,11 @@ Gavery MR, Roberts SB. DNA methylation patterns provide insight into epigenetic 
 
 
 ###PRESENTATIONS
-A comprehensive methylome for Crassostrea gigas provides insight into the role of DNA methylation in bivalves, Plant and Animal Genome XXII, January 2013. San Diego, CA. Oral Presentation.
+[A comprehensive methylome for *Crassostrea gigas* provides insight into the role of DNA methylation in bivalves](http://dx.doi.org/10.6084/m9.figshare.695956), Plant and Animal Genome XXII, January 2013. San Diego, CA. Oral Presentation.
 
 Methylation enriched bisulfite sequencing reveals patterns between gene expression and methylation in the commercially important bivalve, Crassostrea gigas, Genomics in Aquaculture: 3rd International Symposium, September 2013. Bodø, Norway. Oral Presentation
 
-DNA methylation as a source of epigenetic regulation in the Pacific oyster (Crassostrea gigas), World Aquaculture Society: Aquaculture 2013, February 2013. Nashville, TN. Oral Presentation.
+[DNA methylation as a source of epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://dx.doi.org/10.6084/m9.figshare.640501) World Aquaculture Society: Aquaculture 2013, February 2013. Nashville, TN.
 
 DNA methylation as a source of epigenetic regulation in the Pacific oyster (Crassostrea gigas), Plant and Animal Genome XXI, January 2013. San Diego, CA. Oral Presentation.
 
@@ -63,7 +64,16 @@ Characterization of prostaglandin pathway genes of the Pacific oyster (Crassostr
 Characterization of prostaglandins in the Pacific oyster Crassostrea gigas: evidence for a role in the immune response. SAFS Graduate Student Symposium. Nov 2008. Seattle, WA. Oral Presentation.
 
 
+##Other Publications
 
+Gavery, Mackenzie (2013): [My PhD Candidacy Qualifyin Exam](http://dx.doi.org/10.6084/m9.figshare.719784)
+
+Gavery, Mackenzie; Roberts, Steven; White, Samuel (2013): [qPCR corroboration of an RNA-Seq experiment](http://dx.doi.org/10.6084/m9.figshare.683879). figshare. http://dx.doi.org/10.6084/m9.figshare.683879
+
+preprints? MV
+Cox?
+
+should be cox poster somewhere online?
 
 
 
