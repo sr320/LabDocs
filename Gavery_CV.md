@@ -1,10 +1,12 @@
 #Mackenzie Gavery     
 PhD Candiate; School of Aquatic & Fishery Sciences, 
-Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyster (Crassostrea gigas)   
+Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)   
 Expected Completion: Spring 2014
 
 Contact Info   
-Website < a good one
+email: mgavery@u.washington.edu
+
+Website: [students.washington.edu/mgavery](http://students.washington.edu/mgavery/Welcome.html)
 
 
 BRIEF couple of sentence of research interest
@@ -25,15 +27,15 @@ http://dx.doi.org/10.6084/m9.figshare.749728)
 
 
 ###Peer Reviewed Manuscripts
-Gavery MR and Roberts SB. A context dependent role for DNA methylation in Bivalves. Briefings in Functional Genomics. 2014, (published ahead of print January 7th, 2014) doi: 10.1093/bfgp/elt054
+Gavery MR and Roberts SB. [A context dependent role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short?rss=1). Briefings in Functional Genomics. 2014, (published ahead of print January 7th, 2014) doi: 10.1093/bfgp/elt054
 
-Gavery MR and Roberts SB. Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc. PeerJ. 2013, 1:e215
+Gavery MR and Roberts SB. [Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc](https://peerj.com/articles/215/). PeerJ. 2013, 1:e215
 
-Roberts SB, Gavery MR. Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates? Frontiers in Physiology 2012, 2:116. 
+Roberts SB, Gavery MR. [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pubmed/22232607) Frontiers in Physiology 2012, 2:116. 
 
-Gavery MR, Roberts SB. Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas. Comp Biochem and Phys Part D: Genomics and Proteomics. 2012, 7:94-99.
+Gavery MR, Roberts SB. [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in *Crassostrea gigas*](http://www.sciencedirect.com/science/article/pii/S1744117X11001018). Comp Biochem and Phys Part D: Genomics and Proteomics. 2012, 7:94-99.
 
-Gavery MR, Roberts SB. DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (Crassostrea gigas).  BMC Genomics 2010, 11:483. 
+Gavery MR, Roberts SB. [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.biomedcentral.com/1471-2164/11/483/abstract).  BMC Genomics 2010, 11:483. 
 
 
 ###PRESENTATIONS
@@ -61,6 +63,7 @@ Pacific oysters and ecosystem health. SAFS Graduate Student Symposium. Nov 2009.
 Pacific oysters as indicators of ecosystem health.  PCSGA Annual Meeting.  September 2009. Portland, OR. Oral Presentation.
 
 Characterization of prostaglandin pathway genes of the Pacific oyster (Crassostrea gigas): Evidence for a role in immune response. National Shellfisheries Association 101st Annual Meeting. March 2009. Savannah, GA. Poster Presentation.
+
 Characterization of prostaglandins in the Pacific oyster Crassostrea gigas: evidence for a role in the immune response. SAFS Graduate Student Symposium. Nov 2008. Seattle, WA. Oral Presentation.
 
 
@@ -73,7 +76,7 @@ Gavery, Mackenzie; Roberts, Steven; White, Samuel (2013): [qPCR corroboration of
 preprints? MV
 Cox?
 
-should be cox poster somewhere online?
+Gavery, Mackenzie; Roberts, Steven (2009): [Prostaglandins in the Pacific oyster: Investigations into form and function.](http://www.slideshare.net/mgavery/nsa-2009prostaglandins-in-the-pacific-oyster-investigations-into-form-and-function)
 
 
 
@@ -85,7 +88,7 @@ NRSP-8 Aquaculture Genomics Travel Award, Plant and Animal Genome XXI, 2013
 
 Thurlow C. Nelson Award for Outstanding Student Presentation, 104th National Shellfisheries Association Meeting, Seattle, WA, 2012 
 
-**EPA Science to Achieve Results (STAR) Fellowship, 2011 PUT $$$$$$$$$$$$$$**
+**EPA Science to Achieve Results (STAR) Fellowship, 2011. $125,449*
 
 Faculty Merit Award, M.S. student, University of Washington School of Aquatic & Fishery Sciences, 2010
 
@@ -105,48 +108,29 @@ William H. Pierre Sr. Fellowship, School of Aquatic and Fisheries Science, Unive
 ##TEACHING ExPERIENCE
 Graduate Teaching Assistant, 
 UNIVERSITY OF WASHINGTON SCHOOL OF AQUATIC & FISHERY SCIENCES
-Spring 2009-2011	Biology of Shellfish (FISH 310).
-Hands-on instructor for semi-weekly labs. 
-Responsible for grading weekly lab reports and tests.
-Fall 2009, 2012	Integrative Environmental Physiology (FISH 441/541)
-Instructed weekly labs in molecular techniques and reviewed student’s on-line laboratory notebooks.
-Guided students’ independent 5 week research projects that examined aquatic organisms’ response to environmental stress using molecular techniques.
 
-Winter 2008	Integrative Environmental Physiology (FISH 441/541)
-Prepared protocols for weekly molecular techniques labs.
-Prepared reagents and stocked supplied for molecular labs.
+Spring 2009, 2010 and 2011	Biology of Shellfish (FISH 310).
 
-
-Undergraduate Teaching Assistant
-SEATTLE UNIVERSITY
-Winter 1999	General Biology II (BIOL166) 
-Responsible for instructing labs and grading weekly lab reports.
-1999 - 2001	Biology Tutor, Seattle University Learning Center 
-Provided one-on-one tutoring for undergraduate students in general biology courses.
-Read biology and zoology textbooks on tape for visually impaired students.
-
-
+Winter 2008 and 2012	Integrative Environmental Physiology (FISH 441/541)
 
 ##Synergistic Activities 
 
-Editor- 
-
-
-
+Guest Associate Editor for the Research Topic [**Epigenetic Mechanisms in Invertebrates**](http://www.frontiersin.org/Journal/SpecialTopicDetail.aspx?name=invertebrate_physiology&st=1704&sname=Epigenetic_Mechanisms_in_Inver) in Frontiers in Invertebrate Physiology
 
 National Shellfisheries Association (member)
 
-Association of Women in Science – Seattle Chapter
+Association of Women in Science – Seattle Chapter (member)
 
 
 Volunteer Lab Instructor
 GEAR-UP WASHINGTON
 Summer 2009   	Summer Institute Session - Puget Sound Threats and Processes
+
 Developed and led a hands-on laboratory for high school students for GEAR-UP Summer Institute at UW.  Students learned ways to examine aquatic systems by performing bivalve dissections, filter-feeding experiments, and using microscope techniques.
 
 Mentor 
 ASSOCIATION OF WOMEN IN SCIENCE, Seattle Chapter
 2007 - Present	 Girls in Engineering, Math and Science
-Mentor middle school girls in a science enrichment program designed to encourage, maintain and broaden their interest in science.
-Provide hands-on support for students who performed laboratory and field work in diverse fields of science and mathematics.
+
+Mentor middle school girls in a science enrichment program designed to encourage, maintain and broaden their interest in science.Provide hands-on support for students who performed laboratory and field work in diverse fields of science and mathematics.
 
