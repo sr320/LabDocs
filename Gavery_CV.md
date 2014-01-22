@@ -23,7 +23,6 @@ http://dx.doi.org/10.6084/m9.figshare.749728)
 [Figshare] [Facilitating analysis of genomic variation in Olympia oysters: transcriptome feature tracks](http://dx.doi.org/10.6084/m9.figshare.654049)   
 [Figshare] [DNA methylation coverage in two tissues of the Pacific Oyster](http://dx.doi.org/10.6084/m9.figshare.652964)
 
-
 ###Peer Reviewed Manuscripts
 Gavery MR and Roberts SB. [A context dependent role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short?rss=1). Briefings in Functional Genomics. 2014, (published ahead of print January 7th, 2014) doi: 10.1093/bfgp/elt054
 
@@ -35,8 +34,7 @@ Gavery MR, Roberts SB. [Characterizing short read sequencing for gene discovery 
 
 Gavery MR, Roberts SB. [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.biomedcentral.com/1471-2164/11/483/abstract).  BMC Genomics 2010, 11:483. 
 
-
-##Presentations
+###Presentations
 [A comprehensive methylome for *Crassostrea gigas* provides insight into the role of DNA methylation in bivalves](http://dx.doi.org/10.6084/m9.figshare.695956), Plant and Animal Genome XXII, January 2013. San Diego, CA. Oral Presentation.
 
 Methylation enriched bisulfite sequencing reveals patterns between gene expression and methylation in the commercially important bivalve, Crassostrea gigas, Genomics in Aquaculture: 3rd International Symposium, September 2013. Bodø, Norway. Oral Presentation
@@ -63,8 +61,7 @@ Characterization of prostaglandin pathway genes of the Pacific oyster (Crassostr
 
 Characterization of prostaglandins in the Pacific oyster Crassostrea gigas: evidence for a role in the immune response. SAFS Graduate Student Symposium. Nov 2008. Seattle, WA. Oral Presentation.
 
-
-##Other Publications
+###Other Publications
 
 Gavery, Mackenzie (2013): [My PhD Candidacy Qualifying Exam](http://dx.doi.org/10.6084/m9.figshare.719784)
 
