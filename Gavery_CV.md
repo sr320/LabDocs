@@ -114,10 +114,10 @@ National Shellfisheries Association (member)
 Association of Women in Science – Seattle Chapter (member)
 
 Volunteer Lab Instructor
-GEAR-UP WASHINGTON (Summer 2009) Summer Institute Session
+GEAR-UP WASHINGTON (Summer 2009) Summer Institute Session    
 *Developed and led a hands-on laboratory for high school students for GEAR-UP Summer Institute at UW.  Students learned ways to examine aquatic systems by performing bivalve dissections, filter-feeding experiments, and using microscope techniques.*
 
 Mentor 
-ASSOCIATION OF WOMEN IN SCIENCE, Seattle Chapter  (2007 - Present) Girls in Engineering, Math and Science  
+ASSOCIATION OF WOMEN IN SCIENCE, Seattle Chapter  (2007 - Present) Girls in Engineering, Math and Science    
 *Mentor middle school girls in a science enrichment program designed to encourage, maintain and broaden their interest in science.Provide hands-on support for students who performed laboratory and field work in diverse fields of science and mathematics.*
 
