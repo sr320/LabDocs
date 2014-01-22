@@ -4,12 +4,11 @@ Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyst
 Expected Completion: Spring 2014
 
 Contact Info   
-email: mgavery@u.washington.edu
-
-Website: [students.washington.edu/mgavery](http://students.washington.edu/mgavery/Welcome.html)
+email: mgavery@u.washington.edu, website: [students.washington.edu/mgavery](http://students.washington.edu/mgavery/Welcome.html)
 
 
-BRIEF couple of sentence of research interest
+Research Interests  
+I am interested in research questions related to how marine organisms regulate their genomes in order to respond and adapt to their environment. I am particularly curious about exploring the function of epigenetic marks, such as DNA methylation, in marine invertebrates.
 
 
 ##Scientific Products
@@ -25,7 +24,6 @@ http://dx.doi.org/10.6084/m9.figshare.749728)
 [Figshare] [DNA methylation coverage in two tissues of the Pacific Oyster](http://dx.doi.org/10.6084/m9.figshare.652964)
 
 
-
 ###Peer Reviewed Manuscripts
 Gavery MR and Roberts SB. [A context dependent role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short?rss=1). Briefings in Functional Genomics. 2014, (published ahead of print January 7th, 2014) doi: 10.1093/bfgp/elt054
 
@@ -38,7 +36,7 @@ Gavery MR, Roberts SB. [Characterizing short read sequencing for gene discovery 
 Gavery MR, Roberts SB. [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.biomedcentral.com/1471-2164/11/483/abstract).  BMC Genomics 2010, 11:483. 
 
 
-###PRESENTATIONS
+##Presentations
 [A comprehensive methylome for *Crassostrea gigas* provides insight into the role of DNA methylation in bivalves](http://dx.doi.org/10.6084/m9.figshare.695956), Plant and Animal Genome XXII, January 2013. San Diego, CA. Oral Presentation.
 
 Methylation enriched bisulfite sequencing reveals patterns between gene expression and methylation in the commercially important bivalve, Crassostrea gigas, Genomics in Aquaculture: 3rd International Symposium, September 2013. Bodø, Norway. Oral Presentation
@@ -53,14 +51,13 @@ Exploring the Role of DNA Methylation as a Source of Phenotypic Variation in Cra
 
 Investigating the Role of DNA Methylation as an Epigenetic Mechanism in the Pacific oyster (Crassostrea gigas). National Shellfisheries Association, 103nd Annual Meeting. March 2011. Baltimore, MD. Oral Presentation.
 
-Beyond the Genome: Epigenetic Regulation in the Pacific Oyster. Plant and Animal Genome Conference. January 2011. San Diego, CA. Poster Presentation.
+[Beyond the Genome: Epigenetic Regulation in the Pacific Oyster](http://genefish.wikispaces.com/CpGCg). Plant and Animal Genome Conference. January 2011. San Diego, CA. Poster Presentation.
 
 DNA Methylation Patterns & Epigenetic Regulation in the Pacific Oyster. PCSGA Annual Meeting.  September 2010. Tacoma, WA. Oral Presentation.
 
 Pacific oysters & ecosystem health. Aquaculture 2010 / National Shellfisheries Association, 102nd Annual Meeting. March 2010. San Diego, CA. Oral Presentation.
 
-Pacific oysters and ecosystem health. SAFS Graduate Student Symposium. Nov 2009. Seattle, WA. Oral Presentation.
-Pacific oysters as indicators of ecosystem health.  PCSGA Annual Meeting.  September 2009. Portland, OR. Oral Presentation.
+[Pacific oysters as indicators of ecosystem health](http://www.slideshare.net/mgavery/pcsga-2009-pacific-oysters-ecosystem-health).  PCSGA Annual Meeting.  September 2009. Portland, OR. Oral Presentation.
 
 Characterization of prostaglandin pathway genes of the Pacific oyster (Crassostrea gigas): Evidence for a role in immune response. National Shellfisheries Association 101st Annual Meeting. March 2009. Savannah, GA. Poster Presentation.
 
@@ -69,7 +66,7 @@ Characterization of prostaglandins in the Pacific oyster Crassostrea gigas: evid
 
 ##Other Publications
 
-Gavery, Mackenzie (2013): [My PhD Candidacy Qualifyin Exam](http://dx.doi.org/10.6084/m9.figshare.719784)
+Gavery, Mackenzie (2013): [My PhD Candidacy Qualifying Exam](http://dx.doi.org/10.6084/m9.figshare.719784)
 
 Gavery, Mackenzie; Roberts, Steven; White, Samuel (2013): [qPCR corroboration of an RNA-Seq experiment](http://dx.doi.org/10.6084/m9.figshare.683879). figshare. http://dx.doi.org/10.6084/m9.figshare.683879
 
@@ -79,8 +76,7 @@ Cox?
 Gavery, Mackenzie; Roberts, Steven (2009): [Prostaglandins in the Pacific oyster: Investigations into form and function.](http://www.slideshare.net/mgavery/nsa-2009prostaglandins-in-the-pacific-oyster-investigations-into-form-and-function)
 
 
-
-##HONORS & AWARDS
+##Honors & Awards
 
 Word Aquaculture Society, Student Spotlight Award 2nd Place, Aquaculture 2013
 
@@ -88,7 +84,7 @@ NRSP-8 Aquaculture Genomics Travel Award, Plant and Animal Genome XXI, 2013
 
 Thurlow C. Nelson Award for Outstanding Student Presentation, 104th National Shellfisheries Association Meeting, Seattle, WA, 2012 
 
-**EPA Science to Achieve Results (STAR) Fellowship, 2011. $125,449*
+**EPA Science to Achieve Results (STAR) Fellowship, awarded 2011. ($125,449)**
 
 Faculty Merit Award, M.S. student, University of Washington School of Aquatic & Fishery Sciences, 2010
 
@@ -103,9 +99,7 @@ Victor and Tamara Loosanoff Fellowship & John G. Peterson Scholarship, School of
 William H. Pierre Sr. Fellowship, School of Aquatic and Fisheries Science, University of Washington, 2008/2009
 
 
-
-
-##TEACHING ExPERIENCE
+##Teaching Experience
 Graduate Teaching Assistant, 
 UNIVERSITY OF WASHINGTON SCHOOL OF AQUATIC & FISHERY SCIENCES
 
@@ -113,24 +107,22 @@ Spring 2009, 2010 and 2011	Biology of Shellfish (FISH 310).
 
 Winter 2008 and 2012	Integrative Environmental Physiology (FISH 441/541)
 
+
 ##Synergistic Activities 
 
-Guest Associate Editor for the Research Topic [**Epigenetic Mechanisms in Invertebrates**](http://www.frontiersin.org/Journal/SpecialTopicDetail.aspx?name=invertebrate_physiology&st=1704&sname=Epigenetic_Mechanisms_in_Inver) in Frontiers in Invertebrate Physiology
+Guest Associate Editor for the Research Topic [Epigenetic Mechanisms in Invertebrates](http://www.frontiersin.org/Journal/SpecialTopicDetail.aspx?name=invertebrate_physiology&st=1704&sname=Epigenetic_Mechanisms_in_Inver) Frontiers in Invertebrate Physiology
 
 National Shellfisheries Association (member)
 
 Association of Women in Science – Seattle Chapter (member)
 
-
 Volunteer Lab Instructor
 GEAR-UP WASHINGTON
 Summer 2009   	Summer Institute Session - Puget Sound Threats and Processes
-
-Developed and led a hands-on laboratory for high school students for GEAR-UP Summer Institute at UW.  Students learned ways to examine aquatic systems by performing bivalve dissections, filter-feeding experiments, and using microscope techniques.
+*Developed and led a hands-on laboratory for high school students for GEAR-UP Summer Institute at UW.  Students learned ways to examine aquatic systems by performing bivalve dissections, filter-feeding experiments, and using microscope techniques.*
 
 Mentor 
 ASSOCIATION OF WOMEN IN SCIENCE, Seattle Chapter
 2007 - Present	 Girls in Engineering, Math and Science
-
-Mentor middle school girls in a science enrichment program designed to encourage, maintain and broaden their interest in science.Provide hands-on support for students who performed laboratory and field work in diverse fields of science and mathematics.
+*Mentor middle school girls in a science enrichment program designed to encourage, maintain and broaden their interest in science.Provide hands-on support for students who performed laboratory and field work in diverse fields of science and mathematics.*
 
