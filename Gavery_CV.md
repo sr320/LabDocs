@@ -32,7 +32,7 @@ Roberts SB, Gavery MR. [Is there a relationship between DNA methylation and phen
 
 Gavery MR, Roberts SB. [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in *Crassostrea gigas*](http://www.sciencedirect.com/science/article/pii/S1744117X11001018). Comp Biochem and Phys Part D: Genomics and Proteomics. 2012, 7:94-99.
 
-Gavery MR, Roberts SB. [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.biomedcentral.com/1471-2164/11/483/abstract).  BMC Genomics 2010, 11:483. 
+Gavery MR, Roberts SB. [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)](http://www.frontiersin.org/Journal/10.3389/fphys.2011.00116/full).  BMC Genomics 2010, 11:483. 
 
 ###Presentations
 [A comprehensive methylome for *Crassostrea gigas* provides insight into the role of DNA methylation in bivalves](http://dx.doi.org/10.6084/m9.figshare.695956), Plant and Animal Genome XXII, January 2013. San Diego, CA. Oral Presentation.
