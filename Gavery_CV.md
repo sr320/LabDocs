@@ -15,13 +15,12 @@ I am interested in research questions related to how marine organisms regulate t
 
 ###Datasets
 
-[NCBI SRA] [_Crassostrea gigas_ MBD bisulfite sequencing – gill](http://www.ncbi.nlm.nih.gov/sra/SRX327373) | SRX327373   
-[NCBI SRA] [*Crassostrea gigas* RNA-seq – gill](http://www.ncbi.nlm.nih.gov/sra/SRX367081) |  SRX367081    
-[NCBI GenBank] [*Crassostrea gigas* cyclooxygenase (COX) mRNA, complete cds](http://www.ncbi.nlm.nih.gov/nuccore/293601668)  |  FJ375303   
-[Figshare] [*Crassostrea gigas* high-throughput bisulfite sequencing (gill tissue) feature tracks](
-http://dx.doi.org/10.6084/m9.figshare.749728)  
-[Figshare] [Facilitating analysis of genomic variation in Olympia oysters: transcriptome feature tracks](http://dx.doi.org/10.6084/m9.figshare.654049)   
-[Figshare] [DNA methylation coverage in two tissues of the Pacific Oyster](http://dx.doi.org/10.6084/m9.figshare.652964)
+NCBI SRA - [_Crassostrea gigas_ MBD bisulfite sequencing – gill](http://www.ncbi.nlm.nih.gov/sra/SRX327373) | SRX327373   
+NCBI SRA - [*Crassostrea gigas* RNA-seq – gill](http://www.ncbi.nlm.nih.gov/sra/SRX367081) |  SRX367081    
+NCBI GenBank - [*Crassostrea gigas* cyclooxygenase (COX) mRNA, complete cds](http://www.ncbi.nlm.nih.gov/nuccore/293601668)  |  FJ375303   
+Figshare - [*Crassostrea gigas* high-throughput bisulfite sequencing, gill tissue, feature tracks](http://dx.doi.org/10.6084/m9.figshare.749728)  
+Figshare - [Facilitating analysis of genomic variation in Olympia oysters: transcriptome feature tracks](http://dx.doi.org/10.6084/m9.figshare.654049)   
+Figshare - [DNA methylation coverage in two tissues of the Pacific Oyster](http://dx.doi.org/10.6084/m9.figshare.652964)
 
 ###Peer Reviewed Manuscripts
 Gavery MR and Roberts SB. [A context dependent role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short?rss=1). Briefings in Functional Genomics. 2014, (published ahead of print January 7th, 2014) doi: 10.1093/bfgp/elt054
@@ -43,23 +42,14 @@ Methylation enriched bisulfite sequencing reveals patterns between gene expressi
 
 DNA methylation as a source of epigenetic regulation in the Pacific oyster (Crassostrea gigas), Plant and Animal Genome XXI, January 2013. San Diego, CA. Oral Presentation.
 
-Epigenetic Mechanisms as a Source of Phenotypic Plasticity in the Pacific Oyster Crassostrea gigas. National Shellfisheries Association, 104th Annual Meeting. March 2012. Seattle, WA. Oral Presentation.
-
 Exploring the Role of DNA Methylation as a Source of Phenotypic Variation in Crassostrea gigas. ESF-EMBO Symposium – Epigenetics in Context: From Ecology to Evolution. September 2011. San Feliu de Guixols, Spain. Oral Presentation
-
-Investigating the Role of DNA Methylation as an Epigenetic Mechanism in the Pacific oyster (Crassostrea gigas). National Shellfisheries Association, 103nd Annual Meeting. March 2011. Baltimore, MD. Oral Presentation.
 
 [Beyond the Genome: Epigenetic Regulation in the Pacific Oyster](http://genefish.wikispaces.com/CpGCg). Plant and Animal Genome Conference. January 2011. San Diego, CA. Poster Presentation.
 
-DNA Methylation Patterns & Epigenetic Regulation in the Pacific Oyster. PCSGA Annual Meeting.  September 2010. Tacoma, WA. Oral Presentation.
-
-Pacific oysters & ecosystem health. Aquaculture 2010 / National Shellfisheries Association, 102nd Annual Meeting. March 2010. San Diego, CA. Oral Presentation.
-
 [Pacific oysters as indicators of ecosystem health](http://www.slideshare.net/mgavery/pcsga-2009-pacific-oysters-ecosystem-health).  PCSGA Annual Meeting.  September 2009. Portland, OR. Oral Presentation.
 
-Characterization of prostaglandin pathway genes of the Pacific oyster (Crassostrea gigas): Evidence for a role in immune response. National Shellfisheries Association 101st Annual Meeting. March 2009. Savannah, GA. Poster Presentation.
+Characterization of prostaglandin pathway genes of the Pacific oyster (*Crassostrea gigas*): Evidence for a role in immune response. National Shellfisheries Association 101st Annual Meeting. March 2009. Savannah, GA. Poster Presentation.
 
-Characterization of prostaglandins in the Pacific oyster Crassostrea gigas: evidence for a role in the immune response. SAFS Graduate Student Symposium. Nov 2008. Seattle, WA. Oral Presentation.
 
 ###Other Publications
 
