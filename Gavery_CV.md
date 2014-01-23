@@ -1,5 +1,5 @@
 #Mackenzie Gavery     
-PhD Candiate; School of Aquatic & Fishery Sciences, 
+PhD Candiate; School of Aquatic & Fishery Science  
 Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)   
 Expected Completion: Spring 2014
 
@@ -63,25 +63,22 @@ Characterization of prostaglandins in the Pacific oyster Crassostrea gigas: evid
 
 ###Other Publications
 
-Gavery, Mackenzie (2013): [My PhD Candidacy Qualifying Exam](http://dx.doi.org/10.6084/m9.figshare.719784)
+Gavery, Mackenzie (2013): [My PhD Candidacy Qualifying Exam](http://dx.doi.org/10.6084/m9.figshare.719784, figshare.
 
-Gavery, Mackenzie; Roberts, Steven; White, Samuel (2013): [qPCR corroboration of an RNA-Seq experiment](http://dx.doi.org/10.6084/m9.figshare.683879). figshare. http://dx.doi.org/10.6084/m9.figshare.683879
+Gavery, Mackenzie; Roberts, Steven; White, Samuel (2013): [qPCR corroboration of an RNA-Seq experiment](http://dx.doi.org/10.6084/m9.figshare.683879), figshare.  
 
-preprints? MV
-Cox?
-
-Gavery, Mackenzie; Roberts, Steven (2009): [Prostaglandins in the Pacific oyster: Investigations into form and function.](http://www.slideshare.net/mgavery/nsa-2009prostaglandins-in-the-pacific-oyster-investigations-into-form-and-function)
+Gavery, Mackenzie; Roberts, Steven (2009): [Prostaglandins in the Pacific oyster: Investigations into form and function.](http://www.slideshare.net/mgavery/nsa-2009prostaglandins-in-the-pacific-oyster-investigations-into-form-and-function), posters
 
 
 ##Honors & Awards
+
+EPA Science to Achieve Results (STAR) Fellowship ($125,449) 2011-2013
 
 Word Aquaculture Society, Student Spotlight Award 2nd Place, Aquaculture 2013
 
 NRSP-8 Aquaculture Genomics Travel Award, Plant and Animal Genome XXI, 2013
 
 Thurlow C. Nelson Award for Outstanding Student Presentation, 104th National Shellfisheries Association Meeting, Seattle, WA, 2012 
-
-**EPA Science to Achieve Results (STAR) Fellowship, awarded 2011. ($125,449)**
 
 Faculty Merit Award, M.S. student, University of Washington School of Aquatic & Fishery Sciences, 2010
 
@@ -98,7 +95,7 @@ William H. Pierre Sr. Fellowship, School of Aquatic and Fisheries Science, Unive
 
 ##Teaching Experience
 Graduate Teaching Assistant, 
-UNIVERSITY OF WASHINGTON SCHOOL OF AQUATIC & FISHERY SCIENCES
+University of Washington School of Aquatic & Fishery Sciences
 
 Spring 2009, 2010 and 2011	Biology of Shellfish (FISH 310).
 
@@ -109,15 +106,14 @@ Winter 2008 and 2012	Integrative Environmental Physiology (FISH 441/541)
 
 Guest Associate Editor for the Research Topic [Epigenetic Mechanisms in Invertebrates](http://www.frontiersin.org/Journal/SpecialTopicDetail.aspx?name=invertebrate_physiology&st=1704&sname=Epigenetic_Mechanisms_in_Inver) Frontiers in Invertebrate Physiology
 
-National Shellfisheries Association (member)
+National Shellfisheries Association (Member)
 
-Association of Women in Science – Seattle Chapter (member)
+Association of Women in Science – Seattle Chapter (Member)
 
-Volunteer Lab Instructor
-GEAR-UP WASHINGTON (Summer 2009) Summer Institute Session    
+Gear-Up Washington (Volunteer Lab Instructor) (Summer 2009)     
 *Developed and led a hands-on laboratory for high school students for GEAR-UP Summer Institute at UW.  Students learned ways to examine aquatic systems by performing bivalve dissections, filter-feeding experiments, and using microscope techniques.*
 
-Mentor 
-ASSOCIATION OF WOMEN IN SCIENCE, Seattle Chapter  (2007 - Present) Girls in Engineering, Math and Science    
+
+Girls in Engineering, Math and Science  (2007 - Present)    
 *Mentor middle school girls in a science enrichment program designed to encourage, maintain and broaden their interest in science.Provide hands-on support for students who performed laboratory and field work in diverse fields of science and mathematics.*
 
