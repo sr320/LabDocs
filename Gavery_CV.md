@@ -1,10 +1,11 @@
 #Mackenzie Gavery     
-PhD Candiate; School of Aquatic & Fishery Science  
+PhD Candidate; School of Aquatic & Fishery Science  
 Thesis: DNA methylation as a source of epigenetic regulation in the Pacific oyster (*Crassostrea gigas*)   
 Expected Completion: Spring 2014
 
 Contact Info   
-email: mgavery@u.washington.edu, website: [students.washington.edu/mgavery](http://students.washington.edu/mgavery/Welcome.html)
+email: mgavery@u.washington.edu    
+website: [students.washington.edu/mgavery](http://students.washington.edu/mgavery/Welcome.html)
 
 
 Research Interests  
