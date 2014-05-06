@@ -4,6 +4,20 @@
 
 <a id="data">
 ##Data</a>
+###Primary Data 
+Data that is essentially can be accessed via
+
+* NCBI (GenBank, SRA, BioProjects, ESTs)   
+* EBI (Protein Mass Spec)   
+* eagle.fish (Quantitative PCR, HTS)  
+* IPlant (HTS)   
+* Authorea (HTS)
+
+###Secondary Data 
+Data 
+
+* FigShare (user: SR, MG, CO, JH, ETS)  
+
 
 <br>
 
@@ -35,6 +49,7 @@
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/12214328" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="http://www.slideshare.net/sr320/nsa2012-short-reads-and-oyster-genome-resources" title="NSA2012 Short reads and Oyster Genome Resources" target="_blank">NSA2012 Short reads and Oyster Genome Resources</a> ** from **<a href="http://www.slideshare.net/sr320" target="_blank">sr320</a>** </div>
 
+---
 
 <a id="peer">
 ##Peer-Reviewed Publications</a>
@@ -131,68 +146,58 @@ Jentoft S, Topp N, Seeliger M, Malison JA, Barry TP, Held JA, Roberts SB, and Go
 
 Hollis DM, Goetz FW, Roberts SB, and Boyd SK. (**2004**) [Acute neurosteroid modulation and subunit isolation of the GABAa receptor in the bullfrog, _Rana catesbeiana_](http://jme.endocrinology-journals.org/content/32/3/921.abstract) Journal of Molecular Endocrinology 32(3):921-34.
 
-Biga PR, Cain KD, Hardy RW, Schelling GT, Overturf K, Roberts SB, Goetz FW, Ott TL.  (**2004**) <a href="http://www.fish.washington.edu/research/genefish/reprints/GCE2004biga.pdf">Growth hormone differentially regulates muscle myostatin1 and -2 and increases circulating cortisol in rainbow trout (Oncorhynchus mykiss)</a>.<span class="impactstory-embed" data-id="10.1016/j.ygcen.2004.05.001" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>   General and Comparative Endocrinology. Vol 138(1):32-41</p>
+Biga PR, Cain KD, Hardy RW, Schelling GT, Overturf K, Roberts SB, Goetz FW, Ott TL.  (**2004**) [Growth hormone differentially regulates muscle myostatin1 and -2 and increases circulating cortisol in rainbow trout *Oncorhynchus mykiss*](http://www.fish.washington.edu/research/genefish/reprints/GCE2004biga.pdf)  General and Comparative Endocrinology Vol 138(1):32-41.
 
-Roberts SB, McCauley LAR, Devlin RH, Goetz FW.  (**2004**)  <a href="http://jeb.biologists.org/content/207/21/3741.full">Transgenic salmon over-expressing growth hormone exhibit decreased myostatin transcript and protein expression.</a> Journal of Experimental Biology.<span class="impactstory-embed" data-id="10.1242/​jeb.01210" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>  207(Pt 21):3741-8</p>
+Roberts SB, McCauley LAR, Devlin RH, Goetz FW.  (**2004**)  [Transgenic salmon over-expressing growth hormone exhibit decreased myostatin transcript and protein expression](http://jeb.biologists.org/content/207/21/3741.full) Journal of Experimental Biology  207(Pt 21):3741-8.
 
-Kim H-W, Mykles DL, Goetz FW, Roberts SB.  (**2004**) <a href="http://www.sciencedirect.com/science/article/pii/S0167478104001137">Characterization of an invertebrate myostatin homologue from the bay scallop, <em>Argopecten irradians</em></a>.<span class="impactstory-embed" data-id="10.1016/j.bbaexp.2004.06.005" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>  BBA – Gene Structure and Expression. 1679(2):174-9</p>
+Kim H-W, Mykles DL, Goetz FW, Roberts SB.  (**2004**) [Characterization of an invertebrate myostatin homologue from the bay scallop, *Argopecten irradians*](http://www.sciencedirect.com/science/article/pii/S0167478104001137) BBA – Gene Structure and Expression 1679(2):174-9.
 
-Roberts SB, Barry T, Malison J, Goetz FW. (**2004)** <a href="http://www.sciencedirect.com/science/article/pii/S0044848603004563">Production of a recombinantly-derived growth hormone antibody and the characterization of growth hormone levels in yellow perch</a>.<span class="impactstory-embed" data-id="10.1016/S0044-8486(03)00456-3" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>  Aquaculture. Vol. 232/1-4: 591-602</p>
+Roberts SB, Barry T, Malison J, Goetz FW. (**2004)**  [Production of a recombinantly-derived growth hormone antibody and the characterization of growth hormone levels in yellow perch](http://www.sciencedirect.com/science/article/pii/S0044848603004563) Aquaculture Vol.232/1-4: 591-602.
 
-Roberts SB, Goetz FW. (**2003**)  <a href="http://www.biolbull.org/content/205/2/227.full">Expressed sequence tag analysis of genes expressed in the bay scallop, <em>Argopecten irradians</em></a>.Biological Bulletin. 205: 227-228.</p>
+Roberts SB, Goetz FW. (**2003**)  [Expressed sequence tag analysis of genes expressed in the bay scallop, *Argopecten irradians*](http://www.biolbull.org/content/205/2/227.full) Biological Bulletin 205: 227-228.
 
 <img class="aligncenter" title="pie old" alt="" src="http://www.biolbull.org/content/205/2/227/F1.large.jpg" width="454" height="203" /></p>
 
-Roberts SB, Goetz FW. (**2003**) <a href="http://www.sciencedirect.com/science/article/pii/S0303720703003125">Myostatin protein and mRNA transcript levels in adult and developing brook trout.</a><span class="impactstory-embed" data-id="10.1016/j.mce.2003.09.002" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span> Molecular and Cellular Endocrinology. 210 (1-2): 9-20.</p>
+Roberts SB, Goetz FW. (**2003**) [Myostatin protein and mRNA transcript levels in adult and developing brook trout](http://www.sciencedirect.com/science/article/pii/S0303720703003125) Molecular and Cellular Endocrinology 210(1-2): 9-20.
 
-Roberts SB, Goetz FW. (**2001**) <a href="http://www.sciencedirect.com/science/article/pii/S0014579301021962">Differential skeletal muscle expression of myostatin across teleost species, and the isolation of multiple myostatin isoforms</a>.<span class="impactstory-embed" data-id="10.1016/S0014-5793(01)02196-2" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>  FEBS Letters. Vol 491, No. 3, pp. 212-216.</p>
+Roberts SB, Goetz FW. (**2001**) [Differential skeletal muscle expression of myostatin across teleost species, and the isolation of multiple myostatin isoforms](http://www.sciencedirect.com/science/article/pii/S0014579301021962)FEBS Letters Vol 49:3,212-216.
 
 <img class="alignnone" title="tuny" alt="" src="http://ars.els-cdn.com/content/image/1-s2.0-S0014579301021962-gr7.jpg" width="372" height="171" /></p>
 
-Roberts SB, Langenau DM, Goetz FW. (**2000**) <a href="http://www.sciencedirect.com/science/article/pii/S030372079900252X">Cloning and characterization of prostaglandin endoperoxide synthase-1 and -2 from the brook trout ovary</a>.<span class="impactstory-embed" data-id="10.1016/S0303-7207(99)00252-X" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>  Molecular and Cellular Endocrinology.160(1-2):89-97.</p>
+Roberts SB, Langenau DM, Goetz FW. (**2000**) [Cloning and characterization of prostaglandin endoperoxide synthase-1 and -2 from the brook trout ovary](http://www.sciencedirect.com/science/article/pii/S030372079900252X) Molecular and Cellular Endocrinology 160(1-2):89-97.
 
 <img class="alignright" title="snook" alt="" src="http://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/utaf20/1999/utaf20.v128.i03/1548-8659%281999%29128%3C0436%3Aarcotc%3E2.0.co%3B2/production/images/large/utaf_a_10263471_o_f0001g.jpeg" width="243" height="356" /></p>
 
-Moser ML, Roberts SB. (**2000**) <a href="http://www.nwfsc.noaa.gov/assets/2/7809_08032011_103552_Moser.and.Roberts.1999-rev.pdf">Effects of nonindigenous ictalurids and recreational electrofishing on the ictalurid community of the Cape Fear River drainage, North Carolina</a>. in Catfish 2000: Proceedings of the International Ictalurid Symposium; ER Irwin, WA Hubert, CF Rabeni, HL Schramm, Jr., and T Coon, editors. Davenport, IA. June 23-25, 1998. pp 479-485.</p>
+Moser ML, Roberts SB. (**2000**) [Effects of nonindigenous ictalurids and recreational electrofishing on the ictalurid community of the Cape Fear River drainage, North Carolina](http://www.nwfsc.noaa.gov/assets/2/7809_08032011_103552_Moser.and.Roberts.1999-rev.pdf) in Catfish 2000: Proceedings of the International Ictalurid Symposium; ER Irwin, WA Hubert, CF Rabeni, HL Schramm, Jr., and T Coon, editors. Davenport, IA. June 23-25, 1998. pp 479-485.
 
-Roberts SB, Langenau DM, Goetz FW. (**2000**) <a href="http://vliz.be/imis/imis.php?module=ref&amp;refid=4205">Isolation through cloning of fish prostaglandin endoperoxide synthase (cyclooxygenase)</a><span class="impactstory-embed" data-id="http://vliz.be/imis/imis.php?module=ref&amp;refid=4205" data-id-type="url" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span> in Proceedings of the 6th International Symposium on the Reproductive Physiology of Fish; B Norberg, OS Kjesbu, GL Taranger, E Andersson, and SO Stefansson, editors. Bergen, Norway. July 4-9, 1999. p 197.</p>
+Roberts SB, Langenau DM, Goetz FW. (**2000**) [Isolation through cloning of fish prostaglandin endoperoxide synthase (cyclooxygenase)](http://vliz.be/imis/imis.php?module=ref&amp;refid=4205) in Proceedings of the 6th International Symposium on the Reproductive Physiology of Fish; B Norberg, OS Kjesbu, GL Taranger, E Andersson, and SO Stefansson, editors. Bergen, Norway. July 4-9, 1999. p 197.
 
-Langenau DM, Goetz FW, Roberts SB. (**1999**)  <a href="http://jme.endocrinology-journals.org/content/23/2/137.long">The upregulation of messenger ribonucleic acids during 17a, 20b-dihydroxy-4-pregnen-3-one-induced ovulation in the perch ovary</a>.<span class="impactstory-embed" data-id="10.1677/jme.0.0230137" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span> Journal of Molecular Endocrinology. 23(2):137-52.</p>
+Langenau DM, Goetz FW, Roberts SB. (**1999**)  [The upregulation of messenger ribonucleic acids during 17a, 20b-dihydroxy-4-pregnen-3-one-induced ovulation in the perch ovary](http://jme.endocrinology-journals.org/content/23/2/137.long) Journal of Molecular Endocrinology 23(2):137-52.
 
-Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) <a href="http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview">Annual reproductive cycle of the common snook: Endocrine correlates of maturation.</a><span class="impactstory-embed" data-id="http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview" data-id-type="url" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span> Transactions of the American Fisheries Society. 128:426-445</p>
-
-&nbsp;</p>
-<div></div>
-<div></div>
-<a id="preprint"><h3>PrePrints</h3></a>
-<hr />
-[learn_more caption="In Preparation"]
-
-<hr />
-David C. Metzger, Paul McElhany, Shallin Busch, Carolyn S. Friedman, Steven B. Roberts (**preprint**) Underlying impact of ocean acidification on Manila clam (<em>Ruditapes philippinarum</em>) larvae revealed through RNA-Seq analysis. Status: <a href="https://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit">Available for Comment</a>; peer reviews: BMC, MB</p>
-
-David C. Metzger, Carolyn S. Friedman, Emma B. Timmins-Schiffman and Steven B. Roberts (**preprint**) Thermal tolerance and gene expression characterization in Manila clams  (<em>Ruditapes philippinarum</em>) exposed to elevated carbon dioxide. Status: <a href="https://docs.google.com/document/d/1xbVdGEOeRfJH36aT9vyf4gZh3Fk4jLPCB-wYjD7QQWI/edit">Available for Comment</a>; peer reviews: AB</p>
-
-Storer C, Goetz F, Roberts S. (**preprint**) Transcriptional variation in lake trout (<em>Salvelinus namaycush</em>) ecotypes raised under constant environmental conditions. Status: <a title="Opens Google Drive Document" href="https://docs.google.com/document/d/11l7PpHWa_Xt1IiiRJvFrwKmnW_YFMfpXgLR3du_QZr8/edit">Available for Comment</a></p>
-
-Steven Roberts, Roxanna Smolowitz, Richard Karney, Mackenzie Gavery et al. (**preprint**) Disease tolerance in the eastern oyster. Status: <a title="Opens Google Drive Document" href="https://docs.google.com/document/d/16DFIFQw_QhOh1TX979r9T6VV1CJ34HtWdpoUNzaTnhc/edit?usp=sharing">Available for Comment</a></p>
-
-Roberts et al. (**preprint**) Hard clam gene expression analysis. Status: <a title="Opens Google Drive Document" href="https://docs.google.com/document/d/1Z0F3482O4itEumL2zNuroRrnQAs4cMhxUJ9cjZKzu8A/edit">Available for Comment</a></p>
+Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [Annual reproductive cycle of the common snook: Endocrine correlates of maturation]('http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview') Transactions of the American Fisheries Society 128:426-445.
 
 
-<h2></h2>
-&nbsp;</p>
-[/learn_more]
+<a id="preprint">
+##PrePrints</a>
 
-[learn_more caption="Archived"]
-<hr />
+David C. Metzger, Paul McElhany, Shallin Busch, Carolyn S. Friedman, Steven B. Roberts (**preprint**) Underlying impact of ocean acidification on Manila clam (*Ruditapes philippinarum*) larvae revealed through RNA-Seq analysis. Status: [Available for Comment](https://docs.google.com/document/d/1Ii1lODz2oThiyxZtHBblUEdzyhIVq92n8jkEjhkuuts/edit) peer reviews: BMC, MB
 
-Mackenzie Gavery and Steven Roberts (**preprint**) A context specific role for DNA methylation in bivalves. Status: <a href="https://dl.dropboxusercontent.com/u/115356/Gavery_Roberts_context2013.pdf">download</a> (<em>Revised and later accepted at</em> Briefings in Functional Genomics <a href="https://10.1093/bfgp/elt054">10.1093/bfgp/elt054</a></p>
+David C. Metzger, Carolyn S. Friedman, Emma B. Timmins-Schiffman and Steven B. Roberts (**preprint**) Thermal tolerance and gene expression characterization in Manila clams  (*Ruditapes philippinarum*) exposed to elevated carbon dioxide. Status: [Available for Comment](https://docs.google.com/document/d/1xbVdGEOeRfJH36aT9vyf4gZh3Fk4jLPCB-wYjD7QQWI/edit) peer reviews: AB
+
+Storer C, Goetz F, Roberts S. (**preprint**) Transcriptional variation in lake trout (*Salvelinus namaycush*) ecotypes raised under constant environmental conditions. Status: [Available for Comment](https://docs.google.com/document/d/11l7PpHWa_Xt1IiiRJvFrwKmnW_YFMfpXgLR3du_QZr8/edit)
+
+Steven Roberts, Roxanna Smolowitz, Richard Karney, Mackenzie Gavery et al. (**preprint**) Disease tolerance in the eastern oyster. Status: [Available for Comment](https://docs.google.com/document/d/16DFIFQw_QhOh1TX979r9T6VV1CJ34HtWdpoUNzaTnhc/edit?usp=sharing)
+
+Roberts et al. (**preprint**) Hard clam gene expression analysis. Status: [Available for Comment](https://docs.google.com/document/d/1Z0F3482O4itEumL2zNuroRrnQAs4cMhxUJ9cjZKzu8A/edit)
 
 
-Emma Timmins-Schiffman, Carolyn Friedman, Steven Roberts, Sam White, Dave Metzger (**preprint**) Genomic resource development of shellfish of conservation concern. Status: fig**share** <a href="http://dx.doi.org/10.6084/m9.figshare.97205">http://dx.doi.org/10.6084/m9.figshare.97205</a><span class="impactstory-embed" data-id="http://dx.doi.org/10.6084/m9.figshare.97205" data-id-type="url" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span> (<em>published</em> - Molecular Ecology Resources)</p>
+_Archived_
 
-Timmins-Schiffman E,  O’Donnell M, Friedman C, and Roberts S. (**preprint**) Elevated pCO2 causes developmental delay in early larval Pacific oysters, <em>Crassostrea gigas.</em> Status: fig**share** <em> </em><a href="http://dx.doi.org/10.6084/m9.figshare.95828">http://dx.doi.org/10.6084/m9.figshare.95828</a><span class="impactstory-embed" data-id="http://dx.doi.org/10.6084/m9.figshare.95828" data-id-type="url" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span> (<em>published</em> - Marine Biology)</p>
+Mackenzie Gavery and Steven Roberts (**preprint**) A context specific role for DNA methylation in bivalves. Status: _Archived_ [download](https://dl.dropboxusercontent.com/u/115356/Gavery_Roberts_context2013.pdf) (_Revised and later accepted at_ [Briefings in Functional Genomics](https://10.1093/bfgp/elt054) 10.1093/bfgp/elt054
+
+Emma Timmins-Schiffman, Carolyn Friedman, Steven Roberts, Sam White, Dave Metzger (**preprint**) Genomic resource development of shellfish of conservation concern. Status: [_on figshare_](http://dx.doi.org/10.6084/m9.figshare.97205) (_published_ - Molecular Ecology Resources)
+
+Timmins-Schiffman E,  O’Donnell M, Friedman C, and Roberts S. (**preprint**) Elevated pCO2 causes developmental delay in early larval Pacific oysters, _Crassostrea gigas_ Status: [_on figshare_](http://dx.doi.org/10.6084/m9.figshare.95828) (_published_ - Marine Biology)</p>
 
 Lyons, Dungan, and Roberts &#8211; <a href="http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/07/Thraustochtrid_Lyons.pdf">Thraustochytrid-like isolates from marine bivalve mollusks</a></p>
 Smolowitz, Schaff, DeFaveri, Roberts - <a href="https://www.evernote.com/shard/s10/sh/fbad2028-32a9-4ed0-86e5-95c391748984/77f2df51a2d62815631c0850ab3a8467">Renal Trematodiasis of Largemouth Bass and Development of PCR Methods</a></p>
@@ -205,14 +210,11 @@ Gavery MR, White SJ, Roberts S (**preprint**)  Characterization of prostaglandin
 Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced acidification and mechanical stress on gene expression and microbial community composition in oysters. Status: <a href="https://docs.google.com/document/d/1jYvaWR4RsSonl95ElqNX29epsO69LE4af5Rgd4xC8EI/edit">Available for Comment</a></p>
 
 
-<hr />
-&nbsp;</p>
-[/learn_more]
-<div></div>
-&nbsp;</p>
 
-<a id="theses"><h3>Theses</h3></a>
-<hr />
+
+<a id="theses">
+##Theses</a>
+
 Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. fig**share**. 
 <a href="http://dx.doi.org/10.6084/m9.figshare.661720"> http://dx.doi.org/10.6084/m9.figshare.661720</a><span class="impactstory-embed" data-id="10.6084/m9.figshare.661720" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>
 
