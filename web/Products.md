@@ -5,7 +5,7 @@
 <a id="data">
 ##Data</a>
 ###Primary Data 
-Data that is essentially can be accessed via
+Data that is essentially raw can be accessed via
 
 * NCBI (GenBank, SRA, BioProjects, ESTs)   
 * EBI (Protein Mass Spec)   
@@ -54,7 +54,7 @@ Data
 <a id="peer">
 ##Peer-Reviewed Publications</a>
 
-Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 preprint pdf
+Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 
 
 Gavery MR and Roberts SB. (**2013**) [Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc](https://peerj.com/articles/215/) PeerJ 1:e215. doi:10.7717/peerj.215
 

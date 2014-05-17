@@ -1,0 +1,464 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<style>
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+<title>Principal Investigator</title>
+
+</head>
+<body>
+<h1>Principal Investigator</h1>
+
+<h3><a href="http://faculty.washington.edu/sr320/?page_id=3577">Steven Roberts</a></h3>
+
+<p><img src="https://dl.dropboxusercontent.com/u/115356/Steven-Roberts1-262x262.jpg" width="144" height="142" /></p>
+
+<p>Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change.</p>
+
+<hr />
+
+<h1>Graduate Students</h1>
+
+<h3><a href="http://students.washington.edu/mgavery/Welcome.html">Mackenzie Gavery</a></h3>
+
+<p><img src="http://students.washington.edu/mgavery/About_Me_files/shapeimage_1.png" width="144" height="142" /></p>
+
+<p>My research aims to improve our understanding of the physiological responses of marine invertebrates to natural and human-driven environmental change.  Specifically, I am interested the role of epigenetics, processes that can alter gene activity without changes to the underlying DNA sequence, in mediating environmental responses in shellfish.  I am using the Pacific oyster (<em>Crassostrea gigas</em>) as a model to examine the role of DNA methylation in regulating interactions between genes and the environment. Through this work I hope to better understand the pathways through which environmental contaminants, such as endocrine disruptors, induce physiological changes and to determine whether these induced changes can be passed on to future generations</p>
+
+<hr />
+
+<h3><a href="http://students.washington.edu/che625/">Claire Ellis</a></h3>
+
+<p><img src="http://students.washington.edu/che625/Claire_Ellis/Welcome_files/DSCF1161.jpg" width="195" height="147" /></p>
+
+<p>I am currently a masters student in Steven Roberts’ lab at the University of Washington in the School of Aquatic and Fishery Sciences.  My general research interests are studying aquatic ecosystem health as a function of environmental change, with an emphasis on the study of epigenetics.</p>
+
+<hr />
+
+<h3><a href="http://heareresearch.blogspot.com/">Jake Heare</a></h3>
+
+<p><img src="http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_home_188DDB31.png" alt="olyo_-_home_188DDB31_png" width="180" height="200" /></p>
+
+<p>My current research focuses on understanding the phenotypic and genotypic effects of local adaptation in Washington’s native Olympia oyster (Ostrea lurida). I use tools such as next generation genomic and epigenomic sequencing as well as standard molecular methods such as PCR and qPCR.</p>
+
+<p>I’m interested in understanding the ecology, biology, and physiology of oyster reefs with my primary focus on oysters themselves. I have used tools such as histology, immunohistochemistry, western blots, PCR, and qPCR to study various phenomena in oysters. I seek to improve conservation and aquaculture methods to ensure beautiful coastal areas and bountiful seafood catches for years to come.</p>
+
+<p>My previous work has been in the Eastern oyster (Crassostrea virginica) with focus on reproduction and maturation at Louisiana State University, Oyster habitat damage assessment from the Deepwater Horizon oil spill with the National Resource Damage Assessment (NRDA) work group, and disease testing in oysters at Texas A&amp;M University at Galveston (TAMUG). I have a Bachelors of Science degree in Marine Biology from TAMUG.</p>
+
+<hr />
+
+<h3>Andy Jasonowicz</h3>
+
+<hr />
+
+<h3>Jay Dimond (<em>comming soon</em>)</h3>
+
+<hr />
+
+<h1>Research Scientists</h1>
+
+<p>Sam White</p>
+
+<p>Brent Vadopalas</p>
+
+<p>Crystal Simchick</p>
+
+<p>Giles Goetz</p>
+
+<hr />
+
+<h1>Undergraduate Students</h1>
+
+<p>Katie Jackson</p>
+
+<p>Hannah Wear</p>
+
+<p>Charles Duber</p>
+
+<p>Jessica Blanchette</p>
+
+<hr />
+
+<h1>Alumni</h1>
+
+<h3><em>Graduate Students</em></h3>
+
+<p><a href="http://students.washington.edu/emmats/Emmas_site/Home.html">Emma Timmins-Schiffman</a></p>
+
+<p><a href="https://plus.google.com/u/0/117047808586108412854/about">Doug Immerman</a></p>
+
+<p>Caroline Storer</p>
+
+<p>Dave Metzger</p>
+
+<p><br></p>
+
+<h3><em>Undergraduates</em></h3>
+
+<!---
+I realize all code below is crappy (html) 
+no plans to edit. will just use markdown going forward. 
+-->
+
+
+<p>Bradley Chi; UW SAFS <a href="https://docs.google.com/document/d/1hq9m-_T5E9O0NiWx9uIPHOF3npCFOk6wAEWGZoaT5AM/edit">proposal</a> <a href="https://docs.google.com/document/d/1rew1-36rDWzbCcekr1CF_QVf0mtv91XPI_Qp2q1BDbE/edit">paper</a> <a href="https://docs.google.com/file/d/0B9V_gF766XZAZDhCLUF5ZUdFUnc/edit?usp=sharing">slides</a></p>
+
+<p>Paul Ehlen; UW FISH499 <a href="http://aquariumanimals.blogspot.com/">blog</a> <a href="https://docs.google.com/open?id=0B9V_gF766XZAUzBlNllDRTM4WGM">slides</a></p>
+
+<p>Harry Podschwit; UW <a href="http://genefish.wikispaces.com/Harry%27s+Notebook">notebook</a></p>
+
+<p>Derek Brady; UW SAFS <a href="https://docs.google.com/document/d/1zD-Gceo9ub5Zv7XpQbxsQAum-d5LSQCmhHfFCYLYP14/edit">proposal</a> <a href="https://docs.google.com/open?id=0B9V_gF766XZAb1VxQXdwYmFNLTg">paper</a> <a href="https://docs.google.com/open?id=0B9V_gF766XZANzJmMDJZZ3hMeEU">slides</a></p>
+
+<p>Manel Khan; UW <a title="http://genefish.wikispaces.com/Manel's+Notebook" href="http://genefish.wikispaces.com/Manel%27s+Notebook">notebook</a></p>
+
+<p>David Berman; UW SAFS <a title="https://docs.google.com/document/d/1cFsCreduzHzd7_XG5a7RtKht348iKsYY2610Q7xwQeY/edit?hl=en_US" href="https://docs.google.com/document/d/1cFsCreduzHzd7_XG5a7RtKht348iKsYY2610Q7xwQeY/edit?hl=en_US">proposal</a> <a title="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B9V_gF766XZAZTI2ODhjZTktMzY5YS00NDVjLWJjZjAtMDg4N2ZmNzEzMzYx&amp;hl=en_US" href="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B9V_gF766XZAZTI2ODhjZTktMzY5YS00NDVjLWJjZjAtMDg4N2ZmNzEzMzYx&amp;hl=en_US">paper</a></p>
+
+<p>Herschel Cox; UW SAFS <a title="https://docs.google.com/document/d/1iLAwBE2EBujM3XV2XpttLi5E-AEvDqRNzEyiV1-0ahs/edit?hl=en_US&amp;authkey=CIGWj-oI" href="https://docs.google.com/document/d/1iLAwBE2EBujM3XV2XpttLi5E-AEvDqRNzEyiV1-0ahs/edit?hl=en_US&amp;authkey=CIGWj-oI">proposal</a> <a title="https://docs.google.com/document/pub?id=1eOJy6-sUb7R-ktkSUO8HEArycdIgYJwbu7VEhShwaEQ" href="https://docs.google.com/document/pub?id=1eOJy6-sUb7R-ktkSUO8HEArycdIgYJwbu7VEhShwaEQ">paper</a></p>
+
+<p>Lexie Miller; UW FISH499 <a title="https://docs.google.com/document/d/1IWcLj4kY8SS8YzWv88rLL3UoGR9Ut56OdhMjZNl5ZY4/edit?hl=en_US&amp;authkey=CLDm7fcK" href="https://docs.google.com/document/d/1IWcLj4kY8SS8YzWv88rLL3UoGR9Ut56OdhMjZNl5ZY4/edit?hl=en_US&amp;authkey=CLDm7fcK">paper
+</a></p>
+
+<p>Jason Tayag; UW SAFS <a title="https://docs.google.com/document/pub?id=1GH8AXrQeZZeCxgvmjUCkKW0nbqvF3tC973hdEYWu2ug" href="https://docs.google.com/document/pub?id=1GH8AXrQeZZeCxgvmjUCkKW0nbqvF3tC973hdEYWu2ug">proposal</a> <a title="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B9V_gF766XZAMzg3M2Q3YjgtYzIwMS00OTkxLWIzZmUtYjBiZGI2MjNkZTA4&amp;hl=en_US&amp;authkey=CJb76KAO" href="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B9V_gF766XZAMzg3M2Q3YjgtYzIwMS00OTkxLWIzZmUtYjBiZGI2MjNkZTA4&amp;hl=en_US&amp;authkey=CJb76KAO">paper</a> <a title="https://docs.google.com/present/view?id=d8jfhsm_210fb2pj9cx" href="https://docs.google.com/present/view?id=d8jfhsm_210fb2pj9cx">slides</a></p>
+
+<p>Sonia Albin; UW SAFS <a title="https://docs.google.com/document/edit?id=1J7WVCOw3nY9P7IiayxZMddKCz3Q-KLDWRz401Sis5Ks&amp;hl=en&amp;authkey=CMfHsNAB" href="https://docs.google.com/document/edit?id=1J7WVCOw3nY9P7IiayxZMddKCz3Q-KLDWRz401Sis5Ks&amp;hl=en&amp;authkey=CMfHsNAB">proposal</a> <a title="https://docs.google.com/document/pub?id=1_sk7EAxLQ_b2R_UwRbCLNGQgXAwwfamJUXupNQ_sn7g" href="https://docs.google.com/document/pub?id=1_sk7EAxLQ_b2R_UwRbCLNGQgXAwwfamJUXupNQ_sn7g">paper</a> <a title="https://docs.google.com/present/view?id=d8jfhsm_216fxq28xgw" href="https://docs.google.com/present/view?id=d8jfhsm_216fxq28xgw">slides</a></p>
+
+<p>Zac Halls; UW <a title="http://genefish.wikispaces.com/Zac's+Notebook" href="http://genefish.wikispaces.com/Zac%27s+Notebook">notebook</a></p>
+
+<p>Amanda Davis FISH499; UW <a title="http://www.scribd.com/full/37618467?access_key=key-251611lagenz1l3rqq40" href="http://www.scribd.com/full/37618467?access_key=key-251611lagenz1l3rqq40">paper</a></p>
+
+<p>Christina Miller FISH498; UW <a title="http://genefish.wikispaces.com/Christina's+Notebook" href="http://genefish.wikispaces.com/Christina's+Notebook">notebook</a></p>
+
+<p>Rony Thi; UW <a title="http://genefish.wikispaces.com/Rony's+Notebook" href="http://genefish.wikispaces.com/Rony's+Notebook">notebook</a></p>
+
+<p>Anna Fabrizio; UW SAFS <a title="https://docs.google.com/Doc?docid=0AdV_gF766XZAZDhqZmhzbV83MWc3bWJmN2hm&amp;hl=en" href="https://docs.google.com/Doc?docid=0AdV_gF766XZAZDhqZmhzbV83MWc3bWJmN2hm&amp;hl=en">proposal</a> | <a title="http://www.scribd.com/doc/30310424/Fabrizio-Capstone-Paper" href="http://www.scribd.com/doc/30310424/Fabrizio-Capstone-Paper">paper</a> | <a title="http://www.slideshare.net/sr320/fabriziocapstone" href="http://www.slideshare.net/sr320/fabriziocapstone">presentation</a></p>
+
+<p>Timothy Green; University of Queensland</p>
+
+<p>Adelaide Rhodes; Visiting Scholar <a title="http://genefish.fish.washington.edu/rhodes/" href="http://genefish.fish.washington.edu/rhodes/">website</a></p>
+
+<p>Kevin Jeong; UW FISH499 <a title="http://genefish.wikispaces.com/Kevin's+Notebook" href="http://genefish.wikispaces.com/Kevin%27s+Notebook">notebook</a></p>
+
+<p>Rachel Thompson; UW SAFS  <a title="http://docs.google.com/View?id=ddvm3dkk_17hmq79cdj" href="http://docs.google.com/View?id=ddvm3dkk_17hmq79cdj">proposal</a> | <a title="http://www.scribd.com/doc/17500152/Thompson-FISH495" href="http://www.scribd.com/doc/17500152/Thompson-FISH495">paper</a> | <a title="http://genefish.tumblr.com/post/110480608/thompson-mgpresentation" href="http://genefish.tumblr.com/post/110480608/thompson-mgpresentation">slides</a></p>
+
+<p>Leslie Jensen; UW SAFS  <a title="http://docs.google.com/View?id=dd9dtbfp_18f7z3fwfk" href="http://docs.google.com/View?id=dd9dtbfp_18f7z3fwfk">proposal</a> | <a title="http://www.scribd.com/doc/16720662/JensenFISH495-Salmon-Senescence" href="http://www.scribd.com/doc/16720662/JensenFISH495-Salmon-Senescence">paper</a> | <a title="http://genefish.tumblr.com/post/121895110" href="http://genefish.tumblr.com/post/121895110">slides</a> | <a title="http://genefish.fish.washington.edu/~srlab/leslie/Jensen_FISH495.mov" href="http://genefish.fish.washington.edu/~srlab/leslie/Jensen_FISH495.mov">video</a></p>
+
+<p>Christin McLemore; UW SAFS  <a title="http://docs.google.com/View?id=dc3vdp2t_33gwhs7fvf" href="http://docs.google.com/View?id=dc3vdp2t_33gwhs7fvf">proposal</a> | <a title="http://genefish.tumblr.com/post/121274612" href="http://genefish.tumblr.com/post/121274612">paper</a> | <a title="http://genefish.tumblr.com/post/145385676" href="http://genefish.tumblr.com/post/145385676">slides</a> | <a title="http://genefish.fish.washington.edu/~srlab/christin/McLemore_FISH495.mov" href="http://genefish.fish.washington.edu/~srlab/christin/McLemore_FISH495.mov">video</a></p>
+
+<p>Tatyana Marushchak; UW Chemistry <a title="http://fish.washington.edu/research/genefish/robertslab/tubiashii.html" href="http://fish.washington.edu/research/genefish/robertslab/tubiashii.html">project</a></p>
+
+<p>Stephannie Spurr; UW SAFS <a title="http://genefish.tumblr.com/post/30459926" href="http://genefish.tumblr.com/post/30459926">paper</a> | <a title="http://docs.google.com/Doc?id=d8jfhsm_4784445qd8c9" href="http://docs.google.com/Doc?id=d8jfhsm_4784445qd8c9">499</a></p>
+
+<p>Katie Fulkerson; UW SAFS <a title="http://docs.google.com/Doc?id=d8jfhsm_4633gx5t74dz" href="http://docs.google.com/Doc?id=d8jfhsm_4633gx5t74dz">proposal</a> | <a title="http://genefish.tumblr.com/post/46071160/a-re-issue-of-the-fulkerson-paper" href="http://genefish.tumblr.com/post/46071160/a-re-issue-of-the-fulkerson-paper">paper</a> | <a title="http://genefish.tumblr.com/post/37302979/katie-did-a-great-job-on-her-final-presentation" href="http://genefish.tumblr.com/post/37302979/katie-did-a-great-job-on-her-final-presentation">presentation</a></p>
+
+<p>Cullen Taplin; UW SAFS <a title="http://docs.google.com/Doc?id=d8jfhsm_4678hnjm2xqd" href="http://docs.google.com/Doc?id=d8jfhsm_4678hnjm2xqd">proposal |</a> <a title="http://genefish.tumblr.com/post/38058339" href="http://genefish.tumblr.com/post/38058339">paper</a> | <a title="http://genefish.tumblr.com/post/37395046/and-finally-we-have-the-much-anticipated" href="http://genefish.tumblr.com/post/37395046/and-finally-we-have-the-much-anticipated">presentation</a></p>
+
+<p>Juliann Clark; UW <a title="http://docs.google.com/View?docid=dcjg74wq_5c5fwzk" href="http://docs.google.com/View?docid=dcjg74wq_5c5fwzk">project</a></p>
+
+<p>Tushara Saint Vitus; UW SAFS <a title="http://docs.google.com/Presentation?id=d8jfhsm_4619g9fk82hs" href="http://docs.google.com/Presentation?id=d8jfhsm_4619g9fk82hs">project</a></p>
+
+<p>Lindsay Braun; Santa Clara University <a title="http://fish.washington.edu/research/genefish/media/abalone_poster.gif" href="http://fish.washington.edu/research/genefish/media/abalone_poster.gif">project</a></p>
+
+<p>Mairead Bermingham; N Univ of Ireland, Cork <a title="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html" href="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html">project</a></p>
+
+<p>Zachary Schiller; Tufts University <a title="http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf" href="http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf">project</a></p>
+</body>
+</html>

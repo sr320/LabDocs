@@ -1,9 +1,9 @@
 #Principal Investigator
 ###[Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
-<img src="http://media.tumblr.com/99f1ba03b528653ec31b4647ce7d8a1e/tumblr_inline_mn45dn66rM1qz4rgp.jpg" width="144" height="142" /> 
+<img src="https://dl.dropboxusercontent.com/u/115356/Steven-Roberts1-262x262.jpg" width="144" height="142" /> 
 
-An Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
+Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
 
 
 ---
@@ -18,29 +18,6 @@ An Associate Professor in the School of Aquatic and Fishery Sciences at the Univ
 
 My research aims to improve our understanding of the physiological responses of marine invertebrates to natural and human-driven environmental change.  Specifically, I am interested the role of epigenetics, processes that can alter gene activity without changes to the underlying DNA sequence, in mediating environmental responses in shellfish.  I am using the Pacific oyster (<em>Crassostrea gigas</em>) as a model to examine the role of DNA methylation in regulating interactions between genes and the environment. Through this work I hope to better understand the pathways through which environmental contaminants, such as endocrine disruptors, induce physiological changes and to determine whether these induced changes can be passed on to future generations
 
----
-
-###[Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html)
-
-<img src="http://students.washington.edu/emmats/Emmas_site/Home_files/shapeimage_3.png" width="208" height="131" />
-
-My broad research interest is how abrupt and unexpected environmental changes affect natural populations.  These environmental changes are frequently caused by human activities.  My current study system is Pacific oysters in Puget Sound, WA and how they are affected by ocean acidification and other stressors that are prevalent in the Sound.  I use a variety of tools to look at the response of oysters to stresses across life history stages.  These tools include assays of developmental stage and calcification, transcriptomics (gene expression), and proteomics (protein expression).
-
-My previous work has included research into the effects of fishing pressure on current population genetic diversity in lingcod (at Stanford), how dam removal impacts rainbow trout and steelhead in Pacific Northwest rivers (at NOAA’s Northwest Fisheries Science Center), and investigating if outmigration life history strategies are heritable in Snake River fall run Chinook (also at NWFSC).
-
----
-
-
-###[Doug Immerman](https://plus.google.com/u/0/117047808586108412854/about)
-
-
-<img src="http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/04/photo-224x300.jpg" width="134" height="180" />
-
-I am from Wisconsin and am now in the graduate program with SAFS. My research is in Sablefish reproduction, specifically methods of sperm activation/extension, morphology and cryopreservation. I spend most of my time at the NOAA Manchester research station on the Kitsap Peninsula. I have an Integrated Science and Business undergraduate degree and have spent time at the New England Aquarium (Jellyfish), Phylonix (Zebrafish), the Madison Zoo (education) and at the Great Lakes WATER Institute. In the Goetz lab at WATER my focus was  genetic selection of Yellow perch, morphology of Lake trout and reproduction of Black pacu along with designing remote aquaculture monitoring systems.
-
----
-
-###Andy Jasonowicz
 
 ---
 
@@ -50,9 +27,11 @@ I am from Wisconsin and am now in the graduate program with SAFS. My research is
 
 I am currently a masters student in Steven Roberts’ lab at the University of Washington in the School of Aquatic and Fishery Sciences.  My general research interests are studying aquatic ecosystem health as a function of environmental change, with an emphasis on the study of epigenetics.
 
+
+
 ---
 
-###Jake Heare
+###[Jake Heare](http://heareresearch.blogspot.com/)
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_home_188DDB31.png" alt="olyo_-_home_188DDB31_png" width="180" height="200" />
 
@@ -63,6 +42,15 @@ I’m interested in understanding the ecology, biology, and physiology of oyster
 My previous work has been in the Eastern oyster (Crassostrea virginica) with focus on reproduction and maturation at Louisiana State University, Oyster habitat damage assessment from the Deepwater Horizon oil spill with the National Resource Damage Assessment (NRDA) work group, and disease testing in oysters at Texas A&M University at Galveston (TAMUG). I have a Bachelors of Science degree in Marine Biology from TAMUG.
 
 ---
+
+###Andy Jasonowicz
+
+---
+
+###Jay Dimond (_coming soon_)
+
+---
+<br>
 
 #Research Scientists
 Sam White
@@ -84,22 +72,28 @@ Hannah Wear
 
 Charles Duber  
 
+Jessica Blanchette
+
 ---
 
 #Alumni
-##Graduate Students
+<br>
+
+###_Graduate Students_
 
 
-###Caroline Storer
-I grew up in Chicago (proper), but have always had a penchant for the ocean and all things ocean related. During high school I got my ocean-fix by volunteering at the <a title="http://www.sheddaquarium.org/" href="http://www.sheddaquarium.org/">John G. Shedd Aquarium</a> and working at a SCUBA shop (yes, there is plenty of SCUBA diving in the Midwest). However, life on the seashore remained elusive until college when I trucked across the Eastern US to spend my days searching seagrass beds for pipefish at <a title="http://www.eckerd.edu/" href="http://www.eckerd.edu/">Eckerd College</a> in St. Petersburg, Florida. Having seen what the Atlantic Ocean had to offer I headed out west in 2009 to live on the coast of the Pacific Ocean (well really Puget Sound) and obtatain a MS at the <a title="http://www.fish.washington.edu/" href="http://www.fish.washington.edu/">University of Washington School of Aquatic and Fishery Sciences</a>. <strong><em>Currently - </em></strong>
 
----
+[Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html)
 
-###Dave Metzger
-The goal of my research is to use molecular tools to uncover the biological pathways being affected by these changing ocean conditions. This work will hopefully shed some light on possible molecular indicators that we can use to monitor the health of an ecosystem in regards to CO2 concentrations as well as better understand the relationship between various molecular pathways and their physiological roles in responding to adverse environmental conditions. <strong><em>Currently - </em></strong>PhD. Program at UBC.
+[Doug Immerman](https://plus.google.com/u/0/117047808586108412854/about)
 
+Caroline Storer
 
-##Undergraduates
+Dave Metzger
+
+<br>
+
+###_Undergraduates_
 
 
 <!---
