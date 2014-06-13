@@ -4,8 +4,11 @@
 
 <a id="data">
 ##Data</a>
-###Primary Data 
-Data that is essentially raw can be accessed via
+
+<br>
+
+####Primary Data 
+
 
 * NCBI (GenBank, SRA, BioProjects, ESTs)   
 * EBI (Protein Mass Spec)   
@@ -13,46 +16,28 @@ Data that is essentially raw can be accessed via
 * IPlant (HTS)   
 * Authorea (HTS)
 
-###Secondary Data 
-Data 
+####Secondary Data 
 
-* FigShare (user: SR, MG, CO, JH, ETS)  
+* FigShare (user: SR, MG, CO, JH, ETS)
+* GitHub  
 
 
 <br>
 
+---
+
 <a id="pres">
 ##Presentations</a>
 
-###Recent
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/16787188" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="http://www.slideshare.net/emmats/e-timmins-schiffmannsa2013" title="E timmins schiffman_nsa2013" target="_blank">E timmins schiffman_nsa2013</a> ** from **<a href="http://www.slideshare.net/emmats" target="_blank">emmats</a>** </div>
-
----
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/16811784" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="http://www.slideshare.net/mgavery/aquaculture-2013-nashville-tn" title="Aquaculture 2013, Nashville TN" target="_blank">Aquaculture 2013, Nashville TN</a> ** from **<a href="http://www.slideshare.net/mgavery" target="_blank">mgavery</a>** </div>
-
-
----
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/24811180" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
----
-
-###Classic
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/16315415" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="http://www.slideshare.net/cgstorer/genetic-and-phenotypic-variation-in-sockeye-salmon" title="Genetic and phenotypic variation in sockeye salmon" target="_blank">Genetic and phenotypic variation in sockeye salmon</a> ** from **<a href="http://www.slideshare.net/cgstorer" target="_blank">cgstorer</a>** </div>
-
----
-
-
-
-<iframe src="http://www.slideshare.net/slideshow/embed_code/12214328" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> ** <a href="http://www.slideshare.net/sr320/nsa2012-short-reads-and-oyster-genome-resources" title="NSA2012 Short reads and Oyster Genome Resources" target="_blank">NSA2012 Short reads and Oyster Genome Resources</a> ** from **<a href="http://www.slideshare.net/sr320" target="_blank">sr320</a>** </div>
+[Impact Story](https://impactstory.org/StevenRoberts#slides) (SR)
 
 ---
 
 <a id="peer">
 ##Peer-Reviewed Publications</a>
+
+Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.00224
 
 Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 
 
@@ -176,6 +161,9 @@ Langenau DM, Goetz FW, Roberts SB. (**1999**)  [The upregulation of messenger ri
 
 Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [Annual reproductive cycle of the common snook: Endocrine correlates of maturation]('http://www.tandfonline.com/doi/abs/10.1577/1548-8659(1999)128%3C0436%3AARCOTC%3E2.0.CO%3B2#preview') Transactions of the American Fisheries Society 128:426-445.
 
+---
+
+
 
 <a id="preprint">
 ##PrePrints</a>
@@ -210,6 +198,8 @@ Gavery MR, White SJ, Roberts S (**preprint**)  Characterization of prostaglandin
 Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced acidification and mechanical stress on gene expression and microbial community composition in oysters. Status: <a href="https://docs.google.com/document/d/1jYvaWR4RsSonl95ElqNX29epsO69LE4af5Rgd4xC8EI/edit">Available for Comment</a></p>
 
 
+---
+
 
 
 <a id="theses">
@@ -223,10 +213,13 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 &nbsp;</p>
 
+---
+
 
 <a id="grants">
-###Grants</a>
----
+##Grants</a>
+
+<br>
 
 ####Alleviating Regulatory Impediments to Native Shellfish Aquaculture
 
@@ -242,9 +235,9 @@ Award Period: 9/1/2012 - 8/30/2014
 	<li>[Manuscript] <a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract">Genomic resource development for shellfish of conservation concern</a></li>
 	<li>[Data] <a href="http://dx.doi.org/10.6084/m9.figshare.156431">Transcriptome characterization of the Olympia oyster and pinto abalone</a></li>
 </ul>
-[/learn_more]
 
-[learn_more caption="Sablefish Reproductive Life History and Genetics"]
+---
+####Sablefish Reproductive Life History and Genetics
 
 Source of Support: NOAA / JISAO
 
@@ -255,9 +248,10 @@ Award Period: 9/15/2012 - 6/30/2013
 	<li><span style="line-height: 13px;"><a href="https://dl.dropbox.com/u/115356/JISAO%20Sablefish%20ReproProgress%20Report%202013.pdf">Progress Report </a> [2/12]</span></li>
 <li><a href="http://faculty.washington.edu/sr320/?p=3402/">Proposal</a></li>
 </ul>
-[/learn_more]
 
-[learn_more caption= "DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates"]
+---
+
+####DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates
 
 Source of Support: National Science Foundation
 
@@ -281,9 +275,10 @@ Award Period: 5/1/2012 - 4/30/2014
 	<li>[Poster] <a href="http://eagle.fish.washington.edu/cnidarian/PAG_Gavery_2013.pdf">Epigenetic Landscapes in the Pacific Oyster (<em id="__mceDel">Crassostrea gigas</em>)</a></li>
 	<li><a href="http://dx.doi.org/10.6084/m9.figshare.97107">Proposal</a></li>
 </ul>
-[/learn_more]
 
-[learn_more caption= "Sablefish Broodstock Development and Functional Genomics"]
+---
+
+####Sablefish Broodstock Development and Functional Genomics
 
 Source of Support: NOAA [Contract]
 
@@ -293,9 +288,10 @@ Award Period: 9/15/2011 - 9/14/2013
 <ul>
 	<li><a href="http://faculty.washington.edu/sr320/?p=1046"><span style="line-height: 13px;">Website</span></a></li>
 </ul>
-[/learn_more]
 
-[learn_more caption= "Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change"]
+---
+
+####Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change
 
 Source of Support: NOAA
 
@@ -309,11 +305,10 @@ Award Period: 9/1/2009 - 2/29/2012
 	<li>[Data] <a href="http://figshare.com/articles/Contigs_de_novo_RE22/90805">Contiguous sequences from <em>Vibrio tubiashii</em> RE22 assembly</a></li>
 	<li>Proposal</li>
 </ul>
-[/learn_more]
 
-[learn_more caption= "Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies"]
+---
 
-Source of Support: USDA/NRAC
+####Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies
 
 Award Amount: $79,503
 
@@ -322,39 +317,12 @@ Award Period: 3/1/2008 - 2/28/2011
 	<li><span style="line-height: 13px;">Preprint</span></li>
 	<li>[Data] <a href="http://figshare.com/articles/Hard_clam_transcriptome_contigs/90073">Hard Clam transcriptome</a></li>
 </ul>
-[/learn_more]
+
+---
 
 &nbsp;</p>
 
 <a id="vids"><h3>Media</h3></a>
 <hr />
-[learn_more caption="Our Most Popular YouTube Videos"]
-<hr />
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/ms1uqG79oFs" frameborder="0" allowfullscreen></iframe>
-&nbsp;</p>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/VjToyA-iBug" frameborder="0" allowfullscreen></iframe>
-&nbsp;</p>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/mEkSn_aSfj4" frameborder="0" allowfullscreen></iframe>
-&nbsp;</p>
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/-Xo20EgEKcI" frameborder="0" allowfullscreen></iframe>
-&nbsp;</p>
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/sGZ4Jx3Cwig" frameborder="0" allowfullscreen></iframe>
-
-&nbsp;</p>
-[/learn_more]
-
-[learn_more caption="Select Slideshows"]
-<hr />
-
-<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=35623250@N04&set_id=72157619107872733=" frameBorder="0" width="500" height="500" scrolling="no"></iframe>
-
-[/learn_more]
-
-&nbsp;
-
-&nbsp;
+coming soon
