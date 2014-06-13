@@ -59,7 +59,7 @@ Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methyla
 
 Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0030908) PLoS ONE 7(2): e30908. doi:10.1371/journal.pone.0030908
 
- <!-- and ends with 
+ <!-- 
  
 Metzger DC, Pratt P and Roberts SB. (**2012**) [Characterizing the effects of heavy metal and _Vibrio_ exposure on hsp70 expression in _Crassostrea gigas_ gill tissue](http://dx.doi.org/10.2983/035.031.0305) Journal of Shellfish Research 31(3):627-630. doi:10.2983/035.031.0305 [pdf](http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/03/Meztger_JSR.pdf)
 
