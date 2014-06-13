@@ -3,5 +3,10 @@ LabDocs
 
 Roberts Lab Documents
 
+This is a dynamic respository which is primarily made up of open science documents. 
 
-- [Lab Meeting Video](http://htmlpreview.github.io/?https://github.com/sr320/LabDocs/blob/master/LabMeeting_video.html)
+
+Highlights 
+
+* [Data Sharing Plan]
+* [Proposal Database]
