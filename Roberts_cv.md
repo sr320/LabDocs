@@ -43,7 +43,7 @@ Storer CS, Quinn TP and Roberts SB. (**2013**) [Quantitative PCR analysis used t
 
 Burge CA, Mouchka ME, Harvell CD and Roberts SB. (**2013**) [Immune response of the Caribbean sea fan, Gorgonia ventalina, exposed to an _Aplanochytrium parasite_ as revealed by transcriptome sequencing](http://www.frontiersin.org/invertebrate_physiology/10.3389/fphys.2013.00180/abstract) Frontiers in Physiology 4:180. doi:10.3389/fphys.2013.00180
 
-Timmins-Schiffman EB, Nunn BL, Goodlett DR and Roberts SB. (**2013**) [Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster](http://conphys.oxfordjournals.org/content/1/1/cot009.full.pdf+html) Conservation Physiology. doi:10.1093/conphys/cot009</p>
+Timmins-Schiffman EB, Nunn BL, Goodlett DR and Roberts SB. (**2013**) [Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster](http://conphys.oxfordjournals.org/content/1/1/cot009.full.pdf+html) Conservation Physiology. doi:10.1093/conphys/cot009
 
 Timmins-Schiffman EB, Friedman CS, Metzger DC, White SJ and Roberts SB. (**2013**) [Genomic resource development for shellfish of conservation concern](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract) Molecular Ecology Resources. doi:10.1111/1755-0998.12052
 
@@ -58,7 +58,9 @@ Burge CA, Douglas N, Conti-Jerpe I, Weil E, Roberts SB, Friedman CS and CD Harve
 Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116
 
 Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0030908) PLoS ONE 7(2): e30908. doi:10.1371/journal.pone.0030908
+
  <!-- and ends with 
+ 
 Metzger DC, Pratt P and Roberts SB. (**2012**) [Characterizing the effects of heavy metal and _Vibrio_ exposure on hsp70 expression in _Crassostrea gigas_ gill tissue](http://dx.doi.org/10.2983/035.031.0305) Journal of Shellfish Research 31(3):627-630. doi:10.2983/035.031.0305 [pdf](http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/03/Meztger_JSR.pdf)
 
 
@@ -69,7 +71,16 @@ Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts
 Roberts SB, Sunila I, and Wikfors G. (**2011**) [Immune response and mechanical stress susceptibility in diseased oysters, _Crassostrea virginica_](http://www.springerlink.com/content/u975017n6763324n/) Journal of Comparative Physiology B 182:1 41-48. doi:10.1007/s00360-011-0605-z
 
 Seeb JE, Carvalho G, Hauser L, Naish K, Roberts SB and Seeb LW. (**2011**) [Single-nucleotide polymorphism (SNP) discovery and applications of SNP genotyping in nonmodel organisms](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2010.02979.x/full) Molecular Ecology Resources 11 1–8. doi:10.1111/j.1755-0998.2010.02979.x
+
 -->
 
-###Synergistic Activities* Visiting Professor: University of Brest - IFREMER France (November 2013)   * Board of Directors: Pan-American Marine Biotechnology Association (2009-present)  * Organizer: Aquaculture Genomics Workshop, Plant Animal Genome Conference, San Diego CA   (2013-2014)* Faculty Mentor: Ocean and Coastal Interdisciplinary Science (OACIS) GK-20 Program (2011-2013)   * Advocate for open notebook science and data sharing. All students and staff maintain open access electronic lab notebooks and share resources using a wiki-based platform.   
-
+###Synergistic Activities
+* Visiting Professor: University of Brest - IFREMER France (November 2013)   
+* Board of Directors: Pan-American Marine Biotechnology Association (2009-present)  
+* Organizer: Aquaculture Genomics Workshop, Plant Animal Genome Conference, San Diego CA   (2013-2014)
+* Faculty Mentor: Ocean and Coastal Interdisciplinary Science (OACIS) GK-20 Program (2011-2013)   
+* Advocate for open notebook science and data sharing. All students and staff maintain open access electronic lab notebooks and share resources using a wiki-based platform.   
+
+
+
+
