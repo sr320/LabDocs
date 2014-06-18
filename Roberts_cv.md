@@ -74,6 +74,13 @@ Seeb JE, Carvalho G, Hauser L, Naish K, Roberts SB and Seeb LW. (**2011**) [Sing
 
 -->
 
+####Preprints
+Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB (**2014**) [Shotgun proteomics reveals physiological response to ocean acidification in _Crassostrea gigas_](https://peerj.com/preprints/388/). PeerJ PrePrints 2:e388v1  doi:10.7287/peerj.preprints.388v1
+
+Gavery MG and Roberts SB (2013): [A context specific role for DNA methylation in bivalves](http://figshare.com/articles/Preprint_A_context_specific_role_for_DNA_methylation_in_bivalves/880763) figshare. doi:10.6084/m9.figshare.880763
+
+
+
 ###Synergistic Activities
 * Visiting Professor: University of Brest - IFREMER France (November 2013)   
 * Board of Directors: Pan-American Marine Biotechnology Association (2009-present)  
