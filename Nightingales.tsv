@@ -1,19 +1,19 @@
 SeqID	SeqDate	Primary_taxa	Tissue	Molecule	Platform	Length	BriefDesc	links_des	FileLocation	URL	FileLocation2	URL2
-F5BZJAM01.sff		C_pallasii		RNA	454		Herring		/Volumes/web/owl/nightingales/C_pallasii/F5BZJAM01.sff	http://owl.fish.washington.edu/nightingales/C_pallasii/F5BZJAM01.sff		
+F5BZJAM01.sff		C_pallasii		RNA	454		Herring		/Volumes/web/nightingales/C_pallasii/F5BZJAM01.sff	http://owl.fish.washington.edu/nightingales/C_pallasii/F5BZJAM01.sff		
 3291_5903_10009_H94MGADXX_V_CF26_TTAGGC	5/28/2014	P_helianthoides	coelomycetes	RNA	Illumina	PE100			/Volumes/web/nightingales/P_helianthoides/3291_5903_10009_H94MGADXX_V_CF26_TTAGGC_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10009_H94MGADXX_V_CF26_TTAGGC_R1.fastq.gz	/Volumes/web/nightingales/P_helianthoides/3291_5903_10009_H94MGADXX_V_CF26_TTAGGC_R2.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10009_H94MGADXX_V_CF26_TTAGGC_R2.fastq.gz
 3291_5903_10008_H94MGADXX_V_CF34_CGATGT	5/28/2014	P_helianthoides	coelomycetes	RNA	Illumina	PE100			/Volumes/web/nightingales/P_helianthoides/3291_5903_10008_H94MGADXX_V_CF34_CGATGT_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10008_H94MGADXX_V_CF34_CGATGT_R1.fastq.gz	/Volumes/web/nightingales/P_helianthoides/3291_5903_10008_H94MGADXX_V_CF34_CGATGT_R2.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10008_H94MGADXX_V_CF34_CGATGT_R2.fastq.gz
 3291_5903_10007_H94MGADXX_V_CF71_ATCACG	5/28/2014	P_helianthoides	coelomycetes	RNA	Illumina	PE100			/Volumes/web/nightingales/P_helianthoides/3291_5903_10007_H94MGADXX_V_CF71_ATCACG_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10007_H94MGADXX_V_CF71_ATCACG_R1.fastq.gz	/Volumes/web/nightingales/P_helianthoides/3291_5903_10007_H94MGADXX_V_CF71_ATCACG_R2.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10007_H94MGADXX_V_CF71_ATCACG_R2.fastq.gz
 3291_5903_10010_H94MGADXX_HK_CF2_TGACCA	5/28/2014	P_helianthoides	coelomycetes	RNA	Illumina	PE100			/Volumes/web/nightingales/P_helianthoides/3291_5903_10010_H94MGADXX_HK_CF2_TGACCA_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10010_H94MGADXX_HK_CF2_TGACCA_R1.fastq.gz	/Volumes/web/nightingales/P_helianthoides/3291_5903_10010_H94MGADXX_HK_CF2_TGACCA_R2.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10010_H94MGADXX_HK_CF2_TGACCA_R2.fastq.gz
 3291_5903_10011_H94MGADXX_HK_CF35_ACAGTG	5/28/2014	P_helianthoides	coelomycetes	RNA	Illumina	PE100			/Volumes/web/nightingales/P_helianthoides/3291_5903_10011_H94MGADXX_HK_CF35_ACAGTG_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10011_H94MGADXX_HK_CF35_ACAGTG_R1.fastq.gz	/Volumes/web/nightingales/P_helianthoides/3291_5903_10011_H94MGADXX_HK_CF35_ACAGTG_R2.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10011_H94MGADXX_HK_CF35_ACAGTG_R2.fastq.gz
 3291_5903_10012_H94MGADXX_HK_CF70_GCCAAT	5/28/2014	P_helianthoides	coelomycetes	RNA	Illumina	PE100			/Volumes/web/nightingales/P_helianthoides/3291_5903_10012_H94MGADXX_HK_CF70_GCCAAT_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10012_H94MGADXX_HK_CF70_GCCAAT_R1.fastq.gz	/Volumes/web/nightingales/P_helianthoides/3291_5903_10012_H94MGADXX_HK_CF70_GCCAAT_R2.fastq.gz	http://owl.fish.washington.edu/nightingales/P_helianthoides/3291_5903_10012_H94MGADXX_HK_CF70_GCCAAT_R2.fastq.gz
-solid0078_20091105_BB3.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/owl/nightingales/C_gigas/solid0078_20091105_BB3.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_BB3.tar.gz		
-solid0078_20091105_RbbertsLab_DH2_F3.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/owl/nightingales/C_gigas/solid0078_20091105_RbbertsLab_DH2_F3.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_RbbertsLab_DH2_F3.tar.gz		
-solid0078_20091105_DH3.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/owl/nightingales/C_gigas/solid0078_20091105_DH3.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_DH3.tar.gz		
-solid0078_20091105_RbbertsLab_GE_F3_QV.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/owl/nightingales/C_gigas/solid0078_20091105_RbbertsLab_GE_F3_QV.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_RbbertsLab_GE_F3_QV.tar.gz		
-RBC1.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Poly_IC		/Volumes/web/owl/nightingales/S_namaycush/RBC1.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC1.zip		
-RBC2.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Control		/Volumes/web/owl/nightingales/S_namaycush/RBC2.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC2.zip		
-RBC3.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Poly_IC		/Volumes/web/owl/nightingales/S_namaycush/RBC3.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC3.zip		
-RBC4.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Control		/Volumes/web/owl/nightingales/S_namaycush/RBC4.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC4.zip		
+solid0078_20091105_BB3.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/nightingales/C_gigas/solid0078_20091105_BB3.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_BB3.tar.gz		
+solid0078_20091105_RbbertsLab_DH2_F3.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/nightingales/C_gigas/solid0078_20091105_RbbertsLab_DH2_F3.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_RbbertsLab_DH2_F3.tar.gz		
+solid0078_20091105_DH3.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/nightingales/C_gigas/solid0078_20091105_DH3.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_DH3.tar.gz		
+solid0078_20091105_RbbertsLab_GE_F3_QV.tar.gz	11/11/2009	C_gigas	ctenidia	RNA	SOLiD	SE25			/Volumes/web/nightingales/C_gigas/solid0078_20091105_RbbertsLab_GE_F3_QV.tar.gz	http://owl.fish.washington.edu/nightingales/C_gigas/solid0078_20091105_RbbertsLab_GE_F3_QV.tar.gz		
+RBC1.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Poly_IC		/Volumes/web/nightingales/S_namaycush/RBC1.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC1.zip		
+RBC2.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Control		/Volumes/web/nightingales/S_namaycush/RBC2.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC2.zip		
+RBC3.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Poly_IC		/Volumes/web/nightingales/S_namaycush/RBC3.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC3.zip		
+RBC4.zip	10/20/2010	S_namaycush	red blood cells	RNA	SOLiD	SE25	Control		/Volumes/web/nightingales/S_namaycush/RBC4.zip	http://owl.fish.washington.edu/nightingales/S_namaycush/RBC4.zip		
 filtered_P_Ab_Air_CAGATC_L001_R1.fastq.gz	11/28/2011	H_kamtschatkana	larvae		Illumina	SE36			/Volumes/web/owl/nightingales/H_kamtschatkana/filtered_P_Ab_Air_CAGATC_L001_R1.fastq.gz	http://owl.fish.washington.edu/nightingales/H_kamtschatkana/filtered_P_Ab_Air_CAGATC_L001_R1.fastq.gz		
 filtered_P_Ab_CO2_ACTTGA_L001_R1.fastq.gz	11/28/2011	H_kamtschatkana	larvae		Illumina	SE36						
 filtered_BS_CgLarv_T1D3_TGACCA_L004_R1.fastq.gz	11/25/2013	C_gigas	larvae	DNA	Illumina	PE72						
@@ -78,7 +78,7 @@ filtered_108A_Male_Mix_AGTCAA_L004_R2.fastq.gz	12/19/2012	O_lurida	gonad	RNA	Ill
 filtered_LTL_NPL32_CAGATC_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver			36SE						
 filtered_LTL_NPL34_ACTTGA_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
 filtered_LTL_NPL44_GTGAAA_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
-filtered_LTL_NPL46_GATCAG_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver			Start with PE/SE						
+filtered_LTL_NPL46_GATCAG_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
 filtered_LTL_NPL56_TAGCTT_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
 filtered_LTL_NPL61_GGCTAC_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
 filtered_LTL_NPS15_GAGTGG_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
@@ -99,3 +99,6 @@ filtered_LTL_PS35_ATGTCA_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver
 filtered_LTL_PS49_CCGTCC_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
 filtered_LTL_PS53_GTCCGC_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
 filtered_LTL_PS63_AGTTCC_L005_R1.fastq.gz	10/17/2012	S_namaycush	liver									
+filtered_400ppm_CAGATC_L001_R1.fastq.gz	9/28/2011	V_philippinarum										
+filtered_1000ppm_ACTTGA_L002_R1.fastq.gz	9/28/2011	V_philippinarum										
+filtered_2000_NoIndex_L007_R1.fastq.gz												
