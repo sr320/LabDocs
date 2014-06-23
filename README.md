@@ -3,10 +3,12 @@ LabDocs
 
 Roberts Lab Documents
 
-This is a dynamic respository which is primarily made up of open science documents. 
+This is a dynamic respository where many of our open science documents live.
 
 
 Highlights 
 
 * [Data Sharing Plan]
 * [Proposal Database]
+* [Next-Gen Sequencing Data Repo]
+* 
