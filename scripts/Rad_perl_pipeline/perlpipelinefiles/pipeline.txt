@@ -1,0 +1,28 @@
+# Quality filter and trim reads
+$ QualityFilt.pl seqs.txt > seqs_qf.txt
+
+# Captures reads with specific barcode
+$ BarcodeSplit.pl seqs_qf.txt XXXXXXTGCAGG > seqs_qf_Sample1.txt
+$ BarcodeSplit.pl seqs_qf.txt XXXXXXTGCAGG > seqs_qf_Sample2.txt
+$ BarcodeSplit.pl seqs_qf.txt XXXXXXTGCAGG > seqs_qf_Sample3.txt
+
+# Hash sequences
+$ HashSeqs.pl seqs_qf_Sample1.txt Sample1 > seqs_qf_Sample1.hash
+$ ...
+
+# Concatenate hash files
+$ cat seqs_qf_Sample1.hash seqs_qf_Sample2.hash seqs_qf_Sample3.hash > seqs_qf_SampleX.hash  
+
+# Create novoalign index
+$ novoindex seqs_qf_SampleX seqs_qf_SampleX.hash
+
+# Perform all-by-all alignment with novoalign
+$ novoalign -r E 20 -t 250 -d seqs_qf_SampleX -f seqs_qf_SampleX.hash > seqs_qf_SampleX.novo
+
+# Place sequences into discrete loci
+$ IdentifyLoci.pl seqs_qf_SampleX.novo > seqs_qf_SampleX.loci
+
+# Filter polymorphic loci
+$ FilterLoci.pl seqs_qf_SampleX.loci > seqs_qf_SampleX_polymorphic.loci
+
+
