@@ -1,5 +1,5 @@
 
-####<center>[**Data**](#data) |  [**Presentations**](#pres)  |  [**Peer-Reviewed Publications**](#peer) | [**PrePrints**](#preprint) | [**Theses**](#theses) | [**Grants**](#grants) | [**Media**](#vids) </center>
+####<center>[**Data**](#data) |  [**Presentations**](#pres)  |  [**Peer-Reviewed Publications**](#peer) | [**PrePrints**](#preprint) | [**Theses**](#theses) | [**Grants**](#grants) | [**Proposals**](#props) | [**Media**](#vids) </center>
 
 
 <a id="data">
@@ -9,17 +9,22 @@
 
 ####Primary Data 
 
-
+* [Nightingales](http://) (High-Throughput Sequencing project database)
 * NCBI (GenBank, SRA, BioProjects, ESTs)   
 * EBI (Protein Mass Spec)   
-* eagle.fish (Quantitative PCR, HTS)  
-* IPlant (HTS)   
-* Authorea (HTS)
+
 
 ####Secondary Data 
 
-* FigShare (user: SR, MG, CO, JH, ETS)
+* FigShare  
+	* Steven Roberts
+	* Mackenzie Gavery
+	* Claire Olson
+	* 
+	
 * GitHub  
+
+####Lab Notebooks
 
 
 <br>

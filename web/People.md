@@ -68,7 +68,11 @@ Giles Goetz
 
 Katie Jackson
 
+Grace 
 
+Etilet
+
+Jonathan Allen
 
 ---
 
@@ -76,7 +80,6 @@ Katie Jackson
 <br>
 
 ###_Graduate Students_
-
 
 
 [Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html)
@@ -89,6 +92,7 @@ Dave Metzger
 
 <br>
 
+
 ###_Undergraduates_
 
 
@@ -96,11 +100,20 @@ Dave Metzger
 I realize all code below is crappy (html) 
 no plans to edit. will just use markdown going forward. 
 -->
-Hannah Wear
+Hannah Wear; UW SAFS (xx-xx)
+[proposal](http://)
+[paper](http://)
+[poster](http://)
 
-Charles Duber  
+Charles Duber; UW SAFS (xx-xx)
+[proposal](http://)
+[paper](http://)
+[poster](http://)
 
-Jessica Blanchette
+Jessica Blanchette; UW SAFS (xx-xx)
+[proposal](http://)
+[paper](http://)
+[poster](http://)
 
 Bradley Chi; UW SAFS <a href="https://docs.google.com/document/d/1hq9m-_T5E9O0NiWx9uIPHOF3npCFOk6wAEWGZoaT5AM/edit">proposal</a> <a href="https://docs.google.com/document/d/1rew1-36rDWzbCcekr1CF_QVf0mtv91XPI_Qp2q1BDbE/edit">paper</a> <a href="https://docs.google.com/file/d/0B9V_gF766XZAZDhCLUF5ZUdFUnc/edit?usp=sharing">slides</a>
 
@@ -133,9 +146,6 @@ Rony Thi; UW <a title="http://genefish.wikispaces.com/Rony's+Notebook" href="ht
 
 Anna Fabrizio; UW SAFS <a title="https://docs.google.com/Doc?docid=0AdV_gF766XZAZDhqZmhzbV83MWc3bWJmN2hm&amp;hl=en" href="https://docs.google.com/Doc?docid=0AdV_gF766XZAZDhqZmhzbV83MWc3bWJmN2hm&amp;hl=en">proposal</a> | <a title="http://www.scribd.com/doc/30310424/Fabrizio-Capstone-Paper" href="http://www.scribd.com/doc/30310424/Fabrizio-Capstone-Paper">paper</a> | <a title="http://www.slideshare.net/sr320/fabriziocapstone" href="http://www.slideshare.net/sr320/fabriziocapstone">presentation</a>
 
-Timothy Green; University of Queensland
-
-Adelaide Rhodes; Visiting Scholar <a title="http://genefish.fish.washington.edu/rhodes/" href="http://genefish.fish.washington.edu/rhodes/">website</a>
 
 Kevin Jeong; UW FISH499 <a title="http://genefish.wikispaces.com/Kevin's+Notebook" href="http://genefish.wikispaces.com/Kevin%27s+Notebook">notebook</a>
 
@@ -162,3 +172,14 @@ Lindsay Braun; Santa Clara University <a title="http://fish.washington.edu/rese
 Mairead Bermingham; N Univ of Ireland, Cork <a title="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html" href="http://www.mbl.edu/gsm/abstracts06/abstract_bermingham.html">project</a>   
 
 Zachary Schiller; Tufts University <a title="http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf" href="http://fish.washington.edu/research/genefish/reprints/Schiller06.pdf">project</a>
+
+<br>
+
+
+###_Visiting Scientsts_
+
+Timothy Green; University of Queensland
+
+Adelaide Rhodes; Visiting Scholar <a title="http://genefish.fish.washington.edu/rhodes/" href="http://genefish.fish.washington.edu/rhodes/">website</a>
+
+<br>
