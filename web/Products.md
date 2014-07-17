@@ -7,9 +7,13 @@
 
 <br>
 
-####Primary Data 
+####Primary Data
+ 
+<a style="float: right" href="https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#card:id=2">
+<img style="float: right" src="http://eagle.fish.washington.edu/cnidarian/skitch/Nightingales_-_Google_Fusion_Tables_1970319C.png" alt="Nightingales_-_Google_Fusion_Tables_1970319C.png" height=220/>
+</a>   
 
-* [Nightingales](http://) (High-Throughput Sequencing project database)
+* [Nightingales](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#card:id=2) (High-Throughput Sequencing project database)
 * NCBI (GenBank, SRA, BioProjects, ESTs)   
 * EBI (Protein Mass Spec)   
 
@@ -17,10 +21,19 @@
 ####Secondary Data 
 
 * FigShare  
-	* Steven Roberts
-	* Mackenzie Gavery
-	* Claire Olson
-	* 
+
+
+
+
+
+
+
+| <iframe src="http://figshare.com/badges/5/382527" frameborder="0" width="260" height="80"></iframe>        | <iframe src="http://figshare.com/badges/5/281990" frameborder="0" width="260" height="80"></iframe> | 
+| ------------- |:-------------:| -----:|
+| <iframe src="http://figshare.com/badges/5/97086" frameborder="0" width="260" height="80"></iframe>      | <iframe src="http://figshare.com/badges/5/99128" frameborder="0" width="260" height="80"></iframe> | 
+ 
+
+
 	
 * GitHub  
 
@@ -44,7 +57,7 @@
 
 Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.00224
 
-Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 
+Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 ([pdf](http://eagle.fish.washington.edu/cnidarian/Briefings%20in%20Functional%20Genomics-2014-Gavery-217-22.pdf))
 
 Gavery MR and Roberts SB. (**2013**) [Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc](https://peerj.com/articles/215/) PeerJ 1:e215. doi:10.7717/peerj.215
 
