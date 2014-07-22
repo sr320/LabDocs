@@ -30,15 +30,15 @@ Larvae were kept in static tanks (100l) for 5 days post-fertilization.  Counts o
 
 Bisulfite treated DNA Sequencing (BS-Seq)
 Genomic DNA was extracted using DNAzol according to the manufacturer’s protocol (Molecular Research Center, Inc., Cincinnati, OH). High molecular weight genomic DNA (6 ug), confirmed by gel electrophoresis, was used to prepare libraries (6) for whole-genome bisulfite sequencing. Briefly, DNA was fragmented to an average length of 250 bp in an AFA microtube using a Covaris S2 (Covaris Inc Woburn, MA) with the following settings: duty cycle 20%, intensity of 4.0, cycles per burst 200, for 60 seconds.  Fragment size resulting from DNA shearing was confirmed by gel electrophoresis. Libraries were constructed using the Paired-End DNA Sample Prep Kit (Illumina, San Diego, CA) with standard protocols. Unmethylated Lambda DNA (0.5%) (Promega Co. Madison, WI) was added to the each sample prior to fragmentation and library construction to serve as a measure of bisulfite conversion efficiency.[b]  DNA was treated with sodium bisulfite using the EpiTect Bisulfite Kit (Qiagen, Valencia, CA) and 72 bp paired-end sequencing was performed on the Illumina HiSeq 2000 system. Library construction and sequencing was performed by the High Throughput Genomics Center (htSEQ, Seattle, WA).  
-Quality filtered bisulfite sequencing reads from the six libraries were separately mapped to the Crassostrea gigas genome (version GCA_000297895.1; Zhang et al. 2012) using Bisulfite Sequencing Mapping Program BSMAP v2.74 (Xi and Li 2009). Resulting alignment from mapping bisulfite treated reads was analyzed with methratio, a Python script that accompanies BSMAP. Parameters for methratio included reporting loci with zero methylation ratios (-z), combining CpG methylation ratios on both strands (-g) and only using unique mappings (-u). Only CpG loci covered by at least 3 sequenced reads were considered for further analysis. Data can be accessed computational analysis performed as described via the GitHub repository: olson_larv (tmp-http://goo.gl/lncbKL). This includes …….
+Quality filtered bisulfite sequencing reads from the six libraries were separately mapped to the Crassostrea gigas genome (version GCA_000297895.1; Zhang et al. 2012) using Bisulfite Sequencing Mapping Program BSMAP v2.74 (Xi and Li 2009). Resulting alignment from mapping bisulfite treated reads was analyzed with methratio, a Python script that accompanies BSMAP. Parameters for methratio included reporting loci with zero methylation ratios (-z), combining CpG methylation ratios on both strands (-g) and only using unique mappings (-u). Only CpG loci covered by at least 3 sequenced reads were considered for further analysis. Data can be accessed computational analysis performed as described via the GitHub repository: olson_larv (tmp-http://goo.gl/lncbKL). This includes …….[c]
 
 
 Global DNA Methylation Comparison
-Whole-genome DNA methylation correlation and clustering were performed using the methylKit 0.9.2 (Akalin et al. 2012) in R v3.0.3. Similarities were visualized using correlation coefficients, hierarchical clustering, and Principal Component Analysis (PCA). Pairwise coefficients were calculated by Pearson’s correlation scores to create a matrix. Hierarchical clustering was performed using 1-Pearson’s correlation distance of the six methylation profiles. PCA was performed and the variation was compared by analysis of similarity (ANOSIM). 
+Whole-genome DNA methylation correlation and clustering were performed using the methylKit 0.9.2 (Akalin et al. 2012) in R v3.0.3. Pairwise coefficients were calculated by Pearson’s correlation scores to create a matrix. Hierarchical clustering was performed using 1-Pearson’s correlation distance of the six methylation profiles. 
 
 
 Developmental Differences in DNA Methylation
-To characterize DNA methylation patterns that changed during development we identified loci that 1) were the same across biological replicates (i.e. Lineage 1 and 2) and 2) differed in methylation levels between the sperm and two timepoints post-fertilization. Specifically, all data from the methratio analysis was imported into SQLShare (Howe et al. 2011) where specific queries[c] were performed. Methylation levels Similar methylation across biological replicates[d] (ie M1 day3 larvae and M3 day3 larvae) was determined if the standard deviation of the mean methylation level was  0.2 for these loci. Three pairwise comparisons were then made (sperm v day3, sperm v day5, day3 v day5) with a loci identified as different if average methylation was least 30%.
+To characterize DNA methylation patterns that changed during development we identified loci that 1) were the same across biological replicates (i.e. Lineage 1 and 2) and 2) differed in methylation levels between the sperm and two timepoints post-fertilization. Specifically, all data from the methratio analysis was imported into SQLShare (Howe et al. 2011) where specific queries[d] were performed. Methylation levels Similar methylation across biological replicates[e] (ie M1 day3 larvae and M3 day3 larvae) was determined if the standard deviation of the mean methylation level was  0.2 for these loci. Three pairwise comparisons were then made (sperm v day3, sperm v day5, day3 v day5) with a loci identified as different if average methylation was least 30%.
 
 
 *Include SQLshare queries / masster file
@@ -75,7 +75,7 @@ OUTLINE
 
  
 Bisulfite treated DNA Sequencing (BS-Seq)
-Bisulfite treated DNA Sequence reads[e] (Table 2) were produced and are available (NCBI Sequence Read Archive[f]).  The total paired end reads and single end reads mapping to the Crassostrea gigas genome were calculated from BSMAP (Table 2).  Sodium bisulfite conversion efficiency was estimated to be 99.999% based[g] on analysis of lambda phage DNA. Total CpG dinucleotide percent methylations were calculated for individual samples to compare amounts nuclear genome methylation (Table 1). Overall, methylation levels did not dramatically vary between developmental stages, and male methylation profiles were similar to their respective larvae.
+Bisulfite treated DNA Sequence reads[f] (Table 2) were produced and are available (NCBI Sequence Read Archive[g]).  The total paired end reads and single end reads mapping to the Crassostrea gigas genome were calculated from BSMAP (Table 2).  Sodium bisulfite conversion efficiency was estimated to be 99.999% based[h] on analysis of lambda phage DNA. Total CpG dinucleotide percent methylations were calculated for individual samples to compare amounts nuclear genome methylation (Table 1). Overall, methylation levels did not dramatically vary between developmental stages, and male methylation profiles were similar to their respective larvae.
 
 
 
@@ -84,7 +84,7 @@ CpG DNA Methylation
 The bisulfite sequencing effort provided ≥ 3x coverage for a portion of the 9.98 million CpGs in the oyster genome. A majority of the CpGs from all samples were not methylated in the oyster nuclear genome. This coverage threshold corresponds to 1,218,605 CpGs (M1) and 1,364,436 (M3) in spermatozoa, and 252,136 CpGs (T1D3), 874,962 CpGs (T1D5), 1,159,920 CpGs (T3D3) and 1,186,022 CpGs (T3D5) in larvae. A majority of cytosines from all samples were either unmethylated (3x coverage, 0% unconverted) or methylated (3x coverage, ≥50% unconverted). 
 *add column with average coverage for each sample?
 Sample ID
-	Raw sequence reads / Total reads [h]
+	Raw sequence reads / Total reads [i]
 	Paired end reads
 	Filtered reads (3x coverage)
 	CpG Dinucleotide Methylation
@@ -124,7 +124,7 @@ Sample ID
 
 
 	17.1%
-	Table 2.[i] Paired end reads were mapped to the Crassostrea gigas reference genome using BSMAP. Filtered reads indicates the total number of CpG sites mapped to at least 3 reads. CpG dinucleotide methylation indicates overall nuclear genome methylation.
+	Table 2.[j] Paired end reads were mapped to the Crassostrea gigas reference genome using BSMAP. Filtered reads indicates the total number of CpG sites mapped to at least 3 reads. CpG dinucleotide methylation indicates overall nuclear genome methylation.
 
 
 
@@ -158,7 +158,7 @@ A total of 481 lineage-specific loci were identified among spermatozoa and larva
 
 
   
-[j][k]
+[k][l]
 
 
 
@@ -214,7 +214,7 @@ Conclusion-
 References
 
 
-Zhang et al. 2012 b. Crassostrea gigas - Ensembl Genomes. Database version number 75.1. 20 September 2012. <http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index[l]>
+Zhang et al. 2012 b. Crassostrea gigas - Ensembl Genomes. Database version number 75.1. 20 September 2012. <http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index[m]>
 
 
 Goff, Stephen A. et al., "The iPlant Collaborative: Cyberinfrastructure for Plant Biology," Frontiers in Plant Science 2 (2011), doi:10.3389/fpls.2011.00034.
@@ -286,10 +286,10 @@ All loci covered from the bisulfite sequencing run from all seven developmental 
 
 
 
-The resulting methratio outputs were quality filtered to examine distribution of methylation. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment.  Methylation ratios were calculated for individual loci for all seven samples. Total CpG dinucleotide methylation was determined by obtaining the number of methylated cytosines (3x coverage, ≥50% unconverted) divided by the total number of CpG dinucleotides covered from bisulfite sequencing.  Genome feature tracks were used to visualize and compare the distribution of methylation between oyster gametes and larval developmental stages. Genome feature tracks were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013)... note [m]
+The resulting methratio outputs were quality filtered to examine distribution of methylation. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment.  Methylation ratios were calculated for individual loci for all seven samples. Total CpG dinucleotide methylation was determined by obtaining the number of methylated cytosines (3x coverage, ≥50% unconverted) divided by the total number of CpG dinucleotides covered from bisulfite sequencing.  Genome feature tracks were used to visualize and compare the distribution of methylation between oyster gametes and larval developmental stages. Genome feature tracks were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013)... note [n]
 
 
- The packages shape 1.4.1 and RColorBrewer 1.0-5 were used for genome-wide visualization of methylation levels among samples.[n]
+ The packages shape 1.4.1 and RColorBrewer 1.0-5 were used for genome-wide visualization of methylation levels among samples.[o]
 
 
 between various life history stages were analyzed using the R package methylKit (Akalin et al. 2012), which models the methylation of CpG loci within a logistic regression.
@@ -309,8 +309,8 @@ The methylation level of each CpG loci was limited to those with
 
 
 
-CpG Dinucleotide Methylation[o]
-All CpG loci were quality filtered to [p]compare whole DNA methylome profiles and identify developmental and lineage-specific methylation patterns. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment. The methylation levels of CpG loci were calculated as values ranging 0-1 representing the corresponding level of methylation (0%-100%). According to these levels, CpG dinucleotides were considered either methylated (50% unconverted) or unmethylated (< 50% unconverted).
+CpG Dinucleotide Methylation[p]
+All CpG loci were quality filtered to [q]compare whole DNA methylome profiles and identify developmental and lineage-specific methylation patterns. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment. The methylation levels of CpG loci were calculated as values ranging 0-1 representing the corresponding level of methylation (0%-100%). According to these levels, CpG dinucleotides were considered either methylated (50% unconverted) or unmethylated (< 50% unconverted).
 
 
 / Methylation Profile Comparisons
@@ -325,21 +325,21 @@ this needs more detail - did you filter out gametes and larvae? were samples spu
 compared samples from the same progeny (i.e. The two lineages of male spermatozoa and their progeny). 
 
 
-The package methylKit models the methylation of CpG loci within a logistic regression and was used for visualization of descriptive statistics among samples and generating scatter plots for DNA methylation level comparisons on a genome-wide scale[q]. [r]
+The package methylKit models the methylation of CpG loci within a logistic regression and was used for visualization of descriptive statistics among samples and generating scatter plots for DNA methylation level comparisons on a genome-wide scale[r]. [s]
 
 
 
 
-Pair-wise Pearson’s correlation scores were calculated for all six samples.  The package methylKit was also used to perform hierarchical clustering of the seven methylation profiles using 1-Pearson’s correlation distance. Epigenetic differentiation between developmental stages and lineages was assessed by Principal Component Analysis (PCA) plots of methylation profiles for each sample followed by an analysis of molecular variance (AMOVA).[s]
+Pair-wise Pearson’s correlation scores were calculated for all six samples.  The package methylKit was also used to perform hierarchical clustering of the seven methylation profiles using 1-Pearson’s correlation distance. Epigenetic differentiation between developmental stages and lineages was assessed by Principal Component Analysis (PCA) plots of methylation profiles for each sample followed by an analysis of molecular variance (AMOVA).[t]
 
 
-Methylation profiles were visualized using the Integrative Genomics Viewer (IGV) (Thorvaldsdóttir et al. 2012 and Robinson et al. 2011). IGV was used to examine regions of methylation with respect to genomic features (introns, exons, and repetitive elements) and to visually compare methylation profiles among entire contigs. (Supplemental info- figshare http://dx.doi.org/10.6084/m9.figshare.1060465)[t]
+Methylation profiles were visualized using the Integrative Genomics Viewer (IGV) (Thorvaldsdóttir et al. 2012 and Robinson et al. 2011). IGV was used to examine regions of methylation with respect to genomic features (introns, exons, and repetitive elements) and to visually compare methylation profiles among entire contigs. (Supplemental info- figshare http://dx.doi.org/10.6084/m9.figshare.1060465)[u]
 
 
  larvecompared methylation levels among combinations of male gamete and larvae samples. To test developmental differences in DNA methylation patterns among samples, we found similarities among the same time points, and then compared methylation differences from distinct developmental stages (i.e. examined the male spermatozoa, day 3 larvae, and day 5 larvae samples). For a loci to be called developmentally different it was required to fit into one of the following comparisons: spermatozoa versus day 3 larvae, spermatozoa versus day 5 larvae, or day 3 larvae versus day 5 larvae.  Methylation values of common loci between both lineages at the same developmental stage were averaged to obtain a representative value of the region during oyster development.  A standard deviation cutoff  0.2 and at least 30% difference in average methylation were used for determining developmental DNA methylation patterns. Differentially methylated loci involved in development were annotated to corresponding protein-coding genes using the Ensembl database imported from GigaDB (Fang et al. 2013) from the UniProtKB database to classify what genes are driving differences in methylation during oyster development.
 
 
-These packages are dependent on Bioconductor packages GenomicRanges 1.14.4 and data.table 1.9.2.[u][v] The package methylKit uses a logistic regression for visualization and DNA methylation level comparisons on a genome-wide scale[w]. 
+These packages are dependent on Bioconductor packages GenomicRanges 1.14.4 and data.table 1.9.2.[v][w] The package methylKit uses a logistic regression for visualization and DNA methylation level comparisons on a genome-wide scale[x]. 
 
 
 
@@ -411,27 +411,28 @@ Significant enrichment of terms associated with various developmental processes,
 
 [a]are you showing this data?
 [b]is this true?
-[c]need to figure out citation.
-[d]related - might want to consider figure that diagrams with proper labels
-[e]Also want to consider other days type . IGV tables etc
+[c]steven needs to fix up
+[d]need to figure out citation.
+[e]related - might want to consider figure that diagrams with proper labels
+[f]Also want to consider other days type . IGV tables etc
 
 
 Maybe consider general stats on loci covered - number of meth
-[f]you can go ahead and start getting these in - might can fall into bioproject we already have?
-[g]Did you check this
-[h]Add link to SRA for each
-[i]Add column for bisulfite conversion rate?
-[j]Just gene, TE and promoter
-[k]pyramid plot in R- plotrix
-[l]make url a citation
-[m]would be super cool to get post bsmap into ipython nb to share. need to decide what comparison will be made but assume methylkit is key- genome feature tracks likely bonus
-[n]May not use this as figure
-[o]consider from a readers perspective that this small section does not really describe why or what they would need to to reproduce
-[p]does not mean anything
-[q]too long
-[r]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
+[g]you can go ahead and start getting these in - might can fall into bioproject we already have?
+[h]Did you check this
+[i]Add link to SRA for each
+[j]Add column for bisulfite conversion rate?
+[k]Just gene, TE and promoter
+[l]pyramid plot in R- plotrix
+[m]make url a citation
+[n]would be super cool to get post bsmap into ipython nb to share. need to decide what comparison will be made but assume methylkit is key- genome feature tracks likely bonus
+[o]May not use this as figure
+[p]consider from a readers perspective that this small section does not really describe why or what they would need to to reproduce
+[q]does not mean anything
+[r]too long
 [s]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
-[t]while pretty - i am not sure this is a method used to obtain a result - certainly not comparsons? one option is right after methratio can add sentence to say igv tracks were made -
-[u]dont see this necessary
-[v]does methylkit tell you these packages need to be installed
-[w]confirm this makes sense
+[t]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
+[u]while pretty - i am not sure this is a method used to obtain a result - certainly not comparsons? one option is right after methratio can add sentence to say igv tracks were made -
+[v]dont see this necessary
+[w]does methylkit tell you these packages need to be installed
+[x]confirm this makes sense
