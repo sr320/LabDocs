@@ -24,8 +24,8 @@ Introduction
 
 Methods
 Experimental Design and Sample Collection 
-Two males and a single female oyster were collected from Oakland Bay, South Puget Sound, WA.  Adult male oysters were offspring from the same spawn and the female oyster was unrelated and from a different spawn. Oysters were strip spawned by scoring the gonad tissue with a sterile razor blade and rinsing out gametes with sterile seawater (SSW).  Oocytes were incubated for 30 minutes in SSW and then 2 million oocytes each were placed into two separate 1L plastic containers. Spermatozoa diluted in 1mL of SSW (sperm concentration?) from each male were separately fertilized with the oocytes. The container volume was brought up to 800mL with SSW and allowed to sit for 30 minutes. Fertilization was confirmed by examining polar bodies in cells under a compound microscope. Fertilized oocytes were transferred to 100 liter tanks for the remainder of the experiment. [a]
-Larvae were kept in static tanks and raised for 5 days post-fertilization.  Larvae were not fed for the duration of the experiment to remove any potential of microbial contamination during bisulfite sequencing.  Counts of oyster larvae were performed at 5 days post-fertilization to examine mortality, hatching rate, and check for potential ciliate contaminants.  Samples for DNA methylation analysis were taken from oyster oocytes and spermatozoa prior to fertilization, and oyster larvae were collected at days 3 and 5 post-fertilization.  Larvae samples were taken by filtering on a 20µm screen then scooped into a sterile microfuge tube. Approximately 1.15 million larvae were collected from each sample for DNA methylation analysis. All samples were preserved in 95% ethanol, immediately placed on ice then stored at -20°C until further processing.  
+Two males and a single female oyster were collected from Oakland Bay, South Puget Sound, WA.  Oysters were strip spawned by scoring the gonad tissue with a sterile razor blade and rinsing out gametes with sterile seawater.  Oocytes were incubated for 30 minutes in sterile seawater and 2 million oocytes each were placed into two separate plastic containers. Spermatozoa diluted in sterile seawater (1ml) from each male were used to fertilized oocytes. Fertilization was confirmed by examining polar bodies in cells under a compound microscope. 
+Larvae were kept in static tanks (100l) for 5 days post-fertilization.  Counts of oyster larvae were performed at 5 days post-fertilization to examine mortality, hatching rate, and check for potential ciliate contaminants[a]. Samples for DNA methylation analysis were taken from oyster oocytes and spermatozoa prior to fertilization, and oyster larvae were collected at days 3 and 5 post-fertilization.  Larvae samples were taken by filtering on a 20µm screen then scooped into a sterile microfuge tube. Approximately 1.15 million larvae were collected from each sample for DNA methylation analysis. All samples were preserved in 95% ethanol, immediately placed on ice then stored at -20°C until further processing.  
 
 
 Sample
@@ -473,7 +473,7 @@ Also look at DMRs common between samples
 Significant enrichment of terms associated with various developmental processes, etc. Gene ontology analyses revealed that over x% of DMRs from each pair-wise comparison were classified as.. positive correlation 
 
 
-[a]did you only transfer eggs that were fertilized?  did you check % fertilization?
+[a]are you showing this data?
 [b]need to figure out citation.
 [c]related - might want to consider figure that diagrams with proper labels
 [d]Also want to consider other days type . IGV tables etc
