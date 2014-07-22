@@ -37,28 +37,17 @@ Global DNA Methylation Comparison
 Whole-genome DNA methylation correlation and clustering were performed using the methylKit 0.9.2 (Akalin et al. 2012) in R v3.0.3. Pairwise coefficients were calculated by Pearson’s correlation scores to create a matrix. Hierarchical clustering was performed using 1-Pearson’s correlation distance of the six methylation profiles. 
 
 
-Developmental Differences in DNA Methylation
-To characterize DNA methylation patterns that changed during development we identified loci that 1) were the same across biological replicates (i.e. lineage 1 and 3) and 2) differed in methylation levels among the sperm and two larval samples (72hpf and 120hpf). Specifically, simillarity in biological replicates was defined as individual methylation ratio was less than 0.2 different from mean methylation ratio. Differences through development were identified as any loci were mean methylation ratio of biological replicates varied greater than 0.4 for any comparison. Queries were made in SQLShare with code and data available in GITHUB> 
+Differentially methylated loci 
+To characterize DNA methylation patterns that changed during development we identified loci that 1) were the same across biological replicates (i.e. lineage 1 and 3) and 2) differed in methylation levels among the sperm and two larval samples (72hpf and 120hpf). Specifically, similarity in biological replicates was defined as individual methylation ratio was less than 0.2 different from mean methylation ratio. Differences through development were identified as any loci were mean methylation ratio of biological replicates varied greater than 0.4 for any comparison. 
+To examine lineage-specific DNA methylation patterns we found similarities among the male gamete sample to its progenies, and then compared methylation differences between the two lineages (Lineages 1 and 3). Loci were determined to be similar throughout a lineage when a the methylation level at a loci was less than 0.2 from mean across the three samples (ie sperm, 70hpf, 150hpf). Loci were determined to be different between lineages when these loci where the mean methylation level for a lineage was at least 0.3 different that mean of other lineage.
+All loci determined to be different during development and across lineage where characterized with respect to overlapping genomic feature (putative promoter, gene, transposable element) using Bedtools (Ref?) All code and data available in GITHUB> 
 
 
-
-
-Lineage-specific DNA methylation
-To examine lineage-specific DNA methylation patterns we found similarities among the male gamete sample to its progenies, and then compared methylation differences between the two lineages (male 1 and male 3 lineages). Loci were determined to be similar throughout a lineage when the standard deviation of the mean methylation level was  0.2 and if average methylation was least 30% different for these loci. Loci were determined to be different between lineages when the standard deviation was  0.2 and less than 30% difference in average methylation among lineages. Loci specific to a lineage were characterized with respect to oyster genomic features (exons, introns, and repetitive elements). Genome features were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013).
-
-
-Differential methylation annotation by genes - promoter, exon, intron, intergenic
 
 
 
 
 Results
-OUTLINE
--raw, filtered (SRA#)
--%mapped
--genome wide- methylkit
--Developstage
--Lineage
 
 
  
