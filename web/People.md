@@ -53,6 +53,7 @@ My previous work has been in the Eastern oyster (Crassostrea virginica) with foc
 <br>
 
 #Research Scientists
+
 Sam White
 
 Brent Vadopalas
@@ -96,10 +97,7 @@ Dave Metzger
 ###_Undergraduates_
 
 
-<!---
-I realize all code below is crappy (html) 
-no plans to edit. will just use markdown going forward. 
--->
+
 Hannah Wear; UW SAFS (xx-xx)
 [proposal](http://)
 [paper](http://)
@@ -114,6 +112,11 @@ Jessica Blanchette; UW SAFS (xx-xx)
 [proposal](http://)
 [paper](http://)
 [poster](http://)
+
+<!---
+I realize all code below is crappy (html) 
+no plans to edit. will just use markdown going forward. 
+-->
 
 Bradley Chi; UW SAFS <a href="https://docs.google.com/document/d/1hq9m-_T5E9O0NiWx9uIPHOF3npCFOk6wAEWGZoaT5AM/edit">proposal</a> <a href="https://docs.google.com/document/d/1rew1-36rDWzbCcekr1CF_QVf0mtv91XPI_Qp2q1BDbE/edit">paper</a> <a href="https://docs.google.com/file/d/0B9V_gF766XZAZDhCLUF5ZUdFUnc/edit?usp=sharing">slides</a>
 
