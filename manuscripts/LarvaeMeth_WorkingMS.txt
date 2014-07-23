@@ -52,7 +52,9 @@ Results
 
  
 Bisulfite treated DNA Sequencing (BS-Seq)
-Bisulfite treated DNA Sequence reads are available (NCBI Sequence Read Archive[d]). Sodium bisulfite conversion efficiency was estimated to be 99.999% based[e] on analysis of lambda phage DNA. Total number of aligned reads varied from XXX - XXX[f].   
+Bisulfite treated DNA Sequence reads are available (NCBI Sequence Read Archive[d]). Sodium bisulfite conversion efficiency was estimated to be 99.999% based[e] on analysis of lambda phage DNA. Total number of aligned reads varied from XXX - XXX[f].  The number covered cytosines in the oyster genome ranged from 26507310 to 53389886 across libraries. 
+
+
 
 
 CpG DNA Methylation 
