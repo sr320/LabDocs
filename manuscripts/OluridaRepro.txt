@@ -24,11 +24,20 @@ Hypothesis
 
 Methods
 Broodstock Conditioning and Outplanting 
-Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012. Mass spawning of oysters occurred in June 2013 following several months of conditioning. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble. In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags with 24 oysters glued to ceramic tiles. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging  groups of three were ziptied, roped together, and caribine clipped to a hanging rope tied to a floating dock. At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
+Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012. Mass spawning of oysters occurred in June 2013 following several months of conditioning. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble. In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags with 24 oysters glued to ceramic tiles. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
 
 
-Site Monitoring and Growth
-Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014. Survival was measured by counting all live animals remaining in each tray for each population in each of three months monitored. Mortality was calculated through counts of all dead individuals in each tray. In December 2013 at Dabob Bay, we counted the live samples as we opened windscreen bags which contained 1/4th the population in each tray. We then multiplied this number by 4 to get a rough estimate of the live animals for the tray. Growth was measured via size and weight measurements taken directly from live subsamples collected in the field and measured in the lab. In the lab each of the sampled oysters was measured using calipers for hinge to bill length and weighed with shell to determine whole body weight. Live samples were not collected in February 2014 due to low mortality instead photographs were taken to document size through an image analysis program (ImageJ). 
+
+
+Site Monitoring
+
+
+Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014.[a] 
+
+
+
+
+Survival was measured by counting all live animals remaining in each tray for each population in each of three months monitored. Mortality was calculated through counts of all dead individuals in each tray. In December 2013 at Dabob Bay, we counted the live samples as we opened windscreen bags which contained 1/4th the population in each tray. We then multiplied this number by 4 to get a rough estimate of the live animals for the tray. Growth was measured via size and weight measurements taken directly from live subsamples collected in the field and measured in the lab. In the lab each of the sampled oysters was measured using calipers for hinge to bill length and weighed with shell to determine whole body weight. Live samples were not collected in February 2014 due to low mortality instead photographs were taken to document size through an image analysis program (ImageJ). 
 
 
 
@@ -41,18 +50,10 @@ Samples for genetic testing were collected at outplanting in August 2013 for bas
 
 
 
-Prior to the 2014 spawning season, oysters bred from established broodstock populations at Fidalgo Bay, Dabob Bay, and Oyster Bay were reciprocally transplanted in Fidalgo Bay, Oyster Bay, and at Clam Bay in Manchester, WA in August 2013 in groups of 480 individuals divided into 4 trays with 120 animals a piece in them. Originally all populations were planted on the bottom in intertidal areas but to avoid freeze overs, the 12 trays were condensed into 4 hanging stacks and hung at nearby floating docks to mimic subtidal conditions in October/November 2013. Growth and mortality was monitored on several dates prior to spawning season. 
+Reproductive Assessment 
+To assess number of brooding larvae in oysters one tray from each population was subjected to anestesia with larvae removed and counted. Specifically, trays were removed from water for 45 minutes then immersed in epsom salt sea water solution[b]  for an additional 45 minutes. When brooding oysters were detected, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis.
 
 
-At Manchester and Fidalgo, there were relatively equivalent numbers of animals in each population prior to spawning season. Since the four stacks contained equivalent numbers of animals, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. 
-
-
-Sampling occurred from April 30th to August 1st, 2014, with each site being visited once per week except for the week of May 4th during which water temperatures were below spawning threshold as evidenced by the lack of brooders in the week prior and the week after.
-
-
-
-
-Day of sampling procedure
 
 
 To sample using the anesthetization procedure we did first removed the appropriate stack from the water and broke the stack down into its three composite trays. Two of the trays were then set in 10 gallons of ambient temperature sea water and covered with a tarp during periods of direct sunlight to reduce temperature increases as the trays were kept within 3 degrees of the initial ambient seawater temperature. The third tray was set on a dry surface to deprive the oysters of oxygen for 45 minutes. After the period of deprivation the tray was then placed in an epsom salt sea water solution while one of the remaining pretreatment trays were then deprived of oxygen. The oxygen deprivation has been shown to increase the likelihood of oysters to open during the treatment phase which increases the effectiveness of the treatment (Jackson and Vadopalas, pers. comm.) 
@@ -67,6 +68,22 @@ If a brooding oyster were detected, then the larvae were flushed out using ambie
 Once each tray had been checked it was placed into an ambient sea water bath which allowed the animals to recover from the epsom salt as well as any heat or desiccation that had occurred during the brood checking procedure. These tubs were covered with a tarp and were maintained within 3 degrees of their initial temperature often through the addition of gel blocks or extra sea water to mitigate temperature change. Once all three trays had been recovered at least partially, the trays were then built back into the hanging stack and placed back into the water. 
 
 
+----------------------------------------------------------------
+
+
+notes
+At Manchester and Fidalgo, there were relatively equivalent numbers of animals in each population prior to spawning season. Since the four stacks contained equivalent numbers of animals, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. 
+
+
+Sampling occurred from April 30th to August 1st, 2014, with each site being visited once per week except for the week of May 4th during which water temperatures were below spawning threshold as evidenced by the lack of brooders in the week prior and the week after.
+
+
+
+
+
+
+
+
 
 
 
@@ -74,3 +91,5 @@ Once each tray had been checked it was placed into an ambient sea water bath whi
 
 
 Larvae Counts/quality
+[a]please make simple table showing when sites were visited and what was done (mort. growth repro etc)
+[b]be precise with conc
