@@ -70,20 +70,17 @@ IDEA[g][h][i]
 
 
 Genome-wide DNA Methylation Comparison
-Sample correlation and clustering was performed to assess relationships on a genome-wide scale. Examination of genome-wide methylation patterns of all stages revealed two distinct clusters (Figure 1). Males and their progenies exhibited high correlation between individuals with a pair-wise Pearson’s correlation coefficient (r) > 0.82, indicating DNA methylation information may be inherited. Similar findings of heritable DNA methylation patterns were also revealed in hierarchical clustering of genome-wide methylation pattern clustering.  Despite being composed of a single cell type, male spermatozoa sample methylation profiles most closely resembled that of their progenies. This result is consistent with our findings that larvae have similar methylation profiles to their parents. Principal component analysis (PCA) revealed two distinct groups, indicating that males and their progenies had similar methylation profiles. *add here about stats of PCA plots*
+Sample correlation and clustering was performed to assess relationships on a genome-wide scale. Males and their progenies exhibited high correlation between individuals with a pair-wise Pearson’s correlation coefficient (r) > 0.82. Similar findings  were observed with hierarchical clustering (FIGURE). 
 
 
-  
 
-Figure 1. Assessment of sample similarity with scatter plots indicating percent DNA methylation values for each pair in six oyster developmental samples. Numbers in the right corner denote pair-wise Pearson’s correlation coefficients (r) between samples. Images on the diagonal are histograms of frequency of CpG methylation ratios showing percent methylation per cytosine.
-correlation of methylation intensities 
-a)  
+
 
 
 b)  
 
 
-Figure 2. Sample clustering of six sperm and larvae methylation profiles. a) Principal component analysis (PCA) of the six sperm and larvae methylation profiles. PCA shows principal component 1 and principal component 2 for each developmental sample. Samples closer to each other in principal component space are similar in their DNA methylation profiles. b) Dendogram of the six male spermatozoa and oyster larvae genome-wide methylation profiles using Pearson’s correlation distance. 
+Figure X. Dendogram of the six male spermatozoa and oyster larvae genome-wide methylation profiles using Pearson’s correlation distance. 
 
 
 
