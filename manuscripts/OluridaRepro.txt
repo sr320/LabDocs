@@ -1,4 +1,4 @@
-﻿Reproductive Success Estimates for native and non native Ostrea lurida populations within the Puget Sound. 
+﻿Reproductive Success [a]Estimates for native and non native Ostrea lurida populations within the Puget Sound. 
 
 
 
@@ -32,7 +32,7 @@ Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob
 Site Monitoring
 
 
-Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014.[a] 
+Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014.[b] 
 
 
 
@@ -44,14 +44,10 @@ Survival was measured by counting all live animals remaining in each tray for ea
 
 
 
-Sample Collection
-Samples for genetic testing were collected at outplanting in August 2013 for baseline data. Then in December 2013 following a major mortality event at Dabob and prior to any more freeze events at Fidalgo, Oyster, and Manchester Bay we took another genetics sample. These samples comprised of approximately 32 animals per population at Fidalgo, Manchester, and Oyster Bays. At Dabob we collected 43 from the Fidalgo population, 50 from the Oyster Bay population, and 59 from the Dabob population due to the high mortality. We visited Dabob again in January to collected another 22 from the Fidalgo population, 33 from the Oyster Bay population, and 39 from the Dabob population. 
-
-
 
 
 Reproductive Assessment 
-To assess number of brooding larvae in oysters one tray from each population was subjected to anestesia with larvae removed and counted. Specifically, trays were removed from water for 45 minutes then immersed in epsom salt sea water solution[b]  for an additional 45 minutes. When brooding oysters were detected, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis.
+To assess number of brooding larvae in oysters one tray from each population was subjected to anestesia with larvae removed and counted. Specifically, trays were removed from water for 45 minutes then immersed in epsom salt sea water solution[c]  for an additional 45 minutes. When brooding oysters were detected, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis.
 
 
 
@@ -91,5 +87,6 @@ Sampling occurred from April 30th to August 1st, 2014, with each site being visi
 
 
 Larvae Counts/quality
-[a]please make simple table showing when sites were visited and what was done (mort. growth repro etc)
-[b]be precise with conc
+[a]not--perhaps Fitness?
+[b]please make simple table showing when sites were visited and what was done (mort. growth repro etc)
+[c]be precise with conc
