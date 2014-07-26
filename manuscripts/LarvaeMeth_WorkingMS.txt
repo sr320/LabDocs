@@ -52,32 +52,25 @@ Results
 
  
 Bisulfite treated DNA Sequencing (BS-Seq)
-Bisulfite treated DNA Sequence reads are available (NCBI Sequence Read Archive[d]). Sodium bisulfite conversion efficiency was estimated to be 99.999% based[e] on analysis of lambda phage DNA. Total number of aligned reads varied from  .
-XXX - XXX[f].  The number covered cytosines in the oyster genome ranged from 26507310 to 53389886 across libraries. A majority of cytosines (x-x%) were unmethylated using a 3x coverage threshold. 
+Bisulfite treated DNA Sequence reads are available (NCBI Sequence Read Archive[d]). Sodium bisulfite conversion efficiency was estimated to be 99.999% based[e] on analysis of lambda phage DNA. The number covered cytosines in the oyster genome ranged from 2.6x107 to 5.3x107 across libraries. Using a 3x coverage threshold, a majority of cytosines (75-78%) were determined to be unmethylated (methylation ratio = 0), with 15-18% of the CpG dinucleotides methylated (methylation ratio  0.5).
 
 
-
-
-IDEA[g][h][i]
-
-
-
-
-
-
+IDEA
 
 
 
 
 Genome-wide DNA Methylation Comparison
-Sample correlation and clustering was performed to assess relationships on a genome-wide scale. Males and their progenies exhibited high correlation between individuals with a pair-wise Pearson’s correlation coefficient (r) > 0.82. Similar findings  were observed with hierarchical clustering (FIGURE). 
+Sample correlation and clustering was performed to assess relationships on a genome-wide scale. Males and their progenies exhibited high correlation between individuals with a pair-wise Pearson’s correlation coefficient (r) > 0.84. Samples from the second lineage had highly similar methylation patterns with a correlation coefficient (r) of 0.88. Similar findings were observed with hierarchical clustering (FIGURE). Both male gamete samples had
+were more similar in their methylation profiles to their respective larvae 120 hours post-fertilization. 
 
 
 
 
 
 
-b)  
+  
+[f]
 
 
 Figure X. Dendogram of the six male spermatozoa and oyster larvae genome-wide methylation profiles using Pearson’s correlation distance. 
@@ -94,7 +87,7 @@ A total of 481 lineage-specific loci were identified among spermatozoa and larva
 
 
   
-[j][k]
+[g][h]
 
 
 
@@ -119,7 +112,7 @@ This is the first characterization of genome-wide DNA methylation in oysters fro
  DNA methylation regulating development (similar to other species- examples)
 
 
-Our research identified lineage and developmental differences in methylation. These loci corresponded to...
+Our research identified lineage and developmental differences in methylation. These loci corresponded to..
 to our knowledge this is first time anyone has looked at TEs- correlation between DMRs and TEs (in plants?) http://www.sciencemag.org/content/324/5933/1447.full
 
 
@@ -198,7 +191,7 @@ Discussion outline:
 References
 
 
-Zhang et al. 2012 b. Crassostrea gigas - Ensembl Genomes. Database version number 75.1. 20 September 2012. <http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index[l]>
+Zhang et al. 2012 b. Crassostrea gigas - Ensembl Genomes. Database version number 75.1. 20 September 2012. <http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index[i]>
 
 
 Goff, Stephen A. et al., "The iPlant Collaborative: Cyberinfrastructure for Plant Biology," Frontiers in Plant Science 2 (2011), doi:10.3389/fpls.2011.00034.
@@ -270,10 +263,10 @@ All loci covered from the bisulfite sequencing run from all seven developmental 
 
 
 
-The resulting methratio outputs were quality filtered to examine distribution of methylation. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment.  Methylation ratios were calculated for individual loci for all seven samples. Total CpG dinucleotide methylation was determined by obtaining the number of methylated cytosines (3x coverage, ≥50% unconverted) divided by the total number of CpG dinucleotides covered from bisulfite sequencing.  Genome feature tracks were used to visualize and compare the distribution of methylation between oyster gametes and larval developmental stages. Genome feature tracks were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013)... note [m]
+The resulting methratio outputs were quality filtered to examine distribution of methylation. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment.  Methylation ratios were calculated for individual loci for all seven samples. Total CpG dinucleotide methylation was determined by obtaining the number of methylated cytosines (3x coverage, ≥50% unconverted) divided by the total number of CpG dinucleotides covered from bisulfite sequencing.  Genome feature tracks were used to visualize and compare the distribution of methylation between oyster gametes and larval developmental stages. Genome feature tracks were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013)... note [j]
 
 
- The packages shape 1.4.1 and RColorBrewer 1.0-5 were used for genome-wide visualization of methylation levels among samples.[n]
+ The packages shape 1.4.1 and RColorBrewer 1.0-5 were used for genome-wide visualization of methylation levels among samples.[k]
 
 
 between various life history stages were analyzed using the R package methylKit (Akalin et al. 2012), which models the methylation of CpG loci within a logistic regression.
@@ -293,8 +286,8 @@ The methylation level of each CpG loci was limited to those with
 
 
 
-CpG Dinucleotide Methylation[o]
-All CpG loci were quality filtered to [p]compare whole DNA methylome profiles and identify developmental and lineage-specific methylation patterns. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment. The methylation levels of CpG loci were calculated as values ranging 0-1 representing the corresponding level of methylation (0%-100%). According to these levels, CpG dinucleotides were considered either methylated (50% unconverted) or unmethylated (< 50% unconverted).
+CpG Dinucleotide Methylation[l]
+All CpG loci were quality filtered to [m]compare whole DNA methylome profiles and identify developmental and lineage-specific methylation patterns. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment. The methylation levels of CpG loci were calculated as values ranging 0-1 representing the corresponding level of methylation (0%-100%). According to these levels, CpG dinucleotides were considered either methylated (50% unconverted) or unmethylated (< 50% unconverted).
 
 
 / Methylation Profile Comparisons
@@ -309,21 +302,21 @@ this needs more detail - did you filter out gametes and larvae? were samples spu
 compared samples from the same progeny (i.e. The two lineages of male spermatozoa and their progeny). 
 
 
-The package methylKit models the methylation of CpG loci within a logistic regression and was used for visualization of descriptive statistics among samples and generating scatter plots for DNA methylation level comparisons on a genome-wide scale[q]. [r]
+The package methylKit models the methylation of CpG loci within a logistic regression and was used for visualization of descriptive statistics among samples and generating scatter plots for DNA methylation level comparisons on a genome-wide scale[n]. [o]
 
 
 
 
-Pair-wise Pearson’s correlation scores were calculated for all six samples.  The package methylKit was also used to perform hierarchical clustering of the seven methylation profiles using 1-Pearson’s correlation distance. Epigenetic differentiation between developmental stages and lineages was assessed by Principal Component Analysis (PCA) plots of methylation profiles for each sample followed by an analysis of molecular variance (AMOVA).[s]
+Pair-wise Pearson’s correlation scores were calculated for all six samples.  The package methylKit was also used to perform hierarchical clustering of the seven methylation profiles using 1-Pearson’s correlation distance. Epigenetic differentiation between developmental stages and lineages was assessed by Principal Component Analysis (PCA) plots of methylation profiles for each sample followed by an analysis of molecular variance (AMOVA).[p]
 
 
-Methylation profiles were visualized using the Integrative Genomics Viewer (IGV) (Thorvaldsdóttir et al. 2012 and Robinson et al. 2011). IGV was used to examine regions of methylation with respect to genomic features (introns, exons, and repetitive elements) and to visually compare methylation profiles among entire contigs. (Supplemental info- figshare http://dx.doi.org/10.6084/m9.figshare.1060465)[t]
+Methylation profiles were visualized using the Integrative Genomics Viewer (IGV) (Thorvaldsdóttir et al. 2012 and Robinson et al. 2011). IGV was used to examine regions of methylation with respect to genomic features (introns, exons, and repetitive elements) and to visually compare methylation profiles among entire contigs. (Supplemental info- figshare http://dx.doi.org/10.6084/m9.figshare.1060465)[q]
 
 
  larvecompared methylation levels among combinations of male gamete and larvae samples. To test developmental differences in DNA methylation patterns among samples, we found similarities among the same time points, and then compared methylation differences from distinct developmental stages (i.e. examined the male spermatozoa, day 3 larvae, and day 5 larvae samples). For a loci to be called developmentally different it was required to fit into one of the following comparisons: spermatozoa versus day 3 larvae, spermatozoa versus day 5 larvae, or day 3 larvae versus day 5 larvae.  Methylation values of common loci between both lineages at the same developmental stage were averaged to obtain a representative value of the region during oyster development.  A standard deviation cutoff  0.2 and at least 30% difference in average methylation were used for determining developmental DNA methylation patterns. Differentially methylated loci involved in development were annotated to corresponding protein-coding genes using the Ensembl database imported from GigaDB (Fang et al. 2013) from the UniProtKB database to classify what genes are driving differences in methylation during oyster development.
 
 
-These packages are dependent on Bioconductor packages GenomicRanges 1.14.4 and data.table 1.9.2.[u][v] The package methylKit uses a logistic regression for visualization and DNA methylation level comparisons on a genome-wide scale[w]. 
+These packages are dependent on Bioconductor packages GenomicRanges 1.14.4 and data.table 1.9.2.[r][s] The package methylKit uses a logistic regression for visualization and DNA methylation level comparisons on a genome-wide scale[t]. 
 
 
 
@@ -398,22 +391,18 @@ Significant enrichment of terms associated with various developmental processes,
 [c]steven needs to fix up
 [d]you can go ahead and start getting these in - might can fall into bioproject we already have?
 [e]Did you check this
-[f]think you need to add paired and one of single
-[g]to show methylation can you make histograms easily like your other paper?
-[h]Yes- overlaid histograms might be a bit messy but I can make 6 separate ones. I have already made density plots to show distribution of methylation http://claireeolson.blogspot.com/2014/06/blog-post_30.html
-[i]Lets just to with #. 
-Do you have % with 0 methylation for each?
-[j]Just gene, TE and promoter
-[k]pyramid plot in R- plotrix
-[l]make url a citation
-[m]would be super cool to get post bsmap into ipython nb to share. need to decide what comparison will be made but assume methylkit is key- genome feature tracks likely bonus
-[n]May not use this as figure
-[o]consider from a readers perspective that this small section does not really describe why or what they would need to to reproduce
-[p]does not mean anything
-[q]too long
-[r]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
-[s]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
-[t]while pretty - i am not sure this is a method used to obtain a result - certainly not comparsons? one option is right after methratio can add sentence to say igv tracks were made -
-[u]dont see this necessary
-[v]does methylkit tell you these packages need to be installed
-[w]confirm this makes sense
+[f]Need some sort of key or table that shows sample IDs
+[g]Just gene, TE and promoter
+[h]pyramid plot in R- plotrix
+[i]make url a citation
+[j]would be super cool to get post bsmap into ipython nb to share. need to decide what comparison will be made but assume methylkit is key- genome feature tracks likely bonus
+[k]May not use this as figure
+[l]consider from a readers perspective that this small section does not really describe why or what they would need to to reproduce
+[m]does not mean anything
+[n]too long
+[o]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
+[p]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
+[q]while pretty - i am not sure this is a method used to obtain a result - certainly not comparsons? one option is right after methratio can add sentence to say igv tracks were made -
+[r]dont see this necessary
+[s]does methylkit tell you these packages need to be installed
+[t]confirm this makes sense
