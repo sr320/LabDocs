@@ -27,25 +27,25 @@ Experimental Design
 Oysters (n=300, age 6 months) were collected from Thorndyke Bay, WA in December of 2012 and brought into the lab to acclimate.  Oysters were divided into 6 replicate tanks (n=50/tank) and maintained in at 12C for 15 days prior to the initiation of the experiment. During the 60 day experiment oysters were fed an algal diet twice daily and water was exchanged every other day.  Temperature was raised slowly from 12C to 24C over the course of the experiment to promote gonadal maturation.  Minimal mortality was observed over the 60 day period. 
 
 
-Oysters were exposed to either EE2 (500ng/L) (n=150) or ethanol control (n=150) throughout the 60 day experiment.  Treatments were refreshed at each water exchange. Oysters were sampled at 3 time-points; day 0, day 7, day 60.[a][b]  On day zero, 15 oysters were sampled for histological analysis of the gonad to determine the average sexual maturity at the onset of the experiment.  On day 7, 15 oysters/treatment were measured for shell length, width depth and total weight and an approximately 5mm2 cross section midway between the adductor muscle and the labial palps was taken for histological analysis of the gonad.  In addition, gill and gonad samples were taken aseptically and stored at -80C for DNA isolation.  On day 60 the remaining oysters (n=113 EE2 and n= 114) were sampled similarly to the day 7 oysters.  In addition, a smear of gonad was observed under a light microscope to determine the sex of the oyster. The presence of spermatazoa or oocytes were used as indicators.  Chi-square test was used to determine if significant difference in sex ratios at the day 60 time-point.
+Oysters were exposed to either EE2 (500ng/L) (n=150) or ethanol control (n=150) throughout the 60 day experiment.  Treatments were refreshed at each water exchange. Oysters were sampled at 3 time-points; day 0, day 7, day 60.  On day zero, 15 oysters were sampled for histological analysis of the gonad to determine the average sexual maturity at the onset of the experiment.  On day 7, 15 oysters/treatment were measured for shell length, width depth and total weight and an approximately 5mm2 cross section midway between the adductor muscle and the labial palps was taken for histological analysis of the gonad.  In addition, gill and gonad samples were taken aseptically and stored at -80C for DNA isolation.  On day 60 the remaining oysters (n=113 EE2 and n= 114) were sampled similarly to the day 7 oysters.  In addition, a smear of gonad was observed under a light microscope to determine the sex of the oyster. The presence of spermatazoa or oocytes were used as indicators.  Chi-square test was used to determine if significant difference in sex ratios at the day 60 time-point.
 
 
 Histology
 Tissue samples taken for histological analysis were placed in Davidson’s solution
-(10% glycerine, 20% formalin, 30% alcohol, 30% sodium chloride solution and 10% glacial acetic acid) for 24h after which the solution was exchanged for 70% ethanol.  Tissues were sent to Diagnostic Pathology Imaging Group ( for staining with haematoxylin and counterstaining with eosin (H&E). Study of the gonadal area was performed under a compound microscope at 200 and 400× magnification. Oysters were [c]
+(10% glycerine, 20% formalin, 30% alcohol, 30% sodium chloride solution and 10% glacial acetic acid) for 24h after which the solution was exchanged for 70% ethanol.  Tissues were sent to Diagnostic Pathology Imaging Group ( for staining with haematoxylin and counterstaining with eosin (H&E). Study of the gonadal area was performed under a compound microscope at 200 and 400× magnification. Oysters were [a]
 
 
 MBD-ChIP Analysis
 Genomic DNA was isolated using DNAzol (Molecular Research Center) from gonad tissue of EE2 and control oysters (n=4) at day 7. DNA was pooled in equal amounts for each treatment, and methylation enrichment performed using the MethylMiner Kit (Invitrogen) following the manufacturer’s instructions.  Specifically, pooled DNA was sheared by sonication on a Covaris S2 (Covaris) (parameters: 10 cycles at 60 seconds each, duty cycle of 10%, intensity of 5, 100 cycles/burst).  Sheared DNA was used as input DNA and incubated with MBD-Biotin Protein coupled to M-280 Streptavidin Dynabeads following the manufacturer’s instructions (MethylMiner (Invitrogen)). Enriched, methylated DNA was eluted from the bead complex with 1M NaCl and purified by ethanol precipitation. DNA was further purified using PCR purification columns (Qiagen) prior to labeling.
 
 
-A custom DNA tiling array containing 697,753 probes covering 9158 full-length C. gigas genes including 2kb upstream of the start site was used.  Probes were designed using an interval size of 100bp and a window size of 25bp. Two different comparative (MBD vs MBD) hybridizations were performed. The EE2 and control MBD samples labels were swapped between the replicates.  A third hybridization was performed using the input DNA from the EE2 and control samples to control for variation in signal that resulted from copy number variation or other artifact.  Labeling and Hybridization was performed using Nimblegen … kit[d]? Slides were scanned on a Nimblegen...Microarray Scanner[e][f].
+A custom DNA tiling array containing 697,753 probes covering 9158 full-length C. gigas genes including 2kb upstream of the start site was used.  Probes were designed using an interval size of 100bp and a window size of 25bp. Two different comparative (MBD vs MBD) hybridizations were performed. The EE2 and control MBD samples labels were swapped between the replicates.  A third hybridization was performed using the input DNA from the EE2 and control samples to control for variation in signal that resulted from copy number variation or other artifact.  Labeling and Hybridization was performed using Nimblegen … kit[b]? Slides were scanned on a Nimblegen...Microarray Scanner[c][d].
 Cassie - can provide details??
 
 
 
 
-Raw data from both the Cy3 and Cy5 channels were imported into R [R] and analyzed using the R package Ringo [Ringo].[g][h][i]  First, raw probe intensities were converted into normalized log ratios (logFCs), using loess normalization. Following normalization, a smoothing procedure was performed such that a probe’s logFC value was replaced with the median value of all probe logFC values within a 600bp sliding window.  Enriched regions were identified by setting thresholds for smoothed ratios.  In order for a region to be identified as enriched it must be at least 600 bp (covering 3 probes) and the smoothed ratio needs to be greater than 1 for the MBD assays and greater than 0.485 for the input versus input assay.  The lower threshold for the input versus input assay was used in order to identify only the most robust DMRs as there were a large number of enriched regions in the MBD vs. MBD assays, where the same, but slightly weaker pattern of logFC values was found.  Enriched regions were used to identify differentially methylated regions (DMRs).  A DMR was identified when enriched regions from the dye swapped MBD assays overlapped, and there were no enrichment in the input assay in the overlapping region. 
+Raw data from both the Cy3 and Cy5 channels were imported into R [R] and analyzed using the R package Ringo [Ringo].[e][f][g]  First, raw probe intensities were converted into normalized log ratios (logFCs), using loess normalization. Following normalization, a smoothing procedure was performed such that a probe’s logFC value was replaced with the median value of all probe logFC values within a 600bp sliding window.  Enriched regions were identified by setting thresholds for smoothed ratios.  In order for a region to be identified as enriched it must be at least 600 bp (covering 3 probes) and the smoothed ratio needs to be greater than 1 for the MBD assays and greater than 0.485 for the input versus input assay.  The lower threshold for the input versus input assay was used in order to identify only the most robust DMRs as there were a large number of enriched regions in the MBD vs. MBD assays, where the same, but slightly weaker pattern of logFC values was found.  Enriched regions were used to identify differentially methylated regions (DMRs).  A DMR was identified when enriched regions from the dye swapped MBD assays overlapped, and there were no enrichment in the input assay in the overlapping region. 
 
 
 Pyrosequencing
@@ -60,7 +60,7 @@ Results
 
 
 Sex Ratio
-On day zero of the trial all animals (n=10) were sexually differentiated.  Seven oysters were identified as male and 3 as female (i.e. 33% female).  On day 7 of the trial the control oysters still had a higher proportion of males than females (see Table 1) at 33% female, but the EE2 oysters had a higher proportion of females (46% female).  These differences are not statistically significant.  On day 60 of the trial, since the majority of the individuals were close to sexual maturity, sex was determined by identifying sperm or oocytes from a gonad smear via light microscopy.  At this timepoint there was no significant difference between in the proportion of females between the control (54%) and EE2 treated (57%) groups (Table 2), although there was a trend toward more females in the EE2 replicate tanks versus the control tanks (Figure 1).
+There was not a significant effect on EE2 treatment on sex ratios. On day zero of the trial all animals (n=10) were sexually differentiated.  Seven oysters were identified as male and 3 as female (i.e. 33% female).  On day 7 of the trial the control oysters still had a higher proportion of males than females (see Table 1) at 33% female, but the EE2 oysters had a higher proportion of females (46% female[h]).  These differences are not statistically significant.  On day 60 of the trial, since the majority of the individuals were close to sexual maturity, sex was determined by identifying sperm or oocytes from a gonad smear via light microscopy.  At this timepoint there was no significant difference between in the proportion of females between the control (54%) and EE2 treated (57%) groups (Table 2), although there was a trend toward more females in the EE2 replicate tanks versus the control tanks (Figure 1).
 
 
 
@@ -86,14 +86,14 @@ On day zero of the trial all animals (n=10) were sexually differentiated.  Seven
 
 
   
-
+[i]
 Table X.   Number of oysters of each sex at day 60.  Counts for the individual tanks as well as totals are listed.  Unknown[j] individuals indicate those where sex could not be determined by the method used.
 
 
 
 
   
-
+[k]
 Figure X.  Proportion of oysters of each sex in the control and EE2 treated groups. Sex is determined as either female (F), male (M), unknown (U) or hermaphrodite (H).
 
 
@@ -104,14 +104,14 @@ On day 60 all oysters were measured and weighed.  There were no significant diff
 
 
   
-
+[l]
 Figure X. Whole mass of oysters (grams) by sex and by treatment. Fc=female control, Ft=female EE2 treated, Mc=male control, Mt=male EE2 treated
 
 
-DNA Methylation Analysis
+DNA Methylation Analysis[m]
 Samples were analyzed for DNA methylation 7 days after the first exposure to EE2. A total of 45 differentially methylated regions (DMR) were identified between the control and EE2 treated group.  Twenty-seven of the DMR were hypermethylated and 18 DMR were hypomethylated in the EE2 treatment compared to the control.  Four of the DMR were located upstream of transcription start site (TSS) while the remaining 41 DMR were in the gene bodies either in an intron (22) and exon (8) or spanning one or more exon/intron junctions (11).  See table X. for a list of DMR and their annotations to Swiss Prot ID.
   
-
+[n]
 
 
 
@@ -153,13 +153,19 @@ URL http://www.R-project.org/.
 [Ringo] Joern Toedling, Oleg Sklyar, Tammo Krueger, Jenny J. Fischer, Silke
 Sperling, and Wolfgang Huber (2007) Ringo - an R/Bioconductor package
 for analyzing ChIP-chip readouts. BMC Bioinformatics, 8:221.
-[a]seems like 3 points?
-[b]yeah, sampled 4 points but then took out the day 35 sample since I don't have any data for it
-[c]?
-[d]details for labeling and hybridization reagents?
-[e]What type of scanner?
-[f]Should the scanning resolution be included here also?
-[g]Can you show me the code?
-[h]http://rpubs.com/mgavery/14263
-[i]So I think this should be included in some fashion
+[a]?
+[b]details for labeling and hybridization reagents?
+[c]What type of scanner?
+[d]Should the scanning resolution be included here also?
+[e]Can you show me the code?
+[f]http://rpubs.com/mgavery/14263
+[g]So I think this should be included in some fashion
+[h]I calc. 50%? at min- debate whter use undiff
+[i]do we really need these table?
+maybe figure(s)
+what do you want to highlight - day 7 could be of interest?
 [j]I think these unknowns will need to be sent out for histo. for manuscript
+[k]maybe add all time points?
+[l]maybe define lines adn outlier?
+[m]probably have to submit to ncbi
+[n]evale to far right. / cant you just go with 'junction'
