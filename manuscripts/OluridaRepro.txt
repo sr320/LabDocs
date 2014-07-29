@@ -1,8 +1,12 @@
-﻿Reproductive Success [a]Estimates for native and non native Ostrea lurida populations within the Puget Sound. 
+﻿Reproductive Fitness [a][b]Estimates for Ostrea lurida populations within the Puget Sound. 
 
 
 
 
+link to orig paper
+
+
+Changing environmental parameters, such as temperature, are in flux due to climatic shifts. While some of these shifts may seem very mild,  sessile animals in established populations from isolated habitats may have dramatic reactions to a change in temperature regimes they see. Everything from growth and development to spawn timing are controlled by minute and predictable temperature changes between seasons. Olympia oysters, Ostrea lurida, are known for their temperature sensitive spawn timing. Bays along a north-south axis within the Puget Sound reach spawn temperature thresholds at different times due to geographic location and local environment parameters. Oysters native to these diverse bays have conformed their spawn timing to the factors within each bay leading to the phenomenon known as local adaptation. From a reciprocal O. lurida transplant experiment from three oceanographically distinct bays, we have shown that southern populations show a distinct reproductive advantage based on sheer number of actively spawning females as compared to animals from Hood canal and northern bays in their first year. 
 
 
 Intro-
@@ -24,7 +28,7 @@ Hypothesis
 
 Methods
 Broodstock Conditioning and Outplanting 
-Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012. Mass spawning of oysters occurred in June 2013 following several months of conditioning. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble. In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags with 24 oysters glued to ceramic tiles. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
+Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012. Mass spawning of ~25 oysters[c] from each location occurred in June 2013 following several months of conditioning. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble.[d][e] In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags with 24 oysters glued to ceramic tiles. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
 
 
 
@@ -32,22 +36,274 @@ Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob
 Site Monitoring
 
 
-Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014.[b] 
+Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014.[f][g][h] 
+
+
+Growth and survival was assessed 6 times between outplanting and August 2014.
+
+
+Survival was measured by counting all live animals and dead animals in each tray for each population in each of seven months monitored..[i][j] In December 2013 at Dabob Bay, we counted the live samples as we opened windscreen bags which contained 1/4th the population in each tray. We then multiplied this number by 4 to get a rough estimate of the live animals for the tray. Growth was measured via size and weight measurements taken directly from live subsamples collected in the field and measured in the lab. In the lab each of the sampled oysters was measured using calipers for hinge to bill length and weighed with shell to determine whole body weight. Live samples were not collected in February, April, May, June, and July 2014 due to low mortality instead photographs were taken to document size through an image analysis program (ImageJ). 
 
 
 
 
-Survival was measured by counting all live animals remaining in each tray for each population in each of three months monitored. Mortality was calculated through counts of all dead individuals in each tray. In December 2013 at Dabob Bay, we counted the live samples as we opened windscreen bags which contained 1/4th the population in each tray. We then multiplied this number by 4 to get a rough estimate of the live animals for the tray. Growth was measured via size and weight measurements taken directly from live subsamples collected in the field and measured in the lab. In the lab each of the sampled oysters was measured using calipers for hinge to bill length and weighed with shell to determine whole body weight. Live samples were not collected in February 2014 due to low mortality instead photographs were taken to document size through an image analysis program (ImageJ). 
 
 
 
 
+	Aug
+2013
+	Sept
+2013
+	Oct 2013
+	Nov
+2013
+	Dec 2013
+	Jan
+2014
+	Feb
+2014
+	Mar
+2014
+	Apr
+2014
+	May
+2014
+	June
+2014
+	July
+2014
+	Aug
+2014
+	Visited
+	F,M,O,D
+	No
+	F,O,D
+	M
+	F,M,O,D
+	D
+	F,M,O
+	No
+	F,M,
+O,D
+	F,M,O
+	F,M,
+O
+	F,M,
+O
+	F,M,
+O
+	Metrics
+	Size
+	No
+	No
+	No
+	S,W,L,D
+	S,W,L,D
+	S,L,D
+	No
+
+
+	S,L,D,
+W*
+	S,L,D
+	S,L,D
+	S,L,D
+	
+
+	Genetics Samples
+	Yes
+	No
+	No
+	No
+	F,M,O,D
+	D
+	No
+	No
+	Yes*
+	Yes*
+	No
+	No
+	
+
+	Repro Check
+	No
+	No
+	No
+	No
+	No
+	No
+	No
+	No
+	Yes
+	Yes
+
+
+	Yes
+	Yes
+	
+
+	Brood
+Collect
+	No
+	No
+	No
+	No
+	No
+	No
+	No
+	No
+	No
+	O
+	F,M,O
+	F,M,O
+	
+
+	Fid
+	
+
+	
+
+	
+
+	
+
+	96
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Man
+	
+
+	
+
+	
+
+	
+
+	95
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Oys
+	
+
+	
+
+	
+
+	
+
+	94
+	
+
+	
+
+	
+
+	
+
+	22
+	
+
+	
+
+	
+
+	Dab
+	
+
+	
+
+	
+
+	
+
+	152
+	94
+	
+
+	
+
+	161
+	
+
+	
+
+	
+
+	
+
+	Terminal
+Sample
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	D
+	
+
+	
+
+	
+
+	
+
+	Table 1. This table denote actions taken in each month of the survey period in regards to field work. In the Visited and Genetic Samples rows F = Fidalgo, M = Manchester, O = Oyster Bay, and D = Dabob. In the Metrics row S = Size, W = Weight, L = Live Count, and D = Dead Count. Numbers are exact numbers of samples collected at each site. 
 
 
 
 
 Reproductive Assessment 
-To assess number of brooding larvae in oysters one tray from each population was subjected to anestesia with larvae removed and counted. Specifically, trays were removed from water for 45 minutes then immersed in epsom salt sea water solution[c]  for an additional 45 minutes. When brooding oysters were detected, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis.
+To assess number of brooding larvae in oysters one tray from each population was subjected to anesthesia (Jackson et al, in press) [k][l]with larvae removed and counted. Specifically, trays were removed from water for 45 minutes then immersed in ~75 g/L  epsom salt sea water solution[m][n]  for an additional 45 minutes. When brooding oysters were detected, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis.
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -68,7 +324,7 @@ Once each tray had been checked it was placed into an ambient sea water bath whi
 
 
 notes
-At Manchester and Fidalgo, there were relatively equivalent numbers of animals in each population prior to spawning season. Since the four stacks contained equivalent numbers of animals, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. 
+At Manchester and Fidalgo, there were relatively equivalent numbers of animals in each population prior to spawning season. Since the four stacks contained equivalent numbers of animals, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [o]
 
 
 Sampling occurred from April 30th to August 1st, 2014, with each site being visited once per week except for the week of May 4th during which water temperatures were below spawning threshold as evidenced by the lack of brooders in the week prior and the week after.
@@ -88,5 +344,17 @@ Sampling occurred from April 30th to August 1st, 2014, with each site being visi
 
 Larvae Counts/quality
 [a]not--perhaps Fitness?
-[b]please make simple table showing when sites were visited and what was done (mort. growth repro etc)
-[c]be precise with conc
+[b]I changed this to fitness but I'm not sure that fitness describes it either. I stated success at we can directly state that the animal was successful at reproducing. I feel that fitness indicates that the animal had the potential to reproduce but does not indicate that we were successful in proving that it did reproduce. Though I do understand that success generally implies later recruitment of offspring. Is there possibly a more neutral term to indicate breeding success but not imply future recruitment?
+[c]these were in multiple groups of ~25 I believe--Ryan will have details
+[d]Clarify/emphasize that these were all done in common conditions--essentially a common garden with equal access to algal ration and same tank etc
+[e]I'm a little confused here. I understand the need to express common garden conditions but I'm not sure how to improve upon what you have written here.
+[f]please make simple table showing when sites were visited and what was done (mort. growth repro etc)
+[g]revising table below is fine
+[h]I revised the table below to include up through Aug 2014 and added rows for Reproduction Checks, Brood Collection, and Terminal sampling for Dabob.
+[i]These two sentences can be combined--
+[j]Done, I'm just calling it survival instead of survival and mortality.
+[k]can provisionally reference Jackson et al --hoping to get this done asap!
+[l]I referenced this as being in press, is there a better way to reference Katie's work?
+[m]be precise with conc
+[n]I put approximately ~75 g/L as that was the intended dosage but I know that it varied slight around that. Would it be better to remove the approximation mark?
+[o]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).
