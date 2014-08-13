@@ -21,7 +21,7 @@ My research aims to improve our understanding of the physiological responses of 
 
 ---
 
-###[Claire Ellis](http://students.washington.edu/che625/)
+###[Claire Olson](http://students.washington.edu/che625/)
 
 <img src="http://students.washington.edu/che625/Claire_Ellis/Welcome_files/DSCF1161.jpg" width="195" height="147" />
 

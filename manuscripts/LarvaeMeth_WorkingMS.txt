@@ -1,21 +1,31 @@
 ﻿Characterizing whole genome DNA methylation patterns during Crassostrea gigas early development
 
 
+Lineage-specific DNA methylation patterns during Crassostrea gigas development correlate with transposable element activity
 
 
 Abstract
-Epigenetics and DNA methylation summary... Genome-wide shotgun bisulfite sequencing was conducted on six samples
-X genes show methylation differences between male gametes and progeny- reveals the complexity of methylation patterns.
- The larvae methylome is inherited paternally, as DNA methylation patterns are similar between males and their offspring.  
+Epigenetic marks such as DNA methylation describe modifications that change gene expression without altering the underlying nucleotide sequence. Modifications by DNA methylation can be stably transmitted from parents to their progeny. To identify genome-wide distribution and inheritance patterns of DNA methylation we generated multiple high-resolution methylome maps of Crassostrea gigas sperm and larvae from two different lineages. We found that the larvae methylome is inherited paternally, as DNA methylation patterns are similar between males and their offspring. Differentially methylated loci specific to lineages and differing during development were identified, and these loci were preferentially located among transposable elements. These findings suggest patterns of differential DNA methylation among different lineages in which DNA methylation can be transmitted from parent to offspring through their gametes. Our robust analyses reveal the complexity of methylation patterns and suggest the potential for transgenerational epigenetic inheritance in the Pacific oyster.
+ 
 
 
 Introduction
--Importance of epigenetics and methylation in development and embryogenesis, cellular differentiation
+-epigenetic control of development- Importance of epigenetics and methylation in development and embryogenesis, cellular differentiation 
+
+
+In mammals DNA methylation essential for development and and differentiation of organs and tissues (Okano et al. 1999). Likewise, mutations of DNA methyltransferase in mammals results in delays in development and lethality (Li et al. 1992). While the role of DNA methylation in regulating mammalian developmental processes and tissue differentiation are well studied, this mechanism remains poorly understood in invertebrate species such as C. gigas. 
+
+
+
+
 -Variability in methylation function depending on genomic context- promoter regions=repressed transcription, gene bodies= transcription and DNA splicing
 -Describe basics of oyster reproduction and embryogenesis (development from zygote to larvae takes x days, x days in adulthood, how many larvae produced)
 -Characteristics that make oysters ideal model organisms to study epigenetic mechanisms on developmental processes
+-Riviere study- treatment with 5-aza-c lead to developmental alterations in C gigas. Also in honeybee observed lethality associated with silencing of Dnmt3 in embryos (Kucharski et al. 2008). These studies suggest a crucial role of DNA methylation during embryonic and larval development and that DNA methylation is crucial for a broad array of developmental processes. 
 -Knowledge on how information passed to offspring is limited (heritability vs individual variability), and a full understanding of this requires high-resolution genome wide methylation characterization 
--To understand if larvae obtain DNA methylation information from their parents we did WGBS of sperm and larvae (and eggs) to provide a comprehensive characterization of methylation on a genome-wide scale (status and dynamics of DNA methylation at a base-pair resolution in sperm and larvae samples- profile of gametes and early development- mature sperm and larvae following fertilization)
+To better understand the changes that occur during C. gigas development, we analyzed genome-wide DNA methylation in organisms at three developmental stages: sperm, and larval oysters (72 and 120 hours post-fertilization).
+-Genome-wide shotgun bisulfite sequencing was conducted on six samples. We determined the DNa methylation profiles of oyster gametes and larvae at different stages. Unexpectedly, DNA methylation patterns of gametes similar to larvae..
+To understand if larvae obtain DNA methylation information from their parents we did WGBS of sperm and larvae (and eggs) to provide a comprehensive characterization of methylation on a genome-wide scale (status and dynamics of DNA methylation at a base-pair resolution in sperm and larvae samples- profile of gametes and early development- mature sperm and larvae following fertilization)
 -Interested in whether genes are targeted by DNA methylation in a lineage or developmental -specific manner
 -Spermatozoa methylome is inherited by oyster larvae- spermatozoa methylation patterns more similar to larvae versus each other 
 
@@ -25,22 +35,22 @@ Introduction
 Methods
 Experimental Design and Sample Collection 
 Oyster (two males and a single female) were collected from Oakland Bay, South Puget Sound, WA.  Oysters were strip spawned by scoring the gonad tissue with a sterile razor blade and rinsing out gametes with sterile seawater.  Oocytes were incubated for 30 minutes in sterile seawater and 2 million oocytes each were placed into two separate plastic containers. Spermatozoa diluted in sterile seawater (1ml) from each male were used to fertilized oocytes. Fertilization was confirmed by examining polar bodies in cells under a compound microscope. 
-Larvae were kept in static tanks (100l) for 5 days post-fertilization.  Counts of oyster larvae were performed at 5 days post-fertilization to examine mortality, hatching rate, and check for potential ciliate contaminants[a]. Samples for DNA methylation analysis were taken from oyster oocytes and spermatozoa prior to fertilization, and oyster larvae collected at days 72 hours post fertilization (hpf) and 120 hpf.  Larvae samples were taken by filtering on a 20µm screen. All samples were preserved in 95% ethanol. For simplicity the spermatozoa and corresponding larvae samples will be referred to as lineage #1 and lineage #3 based on paternity.
+Larvae were kept in static tanks (100l) for 5 days post-fertilization.  Counts of oyster larvae were performed at 5 days post-fertilization to examine mortality, hatching rate, and check for potential ciliate contaminants[a][b]. Samples for DNA methylation analysis were taken from oyster oocytes and spermatozoa prior to fertilization, and oyster larvae collected at days 72 hours post fertilization (hpf) and 120 hpf.  Larvae samples were taken by filtering on a 20µm screen. All samples were preserved in 95% ethanol. For simplicity the spermatozoa and corresponding larvae samples will be referred to as lineage #1 and lineage #3 based on paternity.
 
 
 Bisulfite treated DNA Sequencing (BS-Seq)
-Genomic DNA was extracted using DNAzol according to the manufacturer’s protocol (Molecular Research Center, Inc., Cincinnati, OH). High molecular weight genomic DNA (6 ug), confirmed by gel electrophoresis, was used to prepare libraries (6) for whole-genome bisulfite sequencing. Briefly, DNA was fragmented to an average length of 250 bp in an AFA microtube using a Covaris S2 (Covaris Inc Woburn, MA) with the following settings: duty cycle 20%, intensity of 4.0, cycles per burst 200, for 60 seconds.  Fragment size resulting from DNA shearing was confirmed by gel electrophoresis. Libraries were constructed using the Paired-End DNA Sample Prep Kit (Illumina, San Diego, CA) with standard protocols. Unmethylated Lambda DNA (0.5%) (Promega Co. Madison, WI) was added to the each sample prior to fragmentation and library construction to serve as a measure of bisulfite conversion efficiency.[b]  DNA was treated with sodium bisulfite using the EpiTect Bisulfite Kit (Qiagen, Valencia, CA) and 72 bp paired-end sequencing was performed on the Illumina HiSeq 2000 system. Library construction and sequencing was performed by the High Throughput Genomics Center (htSEQ, Seattle, WA).  
-Quality filtered bisulfite sequencing reads from the six libraries were separately mapped to the Crassostrea gigas genome (version GCA_000297895.1; Zhang et al. 2012) using Bisulfite Sequencing Mapping Program BSMAP v2.74 (Xi and Li 2009). Resulting alignment from mapping bisulfite treated reads was analyzed with methratio, a Python script that accompanies BSMAP. Parameters for methratio included reporting loci with zero methylation ratios (-z), combining CpG methylation ratios on both strands (-g) and only using unique mappings (-u). Only CpG loci covered by at least 3 sequenced reads were considered for further analysis. Data can be accessed computational analysis performed as described via the GitHub repository: olson_larv (tmp-http://goo.gl/lncbKL). This includes …….[c]
+Genomic DNA was extracted using DNAzol according to the manufacturer’s protocol (Molecular Research Center, Inc., Cincinnati, OH). High molecular weight genomic DNA (6 ug), confirmed by gel electrophoresis, was used to prepare libraries (6) for whole-genome bisulfite sequencing. Briefly, DNA was fragmented to an average length of 250 bp in an AFA microtube using a Covaris S2 (Covaris Inc Woburn, MA) with the following settings: duty cycle 20%, intensity of 4.0, cycles per burst 200, for 60 seconds.  Fragment size resulting from DNA shearing was confirmed by gel electrophoresis. Libraries were constructed using the Paired-End DNA Sample Prep Kit (Illumina, San Diego, CA) with standard protocols. Unmethylated Lambda DNA (0.5%) (Promega Co. Madison, WI) was added to the each sample prior to fragmentation and library construction to serve as a measure of bisulfite conversion efficiency.[c][d]  DNA was treated with sodium bisulfite using the EpiTect Bisulfite Kit (Qiagen, Valencia, CA) and 72 bp paired-end sequencing was performed on the Illumina HiSeq 2000 system. Library construction and sequencing was performed by the High Throughput Genomics Center (htSEQ, Seattle, WA).  
+Quality filtered bisulfite sequencing reads from the six libraries were separately mapped to the Crassostrea gigas genome (version GCA_000297895.1; Zhang et al. 2012) using Bisulfite Sequencing Mapping Program BSMAP v2.74 (Xi and Li 2009). Resulting alignment from mapping bisulfite treated reads was analyzed with methratio, a Python script that accompanies BSMAP. Parameters for methratio included reporting loci with zero methylation ratios (-z), combining CpG methylation ratios on both strands (-g) and only using unique mappings (-u). Only CpG loci covered by at least 3 sequenced reads were considered for further analysis. Data can be accessed computational analysis performed as described via the GitHub repository: olson_larv (tmp-http://goo.gl/lncbKL). This includes …….[e]
 
 
 Global DNA Methylation Comparison
 Whole-genome DNA methylation correlation and clustering were performed using the methylKit 0.9.2 (Akalin et al. 2012) in R v3.0.3. Pairwise coefficients were calculated by Pearson’s correlation scores to create a matrix. Hierarchical clustering was performed using 1-Pearson’s correlation distance of the six methylation profiles. 
 
 
-Differentially methylated loci 
+Differentially Methylated Loci 
 To characterize DNA methylation patterns that changed during development we identified loci that 1) were the same across biological replicates (i.e. lineage 1 and 3) and 2) differed in methylation levels among the sperm and two larval samples (72hpf and 120hpf). Specifically, similarity in biological replicates was defined as individual methylation ratio was less than 0.2 different from mean methylation ratio. Differences through development were identified as any loci were mean methylation ratio of biological replicates varied greater than 0.4 for any comparison. 
-To examine lineage-specific DNA methylation patterns we found similarities among the male gamete sample to its progenies, and then compared methylation differences between the two lineages (Lineages 1 and 3). Loci were determined to be similar throughout a lineage when a the methylation level at a loci was less than 0.2 from mean across the three samples (ie sperm, 70hpf, 150hpf). Loci were determined to be different between lineages when these loci where the mean methylation level for a lineage was at least 0.3 different that mean of other lineage.
-All loci determined to be different during development and across lineage where characterized with respect to overlapping genomic feature (putative promoter, gene, transposable element) using Bedtools (Ref?) All code and data available in GITHUB> 
+To examine lineage-specific DNA methylation patterns we found similarities among the male gamete sample to its progenies, and then compared methylation differences between the two lineages (Lineages 1 and 3). Loci were determined to be similar throughout a lineage when a the methylation level at a loci was less than 0.2 from mean across the three samples (ie sperm, 70hpf, 150hpf). Loci were determined to be different between lineages when the mean methylation level for a lineage was at least 0.3 different that mean of other lineage.
+All loci determined to be different during development and across lineages were characterized with respect to overlapping genomic features (putative promoter, gene, transposable element) using Bedtools (i.e., intersectBed) (Quinlan and Hall, 2010). Putative promoters were defined as 1kb regions upstream from transcription start sites and transposable elements were identified using RepeatMasker and the Transposable Element Protein Database (Smit et al., 1996-2010). All code and data available in GITHUB> 
 
 
 
@@ -50,19 +60,16 @@ All loci determined to be different during development and across lineage where 
 Results
 
 
- 
-Bisulfite treated DNA Sequencing (BS-Seq)
-Bisulfite treated DNA Sequence reads are available (NCBI Sequence Read Archive[d]). Sodium bisulfite conversion efficiency was estimated to be 99.999% based[e] on analysis of lambda phage DNA. The number covered cytosines in the oyster genome ranged from 2.6x107 to 5.3x107 across libraries. Using a 3x coverage threshold, a majority of cytosines (75-78%) were determined to be unmethylated (methylation ratio = 0), with 15-18% of the CpG dinucleotides methylated (methylation ratio  0.5).
-
-
-IDEA
+ Bisulfite treated DNA Sequencing (BS-Seq)
+Bisulfite treated DNA Sequence reads are available (NCBI Sequence Read Archive[f]). Sodium bisulfite conversion efficiency was estimated to be 99.999% based[g] on analysis of lambda phage DNA. The number covered cytosines in the oyster genome ranged from 2.6x107 to 5.3x107 across libraries. Using a 3x coverage threshold, a majority of cytosines (75-78%) were determined to be unmethylated (methylation ratio = 0), with 15-18% of the CpG dinucleotides methylated (methylation ratio  0.5).
 
 
 
 
 Genome-wide DNA Methylation Comparison
-Sample correlation and clustering was performed to assess relationships on a genome-wide scale. Males and their progenies exhibited high correlation between individuals with a pair-wise Pearson’s correlation coefficient (r) > 0.84. Samples from the second lineage had highly similar methylation patterns with a correlation coefficient (r) of 0.88. Similar findings were observed with hierarchical clustering (FIGURE). Both male gamete samples had
-were more similar in their methylation profiles to their respective larvae 120 hours post-fertilization. 
+Sample correlation and clustering was performed to assess relationships on a genome-wide scale. Males and their progeny exhibited high correlation between individuals with a pair-wise Pearson’s correlation coefficient (r) > 0.84. Samples from lineage[h] 3 (sperm and larvae) had highly similar methylation patterns with a correlation coefficient (r) of 0.88. These relationships are also evident in hierarchical clustering (FIGURE). Both male gamete samples were more similar in their methylation profiles to their respective 120 hpf larvae. 
+
+
 
 
 
@@ -70,16 +77,28 @@ were more similar in their methylation profiles to their respective larvae 120 h
 
 
   
-[f]
-
 
 Figure X. Dendogram of the six male spermatozoa and oyster larvae genome-wide methylation profiles using Pearson’s correlation distance. 
 
 
 
 
-Lineage and Developmental Differences
-A total of 481 lineage-specific loci were identified among spermatozoa and larval samples. These loci were classified with respect to oyster genomic regions, and a majority of these loci were present among genes and transposable elements (Figure 3). Lineage-specific loci were found to be enriched for transposable elements relative to the frequency of transposable elements located among all CG dinucleotides in the oyster genome. Differences among oyster developmental stages were also classified and a total of 387 differentially methylated loci were identified. Similarly, a majority of these loci were present among genes and transposable elements, and and enrichment for transposable elements was observed among differentially methylated loci during development.  Transposable elements were classified to compare types and numbers of transposons specific to lineages and variable during oyster development. Tandem repeats were one of the highest occurring transposable elements along with long terminal repeats (LTR) Gypsy and Pao (Table/figure). Also present among transposable elements specific to oyster lineages and differentially methylated during development were long interspersed elements (LINE-1). Interestingly, the non-long-terminal-repeat retrotransposable element (LINE RTE) usually found widely distributed in the genome, was not present among lineage-specific loci with only one occurrence among loci with developmental differences in DNA methylation. 
+Lineage-specific and Developmental Differences
+We identified differentially methylated loci (DMLs) that were classified as regions that differed in methylation levels either among the two lineages (lineage-specific) or during oyster developmental stages (developmentally different). A total of 481[i] lineage-specific loci were identified among gamete and larval samples. Differences among oyster developmental stages were also classified revealing a total of 387 differentially methylated loci. These loci were classified with respect to oyster genomic regions (Promoter Regions, Genes, Transposable Elements) and normalized relative to the frequency of CpG dinucleotides located among these regions (Figure x). Considering the distribution of CpG occurrence among genomic regions revealed an enrichment for transposable elements in DMLs. We observed that the proportion of transposable elements was almost three times higher among differentially methylated loci (15.68% average) relative to all CpGs (5.87%) in the oyster genome.
+
+
+Transposable elements were classified to compare types and numbers of transposons specific to lineages and variable during oyster development. Tandem repeats were one of the highest occurring transposable elements among DMLs along with long terminal repeats (LTR) Gypsy and Pao (Table/figure of all TEs?). Also present among TEs specific to lineages and differentially methylated during development were long interspersed elements (LINE-1). Interestingly, the non-long-terminal-repeat retrotransposable element (LINE RTE) usually found widely distributed in the genome, was not present among lineage-specific loci with only one occurrence among loci with developmental differences in DNA methylation. 
+
+
+
+
+  
+[j]  [k][l][m][n]
+
+
+
+
+Figure X.[o] Differentially methylated loci specific to lineages and differing during development are preferentially located among transposable elements. [p]The percentage of loci located within each category of promoter regions, genes and transposable elements are shown. Colored bars represent the relative proportion of DMLs for each genomic region relative to the proportion of all CpG dinucleotides for each region. 
 
 
 
@@ -87,12 +106,24 @@ A total of 481 lineage-specific loci were identified among spermatozoa and larva
 
 
   
-[g][h]
 
 
 
 
-Genes- Go slim for DMLs compared to all CGs. 
+
+
+
+alternative explanation:[q][r]
+Distribution of differentially methylated loci with respect to distribution of CpG content. Genomic regions are shown as percentages according to their relative CpG contribution to the genome. Percent contributions of regions are shown as the difference in proportion of DMLs and all CpGs located within a genomic region (e.g. Proportion of lineage-specific loci located in promoter regions - proportion of all CpGs located within genomic regions). DMLs were enriched in transposable elements relative to all CpGs located within that region of the oyster genome.
+
+
+NOTES SR: 
+Percent overlap with genomic feature
+
+
+Genes- Go slim for DMLs compared to all CGs. Need to compare to genes among all CpGs: http://claireeolson.blogspot.com/2014/08/dmls-and-genes.html
+
+
 
 
 
@@ -100,22 +131,51 @@ Genes- Go slim for DMLs compared to all CGs.
 
 
 Discussion
-Genome-wide shotgun bisulfite sequencing was performed on six samples, including oyster male gametes and their progeny to illustrate the regulatory role of DNA methylation during oyster development. Although DNA methylation has been previously examined during oyster early development, this study represents the first time single-base pair resolution DNA methylomes have been generated for both oyster spermatozoa and larvae samples from the same lineages. DNA methylation has been previously quantified for C. gigas, however the role of methylation during oyster development remains unknown. This research represents the first high-resolution characterization of DNA methylation patterns during oyster development, including examining the degree of heritability and individual variability during oyster early development. 
+This research demonstrates that larvae obtain DNA methylation information from their parents, and that methylation marks can be heritable in this important aquatic species. In addition, our findings show that there are lineage-specific patterns of DNA methylation in C. gigas. Genome-wide shotgun bisulfite sequencing was performed on six samples, including oyster male gametes and their progeny to illustrate the regulatory role of DNA methylation during oyster development. Although DNA methylation has been previously examined during oyster early development, this study represents the first time single-base pair resolution DNA methylomes have been generated for both oyster spermatozoa and larvae samples from the same lineages. DNA methylation has been previously quantified for C. gigas, however the role of methylation and degree of inheritance during oyster development remains unknown. This research represents the first high-resolution characterization of DNA methylation patterns during oyster development, including examining the degree of heritability and individual variability during oyster early development. 
 
 
-This study provides a comprehensive profile of where DNA methylation occurs in the oyster genome, both in male gametes and their progeny. Overall methylation levels ranged from about 15-18% in the oyster genome with interspersed regions of both methylated and unmethylated DNA in both spermatozoa and larvae samples. This proportion of CpG methylation falls within the range of that previously reported for oyster male gonad tissue (Olson and Roberts, 2014) and oyster gill tissue (Gavery and Roberts, 2013). These findings indicate that overall genome methylation in C. gigas is at an intermediate level and suggests that DNA methylation does not significantly vary both among tissue types and during the first week of oyster development. Similar methylation patterns were observed across spermatozoa and larvae samples, indicating that DNA methylation does not significantly vary during development. DNA methylation was also predominantly located in gene bodies in both adult and larval oysters.
-This is the first characterization of genome-wide DNA methylation in oysters from multiple lineages. Our study found that DNA methylation patterns are specific to oyster lineages, as larvae and their parents were highly correlated in their methylation profiles. This lineage-specific epigenetic marking in offspring suggests that methylation information is inherited from parents to their progeny. This is contrary to what we expected, as male gamete samples are composed of a single cell type and were hypothesized to have similar DNA methylation profiles. Compare here
+This study provides a comprehensive profile of where DNA methylation occurs in the oyster genome, both in male gametes and their progeny. Overall methylation levels ranged from about 15-18% in the oyster genome with interspersed regions of both methylated and unmethylated DNA in both spermatozoa and larvae samples. This proportion of CpG methylation falls within the range of that previously reported for oyster male gonad tissue (Olson and Roberts, 2014) and oyster gill tissue (Gavery and Roberts, 2013). These findings indicate that overall genome methylation in C. gigas is at an intermediate level and suggests that DNA methylation does not significantly vary both among tissue types and during the first week of oyster development. Similar methylation patterns were observed across spermatozoa and larvae samples, indicating that DNA methylation does not significantly vary during development or aging. DNA methylation was also predominantly located in gene bodies in both adult and larval oysters.
+This is the first characterization of genome-wide DNA methylation in oysters from multiple lineages. Our study found that DNA methylation patterns are specific to oyster lineages, as larvae and their parents were highly correlated in their methylation profiles. This lineage-specific epigenetic marking in offspring suggests that methylation information is inherited from parents to their progeny. This is contrary to what we expected, as male gamete samples are composed of a single cell type and were hypothesized to be most similar in their DNA methylation profiles. 
+
+
+
+
+
+
+
+
+Transgenerational epigenetic effects/ heritability- 
+Modifications can be stably transmitted from parent to daughter cells
+-Research on Daphnia D. magna found transgenerational inheritance of epigenetic changes after Daphnia were exposed to several chemical substances known to alter DNA methylation (Vandegehuchte et al. 2009).
+
+
+Changes in DNA methylation profiles during development suggest that methylation is required for proper gene regulation and is involved in tissue differentiation during oyster development. DNA methylation can also be heritable with epigenetic marks being transferred to progeny. (examples)
+
+
+
+
+Compare here
 - zebrafish
+- C. elegans: no methylation during development or aging (Simpson et al. 1986)
+-honeybee Apis
+        Found germline-specific methylation occurs in the honey bee (Drewell, 2014). Distinct methylation patterns suggest parent specific epigenetic marking in gametes.
 -silkworm http://www.nature.com/nbt/journal/v28/n5/full/nbt.1626.html
 -Nasonia http://www.ncbi.nlm.nih.gov/pubmed/22122805
 -mammals http://www.biomedcentral.com/1471-2164/12/231
+Undergo drastic changes in methylation profiles during mammalian development, and reach final methylation levels around gastrulation. Levels of methylation constant afterwards. During gametogenesis, genome-wide methylation patterns of parental genomes erased and new methylation pattern set by de novo methylation (germline-specific, differential methylation of imprinted genes).
+        Mice: http://dev.biologists.org/content/122/10/3195.long
+        http://www.sciencedirect.com/science/article/pii/S0168952597011803
  DNA methylation regulating development (similar to other species- examples)
 
 
+
+
+
+
 Our research identified lineage and developmental differences in methylation. These loci corresponded to..
+DNA methylation overrepresented in transposable elements among lineage-specific and developmentally different loci when compared to the distribution of CpGs in the genome.
 to our knowledge this is first time anyone has looked at TEs- correlation between DMRs and TEs (in plants?) http://www.sciencemag.org/content/324/5933/1447.full
-
-
+In vertebrate genomes, TEs heavily methylated to suppress their activity (Yoder 1997, Walsh and Bestor, 1997) 
 
 
 
@@ -123,14 +183,13 @@ to our knowledge this is first time anyone has looked at TEs- correlation betwee
 
 
 Conclusion: Potential roles for DNA methylation during oyster development
-        -genomic imprinting: gene expression influenced by inheritance from parents
+        -genomic imprinting: Some genes inherited from either egg or sperm are not completely expressed due to modification of the genome during gametogenesis. Difference between parental genomes due to gamete-specific differential modification. Gene expression influenced by inheritance from parents and prevents TEs from being active (represses transcription). Methylation patterns can be inherited in a parent-of-origin specific manner (Beard and Jaenesich-ref), suggesting the role of methylation in genomic imprinting. Imprinted genes from egg and sperm have different methylation marks, and inheritance of these epigenetic marks leads to differential gene expression. Majority of imprinted genes examined show differences in DNA methylation between parental alleles, but DMRs can have different properties (i.e. differential methylation can be introduced in parental germ cells and maintained throughout development, or can show changes in methylation during development and acquire tissue-specific methylation patterns). 
         -transient methylation of developmental genes- based on environmental influence instead of always being expressed (triggered by signals from the environment)
 
 
 
 
-
-
+Lineage-specific DNA methylation during Crassostrea gigas development correlates with transposable element activity
 
 
 
@@ -191,7 +250,7 @@ Discussion outline:
 References
 
 
-Zhang et al. 2012 b. Crassostrea gigas - Ensembl Genomes. Database version number 75.1. 20 September 2012. <http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index[i]>
+Zhang et al. 2012 b. Crassostrea gigas - Ensembl Genomes. Database version number 75.1. 20 September 2012. <http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index[s]>
 
 
 Goff, Stephen A. et al., "The iPlant Collaborative: Cyberinfrastructure for Plant Biology," Frontiers in Plant Science 2 (2011), doi:10.3389/fpls.2011.00034.
@@ -263,10 +322,10 @@ All loci covered from the bisulfite sequencing run from all seven developmental 
 
 
 
-The resulting methratio outputs were quality filtered to examine distribution of methylation. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment.  Methylation ratios were calculated for individual loci for all seven samples. Total CpG dinucleotide methylation was determined by obtaining the number of methylated cytosines (3x coverage, ≥50% unconverted) divided by the total number of CpG dinucleotides covered from bisulfite sequencing.  Genome feature tracks were used to visualize and compare the distribution of methylation between oyster gametes and larval developmental stages. Genome feature tracks were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013)... note [j]
+The resulting methratio outputs were quality filtered to examine distribution of methylation. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment.  Methylation ratios were calculated for individual loci for all seven samples. Total CpG dinucleotide methylation was determined by obtaining the number of methylated cytosines (3x coverage, ≥50% unconverted) divided by the total number of CpG dinucleotides covered from bisulfite sequencing.  Genome feature tracks were used to visualize and compare the distribution of methylation between oyster gametes and larval developmental stages. Genome feature tracks were obtained from the Ensembl metazoa database gene set GTF and GFF3 files for C. gigas containing both coding and non-coding genes (Kersey et al. 2013)... note [t]
 
 
- The packages shape 1.4.1 and RColorBrewer 1.0-5 were used for genome-wide visualization of methylation levels among samples.[k]
+ The packages shape 1.4.1 and RColorBrewer 1.0-5 were used for genome-wide visualization of methylation levels among samples.[u]
 
 
 between various life history stages were analyzed using the R package methylKit (Akalin et al. 2012), which models the methylation of CpG loci within a logistic regression.
@@ -286,8 +345,8 @@ The methylation level of each CpG loci was limited to those with
 
 
 
-CpG Dinucleotide Methylation[l]
-All CpG loci were quality filtered to [m]compare whole DNA methylome profiles and identify developmental and lineage-specific methylation patterns. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment. The methylation levels of CpG loci were calculated as values ranging 0-1 representing the corresponding level of methylation (0%-100%). According to these levels, CpG dinucleotides were considered either methylated (50% unconverted) or unmethylated (< 50% unconverted).
+CpG Dinucleotide Methylation[v]
+All CpG loci were quality filtered to [w]compare whole DNA methylome profiles and identify developmental and lineage-specific methylation patterns. A CpG locus was considered methylated if it had at least 3x coverage and at least half the reads remained unconverted after bisulfite treatment. The methylation levels of CpG loci were calculated as values ranging 0-1 representing the corresponding level of methylation (0%-100%). According to these levels, CpG dinucleotides were considered either methylated (50% unconverted) or unmethylated (< 50% unconverted).
 
 
 / Methylation Profile Comparisons
@@ -302,21 +361,21 @@ this needs more detail - did you filter out gametes and larvae? were samples spu
 compared samples from the same progeny (i.e. The two lineages of male spermatozoa and their progeny). 
 
 
-The package methylKit models the methylation of CpG loci within a logistic regression and was used for visualization of descriptive statistics among samples and generating scatter plots for DNA methylation level comparisons on a genome-wide scale[n]. [o]
+The package methylKit models the methylation of CpG loci within a logistic regression and was used for visualization of descriptive statistics among samples and generating scatter plots for DNA methylation level comparisons on a genome-wide scale[x]. [y]
 
 
 
 
-Pair-wise Pearson’s correlation scores were calculated for all six samples.  The package methylKit was also used to perform hierarchical clustering of the seven methylation profiles using 1-Pearson’s correlation distance. Epigenetic differentiation between developmental stages and lineages was assessed by Principal Component Analysis (PCA) plots of methylation profiles for each sample followed by an analysis of molecular variance (AMOVA).[p]
+Pair-wise Pearson’s correlation scores were calculated for all six samples.  The package methylKit was also used to perform hierarchical clustering of the seven methylation profiles using 1-Pearson’s correlation distance. Epigenetic differentiation between developmental stages and lineages was assessed by Principal Component Analysis (PCA) plots of methylation profiles for each sample followed by an analysis of molecular variance (AMOVA).[z]
 
 
-Methylation profiles were visualized using the Integrative Genomics Viewer (IGV) (Thorvaldsdóttir et al. 2012 and Robinson et al. 2011). IGV was used to examine regions of methylation with respect to genomic features (introns, exons, and repetitive elements) and to visually compare methylation profiles among entire contigs. (Supplemental info- figshare http://dx.doi.org/10.6084/m9.figshare.1060465)[q]
+Methylation profiles were visualized using the Integrative Genomics Viewer (IGV) (Thorvaldsdóttir et al. 2012 and Robinson et al. 2011). IGV was used to examine regions of methylation with respect to genomic features (introns, exons, and repetitive elements) and to visually compare methylation profiles among entire contigs. (Supplemental info- figshare http://dx.doi.org/10.6084/m9.figshare.1060465)[aa]
 
 
  larvecompared methylation levels among combinations of male gamete and larvae samples. To test developmental differences in DNA methylation patterns among samples, we found similarities among the same time points, and then compared methylation differences from distinct developmental stages (i.e. examined the male spermatozoa, day 3 larvae, and day 5 larvae samples). For a loci to be called developmentally different it was required to fit into one of the following comparisons: spermatozoa versus day 3 larvae, spermatozoa versus day 5 larvae, or day 3 larvae versus day 5 larvae.  Methylation values of common loci between both lineages at the same developmental stage were averaged to obtain a representative value of the region during oyster development.  A standard deviation cutoff  0.2 and at least 30% difference in average methylation were used for determining developmental DNA methylation patterns. Differentially methylated loci involved in development were annotated to corresponding protein-coding genes using the Ensembl database imported from GigaDB (Fang et al. 2013) from the UniProtKB database to classify what genes are driving differences in methylation during oyster development.
 
 
-These packages are dependent on Bioconductor packages GenomicRanges 1.14.4 and data.table 1.9.2.[r][s] The package methylKit uses a logistic regression for visualization and DNA methylation level comparisons on a genome-wide scale[t]. 
+These packages are dependent on Bioconductor packages GenomicRanges 1.14.4 and data.table 1.9.2.[ab][ac] The package methylKit uses a logistic regression for visualization and DNA methylation level comparisons on a genome-wide scale[ad]. 
 
 
 
@@ -386,23 +445,51 @@ Also look at DMRs common between samples
 Significant enrichment of terms associated with various developmental processes, etc. Gene ontology analyses revealed that over x% of DMRs from each pair-wise comparison were classified as.. positive correlation 
 
 
+provide a fine scale resolution of dna methylation patterns 
+
+
+Lineage-specific loci were found to be enriched for transposable elements relative to the frequency of transposable elements located among all CG dinucleotides in the oyster genome. Similarly, a majority of these loci were present among genes and transposable elements, and and enrichment for transposable elements was observed among differentially methylated loci during development.
+
+
+and transposable elements (TEs) made up a substantial fraction of all DMLs. (Figure 3). 
+
+
+DMLs=loci specific to lineages and loci differing during development 
+
+
+Proportion of differentially methylated loci within defined regions of the oyster genome (Promoter Regions, Genes, Transposable Elements). 
+
+
+
+
+X genes show methylation differences between male gametes and progeny- reveals the complexity of methylation patterns.
 [a]are you showing this data?
-[b]is this true?
-[c]steven needs to fix up
-[d]you can go ahead and start getting these in - might can fall into bioproject we already have?
-[e]Did you check this
-[f]Need some sort of key or table that shows sample IDs
-[g]Just gene, TE and promoter
-[h]pyramid plot in R- plotrix
-[i]make url a citation
-[j]would be super cool to get post bsmap into ipython nb to share. need to decide what comparison will be made but assume methylkit is key- genome feature tracks likely bonus
-[k]May not use this as figure
-[l]consider from a readers perspective that this small section does not really describe why or what they would need to to reproduce
-[m]does not mean anything
-[n]too long
-[o]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
-[p]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
-[q]while pretty - i am not sure this is a method used to obtain a result - certainly not comparsons? one option is right after methratio can add sentence to say igv tracks were made -
-[r]dont see this necessary
-[s]does methylkit tell you these packages need to be installed
-[t]confirm this makes sense
+[b]I can if you think it is relevant- https://www.evernote.com/pub/che625/che625snotebook#st=p&n=a2bc45e5-608f-4f57-a89f-0d49a3b9e9bb
+[c]is this true?
+[d]yes
+[e]steven needs to fix up
+[f]you can go ahead and start getting these in - might can fall into bioproject we already have?
+[g]Did you check this
+[h]define lineage 1 or 3
+[i]I got 483- a thought we matched?
+[j]place original one in too
+[k]Try a version whre DMLs are divided by all CGs
+[l]change green bar to black or white for all CpGs
+[m]or figure out "normalization"
+[n]figure out normalization
+[o]Write a lable that literally describes what we are looking at.
+[p]not a legend sentence
+[q]much bettter explanation
+[r]lets chat today re this
+[s]make url a citation
+[t]would be super cool to get post bsmap into ipython nb to share. need to decide what comparison will be made but assume methylkit is key- genome feature tracks likely bonus
+[u]May not use this as figure
+[v]consider from a readers perspective that this small section does not really describe why or what they would need to to reproduce
+[w]does not mean anything
+[x]too long
+[y]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
+[z]this needs to be condensed to delineates discrete things done - hopefully in a fashion that can be reproduced
+[aa]while pretty - i am not sure this is a method used to obtain a result - certainly not comparsons? one option is right after methratio can add sentence to say igv tracks were made -
+[ab]dont see this necessary
+[ac]does methylkit tell you these packages need to be installed
+[ad]confirm this makes sense
