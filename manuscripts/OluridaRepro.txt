@@ -6,7 +6,11 @@
 link to orig paper
 
 
-Changing environmental parameters, such as temperature, are in flux due to climatic shifts. While some of these shifts may seem very mild,  sessile animals in established populations from isolated habitats may have dramatic reactions to a change in temperature regimes they see. Everything from growth and development to spawn timing are controlled by minute and predictable temperature changes between seasons. Olympia oysters, Ostrea lurida, are known for their temperature sensitive spawn timing. Bays along a north-south axis within the Puget Sound reach spawn temperature thresholds at different times due to geographic location and local environment parameters. Oysters native to these diverse bays have conformed their spawn timing to the factors within each bay leading to the phenomenon known as local adaptation. From a reciprocal O. lurida transplant experiment from three oceanographically distinct bays, we have shown that southern populations show a distinct reproductive advantage based on sheer number of actively spawning females as compared to animals from Hood canal and northern bays in their first year. 
+Olympia oysters, Ostrea lurida, in Puget Sound, Washington are known to initiate reproduction at a specific temperature threshold. Bays along a latitudinal gradient within the Sound exhibit temporal variation in attaining this temperature. This gradient of habitat types has been shown in recent studies (Savolainen, 2007) to induce the phenomena of local adaptation within semi sessile and sessile native organisms. Since O. lurida is native to the west coast, it is hypothesized that populations along a latitudinal gradient have become locally adapted to their environment. This adaptation would have important ramifications for conservation and restoration projects within the Puget Sound.   To test these differences we set up a reciprocal transplant experiment among three populations from Fidalgo (Northern), Dabob (Central), and Oyster (Southern) bays along a latitudinal axis as well as a fourth bay (Manchester NOAA facility) as a control repository. We monitored growth, survival, and fecundity from August 2013 to August 2014. We observed only minor growth and survival differences among populations. Throughout the spawning season, Southern oyster population produced significantly more brooding oysters at two of the three sites compared to the other two populations. Oyster populations native to these diverse bays may have genetically diverged their spawn timing to conform to environmental conditions within each bay, or the Southern population may simply have greater fitness. Through our ongoing research, we intend to determine whether Olympia oyster populations exhibit local adaptation within Puget Sound.
+
+
+
+
 
 
 Intro-
@@ -28,21 +32,15 @@ Hypothesis
 
 Methods
 Broodstock Conditioning and Outplanting 
-Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012. Mass spawning of ~25 oysters[c] from each location occurred in June 2013 following several months of conditioning. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble.[d][e] In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags with 24 oysters glued to ceramic tiles. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
+Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012 by Puget Sound Restoration Fund. Mass spawning of ~20-25 oysters from each location occurred in June 2013 following several months of conditioning. All offspring produced were raised and conditioned under common garden conditions such that no population received different treatment throughout the entire experiment. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble. In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags with 24 oysters glued to ceramic tile[c][d]s. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
 
 
 
 
-Site Monitoring
 
 
-Survival and growth were assessed at all sites in December 2013, Dabob in January 2014, and Fidalgo, Manchester, and Oyster Bays in February 2014.[f][g][h] 
 
 
-Growth and survival was assessed 6 times between outplanting and August 2014.
-
-
-Survival was measured by counting all live animals and dead animals in each tray for each population in each of seven months monitored..[i][j] In December 2013 at Dabob Bay, we counted the live samples as we opened windscreen bags which contained 1/4th the population in each tray. We then multiplied this number by 4 to get a rough estimate of the live animals for the tray. Growth was measured via size and weight measurements taken directly from live subsamples collected in the field and measured in the lab. In the lab each of the sampled oysters was measured using calipers for hinge to bill length and weighed with shell to determine whole body weight. Live samples were not collected in February, April, May, June, and July 2014 due to low mortality instead photographs were taken to document size through an image analysis program (ImageJ). 
 
 
 
@@ -287,13 +285,73 @@ Sample
 
 	
 
-	Table 1. This table denote actions taken in each month of the survey period in regards to field work. In the Visited and Genetic Samples rows F = Fidalgo, M = Manchester, O = Oyster Bay, and D = Dabob. In the Metrics row S = Size, W = Weight, L = Live Count, and D = Dead Count. Numbers are exact numbers of samples collected at each site. 
+	Table 1. T[e]his table denote actions taken in each month of the survey period in regards to field work. In the Visited and Genetic Samples rows F = Fidalgo, M = Manchester, O = Oyster Bay, and D = Dabob. In the Metrics row S = Size, W = Weight, L = Live Count, and D = Dead Count. Numbers are exact numbers of samples collected at each site. 
 
 
 
 
-Reproductive Assessment 
-To assess number of brooding larvae in oysters one tray from each population was subjected to anesthesia (Jackson et al, in press) [k][l]with larvae removed and counted. Specifically, trays were removed from water for 45 minutes then immersed in ~75 g/L  epsom salt sea water solution[m][n]  for an additional 45 minutes. When brooding oysters were detected, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis.
+Site Monitoring
+        Survival was determined via direct counts of dead oysters and remaining live oysters at each site visit from either all trays during winter visits and subsampled trays during summer visits. 
+Survival and size was assessed 7 times between outplanting and August 2014. Images for size were taken at every visit in December 2013, January, February, and April 2014. Images for size analysis were also conducted at Manchester, Fidalgo Bay and Oyster Bay immediately prior to Spawning season in May 2014, a sub sample in June 2014, and an end of season measurement in July/August 2014.   
+??**To determine size, all oysters from each population, from a single tray, were photographed and measured using imageJ on a monthly basis between December and August. Expections included no sampling in March and after April no oysters were located at Dabob???
+
+
+Surival was determined by……[f].
+
+
+To assess number of larvae in oysters one tray from each population was subjected to anesthesia (Jackson et al, in press) with larvae removed and counted. This one assessment was carried out on weekly basis from May 14th, 2014 until August 15th, 2014 . Specifically, trays were removed from water for 45 minutes then immersed in heptahydrate sulfate mineral epsomite (MgSO4·7H2O) (epsom salt) dissolved in sea water (75g/l) for an additional 45 minutes. When brooding oysters were detected via visual inspection, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a plastic tube (50ml) for later analysis. The proportion of brooding adults to treated oysters was recorded.
+
+
+Statistical Analysis
+        Differences in mortality were determined through Cox Proportional Hazard tests performed in the R statistical package (survival). Only findings with a P-Value less that 0.05 (P<0.05) were considered different. 
+        Growth was compared using ANOVA assuming normal distribution as well as Kruskal-Wallis assuming nonnormal distribution. Pairwise comparisons were performed using Student’s T-Test as well as Tukey’s HSD. P-Values less than 0.05 (P<0.05) were considered different. 
+        
+
+
+
+
+Results
+
+
+
+
+Survival
+The number of oysters at each location varied from the loss of all cohorts at Dabob by April 2014 (Fig 1c). Significant differences between group mortalities were found through Cox Proportional Hazard Tests. The Dabob group had the highest survival and Fidalgo had the lowest survival. 
+At Fidalgo where on average 78% of the oysters from all three cohorts remain in July 2014(Fig 1b). No significant differences in mortalities between groups were found at Fidalgo. 
+Limited mortality was observed at Manchester where on average 65% of cohorts remain by July 2014 (Fig 1d). No significant differences in mortalities between groups were found at Manchester.
+Oyster Bay there were significantly more mortality in all three populations with an average of 39% survival by September 2014 (Fig 1a). There were significant differences found between mortalities at Oyster Bay. Dabob had the highest survival and Oyster Bay had the lowest survival. 
+
+
+ KMoys.jpeg 
+ kmdabobfixed.jpeg 
+ kmfidfixed.jpeg 
+ kmmanfixed.jpeg 
+
+Figure 1a,b,c,d. Kaplan-Meier (KM) graphs showing percent decline in population at each site for all extant populations. Groups labelled via color Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay. X-Axis is time in months from Outplant. Fig 1a. (Top Left) KM for Oyster Bay, 1b. (Bottom Left) KM for Fidalgo Bay, 1c. (Top Right) KM for Dabob, note X-Axis stops at 8 months due to terminal sampling, 1d. (Bottom Right) KM for Manchester. 
+FIGURE LEGEND
+
+
+
+
+
+
+
+
+Growth[g][h][i][j][k]
+Mean size at outplant was XXX (SD +-). After one year of growth oysters at Fidalgo grew to an average of 25 mm in August 2014. Animals at Oyster Bay grew to an average of 30 mm. Manchester produced oysters at an average of 20 mm. Animals at Dabob were terminally sampled and never grew larger than the outplant average.  At all three remaining sites, oysters from the Dabob group remained significantly smaller than the Oyster Bay and Fidalgo groups. 
+ sizecomparisonoysterbay.jpeg 
+
+Figure 2. Size Comparison between oysters at August 2013 outplant and oysters in August 2014 survey at Oyster Bay. Peaks on the left are August 2013. Peaks on the right are August 2014. Blue = Dabob, Purple =  Fidalgo, Orange = Oyster Bay
+
+
+ sizecomparisonfidalgo.jpeg 
+
+
+
+Figure 3. Size Comparison between oysters at August 2013 outplant and oysters in August 2014 survey at Fidalgo Bay. Peaks on the left are August 2013. Peaks on the right are August 2014. Blue = Dabob, Purple =  Fidalgo, Orange = Oyster Bay
+
+
+ sizecomparisonmanchester.jpeg 
 
 
 
@@ -308,23 +366,175 @@ To assess number of brooding larvae in oysters one tray from each population was
 
 
 
-To sample using the anesthetization procedure we did first removed the appropriate stack from the water and broke the stack down into its three composite trays. Two of the trays were then set in 10 gallons of ambient temperature sea water and covered with a tarp during periods of direct sunlight to reduce temperature increases as the trays were kept within 3 degrees of the initial ambient seawater temperature. The third tray was set on a dry surface to deprive the oysters of oxygen for 45 minutes. After the period of deprivation the tray was then placed in an epsom salt sea water solution while one of the remaining pretreatment trays were then deprived of oxygen. The oxygen deprivation has been shown to increase the likelihood of oysters to open during the treatment phase which increases the effectiveness of the treatment (Jackson and Vadopalas, pers. comm.) 
 
 
-The epsom salt solution was made up of 5 gallons of freshwater mixed with 7 lbs of epsom salt. Immediately prior to treating the first tray, the epsom salt solution was poured into a tub and an additional 5 gallons of ambient sea water was added to increase the volume of treatment solution while also reducing treatment salinity to avoid salinity shock. Each tray was then treated for 45 minutes to allow for maximum exposure to the anesthetization solution. The treatment tub was placed between two insulating styrofoam sheets with reflective surfaces to maintain the treatment temperature within one degree celsius. On occasion frozen gel blocks were added to the solution to maintain this temperature stability. Once treatment was completed the tray with the anesthetized oysters was removed and then each oyster was visually inspected for signs of brooding larvae. If no larvae were found, the number of effectively treated animals (animals which gaped open), the number of closed animals (untreated), and the number of dead animals were counted. Dead animals were then collected from each tray and once a month a photo was taken of the remaining animals for size analysis. 
 
 
-If a brooding oyster were detected, then the larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a 50 ml falcon tube to preserve the larvae for later analysis. The brooding animal was also measured using calipers to determine shell length and color of larvae was noted as a rough estimate of developmental phase. The tray workup procedure then continued on as normal with number of brooders counted and image of brooders for archival purposes. 
 
 
-Once each tray had been checked it was placed into an ambient sea water bath which allowed the animals to recover from the epsom salt as well as any heat or desiccation that had occurred during the brood checking procedure. These tubs were covered with a tarp and were maintained within 3 degrees of their initial temperature often through the addition of gel blocks or extra sea water to mitigate temperature change. Once all three trays had been recovered at least partially, the trays were then built back into the hanging stack and placed back into the water. 
+
+Brooding Females[l][m]
+
+
+Brood[n][o]s Produced
+The proportion of brooding oysters at the three field sites was assessed from May to August 2014.  At Oyster Bay and Fidalgo, wethe Oyster Bay group had an elevated proportion of brooding adults throughout the season. At Oyster Bay, there were 69 brooding oysters (41%_. This is in comparison to 14% and 11% brooding oysters from XX and Dabob, respectively.The peak percentage of brooding oysters in Oyster Bay was reached in third week of June in oysters from Oysters Bay, three weeks prior to peaks in other populations. 
+
+
+ oyspercbrood.jpeg 
+[p]
+Figure XX. Percent Brooders from each group at each sample date at Oyster Bay. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
+
+
+At Fidalgo Bay, Oyster Bay oysters peaked in percentage of brooder in the second week of July.  The Oyster Bay group produced 39 brooders representing 10% of the population over the course of season. The Northern and Dabob groups produced 8 brooders a piece representing ~2% of each population. [q][r][s]
+
+
+ fidpercbrood.jpeg 
+
+Figure XX. Percent Brooders from each group at each sample date at Fidalgo. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
+
+
+Conditions at Manchester led to an underwhelming spawning season though all populations produced at least one brooder. The Southern population spawned the most and produced 11 brooders representing roughly 3% of the oysters present. Interestingly the Dabob population produced more brooders than the Northern population with 7 and 1 brooders respectively. This represented ~2% and 0.3% of each population respectively. 
+
+
+ manpercbrood.jpeg 
+
+Figure XX. Percent Brooders from each group at each sample date at Manchester. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
+
+
+
+
+Size at Brooding[t]
+        Each brooder was measured in the field to determine size at brooding. These sizes were then correlated with group to determine total size at brooding. It was found that there were significant differences between each group as well as between each site. The Fidalgo group produced the largest brooders with an average size of 29 mm while the Dabob group produced the smallest brooders at 23 mm. Oyster bay produced an average size brooder of 26 mm. By site, Animals at Oyster Bay and Fidalgo Bay ranged between average size of 27-28 mm while Manchester produced the smallest average brooders at around 22 mm. 
+
+
+
+
+
+
+  
+Figure 5. Average Brooder Size from each population all sites combined. 95% confidence intervals bias-corrected due to sample size difference. Each bar significantly different than the other two. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DISCUSSION
+
+
+
+
+Fecundity was measured through weekly reproductive surveys at Oyster Bay, Fidalgo Bay, and Manchester from May to August 2014 followed by larvae counts from each brood collected. Animals were reproductively active with oysters most active in Oyster Bay and least active in Manchester. 
+
+
+Fecundity
+Fecundity surveys were performed for the majority of the spawning season starting in mid May 2014 and ending in mid August 2014.  During this time weekly collection of brooding larvae from sub samples of each population at each site were performed using an anesthesia technique in the field. The technique itself varies in efficiency between sites and between trays due to things like wave motion (a common problem on the Manchester floating docks) and vibration of people walking around the tray during treatment (an issue common for both researchers and the general public at all sites). For each treatment we would have a number of effectively treated oysters and ineffectively treated oysters. Only oysters that were effectively treated ie gaping were able to be checked for brooding larvae. We calculated percent brooders based on the number of brooding individuals found divided by the number of oysters that were effectively treated. This allows us to easily compare between sites, trays, and treatment days the differences in brooding even though the pool of oysters we used to check for brooding changed frequently in each treatment. 
+
+
+
+
+Historically Oyster Bay has been known for its abundant olympia oyster harvests and has a well established resident population which was sampled for the Southern population broodstock. Condition within this bay reach the spawning threshold of 12.5 C within mid May and continue a warming trend throughout the summer. This is evidenced by the brooding activity monitored in late may with the strong pulse from both the native population and the foreign populations. This activity increased steadily over the summer and crested around July 10th when the site total number of brooders was at its maximum when all brooders were combined. Though it does seem that the Southern population had its maximum spawning period in late June while the Northern and Dabob populations didn’t hit their maximum spawning until mid July. In late July and issue arose with a heavy set of blue mussels on both stacks of oysters. This seems to have a depressing effect on spawning for all populations in one stack over the other. Most likely this is caused by the blue mussels consuming the majority of the ambient food and sperm balls in the water leaving very little for the oysters to fertilize or raise larvae with. As this is a pretty common occurrence within Oyster Bay, it could be assumed that the native populations pulse occurs earlier as it is forced to compete with blue mussel settlers later in the season. 
+
+
+Another telling part of this data is that given the same conditions which are very supportive of spawning at oyster bay, not all the populations spawned with the same vigor. The Southern population spawned in large numbers continuously for a generous period of time and out produced all other populations at nearly every time point. While not as vigorous, the Northern population also spawned in large numbers later in the season but had to have a gradual build up in spawning activity. Also it seemed to reduce spawning rates much faster than the other populations late in the season which may be a sign that Northern oysters shut down reproductively in the face of modest unfavorable conditions. The Dabob population only once out performed the other two populations and only did so very late in the summer. While this population has shown some evidence of being much hardier when it comes to resistance to extreme temperature fluctuations, there may be an energetic trade off when it comes to spawning leaving the oysters to produce little offspring. 
+
+
+
+
+
+
+From water temperatures taken on treatment days, it seems as if Fidalgo didn’t reach the spawning threshold until July. Data from the temperature loggers refutes this. While temperatures were not optimal until June, the oysters at Fidalgo did start brooding in early June. Unlike Oyster Bay there was never a pulse with concerted and synchronized brooding across all populations. It does however seem that the Northern population attempted to brood first but was then usurped by the the Southern population which began brooding in the second week of June and remained equal to or greater than number of brooders compared to each population. From this information it seems almost as if the Southern population were heavily invested in spawning if the temperatures hold about the threshold while the other populations may be more sensitive to other parameters such as tidal influence or underwater vibrations caused by nearby boat traffic. This site has the highest survival and mediocre but steady brooding occurring in at least one of the three populations. Overall this site is an excellent site for restoration efforts which have been in progress for several years now. 
+
+
+As for each population, surprisingly the southern population has had the best response in terms of brooding. This seems that these oysters are very opportunistic when it comes to spawning and will allocate more energy resources to the effort when conditions may not be the best. The native population on the other hand has had a very weak response to these conditions. This could be a sign that the population has undergone an outbreeding depression effect caused by the introduction of non native populations of olympia oysters during restoration outplanting activities. The Dabob population has also had the surprising late season spawning seen at the other three sites. Late season spawning could be indicative of divergent adaptations caused by the conditions found within Dabob bay. These oysters may weather extreme cooling events in late spring and early summer in their native bays which has lead them to delay their reproductive efforts until late summer when warmer temperatures are more stable over time. This would give these populations an advantage when brooding as to avoid any possible cold shocks that could disrupt spawning and reduce future recruitment. That said it does seem to still suggest that Dabob oysters put less energy into spawning to maintain long term survival.
+
+
+
+
+Manchester was the slowest and lo[u]west spawning site all summer. While it seemingly had good parameters for survival, it negatively influenced spawning. The first spawner found at Manchester was in mid June, 3 weeks after the first pulse of spawning seen at Oyster Bay. From this point, each population only produced 1 brooder until mid July when the Southern population began having small numbers of brooders. Overall brood quality was less dense than at other sites with visibly less larvae being collected for each animal. Overall this site had a poor effect on spawning and would likely be a poor site choice for any future restoration efforts. That said the new oyster hatchery owned by NOAA and run by PSRF is based in the same bay. They have broodstock being maintained at the floating docks which is great for longterm survival but to create offspring the oysters must be conditioned in the hatchery weeks to months prior to spawning to induce fecundity. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----------------------------------------------------------------
 
 
 notes
-At Manchester and Fidalgo, there were relatively equivalent numbers of animals in each population prior to spawning season. Since the four stacks contained equivalent numbers of animals, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [o]
+At Manchester and Fidalgo, there were relatively equivalent numbers of oysters in each population prior to spawning season. Since the four stacks contained equivalent numbers of oysters, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [v]
 
 
 Sampling occurred from April 30th to August 1st, 2014, with each site being visited once per week except for the week of May 4th during which water temperatures were below spawning threshold as evidenced by the lack of brooders in the week prior and the week after.
@@ -345,16 +555,23 @@ Sampling occurred from April 30th to August 1st, 2014, with each site being visi
 Larvae Counts/quality
 [a]not--perhaps Fitness?
 [b]I changed this to fitness but I'm not sure that fitness describes it either. I stated success at we can directly state that the animal was successful at reproducing. I feel that fitness indicates that the animal had the potential to reproduce but does not indicate that we were successful in proving that it did reproduce. Though I do understand that success generally implies later recruitment of offspring. Is there possibly a more neutral term to indicate breeding success but not imply future recruitment?
-[c]these were in multiple groups of ~25 I believe--Ryan will have details
-[d]Clarify/emphasize that these were all done in common conditions--essentially a common garden with equal access to algal ration and same tank etc
-[e]I'm a little confused here. I understand the need to express common garden conditions but I'm not sure how to improve upon what you have written here.
-[f]please make simple table showing when sites were visited and what was done (mort. growth repro etc)
-[g]revising table below is fine
-[h]I revised the table below to include up through Aug 2014 and added rows for Reproduction Checks, Brood Collection, and Terminal sampling for Dabob.
-[i]These two sentences can be combined--
-[j]Done, I'm just calling it survival instead of survival and mortality.
-[k]can provisionally reference Jackson et al --hoping to get this done asap!
-[l]I referenced this as being in press, is there a better way to reference Katie's work?
-[m]be precise with conc
-[n]I put approximately ~75 g/L as that was the intended dosage but I know that it varied slight around that. Would it be better to remove the approximation mark?
-[o]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).
+[c]if we are not going to use these data might consider not including
+[d]At the moment I cannot use this data but I did collect images for animals still on tiles at Oyster Bay when I sampled on September 19th. If I can identify the animals from outplant to the images from September. They should be usable.
+[e]note this will not be included in final but helps with writing.
+[f]state how survival was determined.
+[g]What is main result with respect to growth?
+[h]What will be the figure
+[i]I was thinking a before and after size distribution curve graph to show that the dabob curve remains on the left as compared to the other two groups. I have also added a sentence to the end of the results to indicate that Dabob remaining smaller is the significant finding.
+[j]try overlaying outplant and end on same figure for total of 3 plots
+[k]Check out the new figure. Its August 2013 sizes vs. August 2014. I'm not sure how to relabel the curves but I can explain it in the figure legend. Is this closer to what you wanted?
+[l]What is main message you want to get across.
+[m]I stated that the Oyster Bay group produced significantly more broods at Oyster Bay and Fidalgo than did the other groups. I then want to go into further detail about the differences at each site.
+[n]select alternative lingo
+[o]I say broods because we cannot state whether each brood was produced by a different animal or if one animal produced multiple broods throughout the season.
+[p]Go with bars, no title
+[q]not sure how this relates to data. would not these numbers need to refer to specific time point?
+[r]They are totals for the season instead of single time points.
+[s]could be same oysters (no way of knowing) so please describe in terms of time points
+[t]Is there going to be figure associated with this?
+[u]keep consistent how you cover sites in text. 1
+[v]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).

@@ -1,4 +1,6 @@
 
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 ####<center>[**Data**](#data) |  [**Presentations**](#pres)  |  [**Peer-Reviewed Publications**](#peer) | [**PrePrints**](#preprint) | [**Theses**](#theses) | [**Grants**](#grants) | [**Proposals**](#props) | [**Media**](#vids) </center>
 
 
@@ -40,7 +42,6 @@
 ####Lab Notebooks
 
 
-<br>
 
 ---
 
@@ -55,7 +56,9 @@
 <a id="peer">
 ##Peer-Reviewed Publications</a>
 
-Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.00224
+Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.00224 
+
+<div data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2014.00224" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 ([pdf](http://eagle.fish.washington.edu/cnidarian/Briefings%20in%20Functional%20Genomics-2014-Gavery-217-22.pdf))
 
