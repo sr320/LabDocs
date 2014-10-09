@@ -12,15 +12,6 @@ Associate Professor in the School of Aquatic and Fishery Sciences at the Univers
 
 
 
-###[Mackenzie Gavery](http://students.washington.edu/mgavery/Welcome.html)
-
-<img src="http://students.washington.edu/mgavery/About_Me_files/shapeimage_1.png" width="144" height="142" /> 
-
-My research aims to improve our understanding of the physiological responses of marine invertebrates to natural and human-driven environmental change.  Specifically, I am interested the role of epigenetics, processes that can alter gene activity without changes to the underlying DNA sequence, in mediating environmental responses in shellfish.  I am using the Pacific oyster (<em>Crassostrea gigas</em>) as a model to examine the role of DNA methylation in regulating interactions between genes and the environment. Through this work I hope to better understand the pathways through which environmental contaminants, such as endocrine disruptors, induce physiological changes and to determine whether these induced changes can be passed on to future generations
-
-
----
-
 ###[Claire Olson](http://students.washington.edu/che625/)
 
 <img src="http://students.washington.edu/che625/Claire_Ellis/Welcome_files/DSCF1161.jpg" width="195" height="147" />
@@ -47,7 +38,7 @@ My previous work has been in the Eastern oyster (Crassostrea virginica) with foc
 
 ---
 
-###Jay Dimond (_coming soon_)
+###Jay Dimond 
 
 ---
 <br>
@@ -69,9 +60,7 @@ Giles Goetz
 
 Katie Jackson
 
-Grace 
-
-Etilet
+Grace Crandall
 
 Jonathan Allen
 
@@ -82,6 +71,7 @@ Jonathan Allen
 
 ###_Graduate Students_
 
+[Mackenzie Gavery](http://students.washington.edu/mgavery/Welcome.html)
 
 [Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html)
 
@@ -98,20 +88,23 @@ Dave Metzger
 
 
 
-Hannah Wear; UW SAFS (xx-xx)
-[proposal](http://)
-[paper](http://)
-[poster](http://)
+Hannah Wear; UW SAFS (2013-2014)
+[proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit)
+[paper](https://docs.google.com/document/d/1w-AcodhwPoMyW96W9Oik81lbZJZqaQ5cLjl46l9sW7Y/pub)
+[poster](http://figshare.com/articles/Differential_Gene_Expression_in_the_Male_and_Female_Olympia_Oyster/1019944)
+[notebook](http://genefish.wikispaces.com/Hannah%27s+notebook)
 
-Charles Duber; UW SAFS (xx-xx)
-[proposal](http://)
-[paper](http://)
-[poster](http://)
+Charles Duber; UW SAFS (2013-2014)
+[proposal](https://docs.google.com/document/d/1ghXmH85LJlohpopaWs9jD8Lw1VcN4ZVMjUbzpV28R-0/edit)
+[paper](https://docs.google.com/document/d/1MOC9FTrbURgqKs1_sA-c6mda0S9-4Gs1xi-jm4wphjg/pub)
+[slides](https://docs.google.com/presentation/d/1IhEipEdYuHja7EIruawfrdxeRbO5xqqs6Us6wubeqsI/pub?start=false&loop=false&delayms=3000)
+[notebook](http://genefish.wikispaces.com/Charles%27+Notebook)
 
-Jessica Blanchette; UW SAFS (xx-xx)
-[proposal](http://)
-[paper](http://)
-[poster](http://)
+Jessica Blanchette; UW SAFS (2013-2014)
+[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit)
+[paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub)
+[slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx)
+[notebook](http://genefish.wikispaces.com/Jessica%27s+Notebook)
 
 <!---
 I realize all code below is crappy (html) 
