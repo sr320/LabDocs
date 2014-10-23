@@ -13,6 +13,8 @@ Below is a compilation of resources (most of which we use).
 
 [Google Hangout](http://www.google.com/+/learnmore/hangouts/)
 
+[Altmetric]
+
 [MindMiester]
 
 [Twitter](https://twitter.com/)
@@ -20,6 +22,8 @@ Below is a compilation of resources (most of which we use).
 
 ###Writing proposal (and papers)
 [Authorea](https://www.authorea.com/)
+
+[GitHub]
 
 [Google Drive]
 

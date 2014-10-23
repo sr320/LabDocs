@@ -16,8 +16,8 @@
 </a>   
 
 * [Nightingales](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#card:id=2) (High-Throughput Sequencing project database)
-* NCBI (GenBank, SRA, BioProjects, ESTs)   
-* EBI (Protein Mass Spec)   
+* NCBI - (GenBank, SRA, [BioProject](http://www.ncbi.nlm.nih.gov/bioproject?LinkName=sra_bioproject&from_uid=456318), [BioProject](http://www.ncbi.nlm.nih.gov/bioproject/71219))
+* EBI - ([PRIDE](http://www.ebi.ac.uk/pride/archive/projects/PXD000835))   
 
 
 ####Secondary Data 
@@ -39,9 +39,19 @@
 	
 * GitHub  
 
-####Lab Notebooks
+[https://github.com/sr320/LabDocs
+](https://github.com/sr320/LabDocs)
 
+[https://github.com/sr320/qdod/wiki
+](https://github.com/sr320/qdod/wiki)
 
+* Lab Notebooks 
+
+<a href="http://www.genefish.wikispaces.com">
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/genefish_-_home_19EAD656.png" width="500" alt="Nightingales_-_Google_Fusion_Tables_1970319C.png" />
+</a>      
+
+<br>
 
 ---
 
@@ -49,52 +59,52 @@
 ##Presentations</a>
 
 
-[Impact Story](https://impactstory.org/StevenRoberts#slides) (SR)
+<iframe src="http://www.slideshare.net/sr320/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 ---
 
 <a id="peer">
 ##Peer-Reviewed Publications</a>
 
-Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.00224 
+Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.0022   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2014.00224" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-<div data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2014.00224" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 ([pdf](http://eagle.fish.washington.edu/cnidarian/Briefings%20in%20Functional%20Genomics-2014-Gavery-217-22.pdf))   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/bfgp/elt054" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/early/2014/01/06/bfgp.elt054.short) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 ([pdf](http://eagle.fish.washington.edu/cnidarian/Briefings%20in%20Functional%20Genomics-2014-Gavery-217-22.pdf))
-
-Gavery MR and Roberts SB. (**2013**) [Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc](https://peerj.com/articles/215/) PeerJ 1:e215. doi:10.7717/peerj.215
+Gavery MR and Roberts SB. (**2013**) [Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc](https://peerj.com/articles/215/) PeerJ 1:e215. doi:10.7717/peerj.215   <span data-badge-popover="right" data-badge-type="4" data-doi="10.7717/peerj.215" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
 <a href="https://peerj.com/articles/215/"><img class="alignnone" title="align" alt="" src="https://dfzljdn9uc3pi.cloudfront.net/2013/215/1/fig-2-1x.jpg" width="264" height="154" /></p></a>
 
 
-Garcia-Vedrenne AE, Groner M, Page-Karjian A, Siegmund G-F, Singhal S, Sziklay J and Roberts SB. (**2013**) [Development of Genomic Resources for a thraustochytrid Pathogen and Investigation of Temperature Influences on Gene Expression](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074196) PLoS ONE 8(9): e74196. doi:10.1371/journal.pone.0074196
+Garcia-Vedrenne AE, Groner M, Page-Karjian A, Siegmund G-F, Singhal S, Sziklay J and Roberts SB. (**2013**) [Development of Genomic Resources for a thraustochytrid Pathogen and Investigation of Temperature Influences on Gene Expression](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0074196) PLoS ONE 8(9): e74196. doi:10.1371/journal.pone.0074196   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pone.0074196" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Storer CS, Quinn TP and Roberts SB. (**2013**) [Quantitative PCR analysis used to characterize physiological changes in brain tissue of senescent sockeye salmon](http://link.springer.com/article/10.1007/s10522-013-9448-1) Biogerontology. doi:10.1007/s10522-013-9448-1 ([pdf](https://dl.dropboxusercontent.com/u/115356/docs/Storer2013.pdf))
+Storer CS, Quinn TP and Roberts SB. (**2013**) [Quantitative PCR analysis used to characterize physiological changes in brain tissue of senescent sockeye salmon](http://link.springer.com/article/10.1007/s10522-013-9448-1) Biogerontology. doi:10.1007/s10522-013-9448-1 ([pdf](https://dl.dropboxusercontent.com/u/115356/docs/Storer2013.pdf))   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s10522-013-9448-1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Burge CA, Mouchka ME, Harvell CD and Roberts SB. (**2013**) [Immune response of the Caribbean sea fan, Gorgonia ventalina, exposed to an _Aplanochytrium parasite_ as revealed by transcriptome sequencing](http://www.frontiersin.org/invertebrate_physiology/10.3389/fphys.2013.00180/abstract) Frontiers in Physiology 4:180. doi:10.3389/fphys.2013.00180
 
-Timmins-Schiffman EB, Nunn BL, Goodlett DR and Roberts SB. (**2013**) [Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster](http://conphys.oxfordjournals.org/content/1/1/cot009.full.pdf+html) Conservation Physiology. doi:10.1093/conphys/cot009</p>
+Burge CA, Mouchka ME, Harvell CD and Roberts SB. (**2013**) [Immune response of the Caribbean sea fan, Gorgonia ventalina, exposed to an _Aplanochytrium parasite_ as revealed by transcriptome sequencing](http://www.frontiersin.org/invertebrate_physiology/10.3389/fphys.2013.00180/abstract) Frontiers in Physiology 4:180. doi:10.3389/fphys.2013.00180   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2013.00180" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Timmins-Schiffman EB, Friedman CS, Metzger DC, White SJ and Roberts SB. (**2013**) [Genomic resource development for shellfish of conservation concern](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract) Molecular Ecology Resources. doi:10.1111/1755-0998.12052
 
-Timmins-Schiffman EB and Roberts SB. (**2012**) [Characterization of genes involved in ceramide metabolism in the Pacific oyster _Crassostrea gigas_](http://www.biomedcentral.com/1756-0500/5/502) BMC Research Notes 5:502.  doi:10.1186/1756-0500-5-502
+Timmins-Schiffman EB, Nunn BL, Goodlett DR and Roberts SB. (**2013**) [Shotgun proteomics as a viable approach for biological discovery in the Pacific oyster](http://conphys.oxfordjournals.org/content/1/1/cot009.full.pdf+html) Conservation Physiology. doi:10.1093/conphys/cot009  <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/conphys/cot009" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Timmins-Schiffman EB, Friedman CS, Metzger DC, White SJ and Roberts SB. (**2013**) [Genomic resource development for shellfish of conservation concern](http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract) Molecular Ecology Resources. doi:10.1111/1755-0998.12052   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/1755-0998.12052" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Timmins-Schiffman EB and Roberts SB. (**2012**) [Characterization of genes involved in ceramide metabolism in the Pacific oyster _Crassostrea gigas_](http://www.biomedcentral.com/1756-0500/5/502) BMC Research Notes 5:502.  doi:10.1186/1756-0500-5-502   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1756-0500-5-502" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
 <a href="http://www.springerlink.com/content/j051782638k7n058/"><img class="wp-image-2505 alignright" title="OAlarvae fig" alt="" src="http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/03/Snapshot-102712-953-AM.png" width="243" height="231" /></a></p>
 
 
-Storer CG, Pascal CE, Roberts SB, Templin WD, Seeb LW and Seeb JE. (**2012**) [Rank and Order: Evaluating the Performance of SNPs for Individual Assignment in a Non-Model Organism](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0049018) PLoS ONE 7(11): e49018. doi:10.1371/journal.pone.0049018
+Storer CG, Pascal CE, Roberts SB, Templin WD, Seeb LW and Seeb JE. (**2012**) [Rank and Order: Evaluating the Performance of SNPs for Individual Assignment in a Non-Model Organism](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0049018) PLoS ONE 7(11): e49018. doi:10.1371/journal.pone.0049018    <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pone.0049018" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Timmins-Schiffman EB,  O’Donnell M, Friedman CS, and Roberts SB. (**2012**) [Elevated pCO2 causes developmental delay in early larval Pacific oysters, _Crassostrea gigas_](http://www.springerlink.com/content/j051782638k7n058/) Marine Biology. doi:10.1007/s00227-012-2055-x [pdf](http://eagle.fish.washington.edu/cnidarian/ETS_oyster_larve_MB.pdf)
+Timmins-Schiffman EB,  O’Donnell M, Friedman CS, and Roberts SB. (**2012**) [Elevated pCO2 causes developmental delay in early larval Pacific oysters, _Crassostrea gigas_](http://www.springerlink.com/content/j051782638k7n058/) Marine Biology. doi:10.1007/s00227-012-2055-x [pdf](http://eagle.fish.washington.edu/cnidarian/ETS_oyster_larve_MB.pdf)   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s00227-012-2055-x" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Burge CA, Douglas N, Conti-Jerpe I, Weil E, Roberts SB, Friedman CS and CD Harvell. (**2012**) [Friend or foe: the association of Labyrinthulomycetes with the Caribbean sea fan, _Gorgonia ventalina_](http://www.int-res.com/abstracts/dao/v101/n1/p1-12) Diseases of Aquatic Organisms 101:1-12. doi:10.3354/dao02487
+Burge CA, Douglas N, Conti-Jerpe I, Weil E, Roberts SB, Friedman CS and CD Harvell. (**2012**) [Friend or foe: the association of Labyrinthulomycetes with the Caribbean sea fan, _Gorgonia ventalina_](http://www.int-res.com/abstracts/dao/v101/n1/p1-12) Diseases of Aquatic Organisms 101:1-12. doi:10.3354/dao02487   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3354/dao02487" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Metzger DC, Pratt P and Roberts SB. (**2012**) [Characterizing the effects of heavy metal and _Vibrio_ exposure on hsp70 expression in _Crassostrea gigas_ gill tissue](http://dx.doi.org/10.2983/035.031.0305) Journal of Shellfish Research 31(3):627-630. doi:10.2983/035.031.0305 [pdf](http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/03/Meztger_JSR.pdf)
+Metzger DC, Pratt P and Roberts SB. (**2012**) [Characterizing the effects of heavy metal and _Vibrio_ exposure on hsp70 expression in _Crassostrea gigas_ gill tissue](http://dx.doi.org/10.2983/035.031.0305) Journal of Shellfish Research 31(3):627-630. doi:10.2983/035.031.0305 [pdf](http://faculty.washington.edu/sr320/wordpress/wp-content/uploads/2012/03/Meztger_JSR.pdf)   <span data-badge-popover="right" data-badge-type="4" data-doi="10.2983/035.031.0305" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0030908) PLoS ONE 7(2): e30908. doi:10.1371/journal.pone.0030908
+Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic resources for Pacific herring through targeted transcriptome pyrosequencing](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0030908) PLoS ONE 7(2): e30908. doi:10.1371/journal.pone.0030908   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pone.0030908" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116
+Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2011.00116" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img class="aligncenter" title="merv" alt="" src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" width="300" height="154" /></a></p>
