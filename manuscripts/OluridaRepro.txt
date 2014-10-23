@@ -294,12 +294,12 @@ Site Monitoring
 
 
 Mortality
-        Mortality was determined via counts of dead oysters or remaining live oysters at each site visit. Survival was assessed [d]
-All trays were examinedwinter visits and a single tray was counted during summer visits. No oysters remained at Dabob after April.  
+        Mortality was determined via counts of dead oysters or remaining live oysters at each site visit. Survival was assessed [d] in December 2013, January (Dabob only), February, April/May, June, and July/August 2014. 
+All trays were examined winter visits and a single tray was counted during each summer visits allowing for a full population count at the end of 4 weeks. No oysters remained at Dabob after April.  
 
 
 Growth
-Size was assessed five times between August 2013 outplant and August 2014. Size was assessed using photos and imageJ.[e] Images for size were taken at every visit in February, April/May, June (subsample), and July/August 2014. 
+Size was assessed five times between August 2013 outplant and August 2014. Size was assessed using photos and imageJ.[e][f] Images for size were taken at every visit in February, April/May, June (subsample), and July/August 2014. 
 
 
 Reproductive Activity
@@ -320,10 +320,8 @@ Results
 
 
 Survival
-The number of oysters at each location varied from the loss of all cohorts at Dabob by April 2014 (Fig 1c). Significant differences between group mortalities were found through Cox Proportional Hazard Tests. The Dabob group had the highest survival and Fidalgo had the lowest survival. 
-At Fidalgo where on average 78% of the oysters from all three cohorts remain in July 2014(Fig 1b). No significant differences in mortalities between groups were found at Fidalgo. 
-Limited mortality was observed at Manchester where on average 65% of cohorts remain by July 2014 (Fig 1d). No significant differences in mortalities between groups were found at Manchester.
-Oyster Bay there were significantly more mortality in all three populations with an average of 39% survival by September 2014 (Fig 1a). There were significant differences found between mortalities at Oyster Bay. Dabob had the highest survival and Oyster Bay had the lowest survival. 
+Significant differences between group mortalities were found with the Dabob group having the highest survival and Fidalgo had the lowest survival, overall. At the Fidalgo s[g]ite an average 78% of the oysters from all three cohorts remain after 10 months (Fig 1b). No significant differences in mortalities between groups were observed at Fidalgo. Limited mortality was observed at Manchester where on average 65% of cohorts remain by July 2014 (Fig 1d). No significant differences in mortalities between groups were found at Manchester.
+At Oyster Bay there were significantly more mortality in all three populations [h] as compared to the Fidalgo and Manchester sites, with an average of 39% survival [i]by September 2014 (Fig 1a). At Oyster Bay Dabob had the highest survival and Oyster Bay had the lowest survival [j][k]at 11 months post outplant.
 
 
 
@@ -338,7 +336,6 @@ Oyster Bay there were significantly more mortality in all three populations with
 
 
 Figure 1a,b,c,d. Kaplan-Meier (KM) graphs showing percent decline in population at each site for all extant populations. Groups labelled via color Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay. X-Axis is time in months from Outplant. Fig 1a. (Top Left) KM for Oyster Bay, 1b. (Bottom Left) KM for Fidalgo Bay, 1c. (Top Right) KM for Dabob, note graph lines stop at 8 months due to terminal sampling percentage survival is awkwardly high due to large number of missing from each population, 1d. (Bottom Right) KM for Manchester. 
-FIGURE LEGEND
 
 
 
@@ -347,8 +344,8 @@ FIGURE LEGEND
 
 
 
-Growth[f][g][h][i][j]
-Mean oyster size at outplant was XXX (SD +-) across all sights.. It should be noted that at Manchester[k][l] animals from the Dabob groups were outplanted at a slightly larger mean size (approximately 5mm more) than the other two groups at outplanting.  After one year, mean size of oysters at Oyster Bay were 26, 28, and 32 [m]mm for Dabob, Oyster Bay, and Fidalgo groups respectively. At Fidalgo mean size of oysters were 23, 27, and 29[n] mm for Dabob, Oyster Bay, and Fidalgo groups. At Manchester, mean size of oysters were 18, 20, and 21 mm for Dabob, Oyster Bay, and Fidalgo groups. Growth was observed at Dabob but was insignificant as all oysters died 8 months post outplanting.
+Growth
+Mean oyster size at outplant was XXX (SD +-) across all sights. It should be noted that at Manchester[l][m] animals from the Dabob groups were outplanted at a slightly larger mean size (approximately 5mm more) [n]than the other two groups at outplanting.  After one year, mean size of oysters at Oyster Bay were 26, 28, and 32 [o]mm for Dabob, Oyster Bay, and Fidalgo groups respectively. At Fidalgo mean size of oysters were 23, 27, and 29[p] mm for Dabob, Oyster Bay, and Fidalgo groups. At Manchester, mean size of oysters were 18, 20, and 21 mm for Dabob, Oyster Bay, and Fidalgo groups. Gr[q]owth was observed at Dabob but was insignificant as all oysters died 8 months post outplanting.
 
 
 
@@ -364,7 +361,7 @@ Mean oyster size at outplant was XXX (SD +-) across all sights.. It should be no
 
 
  sizecomparisonoysterbay.jpeg 
-
+[r]
 Figure 2. Size Comparison between oysters at August 2013 outplant and oysters in August 2014 survey at Oyster Bay. Peaks on the left are August 2013. Peaks on the right are August 2014. Blue = Dabob, Purple =  Fidalgo, Orange = Oyster Bay
 
 
@@ -379,8 +376,8 @@ Figure 3. Size Comparison between oysters at August 2013 outplant and oysters in
 
 
 
-Growth Rate[o]
-         From individual sizes collected via ImageJ analysis of oyster size, growth rate was calculated using ggplot2  and a best fit line calculated via linear method was overlaid to determine differences in growth rate between populations. At Oyster Bay, the Oyster Bay groups grew the slowest while the Fidalgo group grew the fastest with Dabob in between.
+Growth Rate[s]
+         From individual sizes collected via ImageJ analysis of oyster size, growth rate was calculated using ggplot2 [t] and a best fit line calculated via linear method was overlaid to determine differences in growth rate between populations. At Oyster Bay, the Oyster Bay groups grew the slowest while the Fidalgo group grew the fastest w[u]ith Dabob in between.
 At Fidalgo, all three groups grew at roughly equal rates.  At Manchester, Oyster Bay grew the fastest while Fidalgo and Dabob grew at equivalent rates. 
 
 
@@ -403,7 +400,7 @@ Figure XX. Growth Rate plotted from February to August 2014 using size informati
 
 
 
- Brooding Females[p][q]
+ Brooding Females[v][w]
 
 
 Spawning Temperature Threshold Data
@@ -413,16 +410,16 @@ Stuff about spawning temperature threshold at sites.
  oysmediantmpY1.jpeg 
 
  oysminmaxmedtmpsY1.jpeg 
-[r]
+[x][y]
 The proportion of brooding oysters at the three field sites was assessed from May to August 2014.  At Oyster Bay and Fidalgo, the Oyster Bay group had an elevated proportion of brooding adults throughout the season. At Oyster Bay, there were 69 brooding oysters (41%_. This is in comparison to 14% and 11% brooding oysters from Fidalgo and Dabob, respectively.The peak percentage of brooding oysters in Oyster Bay was reached in third week of June in oysters from Oysters Bay, three weeks prior to peaks in other populations. 
  percbroodoys.jpeg 
-[s]
+[z][aa]
 
 
 Figure XX. Percent Brooders from each group at each sample date at Oyster Bay. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
 
 
-At Fidalgo Bay, Oyster Bay oysters peaked in percentage of brooder in the second week of July.  The Oyster Bay group produced 39 brooders representing 10% of the population over the course of season. The Northern and Dabob groups produced 8 brooders a piece representing ~2% of each population. [t][u][v][w]
+At Fidalgo Bay, Oyster Bay oysters peaked in percentage of brooder in the second week of July.  The Oyster Bay group produced 39 brooders representing 10% of the population over the course of season. The Northern and Dabob groups produced 8 brooders a piece representing ~2% of each population. [ab][ac][ad][ae][af]
 
 
  percbroodfid.jpeg 
@@ -430,7 +427,7 @@ At Fidalgo Bay, Oyster Bay oysters peaked in percentage of brooder in the second
 Figure XX. Percent Brooders from each group at each sample date at Fidalgo. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
 
 
-Conditions at Manchester led to an underwhelming spawning season though all populations produced at least one brooder. The Southern population spawned the most and produced 11 brooders representing roughly 3% of the oysters present. Interestingly the Dabob population produced more brooders than the Northern population with 7 and 1 brooders respectively. This represented ~2% and 0.3% of each population respectively. 
+Conditions at Manchester led to an underwhelming[ag] spawning season though all populations produced at least one brooder. The Southern[ah] population spawned the most and produced 11 brooders representing roughly 3% of the oysters present. Interestingly the Dabob population produced more brooders than the Northern population with 7 and 1 brooders respectively. This represented ~2% and 0.3% of each population respectively. 
 
 
  percbroodman.jpeg 
@@ -440,8 +437,8 @@ Figure XX. Percent Brooders from each group at each sample date at Manchester. P
 
 
 
-Size at Brooding[x][y]
-        Each brooder was measured in the field to determine size at brooding. These sizes were then correlated with group to determine total size at brooding. It was found that there were significant differences between each group as well as between each site. The Fidalgo group produced the largest brooders with an average size of 29 mm while the Dabob group produced the smallest brooders at 23 mm. Oyster bay produced an average size brooder of 26 mm. By site, Animals at Oyster Bay and Fidalgo Bay ranged between average size of 27-28 mm while Manchester produced the smallest average brooders at around 22 mm. 
+Size at Brooding[ai]
+        Each brooder was measured in the field to determine size at brooding. These sizes were then correlated with group to determine total size at brooding[aj]. It was found that there were significant differences between each group as well as between each [ak]site. The Fidalgo group produced the largest brooders with an average size of 29 mm while the Dabob group produced the smallest brooders at 23 mm. Oyster bay produced an average size brooder of 26 mm. By site, Animals at Oyster Bay and Fidalgo Bay ranged between average size of 27-28 mm while Manchester produced the smallest average brooders at around 22 mm[al]. 
 
 
 
@@ -547,7 +544,7 @@ As for each population, surprisingly the southern population has had the best re
 
 
 
-Manchester was the slowest and lo[z]west spawning site all summer. While it seemingly had good parameters for survival, it negatively influenced spawning. The first spawner found at Manchester was in mid June, 3 weeks after the first pulse of spawning seen at Oyster Bay. From this point, each population only produced 1 brooder until mid July when the Southern population began having small numbers of brooders. Overall brood quality was less dense than at other sites with visibly less larvae being collected for each animal. Overall this site had a poor effect on spawning and would likely be a poor site choice for any future restoration efforts. That said the new oyster hatchery owned by NOAA and run by PSRF is based in the same bay. They have broodstock being maintained at the floating docks which is great for longterm survival but to create offspring the oysters must be conditioned in the hatchery weeks to months prior to spawning to induce fecundity. 
+Manchester was the slowest and lo[am]west spawning site all summer. While it seemingly had good parameters for survival, it negatively influenced spawning. The first spawner found at Manchester was in mid June, 3 weeks after the first pulse of spawning seen at Oyster Bay. From this point, each population only produced 1 brooder until mid July when the Southern population began having small numbers of brooders. Overall brood quality was less dense than at other sites with visibly less larvae being collected for each animal. Overall this site had a poor effect on spawning and would likely be a poor site choice for any future restoration efforts. That said the new oyster hatchery owned by NOAA and run by PSRF is based in the same bay. They have broodstock being maintained at the floating docks which is great for longterm survival but to create offspring the oysters must be conditioned in the hatchery weeks to months prior to spawning to induce fecundity. 
 
 
 
@@ -620,7 +617,7 @@ Manchester was the slowest and lo[z]west spawning site all summer. While it seem
 
 
 notes
-At Manchester and Fidalgo, there were relatively equivalent numbers of oysters in each population prior to spawning season. Since the four stacks contained equivalent numbers of oysters, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [aa]
+At Manchester and Fidalgo, there were relatively equivalent numbers of oysters in each population prior to spawning season. Since the four stacks contained equivalent numbers of oysters, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [an]
 
 
 Sampling occurred from April 30th to August 1st, 2014, with each site being visited once per week except for the week of May 4th during which water temperatures were below spawning threshold as evidenced by the lack of brooders in the week prior and the week after.
@@ -644,25 +641,38 @@ Larvae Counts/quality
 [c]note this will not be included in final but helps with writing.
 [d]list when this occured
 [e]Be specific.
-[f]What is main result with respect to growth?
-[g]What will be the figure
-[h]I was thinking a before and after size distribution curve graph to show that the dabob curve remains on the left as compared to the other two groups. I have also added a sentence to the end of the results to indicate that Dabob remaining smaller is the significant finding.
-[i]try overlaying outplant and end on same figure for total of 3 plots
-[j]Check out the new figure. Its August 2013 sizes vs. August 2014. I'm not sure how to relabel the curves but I can explain it in the figure legend. Is this closer to what you wanted?
-[k]use specific language
-[l]I have added the specificity you requested here about which population and the increased size at outplant.
-[m]Double Check on R
-[n]Double Check on R
-[o]Need to produced and test Rsquare values for growth curves. I have some references to build the code off of but I haven't had a chance to do it yet.
-[p]What is main message you want to get across.
-[q]I stated that the Oyster Bay group produced significantly more broods at Oyster Bay and Fidalgo than did the other groups. I then want to go into further detail about the differences at each site.
-[r]Should I place these graphs within the paper or as part of an appendix at the end. I like them because the clearly show spawning temperature threshold. I would also like to make a truncated form of this graph to overlay weekly brooder percentages for each site.
-[s]I would overlay this graph onto a truncated temperature graph for the same period.
-[t]not sure how this relates to data. would not these numbers need to refer to specific time point?
-[u]They are totals for the season instead of single time points.
-[v]could be same oysters (no way of knowing) so please describe in terms of time points
-[w]Do you want individual percentages of spawning for each populations at each site at each time point. If so we should considered a table as it would be less cluttered than a graph and I could high light things such as first spawn and peak spawn?
-[x]Is there going to be figure associated with this?
-[y]Would you like the size class graph here?
-[z]keep consistent how you cover sites in text. 1
-[aa]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).
+[f]Should I put in a paragraph containing the protocol for ImageJ or should I just say that we compared oysters measured in images to a known size standard to calculate exact size of each individual measured?
+[g]Get Letters on graphs for ease
+[h]compared to ....
+[i]graph does not reflect that
+[j]give #s
+[k]Exact numbers?
+[l]use specific language
+[m]I have added the specificity you requested here about which population and the increased size at outplant.
+[n]no need to approx - give exact diff in mean
+[o]Double Check on R
+[p]Double Check on R
+[q]turn this into simple table
+[r]lets plan on keeping these in - fix fonts
+[s]Need to produced and test Rsquare values for growth curves. I have some references to build the code off of but I haven't had a chance to do it yet.
+[t]dont state methods in results
+[u]give value
+[v]What is main message you want to get across.
+[w]I stated that the Oyster Bay group produced significantly more broods at Oyster Bay and Fidalgo than did the other groups. I then want to go into further detail about the differences at each site.
+[x]Should I place these graphs within the paper or as part of an appendix at the end. I like them because the clearly show spawning temperature threshold. I would also like to make a truncated form of this graph to overlay weekly brooder percentages for each site.
+[y]there is no way those spikes are real
+[z]your working on getting these to # of those that opened?
+[aa]I would overlay this graph onto a truncated temperature graph for the same period.
+[ab]not sure how this relates to data. would not these numbers need to refer to specific time point?
+[ac]They are totals for the season instead of single time points.
+[ad]could be same oysters (no way of knowing) so please describe in terms of time points
+[ae]Do you want individual percentages of spawning for each populations at each site at each time point. If so we should considered a table as it would be less cluttered than a graph and I could high light things such as first spawn and peak spawn?
+[af]table is fine
+[ag]no commentary in results
+[ah]name
+[ai]add one sentence indicating the minimum size of brooder found at each site for each pop.
+[aj]this is method
+[ak]but not diff from rest of pop..
+[al]My understanding is his has no relevance as population sizes varied accordingly?
+[am]keep consistent how you cover sites in text. 1
+[an]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).
