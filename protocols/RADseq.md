@@ -1,6 +1,6 @@
 #RAD PROTOCOL 
 >Olympia Oyster - **Initial outplant**    
->33 samples from three populations    
+>32 samples from three populations    
 >Layout:
 
 
@@ -15,7 +15,7 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 > 
 > Qiagen 96 well plate used for DNA extraction
 > 
-> Tissue into dry plate - then buffer added
+> Tissue into dry plate - then buffer added - [details](http://genefish.wikispaces.com/Sam%27s+Working+Notebook+August+-+December+2014#sjw20141014)
 > 
 
 
@@ -31,7 +31,13 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 > [3](http://sr320.tumblr.com/post/100245499294)   
 > 
 > _side note_     
-> later used DNAzol with [slightly better results](http://sr320.tumblr.com/post/101186109739) with respect to HMW DNA     
+> later used DNAzol with [slightly better results](http://sr320.tumblr.com/post/101186109739) with respect to HMW DNA 
+>
+> DNA concentrations   
+> [![q](http://eagle.fish.washington.edu/cnidarian/skitch/20141022-GigasRADdnaConcentrations_-_Google_Sheets_1A018BAE.png)](https://docs.google.com/spreadsheets/d/1ikRj2DEvkgIyogSGpl2V_6a64XDUyCSlwdQFO8Qv1no/edit#gid=1025947309) 
+> [details](http://genefish.wikispaces.com/Sam%27s+Working+Notebook+August+-+December+2014#sjw20141022)
+
+   
  
 
 
