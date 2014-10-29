@@ -9,9 +9,11 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 
 * Extract DNA
 
-> Picture of bags    
+> Samples taken from field August 2013    
+> ![bag](http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_August_2013_outplanting_1A01889A.png)   
+> [more details](http://olyo.wikispaces.com/August+2013+outplanting)
 > 
-> Qiagen 96 well plate used.
+> Qiagen 96 well plate used for DNA extraction
 > 
 > Tissue into dry plate - then buffer added
 > 
@@ -21,7 +23,17 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 * Check Quantity and Quality
 
 
-> Gels spec
+> Gel (representative pic)   
+> ![an](http://eagle.fish.washington.edu/cnidarian/skitch/sr320_tumblr_com_1A018930.png)   
+> complete gels pics and details 
+> [1](http://sr320.tumblr.com/post/100190074759) 
+> [2](http://sr320.tumblr.com/post/100231194034) 
+> [3](http://sr320.tumblr.com/post/100245499294)   
+> 
+> side note     
+> later used DNAzol with slightly better results with respect to HMW DNA     
+> ![z](http://eagle.fish.washington.edu/cnidarian/skitch/__Photo_1A018A0C.png) 
+
 
 
 * Transfer **500 ng** of genomic DNA from each sample to a PCR plate.  
