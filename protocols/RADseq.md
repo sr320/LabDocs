@@ -30,9 +30,9 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 > [2](http://sr320.tumblr.com/post/100231194034) 
 > [3](http://sr320.tumblr.com/post/100245499294)   
 > 
-> side note     
-> later used DNAzol with slightly better results with respect to HMW DNA     
-> ![z](http://eagle.fish.washington.edu/cnidarian/skitch/__Photo_1A018A0C.png) 
+> _side note_     
+> later used DNAzol with [slightly better results](http://sr320.tumblr.com/post/101186109739) with respect to HMW DNA     
+ 
 
 
 
