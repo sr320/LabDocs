@@ -43,17 +43,17 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 
 
 * Transfer **500 ng** of genomic DNA from each sample to a PCR plate.  
-* Air dry the DNA overnight. Resuspend DNA in a total volume of 40 µL (either elution buffer or water).     
+* Air dry the DNA overnight. Resuspend DNA in a total volume of 20 µL (either elution buffer or water).     
 * Make restriction enzyme digestion mix (below is for SbfI, but PstI will also work with our adapters): Keep enzymes in freezer or on ice block at all times.
 
 Reageant   | amount
 ------------ | ------------- 
-H2O			  |	4.4 µL			
-CutSmart Buffer (10X)		|	5.0 µL			
-SbfI-HF (NEB R3642L)		|	0.5 µL
-RNase A (100 mg/mL)			|   0.1 µL		
+H2O			  |	2.2 µL			
+CutSmart Buffer (10X)		|	2.5 µL			
+SbfI-HF (NEB R3642L)		|	0.25 µL
+RNase A (100 mg/mL)			|   0.05 µL		
 
-Add 10µL to each sample.    
+Add 5µL to each sample.    
 
 * Incubate at 37˚C for 90 minutes, then at 80˚C for 20 minutes to inactivate the enzyme (check appropriate inactivation temperature for the enzyme in use, if other than SbfI).
 
