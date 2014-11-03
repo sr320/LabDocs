@@ -40,9 +40,6 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
    
  
 
-
-
-<<<<<<< HEAD
 * Transfer **500 ng** of genomic DNA from each sample to a PCR plate.     
 
 * Air dry the DNA overnight.  
@@ -54,14 +51,9 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 >
  
 * Resuspend DNA in a total volume of 20 µL of water.   
+     
 
-
-* Make restriction enzyme digestion mix
-=======
-* Transfer **500 ng** of genomic DNA from each sample to a PCR plate.  
-* Air dry the DNA overnight. Resuspend DNA in a total volume of 20 µL (either elution buffer or water).     
-* Make restriction enzyme digestion mix (below is for SbfI, but PstI will also work with our adapters): Keep enzymes in freezer or on ice block at all times.
->>>>>>> FETCH_HEAD
+* Make restriction enzyme digestion mix 
 
 Reageant   | amount
 ------------ | ------------- 
@@ -101,7 +93,11 @@ Add 8 µL to each sample.
 
 * Gel extract the sample. Run the entire sample on exactly 1% agarose gel (100 – 120 V from 30 – 45 min) and use 100 bp DNA Ladder as a reference to extract the proper size range. It’s easiest to use SybrSafe gel stain at this step, and the dark reader to visualize the gel for cutting the band.  Add 5 uL SybrSafe to agarose before pouring the gel.  The dark reader, with an orange filter, can be used to visualize the gel, and the old Polaroid to take a photo.  Use a clean razor blade to extract the smear between 400-600 bp.  Place the cut gel plug in clean micro tube and weigh gel plug so that you know what the ‘volume’ is for Minelute cleanup.
 
-**LOTS OF STUFF
+---
+
+
+**LOTS OF STUFF**
+
 ---
 
 * Make PCR mix. The amount of purified DNA can vary in the PCR.  Sample pools with lower quality DNA may require more DNA in this PCR step.  Each PCR volume must be 100µL total so adjust the amount of water you use. 
