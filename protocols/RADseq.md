@@ -42,9 +42,20 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 
 
 
-* Transfer **500 ng** of genomic DNA from each sample to a PCR plate.  
-* Air dry the DNA overnight. Resuspend DNA in a total volume of 40 µL (either elution buffer or water).     
-* Make restriction enzyme digestion mix (below is for SbfI, but PstI will also work with our adapters): Keep enzymes in freezer or on ice block at all times.
+* Transfer **500 ng** of genomic DNA from each sample to a PCR plate.     
+
+* Air dry the DNA overnight.  
+
+
+>
+> Samples required two days of drying.    
+>  In hindsight - _probably could have pushed forward after overnight._ 
+>
+ 
+* Resuspend DNA in a total volume of 20 µL of water.   
+
+
+* Make restriction enzyme digestion mix
 
 Reageant   | amount
 ------------ | ------------- 
@@ -55,7 +66,9 @@ RNase A (100 mg/mL)			|   0.1 µL
 
 Add 10µL to each sample.    
 
-* Incubate at 37˚C for 90 minutes, then at 80˚C for 20 minutes to inactivate the enzyme (check appropriate inactivation temperature for the enzyme in use, if other than SbfI).
+_note that PstI will also work with adaptors_
+
+* Incubate at 37˚C for 90 minutes, then at 80˚C for 20 minutes to inactivate the enzyme (_check appropriate inactivation temperature for the enzyme in use, if other than SbfI_).
 
 * Add 2 µL of each barcoded SbfI short P1 RAD adapter (50nM) (these are the illumina barcodes located in -20˚C freezer) to each digested sample. Mix by pipetting.  Use RAD adapters 10 times from each aliquot plate before throwing away. 
 
