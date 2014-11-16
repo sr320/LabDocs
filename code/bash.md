@@ -21,6 +21,35 @@ sort - Sorts the info from the "cut" command in ascending order.
 uniq -c - Counts the number of occurrences of each unique "word" in the specified column(s). (Note: Technically "uniq -c" is counting the occurrence of each unique line in the specified column, not the actual "words." It is this reason (that uniq occurrences are tallied by line) that you use the cut command to have the uniq command focus on a single column from the source file.
 
 
+---
+
+###Basic Substitutions in a File
+This is the same as Find and Replace in programs like Microsoft Word, but will run on files that are too large to be opened with such programs.
+
+```
+$sed 's/text_you_want_replaced/replacement_text/g' path/to/source_file > path/to/destination_file
+```
+
+Code explanation:
+
+- "s" invokes the substitute command in sed
+- "g" tells sed to apply the substitute command globally on each line. Without the "g" argument, sed will only apply your substitute command to the first instance it encounters on each line that contains your "text_you_want_replaced".
+
+NOTE: This command is case sensitive and will only match EXACLTY what you enter in as the "text_you_want_replaced". If you need more flexibility (e.g. having sed find variations like upper- and lowercase text), it exists, but is a bit too in-depth to go into here.
+
+
+
+
+###Audible Notification of Job Completion (Terminal)
+After typing in a Terminal command (and before hitting 'Enter') add the following:
+`; say "Text that you want to have the computer read aloud to notify you that the job is finished"`
+
+Code explanation:
+; - Semicolon separates the "say" command from the previous command.
+say - The speech-to-text command for Terminal
+"text between quotes" - This is the text that you want to be read when your job is finished.
+
+
 
 
 ---
