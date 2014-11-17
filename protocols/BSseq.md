@@ -1,6 +1,6 @@
 #Bisulfite Sequencing PROTOCOL 
 >  
->
+>Claire's edit
 
 
 * Extract DNA - DNAzol or Qiagen Plate format are what is commonly used.
@@ -46,8 +46,12 @@ _Before starting, add 7 ml (for P-1001-1) or 15 ml (for P-1001-2) of 100% Ethano
 
 
 
-- Place a spin column into a 2 ml collection tube. Add 300 µl of R4 to the sample; mix, and transfer to the column. Centrifuge at 12,000 rpm for 15 seconds. Remove the column from the collection tube and discard the flowthrough. Replace column to the collection tube.- Add 200 µl of R5 solution (final cleaning buffer) to the column, and centrifuge at 12,000 rpm for 15 seconds.
-
+- Place a spin column into a 2 ml collection tube. Add 300 µl of R4 to the sample; mix, and transfer to the column. Centrifuge at 12,000 rpm for 15 seconds. Remove the column from the collection tube and discard the flowthrough. Replace column to the collection tube.
+
+
+- Add 200 µl of R5 solution (final cleaning buffer) to the column, and centrifuge at 12,000 rpm for 15 seconds.
+
+
 - Add 10 µl of R1 to 1.1 ml of 90% ethanol, and mix. Add 50 µl of the mixed R1/ethanol solution to the column; let it sit for 8 minutes at room temperature, then centrifuge at 12,000 rpm for 15 seconds.
 
 - Add 200 µl of 90% ethanol to the column, centrifuge at 12,000 rpm for 15 seconds. Remove the column from the collection tube and discard the flowthrough. Replace the column to the collection tube. Add 200 µl of 90% ethanol to the column again and centrifuge at 12,000 rpm for 35 seconds.
@@ -56,5 +60,7 @@ _Before starting, add 7 ml (for P-1001-1) or 15 ml (for P-1001-2) of 100% Ethano
 - Place the column in a new 1.5 ml vial. Add 8-18 µl of R6 directly to the column filter, and centrifuge at 12,000 rpm for 20 seconds to elute modified DNA. 
 
 
-_Modified DNA is now ready for methylation amplification or storage at –20°C for up to 2 months._---
-
+_Modified DNA is now ready for methylation amplification or storage at –20°C for up to 2 months._
+
+---
+
