@@ -1,0 +1,642 @@
+﻿TITLE : Pulling apart the host response to sea star wasting disease
+
+
+
+
+Authors
+Lauren Fuess, Morgan Eisenlord, Collin Closek, Allison Tracy, Ruth Mauntz, Sarah Gignoux-Wolfsohn, Monica Moritsch, Reyn Yoshioka, Drew Harvell, Carolyn Friedman, Colleen Burge, Steven Roberts
+
+
+
+
+Introduction
+Echinoderms provide a powerful context for examining[a] invertebrate immune function from both an organismal and evolutionary perspective. With a taxonomic position at the base of the deuterostomes, echinoderms are more similar to chordates and vertebrates than other invertebrate lineages (Blair and Hedges 2005). This is evident in part through their complex immune system with specialized phagocytic cells, signalling molecules that circulate in coelomic fluid, and a melanization response (Franco et al. 2011; Smith et al. 2010; Smith and Soderhall 1991). The eponymous members of the coelomic fluid, the coelomocytes, are critical for both cellular and humoral elements of the immune response including phagocytosis and the release of antimicrobials to target and destroy foreign antigens (Franco et al. 2011). Laboratory based studies have established the existence of echinoderm recognition proteins (Bulgakov et al. 2013; Gowda et al. 2013), cytokine signaling molecules (Beck et al. 1996), and effector mechanisms, such as antimicrobial peptides (Li et al. 2010). Conserved immune response pathways identified in genomic and proteomic screens of echinoderms include the complement system, Toll pathway, and cell adhesion regulation (Hibino et al. 2006; Smith et al. 2010; Dheilly et al. 2013). While the discovery of these major pathways highlights broad similarities across the phylogenetic tree, echinoderms also have regions of unusually high diversification as well as unique combinations of innate and adaptive immune capabilities. For example, it has been reported that the sea urchin Strongylocentrotus purpuratus possesses over two hundred Toll Like Receptor (TLR) genes (Hibino et al., 2006). Other genes suggest overlap with vertebrate immunity, such as homologs of RAG1 and RAG2 genes, which are involved in diversifying recognition capabilities of vertebrate lymphocytes (Hibino et al. 2006). 
+
+
+Infectious diseases of marine echinoderms are on the rise (Ward et al. 2005), providing an opportunity to investigate the varied immune responses of these animals to multiple pathogens. This rise in disease epidemics further underscores the need for a thorough understanding of the echinoderm immune system. Sea star wasting disease (SSWD), a newly emerging infectious disease affecting echinoderms, has caused severe population declines in multiple sea star species along the North American Pacific coast since summer 2013 (MARINe 2013). Early symptoms of disease include abnormally twisted arms, a deflated appearance, and white lesions on the aboral body wall; this rapidly progresses to tissue degradation, structure loss, arm loss, and death (Eckert et al. 2000). New evidence implicates a denso-virus as causative agent in this outbreak (Hewson et al., in press[b][c]). Many basic details of SSWD are still unknown, including the mode of disease spread, and conditions influencing its severity (MARINe 2013). Two of the most affected species, Pisaster orchraceus and Pycnopodia helianthoides are considered to be keystone species (citations?). As with any keystone species, loss of asteroid populations to disease outbreaks has the potential to shift community composition of intertidal and subtidal ecosystems (Paine 1974; Duggins 1983). [d][e] 
+
+
+In this study, we characterize the sea star immune response in the sunflower star, Pycnopodia helianthoides, by injecting healthy individuals with 0.2 um homogenate from stars with signs of wasting disease and examining gene expression patterns of control and treated stars. The P. helianthoides transcriptome generated here is the first immune-related transcriptome in the class Asteroidea. Physiological responses to SSWD included activation of the Toll and complement pathways, alterations in nervous and connective tissues, and Wnt signaling pathway disruption. [f]This transcriptome not only provides an important resource for future evolutionary and organismal studies but provides the first evidence of how sea stars mount a response to this devastating disease. Understanding the host response to this rapidly-progressing disease will provide insight into dynamics of host-pathogen interactions in marine systems and may provide clues to future engineering of resistant stars[g]. Furthermore this detailed exploration of the sea star response to disease can enhance our understanding of the evolution of immune response.
+
+
+
+
+
+
+Methods
+
+
+Experimental Design 
+Pycnopodia helianthoides (radius 160.5 +/- 30.9 mm) were collected from four sites in Washington State: Langley (LA) (48.038, -122.404); Dabob Bay (DB) (47.813, -122.820); Port Hadlock Marina (PH) (48.030, -122.745); Friday Harbor (FH) (48.545, -123.012). Sites had no reports of SSWD infection at time of collection. An effort was made to collect animals within a similar size range to reduce variation based on body mass but otherwise selection was random. Experiments were conducted at Marrowstone USGS Laboratory, WA. P. helianthoides were transported to the lab on the day of collection in coolers, wrapped in cloth soaked in seawater from their respective sites. 
+Upon arrival, animals were examined for signs of disease or trauma and then transferred to individual, 37.8 L aquariums with separate flow-through, sand-filtered, and UV-treated seawater kept at ~8.5°C. The acclimation period for each star varied based on collection date: 3 days (Friday Harbor); 1 month (Port Hadlock marina) 2.5 months (Langley, Dabob Bay), depending on time of collection. During this period, animals were examined for signs of disease and fed live manila clams (Ruditapes philippinarum), every 3-4 days. Water flow was checked daily.
+An infection challenge was conducted with tissue homogenate prepared from the tube feet, dermal tissue, and coelomic fluid of three P. helianthoides with clinical signs of SSWD. The tissue was ground with a mortar and pestle, then placed in a Stomacher with 10 mL seawater, and centrifuged at 1000 x g for 5 min at 4°C. Organisms injected with the homogenate boiled for 7 minutes are considered the control group. The treated group were injected with homogenate that was syringe-filtered through a 0.22 μm polyethylsulfone filter. Specifically, one animal from each site was inoculated on 6 April 2014 with either boiled (controls) or filtered (treated) inocula (0.5 mL) by injection into the coelomic cavity, under the dermis on the aboral side of the arm, and at the arm base. Animals were checked twice daily and any physical or behavioral changes recorded. All animals were sacrificed 9 days post injection once all three treatment animals showed small lesions. Stars were sampled while lesions were small and they still had turgor so the coelomic fluid could be extracted from an intact animal. Coelomic fluid was collected from the arm using a syringe. The samples were centrifuged for 5 minutes at 1200 rpm at 4°C to separate the coelomocytes. The fluid was then removed and the pellet containing the coelomocytes flash frozen in liquid nitrogen and stored at -80C.
+
+
+High Throughput Sequencing and Assembly
+Total RNA was extracted using Tri-Reagent per manufacturer’s instruction. Potential DNA carry-over was removed from extracted RNA using the Turbo DNA-free treatment according to the manufacturer's instructions (Ambion). RNA quality, library preparation, and sequencing was performed by the Cornell University Institute for Biotechnology.  RNA quality was assessed using an Advanced Analytical Fragment Analyzer. Libraries were prepared using the Illumina TruSeq RNA Sample Preparation kit according to the manufacturer’s protocol (including bar-coding for multiplexing), except our sample concentration was between 99-1503 ngs per sample. Samples were multiplexed where six samples were run in one lane for Illumina Hiseq 100 bp paired end sequencing.
+Quality trimming of resulting sequencing reads was performed using CLC Genomics Workbench v. 7.0 (CLC Bio, Germany) with the following parameters: quality limit = 0.05, number of ambiguous nucleotides < 2 on ends, reads shorter than 20 bp were removed, and Illumina PCR primers were removed. De novo assembly was performed with Genomics Workbench 7.0 (CLC Bio, Germany) on quality trimmed sequences with the following parameters; automatic bubble size, automatic word size, auto-detect paired distances, perform scaffolding, and minimum contig size of 500 bp.  In order to remove bacterial sequences from the transcriptome data, consensus sequences were compared to the NCBI nt database using the BLASTn algorithm. Consensus sequences with significant matches (evalue = 0) to bacterial sequences (n=1102) were removed and not considered in subsequent analyses. 
+
+
+
+
+Transcriptome Characterization
+In order to characterize relative completeness of the transcriptome, it was compared to complete transcriptomes available for the bat star Patira miniata (http://echinobase.org) and purple sea urchin Strongylocentrotus purpuratus (http://spbase.org, Cameron et al. 2009). Specifically, gene sets of  P. minata (29,805) and S. purpuratus (31,159) were used as query with blastn comparison to our P. helianthoides transcriptome. P. helianthoides transcriptomic sequences were subsequently annotated by comparing contiguous sequences to the UniProtKB/Swiss-Prot database. Comparisons were made using the BLASTx algorithm with a 1.0E-5 e-value threshold. Genes were classified according to Swiss-Prot Gene Ontology (GO) associations, as well as respective parent categories (GO Slim).
+
+
+
+
+Differential Expression Analysis
+Differential expression of contigs was calculated using a negative binomial GLM in the R package DESeq2 (Anders and Huber 2010). Read counts were determined by aligning reads with CLC v7.0 with the following parameters: mismatch cost = 2, insertion cost = 3, deletion cost = 3, length fraction = 0.8, similarity fraction = 0.8, maximum number of hits for a read = 10. [h] The read counts were first normalized using the size factors method and fit to a negative binomial distribution. Significantly differential contig expression (Benjamini-Hochberg adjusted p<0.05 ) between control and treated animals was determined using the Wald test for significance of GLM terms. 
+[i]
+Although all treatment stars showed a greater immune response than the controls, one treatment star had a much higher range and magnitude of response. A careful look at the background, collection site, viral load and time course of response did not reveal anything anomalous about this star.[j][k][l] 
+
+
+Enrichment Analysis
+Enriched GO terms associated with differentially expressed genes were identified using the Database for Annotation, Visualization and Integrated Discovery (DAVID) v. 6.7 (Huang et al. 2009). Specifically, UniProt accession numbers for differentially expressed genes were uploaded as a gene list, while UniProt accession numbers for all annotated contigs were used as a background. Significantly enriched GO terms were identified as those with Benjamini-Hochberg adjusted p<0.05.[m]
+
+
+Results
+Inoculation Experiment
+        During the acclimation period, no signs of disease were observed. All treated P. helianthoides  developed signs of SSWD including curling and lesions. Lesions were noted at 8 to 9 days post injection in all three treatment animals. There was some individual variation in the onset and duration of clinical sign but signs were consistent between animals. Control animals did not show any clinical signs.
+
+
+Transcriptome
+This sequencing effort results in a combined 2.9x108 paired end reads among all six libraries (three control individuals and three treated individuals. Sequencing reads are available in NCBI SRA Accession # (*). After quality trimming, reads were assembled into 29476 consensus sequences with an N50 value of 1757 bp (SUPPLEMENTAL FILE). Using Patria miniata and Stronglycentrotus purpuratus transcriptomes as for references we found that 52% and and 26% of the respective transcriptomes had match to the  Pycnopodia helianthoides transcriptome using an 1.0E-5 e-value threshold. Comparisons of the Pycnopodia helianthoides transcriptome sequences to the UniProtKB/Swiss-Prot database resulted in annotation of 10513 contigs (SUPPLEMENTAL FILE). 
+
+
+
+
+Differentially Expressed Genes
+Of those contigs identified as differentially expressed (n=3773), 1629 were less expressed  and 2103 were more expressed in  treated individuals compared to control individuals (Figure 1). A total of 1183 differentially expressed contigs (31.7%) were annotated based on comparison to Uniprot/SwissProt database.
+
+
+
+
+ DESeq dots.png 
+
+
+
+Figure 1. Volcano plot showing Log2 fold change between treated and control organisms. Positive values represent contigs expressed at higher level in treated. Red circles indicate those contigs determined to be differentially expressed (n=3773). 
+
+
+
+
+Seventeen BP_FAT gene ontology (GO) terms were significantly enriched based on the subset of annotated differentially expressed genes. These terms fell into three broad categories: immune response, regulation of cytokine production, and biological adhesion. Immune response was the largest of these categories, with thirteen associated enriched GO terms. Table S1 lists all significantly enriched GO terms.  Regulation of cytokine biosynthetic process (GO:0042035) and activation of immune response (GO:0002253) were the two most enriched GO terms with fold enrichments of 5.881791 and 5.614436 respectively (Figure 2).  
+
+
+ FoldEnrichmentGraph.png 
+
+
+
+Figure 2 Fold Enrichment of all significantly enriched (padj<.05) biological processes. 
+
+
+
+
+        In order to visualize individual variability among sea stars additional focus was place in pathways that were associated with enriched biological processes, differentially expressed genes, and pathways of interest. Specifically, we generated heat maps for genes associated with immune response (Figure 3), nervous system growth and organization (Figure 4), clotting (Figure 5), WNT-signaling (Figure 6) and G-coupled protein processes (Figure 7). Fold change information and p-values for all contigs is found in Table S1.
+
+
+
+
+
+
+
+
+ immune_heatmaps.jpeg 
+[n][o][p][q]FIGURE 3  Immune related contigs[r]
+
+
+
+
+
+
+
+
+ neural_heatmap.jpeg 
+
+
+
+FIGURE 4  Neural- Growth /organization
+
+
+
+
+
+
+
+
+
+
+ clottingheatmap.jpeg 
+
+FIGURE 5. Clotting
+ WNT_heatmap.jpeg 
+
+FIGURE 6. Wnt
+
+
+
+
+  
+
+
+
+Figure 7: G-coupled protein processes
+
+
+
+
+
+
+
+
+
+
+Discussion
+             Here we provide the first description of the P. helianthoides transcriptome following pathogen (0.2 um injection) exposure. The transcriptome consisted of 29476 consensus sequences, 10413 of which were annotated. A comparison of the P. helianthoides transcriptome with a complete Echinoid and Asteroid transcriptomes indicates a significant proportion of the transcriptome is represented as contigs, for example corresponding to over 50% of Patiria miniata genes. Representing a robust transcriptome in a taxonomic class with relative limited representation of species, these data will certainly provide opportunities to better understand evolution and ecology of asteroid immune systems. [s]
+        The overarching goal of this effort was to characterize the immune response to the devastating sea star wasting disease (SSWD). Not surprising given the the dramatic mortality events that have been reported from Canada to southern California (University of California Santa Cruz/PISCO 2014), a clear alteration in gene expression was revealed with over 10% of the contigs sequenced being differentially expressed. This response is characterized by the increased expression of genes associated with immune pathways such as the Toll pathway, complement cascade, melanization, and arachidonic acid metabolism. In addition to understanding the direct immune response of these stars to SSWD, we identified a number of gene expression patterns that likely contribute to observed clinical signs of SSWD. These genes are involved in G-coupled protein processes, WNT signaling, cell adhesion, and neural processes. In the remainder of this section we will discuss that primary physiological pathways and gene groups that were identified to be influence by pathogen exposure.
+
+
+Toll Pathway
+Toll-like receptors (TLRs) have been well characterized in both vertebrates and invertebrates, where they recognize patterns to discriminate between self and non-self, inducing a response to bacterial and viral pathogens (Aderem and Ulevitch, 2000; Finberg et al. 2007;  Zambon et al. 2005; Valanne et al. 2011). A characterization of the sea urchin genome revealed 222 TLRs (Rast et al. 2006). It is not surprising, therefore, that we find differentially expressed TLRs in the sea star transcriptome (TLR1,TLR2,TLR8). The differential expression of TLR8 is especially interesting as this receptor has been linked to viral recognition (Akira et al. 2006) This corroborates the recent study by Hewson et al (2014), which  provided evidence for the role of a denso-virus in SSWD. [t]
+Following recognition, TLRs act through a network of signaling molecules to activate immune and inflammatory cascades (Valanne et al. 2011). One potential pathway following TLR recognition in the treated sea stars is activation of Rac1, which initiates a pathway to activate NF-kB (Cuadrado et al. 2014), a transcription factor that triggers multiple immune effectors (Janeway et al. 2001). This response has been seen in immune-challenged Manila clams (Moreira et al. 2012). Another toll pathway gene differentially expressed is Myd88. Further, downstream signaling linked to the Myd88 pathway includes a suite of closely interacting genes that are differentially expressed including PINK1, Traf6, Sqstm-1, HSP60 and MALT1. Evidence of the cascade from Myd88 to IRAK1 to TRAF6 has been found in both invertebrate and vertebrate systems (Wang et al. 2011), including Myd88 in both sea urchins and sea cucumbers and TRAF6 in sea cucumbers (Rauta et al. 2014).
+The signaling cascade initiated by TLRs ultimately leads to the production of interleukins and other inflammatory cytokines. In this experiment we observed evidence for increased interleukin expression with increased interleukin-6 receptor expression. Furthermore a putative histamine H2 receptor (Hrh2) is also differentially expressed and has been linked to the regulation of IL-10 and IL-12 regulation in mammals (Elenkov et al. 1998). 
+
+
+Complement Cascade
+        The complement cascade opsonizes pathogens leading to inactivation and phagocytosis by immune cells and also damages pathogens directly through the formation of the membrane attack complex (Janeway 2001). Although a previous study into the sea star coelomocyte proteome did not show homologous complement proteins, this study identifies four complement cascade proteins that are differentially expressed. This includes several contigs with similarity to Ficolin-2 (FCN2; contig_7739, contig_3867, contig_107, contig_1813, contig_6139), Complement C3 (C3; contig_3127, contig_632), Properdin (CFP; contig_312), and Complement C2 (C2; contig_1529)[u]. For each component, at least one of the corresponding contigs was expressed at a higher level in treated seastars. 
+The complement cascade has been well documented in echinoderms previously and contains C3, which functions in opsonization and phagocytosis, and factor B/C2, which increases C3 production (Smith et al. 1999; Mogilenko et al. 2010). Here we document the presence of two additional complement cascade proteins, Ficolin-2 and Properdin. Both Ficolin-2 and Properdin induce the complement cascade: Ficolin through association with mannan-binding lectin-associated serine proteases (Matsushita et al 2000), and Properdin by binding to apoptotic cells resulting in complement activation (Kemper et al, 2008). Not only does this study indicate the complement cascade is an important part of sea star response to wasting disease, but also that echinoderms may have a more complex complement cascade system than previously thought. [v]
+
+
+Melanization
+The melanin synthesis cascade in invertebrates is involved in wound healing and immune response by creating chemical/physical barriers and encapsulating pathogens for phagocytosis (Cerenius & Söderhäll 2004). One of the contigs with the largest fold change was annotated as a quinone oxidoreductase (CRYZ). Similar oxidoreductases (ie. NQO1) in humans have been described as increasing melanin synthesis by increasing tyrosinase catalytic activity (Yamaguchi et al, 2010). Various aspects of the melanin synthesis cascade have been documented in a number of Echinoderms (Canicatti and D’Ancona, 1998). Previous experiments using sheep erythrocytes as an immune challenge in the sea cucumber Holothuria polii resulted in both clearance of the antigen and the production of ‘brown masses’ which were positive for Schmorl’s, Lillie’s, and Hueck’s reactions, indicating the presence of melanin (Canicatti and D’Ancona, 1998). Furthermore, various urchins, sea stars, and sea cucumbers are characterized by low levels of phenoloxidase, an important part of the melanin synthesis cascade (Smith and Soderhall, 1991).[w] Our results serve as the first gene based evidence of melanin synthesis in an echnoderm and suggests melanin production plays an important role in healing of lesions of infected sea stars.
+
+
+
+
+Arachidonic Acid Metabolism
+While not well characterized in echinoderms, arachidonic acid metabolism is involved in many immune-specialized cells in humans and other vertebrates and can induce induce phagocytosis, inflammation, pain, and chemotaxis (Waite et al. 1979, Scott et al. 1982, Davies et al. 1984). Arachidonic acid metabolism has recently been associated with the immune response of a coral[x], suggesting a role for this pathway in immunity in more basal metazoans (Libro et al. 2013).  We identified six differentially expressed transcripts associated with arachidonic acid metabolism.  Arachidonate 5-lipoxygenase, which displayed increased expression in treated seastars plays an integral part in the arachidonic acid pathway, metabolizing arachidonic acid into 5-HPETE which is later converted to leukotrienes, which modulate leukocyte activity (Davies et al. 1984).  Two other differentially expressed genes, Dipeptidase 1 and gamma-glutamyl transpeptidase 1 are both involved in biosynthesis of leukotrienes (Needleman et al. 1986).
+
+
+
+
+Nervous system activity
+Observable signs of SSWD include a deflated appearance, twisting arms, lesions and, in advanced cases, arm autotomy and death (Eckert et al. 2000[y][z]). The nervous system is the primary control of adhesion and connective tissues, including the mutable collagenous tissues (MCT), which help maintain sea star structure (Sugni et al 2014). Therefore the signs of SSWD suggest a role for the nervous system and connective tissues in the disease pathology.
+Numerous differentially expressed genes identified here, suggest a disruption of neural function, possibly having downstream effects to connective tissue function. Norepinephrine transporters  (contig_1368, contig_6750) which are responsible for the uptake of the stress hormone norepinephrine into synaptic terminal were differentially expressed. BCL-2-like protein 1 (BCLx, contig_3774), which has roles in apoptosis (Adams & Cory 1998, Boise et al 1993) and regulation of synaptic activity (Li et al 2013), was expressed at a higher level in treated sea stars. There is also evidence for neurogenesis, as nerve guidance and growth protein transcripts such as Blocks Notch protein (Botch, Chi et al 2012,  contig_7409), neurensin (Araki & Taketani 2009, contig_18669), and netrin receptor UNC5D (Katow 2008, contig_4949) were all highly expressed in disease exposed sea stars.
+G-protein coupled receptors (GPCRs) were exclusively expressed at lower levels in treated seastars and show suppression of signaling cascades in contrast to control seastars. One such gene is  gamma-aminobutyric acid B receptor 2 (GABABR2, contig_29418), a neuroinhibitor that helps fine-tune neural function (Bettler et al 2004). Other GPCRs involved with neural processes include calcium-independent alpha-latrotoxin receptor 3 (contig_8096), and GRL101 (contig_15446).  These among others were found in the S. purpuratus (sea urchin) and Saccoglossus kowalevskii (acorn worm) genomes and linked to neural processes (Burke et al., 2006; Krishna et al., 2013). Additionally, Ras-related and estrogen-regulated growth inhibitor (contig_8892) and Ras-related protein Rab-15 (contig_1757), both of which bind GTP for activation of G protein, were identified and expressed at lower levels in disease exposed seastars. GTP activates G proteins of subsequent signaling pathways within the cell (Dorsam & Gutkin, 2007) without the activation of these processes, subsequent signaling cascades cannot occur.
+The neurotransmitter acetylcholine is known to be a stiffening modulator of MCT in urchins (Ribeiro et al 2012, Hidaka & Takahashi 2009). Acetylcholine’s degrading enzyme, acetylcholinesterase (contig_16508, contig_17140, contig_24134) and GPCR muscarinic acetylcholine receptor M (contig_7895) are both expressed at lower levels in the disease exposed seastars. Given the dramatic morphological alterations associated with SSWD (ie loss of arms) it is not surprising that that we see a signature of acetylcholine signalling changes. Additional gene expression patterns observed that correlated with the symptoms of the disease includes differential expression of several GPCRs known to activate adenylate cyclase activity [Luteinizing hormone receptor (contig_8658), Metabotropic glutamate receptor 7 (contig_2786), and Diuretic hormone receptor (contig_11919)]. Adenylate cyclase has been shown to cause muscle relaxation in sea stars by possibly mediating the nitric oxide signaling pathway (Elphick & Melarange, 2001). It is not clear whether the symptoms of SSWD, and underlying molecular mechanisms, are associated with a host response and/or controlled by the causative agent.
+
+
+Tissue remodelling 
+        Another group of genes we found to be significantly different in disease exposed and control seastars were those involved in tissue remodelling and would healing. Again, this is not surprising given the “melting” appearances and loss of arms.  Extra-cellular matrix (ECM) connective tissue remodeling occurs through matrix metalloproteinases (MMPs) and disintegrin proteolysis (Page-McCaw et al, 2007). MMPs, such as collagenase and stromelysin, degrade components of the ECM and are shown to be essential in tissue remodeling in the sea cucumber Holothuria glaberrima, indicating a key role in mutable connective tissue (MCT) changes that may lead to some of the signs exhibited in SSWD (Ribeiro et al 2012, Quinones et al 2002, Quinones et al 2004). In the treated stars, both collagenase-3 (contig_235, contig_296, contig_475) and stromelysin (contig_360) were expressed at a higher level. Additionally, 9 other proteases change expression with treatment, disintegrins ADAM-10 (contig_1865) and ADAM12 (contig_1112), the ADAMTS proteins ADAM-TS3, (contig_1128), ADAM-TS6 (contig_6569), and ADAM-TS13 (contig_7590), and the membrane-associated metalloproteinases MMP-3 (contig_360), MMP-13 (contig_235, contig_296, contig_475), MMP-16 (contig_202), MMP-17 (contig_1508), MMP19 (contig_6080), and MMP24 (contig_61). Differential expression for the disintegrins and MMPs are all increased in the treated samples except for ADAM-TS6, indicating a massive MCT response. As with what was observed with respect to neurotransmitter signaling, a significant amount of additional research is needed to understand the bizarre and dramatic symptoms of SSWD, and to what degree the host versus pathogen are responsible for controlling the phenotype. A rationale and presumable evolutionary advantage, whether it favors persistence of the causative agent or an attempt at a successful host response is not known. 
+
+
+Though several questions remain regarding the epidemiology and molecular mechanisms related to[aa] this devastating disease, the work presented here provides unambiguous evidence for a very strong immune reponse to the viral fraction injectate and new clues to the active immune components in the asteroid immune response to a natural pathogen. There are also interesting insights into mechanisms, such as changes in adhesion underlying the “wasting” phenotype.  This project builds a strong foundation for additional immune focused studies in P. helianthoides and other asteroids.  Furthermore, these data offer an important resource for future marker assisted conservation[ab] and restoration efforts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Citations
+Adams, J. M., & Cory, S. (1998). The Bcl-2 protein family: arbiters of cell survival. Science, 281(5381), 1322-1326.
+Aderem, A., & Ulevitch, R. J. (2000). Toll-like receptors in the induction of the innate immune response. Nature, 406(6797), 782-787.
+Akira, S., Uematsu, S., & Takeuchi, O. (2006). Pathogen recognition and innate immunity. Cell, 124(4), 783-801.
+Anders S and Huber W (2010). “Differential expression analysis for sequence count data.” Genome Biology, 11, pp. R106. http://dx.doi.org/10.1186/gb-2010-11-10-r106,http://genomebiology.com/2010/11/10/R106/.
+Andrade, W. A., Silva, A. M., Alves, V. S., Salgado, A. P. C., Melo, M. B., Andrade, H. M., ... & Gazzinelli, R. T. (2010). Early endosome localization and activity of RasGEF1b, a toll-like receptor-inducible Ras guanine-nucleotide exchange factor. Genes and immunity, 11(6), 447-457.
+Araki, M., & Taketani, S. Neurensin: A novel neuron-specific gene and its role in membrane trafficking and neurite outgrowth.
+Bates, A. E., B. J. Hilton, and C. D. G. Harley. 2009. Effects of temperature, season and locality on wasting disease in the keystone predatory sea star Pisaster ochraceus. Diseases of aquatic organisms 86:245–51.
+Beck, G., & Habicht, G. S. (1996). CHARACTERIZATION OF AN IL-6-LIKE MOLECULE FROM AN ECHINODERM (< i> ASTERIAS FORBESI</i>).Cytokine, 8(7), 507-512.
+Bettler, B., Kaupmann, K., Mosbacher, J., & Gassmann, M. (2004). Molecular structure and physiological functions of GABAB receptors. Physiological reviews, 84(3), 835-867.
+Bitto, A., C. A. Lerner, et al. (2014). "P62/SQSTM1 at the interface of aging, autophagy, and disease." Age (Dordr) 36(3): 9626.
+Blair, J. E., and S. B. Hedges. 2005. Molecular phylogeny and divergence times of deuterostome animals. Molecular biology and evolution 22:2275–84.
+Bloom, A. M., Kask, L., and Dahlback, B. (2003). CCP1–4 of the C4b-binding protein -chain are required for factor I mediated cleavage of complement factor C3b, Molecular Immunology, 39,  547–556.
+Boise, L. H., González-Garcia, M., Postema, C. E., Ding, L., Lindsten, T., Turka, L. A., ... & Thompson, C. B. (1993). Bcl-x, a bcl-2-related gene that functions as a dominant regulator of apoptotic cell death. cell, 74(4), 597-608.                                  
+Buckley KM, Terwilliger DP, Smith LC (2008) Sequence variations in 185/333 messages from the purple sea urchin suggest posttranscriptional modifications to increase immune diversity. J Immunol 181: 8585–8594. 
+Burge, C. a, C. Mark Eakin, C. S. Friedman, B. Froelich, P. K. Hershberger, E. E. Hofmann, L. E. Petes, K. C. Prager, E. Weil, B. L. Willis, S. E. Ford, and C. D. Harvell. 2014. Climate change influences on marine infectious diseases: implications for management and society. Annual review of marine science 6:249–77.
+Burke, R. D., Angerer, L. M., Elphick, M. R., Humphrey, G. W., Yaguchi, S., Kiyama, T., ... & Thorndyke, M. C. (2006). A genomic view of the sea urchin nervous system. Developmental biology, 300(1), 434-460.
+Cameron, R. Andrew, et al. "SpBase: the sea urchin genome database and web site." Nucleic acids research 37.suppl 1 (2009): D750-D754.
+Canicatti C and D’Ancona G (1988). “Cellular Aspects of Holothuria polii Immune Response.” Journal of Invertebrate Pathology, 53, pp. 152-158.
+Cerenius L and  Söderhäll K (2004). “The prophenoloxidase-activating system in invertebrates.” Immunological Reviews, 198, pp. 116–26.
+Chi, Z., Zhang, J., Tokunaga, A., Harraz, M. M., Byrne, S. T., Dolinko, A., ... & Dawson, V. L. (2012). Botch promotes neurogenesis by antagonizing Notch. Developmental cell, 22(4), 707-720.
+Chun, S. J., Rasband, M. N., Sidman, R. L., Habib, A. A., & Vartanian, T. (2003). Integrin-linked kinase is required for laminin-2–induced oligodendrocyte cell spreading and CNS myelination. The Journal of cell biology, 163(2), 397-408.
+Clow L, Raftos D, Gross P, Smith C (2004). “The sea urchin complement homologue, SpC3, functions as an opsonin.” Journal of Experimental Biology, 207, pp. 2147-2155.
+Cohen-Sfady, M., G. Nussbaum, et al. (2005). "Heat Shock Protein 60 Activates B Cells via the TLR4-MyD88 Pathway." The Journal of Immunology 175(6): 3594-3602.
+Coscia, M. R., Giacomelli, S., & Oreste, U. (2011). Toll-like receptors: an overview from invertebrates to vertebrates. Inv Surv J, 8, 210-226.
+Cuadrado, A., Martín-Moldes, Z., Ye, J., & Lastres-Becker, I. (2014). Transcription Factors NRF2 and NF-κB Are Coordinated Effectors of the Rho Family, GTP-binding Protein RAC1 during Inflammation. Journal of Biological Chemistry, 289(22), 15244-15258.
+Dheilly, N. M., D. a Raftos, P. a Haynes, L. C. Smith, and S. V Nair. 2013. Shotgun proteomics of coelomic fluid from the purple sea urchin, Strongylocentrotus purpuratus. Developmental and comparative immunology 40:35–50.
+Dorsam, R. T., & Gutkind, J. S. (2007). G-protein-coupled receptors and cancer. Nature Reviews Cancer, 7(2), 79-94.
+Du, H., Z. Bao, R. Hou, S. Wang, H. Su, J. Yan, M. Tian, Y. Li, W. Wei, W. Lu, X. Hu, S. Wang, and J. Hu. 2012. Transcriptome sequencing and characterization for the sea cucumber Apostichopus japonicus (Selenka, 1867). PloS one 7:e33311.
+Duggins, D. 1983. Starfish predation and the creation of mosaic patterns in a kelp-dominated community. Ecology 64:1610–1619.
+Eckert, G., J. Engle, and D. Kushner. 2000. Sea star disease and population declines at the Channel Islands. Pages 390–393 Proceedings of the Fifth California Islands Symposium. Minerals Management Service 99-0038.
+Elenkov, I. J., Webster, E., Papanicolaou, D. A., Fleisher, T. A., Chrousos, G. P., & Wilder, R. L. (1998). Histamine potently suppresses human IL-12 and stimulates IL-10 production via H2 receptors. The Journal of Immunology,161(5), 2586-2593.
+Elphick, M. R., & Melarange, R. I. C. H. A. R. D. (2001). Neural control of muscle relaxation in echinoderms. Journal of Experimental Biology, 204(5), 875-885.
+Finberg, R. W., J. P. Wang, et al. (2007). "Toll like receptors and viruses." Rev Med Virol 17(1): 35-43.
+Franco, C. F., R. Santos, and A. V Coelho. 2011. Proteome characterization of sea star coelomocytes--the innate immune effector cells of echinoderms. Proteomics 11:3587–92.
+Grohmann, U., & Bronte, V. (2010). Control of immune response by amino acid metabolism. Immunological reviews, 236(1), 243-264.
+Harvell, C. D., K. Kim, J. M. Burkholder, R. P. Colwell, D. J. Grimes, E. E. Hofmann, E. K. Lipp, A. D. M. E. Osterhaus, R. M. Overstreet, J. W. Porter, G. W. Smith, and G. R. Vasta. 1999. Emerging Marine Diseases--Climate Links and Anthropogenic Factors. Science 285:1505–1510.
+Hibino, T., M. Loza-Coll, C. Messier, A. J. Majeske, A. H. Cohen, D. P. Terwilliger, K. M. Buckley, V. Brockton, S. V Nair, K. Berney, S. D. Fugmann, M. K. Anderson, Z. Pancer, R. A. Cameron, L. C. Smith, and J. P. Rast. 2006. The immune gene repertoire encoded in the purple sea urchin genome. Developmental biology 300:349–65.
+Hidaka, M., and Takahashi, K. (1983). Fine structure and mechanical properties of the catch apparatus of the sea-urchin spine, a collagenous connective tissue with muscle-like holding capacity. Journal of Experimental Biology, 103(1), 1-14.
+Huang DW, Sherman BT, Lempicki RA. Systematic and integrative analysis of large gene lists using DAVID Bioinformatics Resources. Nature Protoc. 2009;4(1):44-57. (got this from the “how to cite section on DAVID website)
+Into, T., Inomata, M., Niida, S., Murakami, Y., & Shibata, K. I. (2010). Regulation of MyD88 aggregation and the MyD88-dependent signaling pathway by sequestosome 1 and histone deacetylase 6. Journal of Biological Chemistry, 285(46), 35759-35769.
+Janeway, C. A., Travers, P., Walport, M. J., & Shlomchik, M. J. (2001).Immunobiology: the immune system in health and disease (Vol. 2). Churchill Livingstone.
+Katow, H. (2008). Spatio-temporal expression of a Netrin homolog in the sea urchin Hemicentrotus pulcherrimus (HpNetrin) during serotonergic axon extension. International Journal of Developmental Biology, 52(8), 1077.
+Kemper C, Mitchell L, Zhang L, Hourcade D (2008). “The complement protein properdin binds apoptotic T cells and promotes complement activation and phagocytosis.” PNAS, 105, pp. 9023-9028.
+Krishnan, A., Almén, M. S., Fredriksson, R., & Schiöth, H. B. (2013). Remarkable similarities between the hemichordate (< i> Saccoglossus kowalevskii</i>) and vertebrate GPCR repertoire. Gene, 526(2), 122-133.
+lectin pathways.” Immunopharmacology, 42, pp. 107-120
+Li, H., Alavian, K. N., Lazrove, E., Mehta, N., Jones, A., Zhang, P., ... & Jonas, E. A. (2013). A Bcl-xL–Drp1 complex regulates synaptic vesicle membrane dynamics during endocytosis. Nature cell biology, 15(7), 773-785.
+MARINe. 2013. Unprecedented Sea Star Mass Mortality along the West Coast of North America due to Wasting Syndrome. Press Release. Pages 1–3. Santa Cruz, CA.
+Matsushita, M., Endo, Y., Fujita, T. (2000). Cutting Edge: Complement-Activating Complex of Ficolin and Mannose-Binding Lectin-Associated Serine Protease. The Journal of Immunology, 164(5), 2281-2284.
+Moreira, R., Milan, M., Balseiro, P., Romero, A., Babbucci, M., Figueras, A., ... & Novoa, B. (2014). Gene expression profile analysis of Manila clam (Ruditapes philippinarum) hemocytes after a Vibrio alginolyticus challenge using an immune-enriched oligo-microarray. BMC genomics, 15(1), 267.
+Morozova, Olena, Martin Hirst, and Marco A. Marra. "Applications of new sequencing technologies for transcriptome analysis." Annual review of genomics and human genetics 10 (2009): 135-151.
+Muroi, M., & Tanamoto, K. I. (2008). TRAF6 distinctively mediates MyD88-and IRAK-1-induced activation of NF-κB. Journal of leukocyte biology, 83(3), 702-707.
+Muzio, M., Ni, J., Feng, P., & Dixit, V. M. (1997). IRAK (Pelle) family member IRAK-2 and MyD88 as proximal mediators of IL-1 signaling. Science,278(5343), 1612-1615.
+Neves, S. R., Ram, P. T., & Iyengar, R. (2002). G protein pathways. Science,296(5573), 1636-1639.
+Page-McCaw, A., Ewald, A. J., & Werb, Z. (2007). Matrix metalloproteinases and the regulation of tissue remodelling. Nature reviews Molecular cell biology,8(3), 221-233.
+Paine, R. T. 1974. Intertidal Community Structure. Experimental Studies on the Relationship between a Dominant Competitor and Its Principal Predator. Oecologia 15:93–120.
+Plow, E. F., Haas, T. A., Zhang, L., Loftus, J., & Smith, J. W. (2000). Ligand binding to integrins. Journal of Biological Chemistry, 275(29), 21785-21788.
+Quiñones, J. L., Rosa, R., Ruiz, D. L., & Garcı́a-Arrarás, J. E. (2002). Extracellular Matrix Remodeling and Metalloproteinase Involvement during Intestine Regeneration in the Sea Cucumber Holothuria glaberrima. Developmental biology, 250(1), 181-197.
+Rast, J. P., Smith, L. C., Loza-Coll, M., Hibino, T., & Litman, G. W. (2006). Genomic insights into the immune system of the sea urchin. Science,314(5801), 952-956.
+Rauta, P. R., Samanta, M., Dash, H. R., Nayak, B., & Das, S. (2014). Toll-like receptors (TLRs) in aquatic animals: Signaling pathways, expressions and immune responses. Immunology letters, 158(1), 14-24.
+Reid, K. B. and Porter, R. R. (1981). The Proteolytic activation system of complement. Annual Reviews of Biochemistry, 50, 433-64.
+Rojo, I., de Ilárduya, Ó. M., Estonba, A., & Pardo, M. Á. (2007). Innate immune gene expression in individual zebrafish after Listonella anguillarum inoculation. Fish & shellfish immunology, 23(6), 1285-1293.
+Runza V, Schwaeble W, and Mannel D (2008). Ficolins: Novel pattern recognition molecules of the innate immune response. Immunobiology, 213, pp. 297-306.
+Sarkar, D., R. Desalle, et al. (2008). Evolution of MDA-5/RIG-I-dependent innate immunity: independent evolution by domain grafting. Proc Natl Acad Sci U S A 105(44): 17040-17045.
+Shin, H. J., & Youn, H. S. (2013). TBK1-targeted suppression of TRIF-dependent signaling pathway of Toll-like receptors by helenalin. Life sciences,93(22), 847-854.
+Smith C, Azmui K, Nonaka M (1999). “Complement systems in invertebrates. The ancient alternative and
+Smith, L. C. 2010. Diversification of innate immune genes: lessons from the purple sea urchin. Disease models & mechanisms 3:274–9.
+Smith, V. J., & Söderhäll, K. (1991). A comparison of phenoloxidase activity in the blood of marine invertebrates. Developmental & Comparative Immunology,15(4), 251-261.
+Sugni, M., Fassini, D., Barbaglio, A., Biressi, A., Di Benedetto, C., Tricarico, S., ... & Candia Carnevali, M. D. (2014). Comparing dynamic connective tissue in echinoderms and sponges: Morphological and mechanical aspects and environmental sensitivity. Marine environmental research, 93, 123-132.
+Sun, L., Deng, L., Ea, C. K., Xia, Z. P., & Chen, Z. J. (2004). The TRAF6 ubiquitin ligase and TAK1 kinase mediate IKK activation by BCL10 and MALT1 in T lymphocytes. Molecular cell, 14(3), 289-301.
+Supek F, Bošnjak M, Škunca N, Šmuc T (2011) REVIGO Summarizes and Visualizes Long Lists of Gene Ontology Terms. PLoS ONE 6(7): e21800.
+Takeda, K., & Akira, S. (2004, February). TLR signaling pathways. In Seminars in immunology (Vol. 16, No. 1, pp. 3-9). Academic Press.
+Terwilliger D, Clow L, Gross P, and Smith C (2004). “Constitutive expression and alternative splicing of the exons encoding SCRs in Sp152, the sea urchin homologue of complement factor B. Implications on the evolution of the Bf/C2 gene family.” Immunogenetics, 56, pp. 531-543.
+Tipper, J. P., Lyons-Levy, G., Atkinson, M. A., & Trotter, J. A. (2002). Purification, characterization and cloning of tensilin, the collagen-fibril binding and tissue-stiffening factor from Cucumaria frondosa dermis. Matrix biology, 21(8), 625-635.
+University of California Santa Cruz, PISCO (2014) Pacific Rocky Intertidal Monitoring:Trends and Synthesis.
+         www.eeb.ucsc.edu/pacificrockyintertidal/data-products/sea-star-wasting/
+
+
+Valanne, S., Wang, J. H., & Rämet, M. (2011). The Drosophila toll signaling pathway. The Journal of Immunology, 186(2), 649-656.
+Vouret-Craviari, V., Boulter, E., Grall, D., Matthews, C., & Van Obberghen-Schilling, E. (2004). ILK is required for the assembly of matrix-forming adhesions and capillary morphogenesis in endothelial cells. Journal of cell science, 117(19), 4559-4569.
+Wang, J., Hu, Y., Deng, W. W., & Sun, B. (2009). Negative regulation of Toll-like receptor signaling pathway. Microbes and Infection, 11(3), 321-327.
+Wang, P. H., Gu, Z. H., Wan, D. H., Zhang, M. Y., Weng, S. P., Yu, X. Q., & He, J. G. (2011). The shrimp NF-κB pathway is activated by white spot syndrome virus (WSSV) 449 to facilitate the expression of WSSV069 (ie1), WSSV303 and WSSV371. PloS one, 6(9), e24773.
+Widmaier, M., Rognoni, E., Radovanac, K., Azimifar, S. B., & Fässler, R. (2012). Integrin-linked kinase at a glance. Journal of cell science, 125(8), 1839-1843.
+Zambon, R. A., Nandakumar, M., Vakharia, V. N., & Wu, L. P. (2005). The Toll pathway is important for an antiviral response in Drosophila. Proceedings of the National Academy of Sciences of the United States of America, 102(20), 7257-7262.
+Zervas, C. G., Psarra, E., Williams, V., Solomon, E., Vakaloglou, K. M., & Brown, N. H. (2011). A central multifunctional role of integrin-linked kinase at muscle attachment sites. Journal of cell science, 124(8), 1316-1327.
+
+
+
+
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fake Appendix
+
+
+
+
+
+
+Table 4 List of contigs involved in clotting/ MCT
+Contig
+	ID
+	Annotation
+	log 2 FC
+	padj
+	Phel_clc_contig_1871, Phel_clc_contig_20104
+	Q91Y47
+	Coagulation factor XI (FXI)
+	7.75
+5.37
+	0.00
+0.00
+	Phel_clc_contig_1128
+	O15072
+	ADAM-TS 3
+	3.77
+	0.00
+	Phel_clc_contig_6569
+	Q9UKP5
+	ADAM-TS6
+	-2.33
+	0.02
+	Phel_clc_contig_7590
+	Q76LX8
+	ADAM-TS 13 (vWF-cleaving protease)
+	7.96
+	0.00
+	Phel_clc_contig_3408
+	P98139
+	Coagulation factor VII
+	2.68
+	0.02[ac][ad][ae]
+	Phel_clc_contig_1865
+	Q8JIY1
+	ADAM 10
+	2.77
+	0.00
+	Phel_clc_contig_1112
+	Q61824
+	ADAM 12
+	4.17
+	0.00
+	Phel_clc_contig_163, Phel_clc_contig_12224, Phel_clc_contig_1077, Phel_clc_contig_5796
+	A2AVA0
+	Sushi, von Willebrand factor
+	2.20
+4.20
+1.61
+-1.91
+	0.00 0.00 0.00
+0.03
+	Phel_clc_contig_1522
+	P11584
+	Integrin beta-PS
+	1.74
+	0.05
+	Phel_clc_contig_2142, Phel_clc_contig_13337
+	Q00651
+	CD antigen CD49d
+	3.07
+3.63
+	0.00
+0.00
+	Phel_clc_contig_9206
+	B0FYY4
+	CD antigen CD29
+	-1.40
+	0.01
+	Phel_clc_contig_6080
+	Q9JHI0
+	MMP-19
+	4.22
+	0.00
+	Phel_clc_contig_61
+	Q9R0S2
+	MMP-24
+	2.24
+	0.00
+	Phel_clc_contig_360
+	P28863
+	Stromelysin-1
+	3.97
+	0.00
+	Phel_clc_contig_1508
+	Q9ULZ9
+	MMP-17
+	4.08
+	0.00
+	Phel_clc_contig_202
+	Q9WTR0
+	MMP-16
+	3.43
+	0.00
+	Phel_clc_contig_25693
+	P57044
+	Integrin-linked protein kinase (ILK)
+	0.00
+	-3.37
+	
+
+
+
+
+
+Table 5 List of contigs involved in the wnt signaling pathway
+Contig
+	SPID
+	Annotation
+	log2 FC
+	padj
+	Phel_clc_contig_1252
+	Q5REY6
+	Transforming protein RhoA
+	6.22
+	2.52E-11
+	Phel_clc_contig_25
+	Q9QYP1
+	Low-density lipoprotein receptor-related protein 4
+	4.48
+	1.79E-06
+	Phel_clc_contig_9741
+	Q90Y90
+	Kremen protein 1
+	3.52
+	4.98E-04
+	Phel_clc_contig_3608
+	Q99N43
+	Kremen protein 1
+	2.64
+	2.61E-10
+	Phel_clc_contig_2240
+	Q4JIM4
+	Presenilin-1
+	1.8
+	1.07E-03
+	Phel_clc_contig_7024
+	P35223
+	Catenin beta
+	1.47
+	4.02E-04
+	Phel_clc_contig_9770
+	Q8NCW0
+	Kremen protein 2
+	-1.42
+	6.13E-03
+	Phel_clc_contig_9571
+	Q6FHJ7
+	Secreted frizzled-related protein 4
+	-1.93
+	3.01E-03
+	Phel_clc_contig_12417
+	Q5BL72
+	Frizzled-7
+	-2.26
+	1.61E-03
+	Phel_clc_contig_13198
+	P33945
+	Protein Wnt-5b
+	-2.92
+	1.35E-05
+	Phel_clc_contig_24757
+	Q2TJA6
+	Protein naked cuticle homolog 1 (Naked-1)
+	-3.62
+	6.70E-05
+	
+
+
+
+
+
+Table 6: List of selected neurological/MCT contigs
+Contig
+	SPID
+	Annotation
+	log2 FC
+	padj
+	Phel_clc_contig_296
+	O77656
+	Collagenase 3 / Matrix Metalloproteinase 13
+	10.84
+	1.01E-39
+	Phel_clc_contig_475
+	O77656
+	Collagenase 3 / Matrix Metalloproteinase 13
+	7.82
+	5.07E-16
+	Phel_clc_contig_235
+	O77656
+	Collagenase 3 / Matrix Metalloproteinase 13
+	3.39
+	0.000411
+	Phel_clc_contig_29418
+	Q80T41
+	Gamma-aminobutyric acid type B receptor subunit 2
+	-3.56
+	0.0168
+	Phel_clc_contig_1368
+	P23975
+	Sodium-dependent noradrenaline transporter / Norepinephrine transporter
+	4.64
+	1.51E-13
+	Phel_clc_contig_6750
+	P23975
+	Sodium-dependent noradrenaline transporter / Norepinephrine transporter
+	-4.76
+	2.08E-21
+	Phel_clc_contig_7409
+	B3STU3
+	Botch (Blocks Notch protein)
+	4.25
+	7.63E-20
+	Phel_clc_contig_3774
+	Q07817
+	Bcl-2-like protein 1
+	4.31
+	6.23E-08
+	Phel_clc_contig_18669
+	P97799
+	Neurensin-1
+	3.85
+	4.40E-06
+	Phel_clc_contig_4949
+	Q8K1S2
+	Netrin Receptor UNC5D
+	6.05
+	4.27E-15
+	Phel_clc_contig_1127
+	Q8JGT4
+	Netrin Receptor UNC5B
+	-1.19
+	0.0262
+	Phel_clc_contig_360
+	P28863
+	Stromelysin-1
+	3.97
+	5.91E-05
+	Phel_clc_contig_1066
+	P35624
+	Tissue Inhibitor of Metalloproteinases 1
+	6.58
+	8.50E-16
+	Phel_clc_contig_4458
+	Q9JHB3
+	Tissue Inhibitor of Metalloproteinases 4
+	3.27
+	0.000347
+	Phel_clc_contig_2994
+	P81556
+	Tissue Inhibitor of Metalloproteinases 4
+	-1.81
+	0.00149
+	Phel_clc_contig_27280
+	P26652
+	Tissue Inhibitor of Metalloproteinases 3
+	-4.17
+	2.33E-05
+	Phel_clc_contig_24134
+	Q86GC8
+	Acetylcholinesterase
+	-2.34
+	0.0446
+	Phel_clc_contig_16508
+	P21836
+	Acetylcholinesterase
+	-1.94
+	0.0411
+	Phel_clc_contig_17140
+	Q29499
+	Acetylcholinesterase
+	-1.6
+	0.0214
+	
+
+Table 7: List of contigs involved in G-proteins
+
+
+[a]system? organism? framework? word choice question
+[b]Change this when it comes out (soon)
+[c]Monday!!
+[d]I added the Pisaster/Pycnopodia here as not all are considered keystone. It would also be nice to include a couple of sentences on Pycnopodia here, I think.
+[e]Yes, that might be good. I'm on the hunt for some sources on basic P. helianthoides biology so I could add some detail to this first sentence & a citation - any ideas anyone?
+[f]It seems odd to give this result here...
+[g]there is probably a more realistic way to say something to this effect
+[h]This feels a little awkward as the read counts were done before the use of DESeq2
+[i]This should also include how they were clustered? By the distance or t-test or? From there you can actually test the significance of the clusters.
+[j]We just discussed this at length again in lab meeting and we all agreed that this is best addressed directly, but not developed in any large way, since ther eis nothing we can conclude that is differnt about that star. PLus, being anomalous out of 3 individuals is a bit of a on-issue. being anomalous ot of 6 might be more grounds for concern... I'm suggesting you put a line something like this in the methods...
+[k]Yes, some key points to look into and then include in such a statement could be - viral loads are similar; stress response is similar (BUT see HSP in Fig. 1c - what about other stress response genes??); the nMDS plot showing clustering overall
+[l]To be honest, it doesn't surprise me based on what I've seen with sea fans. I'm not that worried about it, it could be a slightly different place in infection for that star.
+[m]How were the heat maps made? In what program? What are the distance measures? Have you looked at statistical significance of the clusters?
+[n]It would be really interesting to also see in a pathway figure.
+[o]We made those. Do you suggest including both the heat map and a pathway figure for each or just selected ones? Or would it be better to include as a supplemental figure? Seems one for the immune contigs at least would be good.
+[p]We decided that the heat maps were the best way to show the data, but can send you some of the pathways and other visualizations so you can see them too.
+[q]And they look great! I guess I am curious to whether there are certain pathways that are completely or nearly complete in the differential expression
+[r]Is this figure, its control and treated.  In the next its control and exposed. One description should be chosen.
+[s]How would you expect your transcriptome to be different than Patria? Given that you've used coelomcytes rather than organism tissues?
+[t]We also injected the stars with a 0.2 um preparation which would indicate a virus, and its from the same experiments in Hewson et al which corroborate viral etiology
+[u]For many journals, listing the SPID is necessary and is also easy for the reader.
+[v]You might have a look at Cerenius et al 2010…"Proteolytic cascades and their involvement in invertebrate immunity"
+[w]I'm confused by this…does this support the melanin cascade? Does "low levels" mean the levels are too low for melanin synthesis or that "low levels" mean that they are able to support melanin synthesis?
+[x]immune response to what? Please include the pathogen.  Also, it would nice to include the coral species in parantheses.
+[y]It is not clear here that these signs were seen in our treated stars. Would be good to have one sentence making it clear that the animals we used showed signs consistent with this description.
+[z]I think so.
+[aa]I think we need to have a stronger wrap up paragraph. I can focus on it after the paper goes through another revision.
+[ab]I added a couple of things. WIll most know what "marker-assisted conservation" is? I think I know what you mean, but can we call it something else?
+[ac]We have duplicate contigs in here, do we want them? Is there a real reason they're here or is it an oversight? I forget how we made these lists exactly
+[ad]end of day this info is going into supp File- should think of it in that context
+[ae]+gw.sarah@gmail.com so I am going to pull these out today to get ready to send out... is that ok?
