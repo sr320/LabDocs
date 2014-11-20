@@ -22,6 +22,10 @@ uniq -c - Counts the number of occurrences of each unique "word" in the specifie
 
 
 ---
+Count the number of characters in column
+`!awk '{print $1, "\t", $2, "\t", length($2)}' j_tab2 > tab_1_length﻿`
+
+---
 
 ###Basic Substitutions in a File
 This is the same as Find and Replace in programs like Microsoft Word, but will run on files that are too large to be opened with such programs.
