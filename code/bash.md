@@ -1,6 +1,10 @@
 ###Simple for loop in terminal
 `for i in e f; do echo $i; done`
 
+
+---
+more
+
 ---
 
 ###Count the number of lines in a file
