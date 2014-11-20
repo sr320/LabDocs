@@ -21,9 +21,14 @@
 ###MBD precipitation (optional)
 Invitrogen - [MethylMiner Methylated DNA Enrichment Kit](http://www.lifetechnologies.com/order/catalog/product/ME10025) (ME10025) - [user guide](https://tools.lifetechnologies.com/content/sfs/manuals/methylminer_man.pdf)
 
-
 _Before starting, DNA should be fragmented to an average size of less than 1,000bp (typically aim for a length of 500bp). To determine size distribution of DNA gel eletrophoresis can be performed._ 
 
+
+>Claire sheared DNA
+>
+>
+>
+>
 
 _Resuspend Dynabeads_ 
 - Gently pipette Dynabeads up and down and avoid air bubble. Gently inverte the tube.
