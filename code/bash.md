@@ -1,3 +1,8 @@
+###Simple for loop in terminal
+`for i in e f; do echo $i; done`
+
+---
+
 ###Count the number of lines in a file
 `$wc -l < /path/to/file`
 
