@@ -68,20 +68,20 @@ _note that PstI will also work with adaptors_
 
 * Incubate at 37˚C for 90 minutes, then at 80˚C for 20 minutes to inactivate the enzyme (_check appropriate inactivation temperature for the enzyme in use, if other than SbfI_).
 
-* Add 2 µL of each barcoded SbfI short P1 RAD adapter (50nM) (these are the illumina barcodes located in -20˚C freezer) to each digested sample. Mix by pipetting.  Use RAD adapters 10 times from each aliquot plate before throwing away. 
+* Add 2 µL of each barcoded SbfI short P1 RAD adapter (25nM) (these are the illumina barcodes located in -20˚C freezer) to each digested sample. Mix by pipetting.  Use RAD adapters 10 times from each aliquot plate before throwing away. 
 
-_Note:  now is a good time to turn on the sonicator to bring it down to temperature, and to put EB in incubator for warming_
+_Note:  now is a good time to turn on the sonicator to bring it down to temperature.
 
 * Make ligation mix:
 
 Reageant   | amount
 ------------ | ------------- 
-H2O			|	5.9µL	
-NEBuffer 2 (10X)	|	1.0µL
-rATP (100mM Fermentas R0441)  | 0.6µL
-T4 DNA Ligase (NEB M0202M)	|	0.5µL		
+H2O			|	1.95µL	
+NEBuffer 2 (10X)	|	0.5µL
+rATP (100mM Fermentas R0441)  | 0.3µL
+T4 DNA Ligase (NEB M0202M)	|	0.25µL		
 	
-Add 8 µL to each sample.  
+Add 3 µL to each sample.  
 
 * Incubate the plate at 20˚C for 60 minutes, then at 65˚C for 20 minutes to inactivate the enzyme.
 
