@@ -13,8 +13,11 @@ more
 
 Explanation:
 wc = Terminal command for "word count"
+
 -l = Flag to specify line count
+
 < = Redirect your file as the input data source for the "wc" command
+
 
 ---
 ###Count the number of instances/occurrences of items in a column in a file
@@ -24,15 +27,21 @@ wc = Terminal command for "word count"
 Explanation:
 
 cut - Command to apply options to the designated field (i.e. column).
+
 -f1 - -f1 = specifies which field (i.e. column) to work on. Change the number to specify your desired column. Or, you can even specify a range of columns to work on (e.g. -f2-6)
+
 "|" - Pipe which sends the results of the previous command ("cut" in this example) to another command.
 sort - Sorts the info from the "cut" command in ascending order.
+
 "|" - Piper which sends the results of the previous command ("sort" in this example) to another command.
+
 uniq -c - Counts the number of occurrences of each unique "word" in the specified column(s). (Note: Technically "uniq -c" is counting the occurrence of each unique line in the specified column, not the actual "words." It is this reason (that uniq occurrences are tallied by line) that you use the cut command to have the uniq command focus on a single column from the source file.
 
 
+
 ---
-Count the number of characters in column
+###Count the number of characters in column
+
 `!awk '{print $1, "\t", $2, "\t", length($2)}' j_tab2 > tab_1_length﻿`
 
 ---
@@ -47,6 +56,7 @@ $sed 's/text_you_want_replaced/replacement_text/g' path/to/source_file > path/to
 Code explanation:
 
 - "s" invokes the substitute command in sed
+- 
 - "g" tells sed to apply the substitute command globally on each line. Without the "g" argument, sed will only apply your substitute command to the first instance it encounters on each line that contains your "text_you_want_replaced".
 
 NOTE: This command is case sensitive and will only match EXACLTY what you enter in as the "text_you_want_replaced". If you need more flexibility (e.g. having sed find variations like upper- and lowercase text), it exists, but is a bit too in-depth to go into here.
@@ -55,12 +65,17 @@ NOTE: This command is case sensitive and will only match EXACLTY what you enter 
 
 
 ###Audible Notification of Job Completion (Terminal)
+
 After typing in a Terminal command (and before hitting 'Enter') add the following:
+
 `; say "Text that you want to have the computer read aloud to notify you that the job is finished"`
 
 Code explanation:
+
 ; - Semicolon separates the "say" command from the previous command.
+
 say - The speech-to-text command for Terminal
+
 "text between quotes" - This is the text that you want to be read when your job is finished.
 
 
