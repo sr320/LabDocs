@@ -6,8 +6,6 @@
 
 ---
 
----
-
 ###Count the number of lines in a file
 `$wc -l < /path/to/file`
 
@@ -32,9 +30,10 @@ cut - Command to apply options to the designated field (i.e. column).
 -f1 - -f1 = specifies which field (i.e. column) to work on. Change the number to specify your desired column. Or, you can even specify a range of columns to work on (e.g. -f2-6)
 
 "|" - Pipe which sends the results of the previous command ("cut" in this example) to another command.
+
 sort - Sorts the info from the "cut" command in ascending order.
 
-"|" - Piper which sends the results of the previous command ("sort" in this example) to another command.
+"|" - Pipe which sends the results of the previous command ("sort" in this example) to another command.
 
 uniq -c - Counts the number of occurrences of each unique "word" in the specified column(s). (Note: Technically "uniq -c" is counting the occurrence of each unique line in the specified column, not the actual "words." It is this reason (that uniq occurrences are tallied by line) that you use the cut command to have the uniq command focus on a single column from the source file.)
 
