@@ -90,7 +90,10 @@ Add 3 µL to each sample.
 * Incubate the plate at 20˚C for 60 minutes, then at 65˚C for 30 minutes to inactivate the enzyme.
 
 * Combine the samples that are to be sequenced together into libraries.  Combine samples with lower quality DNA into the same pool to reduce PCR bias at the end of the library prep. The number of samples to combine into each library is dependent on DNA concentration, genome size and sequencer capacity. For hard to replace DNAs, reserve ½ of library in case there is problem downstream.  To combine 12 samples from a library:  60 µL / sample x 12 samples = 720 µL.  Reserve 20 µL aside before sonication to allow running un-sonicated sample on the gel (with the sonicated sample that is run in step 7).  Split the remaining 700 µL into two aliquots of 350 µL in 1.5 mL tubes for sonication.  NOTE:  This is a good time to put EB in the incubator (55˚C) for today’s Minelute purification steps.
-* 
+
+
+
+* Sonicate the libraries using the QSonica sonicator.  Make sure that the water level is filled to the level indicated in the water batch.  Turn on the water bath at least an hour before sonication to allow it to cool to 4˚C.  Turn on the sonicator and set to 25% power, 4 cycles of 30 s on, 59 s off (will read 2:00 sonication).  Load the samples into the wheel, making sure that the unused slots contain 1.5 mL vials with the same amount of liquid.  Samples all need to be about 350 ul for the NWFSC standard sonication method.  After sonication, combine the two pools from the same library together into a 5 mL tube to allow enough volume for Minelute cleanup.
 
 >
 >Created two separate pools of "low" and "high" quality for shearing.
@@ -111,6 +114,10 @@ Add 3 µL to each sample.
 >4 cycles of:
 >30 seconds on
 >59 seconds off
+>
+
+* Run a test gel of sonicated and un-sonicated product using a 1% Gel Red gel (50 mL 1X TAE with 2.5 uL GelRed).  Load 10 uL each of the sonicated and unsonicated product to evaluate whether the desired size range is present.  If sonication looks good, combine the two sonication pools from the same library together in a single 5 mL conical tube and proceed with the Qiagen PCR Purification in the next step.
+
 >
 >Ran a subset of sheared gDNA (5uL from each pool) on gel to verify final size range:
 >
@@ -155,13 +162,13 @@ Add 3 µL to each sample.
 >
 >
 >
-
-* Sonicate the libraries using the QSonica sonicator.  Make sure that the water level is filled to the level indicated in the water batch.  Turn on the water bath at least an hour before sonication to allow it to cool to 4˚C.  Turn on the sonicator and set to 25% power, 4 cycles of 30 s on, 59 s off (will read 2:00 sonication).  Load the samples into the wheel, making sure that the unused slots contain 1.5 mL vials with the same amount of liquid.  Samples all need to be about 350 ul for the NWFSC standard sonication method.  After sonication, combine the two pools from the same library together into a 5 mL tube to allow enough volume for Minelute cleanup.
-
-* Run a test gel of sonicated and un-sonicated product using a 1% Gel Red gel (50 mL 1X TAE with 2.5 uL GelRed).  Load 10 uL each of the sonicated and unsonicated product to evaluate whether the desired size range is present.  If sonication looks good, combine the two sonication pools from the same library together in a single 5 mL conical tube and proceed with the Qiagen PCR Purification in the next step.
 * Purify the sample with the Qiagen MinElute PCR Purification Kit. Elute with 15µL EB.
 
 * Gel extract the sample. Run the entire sample on exactly 1% agarose gel (100 – 120 V from 30 – 45 min) and use 100 bp DNA Ladder as a reference to extract the proper size range. It’s easiest to use SybrSafe gel stain at this step, and the dark reader to visualize the gel for cutting the band.  Add 5 uL SybrSafe to agarose before pouring the gel.  The dark reader, with an orange filter, can be used to visualize the gel, and the old Polaroid to take a photo.  Use a clean razor blade to extract the smear between 400-600 bp.  Place the cut gel plug in clean micro tube and weigh gel plug so that you know what the ‘volume’ is for Minelute cleanup.
+* 
+
+
+
 
 ---
 
