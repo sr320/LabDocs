@@ -166,8 +166,12 @@ Add 3 µL to each sample.
 
 * Purify the sample with the Qiagen MinElute PCR Purification Kit. Elute with 15µL EB.
 
->Gel fragment weighed 254mg.
 
+* Gel extract the sample. Run the entire sample on exactly 1% agarose gel (100 – 120 V from 30 – 45 min) and use 100 bp DNA Ladder as a reference to extract the proper size range. It’s easiest to use SybrSafe gel stain at this step, and the dark reader to visualize the gel for cutting the band.  Add 5 uL SybrSafe to agarose before pouring the gel.  The dark reader, with an orange filter, can be used to visualize the gel, and the old Polaroid to take a photo.  Use a clean razor blade to extract the smear between 400-600 bp.  Place the cut gel plug in clean micro tube and weigh gel plug so that you know what the ‘volume’ is for Minelute cleanup.
+
+>
+>Gel fragment weighed 254mg.
+>
 >Purified using MiniElute Gel Extraction Kit (Qiagen).
 >Added three volumes (762uL) of Buffer QG to gel slice.
 >Incubated ~10mins on rotator until gel slice was fully dissolved.
@@ -182,9 +186,6 @@ Add 3 µL to each sample.
 >Stored sample @ 4C.
 >
 >
-
-* Gel extract the sample. Run the entire sample on exactly 1% agarose gel (100 – 120 V from 30 – 45 min) and use 100 bp DNA Ladder as a reference to extract the proper size range. It’s easiest to use SybrSafe gel stain at this step, and the dark reader to visualize the gel for cutting the band.  Add 5 uL SybrSafe to agarose before pouring the gel.  The dark reader, with an orange filter, can be used to visualize the gel, and the old Polaroid to take a photo.  Use a clean razor blade to extract the smear between 400-600 bp.  Place the cut gel plug in clean micro tube and weigh gel plug so that you know what the ‘volume’ is for Minelute cleanup.
-* 
 
 
 
