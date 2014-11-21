@@ -69,8 +69,12 @@ _note that PstI will also work with adaptors_
 * Incubate at 37˚C for 90 minutes, then at 80˚C for 20 minutes to inactivate the enzyme (_check appropriate inactivation temperature for the enzyme in use, if other than SbfI_).
 
 * Add 2 µL of each barcoded SbfI short P1 RAD adapter (25nM) (these are the illumina barcodes located in -20˚C freezer) to each digested sample. Mix by pipetting.  Use RAD adapters 10 times from each aliquot plate before throwing away. 
+* 
+>
+>Added 2uL of each adapter to corresponding well of SbfI digested DNA (e.g. DNA plate well A1 got the P1 adapter from >well A1 in the adapter plate).
+>
 
-_Note:  now is a good time to turn on the sonicator to bring it down to temperature.
+_Note:  now is a good time to turn on the sonicator to bring it down to temperature._
 
 * Make ligation mix:
 
@@ -83,9 +87,75 @@ T4 DNA Ligase (NEB M0202M)	|	0.25µL
 	
 Add 3 µL to each sample.  
 
-* Incubate the plate at 20˚C for 60 minutes, then at 65˚C for 20 minutes to inactivate the enzyme.
+* Incubate the plate at 20˚C for 60 minutes, then at 65˚C for 30 minutes to inactivate the enzyme.
 
 * Combine the samples that are to be sequenced together into libraries.  Combine samples with lower quality DNA into the same pool to reduce PCR bias at the end of the library prep. The number of samples to combine into each library is dependent on DNA concentration, genome size and sequencer capacity. For hard to replace DNAs, reserve ½ of library in case there is problem downstream.  To combine 12 samples from a library:  60 µL / sample x 12 samples = 720 µL.  Reserve 20 µL aside before sonication to allow running un-sonicated sample on the gel (with the sonicated sample that is run in step 7).  Split the remaining 700 µL into two aliquots of 350 µL in 1.5 mL tubes for sonication.  NOTE:  This is a good time to put EB in the incubator (55˚C) for today’s Minelute purification steps.
+* 
+
+>
+>Created two separate pools of "low" and "high" quality for shearing.
+>Low quality samples (5uL from each):
+>All rows, columns 1 -9
+>
+>Higher quality samples (5uL from each):
+>All rows, columns 10 -12
+>
+>Sheared each samples with the following cycling protocols on the Biorupter Plus (Diagenode):
+>
+>Low
+>3 cycles of:
+>30 seconds on
+>59 seconds off
+>
+>High
+>4 cycles of:
+>30 seconds on
+>59 seconds off
+>
+>Ran a subset of sheared gDNA (5uL from each pool) on gel to verify final size range:
+>
+><img src="http://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADp1Sheared.png" width="400px" height="600px" />
+>
+>
+>Gel loading:
+>
+>Lane 1 - O'GeneRuler 100bp Ladder (ThermoFisher)
+>
+>Lane 2 - Low quality
+>
+>Lane 3 - Higher quality
+>
+>
+>
+>I neglected to run a set of un-sheared DNA.
+>Both samples appear to have an average size of 200 - 400bp.
+>
+>
+>
+>After confirming satisfactory shearing, the two samples were combined and run on a 1% agarose low TAE gel (stained >with EtBr) for size selection.
+>
+>
+>O'GeneRuler 100bp Ladder (ThermoFisher)
+>
+>
+><img src="http://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADsizeSelection-01.JPG" width="400px" height="600px" />
+>
+>
+>
+>
+>
+>Size range of sheared DNA from 300 - 500bp was excised from gel.
+>
+>
+>
+>O'GeneRuler 100bp Ladder (ThermoFisher)
+>
+>
+><img src="http://eagle.fish.washington.edu/Arabidopsis/20141106%20-%20OlyOysterRADsizeSelection-02.JPG" width="400px" height="600px" />
+>
+>
+>
+
 * Sonicate the libraries using the QSonica sonicator.  Make sure that the water level is filled to the level indicated in the water batch.  Turn on the water bath at least an hour before sonication to allow it to cool to 4˚C.  Turn on the sonicator and set to 25% power, 4 cycles of 30 s on, 59 s off (will read 2:00 sonication).  Load the samples into the wheel, making sure that the unused slots contain 1.5 mL vials with the same amount of liquid.  Samples all need to be about 350 ul for the NWFSC standard sonication method.  After sonication, combine the two pools from the same library together into a 5 mL tube to allow enough volume for Minelute cleanup.
 
 * Run a test gel of sonicated and un-sonicated product using a 1% Gel Red gel (50 mL 1X TAE with 2.5 uL GelRed).  Load 10 uL each of the sonicated and unsonicated product to evaluate whether the desired size range is present.  If sonication looks good, combine the two sonication pools from the same library together in a single 5 mL conical tube and proceed with the Qiagen PCR Purification in the next step.
