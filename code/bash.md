@@ -1,10 +1,10 @@
-Here's a change I am proposing...
+
 ###Simple for loop in terminal
+
 `for i in e f; do echo $i; done`
 
 
 ---
-more
 
 ---
 
@@ -12,6 +12,7 @@ more
 `$wc -l < /path/to/file`
 
 Explanation:
+
 wc = Terminal command for "word count"
 
 -l = Flag to specify line count
@@ -35,7 +36,7 @@ sort - Sorts the info from the "cut" command in ascending order.
 
 "|" - Piper which sends the results of the previous command ("sort" in this example) to another command.
 
-uniq -c - Counts the number of occurrences of each unique "word" in the specified column(s). (Note: Technically "uniq -c" is counting the occurrence of each unique line in the specified column, not the actual "words." It is this reason (that uniq occurrences are tallied by line) that you use the cut command to have the uniq command focus on a single column from the source file.
+uniq -c - Counts the number of occurrences of each unique "word" in the specified column(s). (Note: Technically "uniq -c" is counting the occurrence of each unique line in the specified column, not the actual "words." It is this reason (that uniq occurrences are tallied by line) that you use the cut command to have the uniq command focus on a single column from the source file.)
 
 
 
