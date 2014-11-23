@@ -1,341 +1,119 @@
-﻿Reproductive Fitness [a][b]Estimates for Ostrea lurida populations within the Puget Sound. 
+﻿Title options
+
+
+* Evaluating nature versus nurture in Ostrea lurida within Puget Sound
+* Assessing performance variation in Ostrea lurida 
+* X habitat predict performance in varying environments
 
 
 
 
-link to orig paper
 
 
+
+
+Abstract 
 Olympia oysters, Ostrea lurida, in Puget Sound, Washington are known to initiate reproduction at a specific temperature threshold. Bays along a latitudinal gradient within the Sound exhibit temporal variation in attaining this temperature. This gradient of habitat types has been shown in recent studies (Savolainen, 2007) to induce the phenomena of local adaptation within semi sessile and sessile native organisms. Since O. lurida is native to the west coast, it is hypothesized that populations along a latitudinal gradient have become locally adapted to their environment. This adaptation would have important ramifications for conservation and restoration projects within the Puget Sound.   To test these differences we set up a reciprocal transplant experiment among three populations from Fidalgo (Northern), Dabob (Central), and Oyster (Southern) bays along a latitudinal axis as well as a fourth bay (Manchester NOAA facility) as a control repository. We monitored growth, survival, and fecundity from August 2013 to August 2014. We observed only minor growth and survival differences among populations. Throughout the spawning season, Southern oyster population produced significantly more brooding oysters at two of the three sites compared to the other two populations. Oyster populations native to these diverse bays may have genetically diverged their spawn timing to conform to environmental conditions within each bay, or the Southern population may simply have greater fitness. Through our ongoing research, we intend to determine whether Olympia oyster populations exhibit local adaptation within Puget Sound.
 
 
+________________
 
 
 
 
-Intro-
-Oly history
-Life history emphasizing reproduction
-Dr. Tartar
-PDO
-Local Adaptation in Reproduction
-Project overview
-Hypothesis
+Introduction[a][b]
+Restoration of Native Species
+Restoration of native species has been of growing concern in the face of habitat loss, loss of ecosystem services, and global climate change. Various restoration efforts have focused on downgrading or eliminating anthropogenic influences that affect population recovery negatively such as  reducing population, converting lands back into suitable habitat, and limiting or banning harvest of target species. While these efforts pose little risk to the genetic structure of remnant populations, they often take years before appreciable recovery is observed often leading to declines in public awareness and loss of conservation funds due to minimal returns. Even in the best case scenario for habitat recovery there are often confounding factors such as excess predators and competitors that severely limit the ability of native populations to recover in a timely manner. Faced with such mounting problems resource managers and conservation groups turn to practices which encourage heavy transplantation of viable animals into habitats of interest to supplement dwindling populations and encourage recruitment. 
+
+
+Supplementation Concerns
+Supplementation practices have many benefits including expediently increasing population numbers, high production rates, and public visibility but suffer from many issues such as inbreeding depression, outbreeding depression, and domestication. While the benefits are immediate, most of the drawbacks can be irreversible. When supplementation main goals are production rates, population genotype integrity are often sacrificed causing vast numbers of larvae to be produced for minimal parents leading to heavy inbreeding. Hatcheries are often touted for their high production rates but due to limited genetic variability, the high number of offspring produced and outplanted can induced outbreeding effects were hatchery genotypes are overrepresented in wild populations due to the overwhelming number of hatchery produced animals planted in the wild. Even with the best genetic management strategies in place in a hatchery, domestication effects may still be present in hatchery produced larvae as conditions within a hatchery may promote phenotypes not suitable for wild populations. Each of these effects is of great concern for any supplementation project but may have more detrimental effects when dealing with locally adapted populations. 
+
+
+Local Adaptation
+Local adaptation molds local populations genotypes to selection pressures that encourage the greatest fitness within the population as compared to foreign populations. Species with broad geospatial ranges, adaptive differentiation can produce a variety of patterns including countergradient or trait mosaics (Sanford and Kelly, 2011;Conover, 2009).The phenomena of local adaptation is described as locally selected phenotypic traits that confer adaptive advantage to local populations under similar environmental constraints. Traits that have been confirmed to hold adaptive advantage such as spawn timing and stress resilience have high affinity for local adaptation as local conditions express the most selection control over these traits. These traits are in equilibrium within local populations but can be disturbed by supplementation efforts that may introduce less fit phenotypes into established populations. Less fit supplementation populations would be less effective in creating persistent populations as well as drive local stable populations out of equilibrium with the environment. Loss of locally adapted traits could drive depression of population abundances or extirpation of local population. Without knowing the scale of local adaptation, be it meters or kilometers, it is nearly impossible to account for local adaptation effects with model only systems. 
+
+
+Effects of Local Adaptation
+Many species experience local adaptation that affects survival, growth, and reproductive life histories and drives specialization within habitats. Salmon species along the west coast are highly variable in phenotypes of return timing, spawn timing, and gametic or somatic growth (Hodgson and Quinn, 2002; O’Malley et al. 2010). These variations may be in response to environmental cues due to latitudinal position of spawning areas (O’Malley et al. 2010). Sanford and Kelly (2011) reviewed multiple marine invertebrate species that show strong selection pressures based on local environmental gradients. Dittman et al. (1998) found that geographically differentiated strains of Crassostrea virginica performed significantly different under common garden conditions and these effects appeared in multiple subsequent generations indicating that local adaptation, not maternal effects or phenotypic plasticity were responsible. These species become well adapted for niche environments within the species habitat range and experience reproductive isolation creating locally adapted populations that would be significantly affected by supplementation of less well adapted populations. One such specie is Ostrea lurida, the native oyster to the Pacific Coast of the United States which exists in a wide variety of habitats within its range from Baja California to British Columbia, Canada. 
+
+
+Olympia Oyster History
+The Olympia oyster, O. lurida, is the only native oyster to the Pacific coast and of increased concern for restoration efforts due to significant declines and the ecosystem services it provides for local species but due to limited research on the species the effects of local adaptation are mostly unknown. Since the mid 1800’s, O. lurida populations have seen significant declines due overharvest which at one point reached over 200 million per year in the early 1900’s (White et al 2009), pollution from various industries, and sedimentation caused by human settlement. It has been assumed that the Puget Sound O.lurida population was continuously connected throughout the Sound but as extirpation within various areas, the population became more fragmented leading to increased local adaptation (Camara and Vadopalas, 2009). Remnant populations of O. lurida are of growing concern for restoration within the sound as a way to improve habitat stability and promote improved ecosystems not only for shellfish production but as transitional areas for salmon juveniles as they head to open ocean. The oceanography features of the Puget Sound create a diverse array of habitats in which remnant O. lurida populations exist leading to strong selection pressures on each population by local conditions the major feature of which is ambient water temperature as well as tidal flux. The Washington Shellfish Initiative calls for the restoration of “19 large, historic, natural oyster beds” which range throughout the Sound experience very different seasonal effects in temperature regimes and tidal fluctuations. Finding a single supplementation population for use in each of these bays could at best have weak results and at worst be deleterious to native established populations through genetic effects previously described. To better predict any possible complication with supplementation efforts on O. lurida populations within the Sound, more extensive research needs to be performed to determine the limitations and possible effects of local adaptation within viable populations and perspective supplementation populations. 
+
+
+Testing for Local Adaptation
+There are several methods for testing local adaptation but the easiest by far is the reciprocal transplant experiment (Camara and Vadopalas, 2009). Reciprocal transplant experiments involve using broodstock populations from geographically disperse regions to produce offspring under common garden environments. These offspring are then outplanted within their home bays and bays home to the other stocks. This is followed by monitoring of both populations effects as well as environmental parameters within each site. By closely monitoring key metrics for fitness we can judge whether fitness increases or decreases and compare that to expectations for each. Choosing the appropriate metrics is of key import as they must convey adaptive advantage, be subject to both population and environmental variation, and be easily monitorable. 
+
+
+Monitoring Fitness
+Key metrics when studying local adaptation are species and case specific. Savolainen et al. (2007) chose two metrics relating to fitness of Pinus slyvestris, Scots Pine, in northern Europe: mortality and tree height. Each metric conveys important adaptive functions for each population monitored with mortality being obvious and tree height standing in proxy for a myriad of physiologic functions such as energy allocation and resource dominance. For our study we chose two similar metrics of mortality and growth (shell length) as well as a third metric of reproductive activity. These metrics translate to important life history functions that may be altered due to environmental variables and are possibly heritable within populations.
+
+
+Expectations for Local Adaptation 
+Expectations vary for what could be considered local adaptation though each scenario has its own implication for restoration efforts. When comparing metrics between each population at home and foreign sites we expect to see populations at home have relatively higher fitness than at foreign sites. Interactions between population and environment should significantly alter things such as mortality rates, growth rate, and degree of reproductive activity. This by no means suggests that fitness cannot increase in foreign sites, only that relative fitness compared to the local population should be less to some degree. For a metric like mortality we expect populations from more dynamic environments to show increased survival in stable environments as compared to survival within its home bay. Comparing it to the native population from the stable environment, it should have relatively lower fitness as the native population should have greater overall survival at home. Each metric may vary from site to site but if local adaptation exists then only at home should each population show relatively higher fitness. 
+
+
+Study Objective
+The main objective of our study is to determine whether these expectations hold true in regards to fitness and local adaptation for three distinct populations from within geographically diverse areas in the Sound. If the expectations hold true then significant care must be taken in future restoration efforts to maintain local adaptation and stability of supplemented populations. If these expections are not found to exist then it can be assumed that all O. lurida populations within the Puget Sound are genotypically similar enough to encourage the use of broodstock from a single interchangeable population for future supplementation work. 
 
 
 
 
-
-
----
 
 
 Methods
 Broodstock Conditioning and Outplanting 
-Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012 by Puget Sound Restoration Fund. Mass spawning of ~20-25 oysters from each location occurred in June 2013 following several months of conditioning. All offspring produced were raised and conditioned under common garden conditions such that no population received different treatment throughout the entire experiment. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble. In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	Aug
-2013
-	Sept
-2013
-	Oct 2013
-	Nov
-2013
-	Dec 2013
-	Jan
-2014
-	Feb
-2014
-	Mar
-2014
-	Apr
-2014
-	May
-2014
-	June
-2014
-	July
-2014
-	Aug
-2014
-	Visited
-	F,M,O,D
-	No
-	F,O,D
-	M
-	F,M,O,D
-	D
-	F,M,O
-	No
-	F,M,
-O,D
-	F,M,O
-	F,M,
-O
-	F,M,
-O
-	F,M,
-O
-	Metrics
-	Size
-	No
-	No
-	No
-	S,W,L,D
-	S,W,L,D
-	S,L,D
-	No
-
-
-	S,L,D,
-W*
-	S,L,D
-	S,L,D
-	S,L,D
-	
-
-	Genetics Samples
-	Yes
-	No
-	No
-	No
-	F,M,O,D
-	D
-	No
-	No
-	Yes*
-	Yes*
-	No
-	No
-	
-
-	Repro Check
-	No
-	No
-	No
-	No
-	No
-	No
-	No
-	No
-	Yes
-	Yes
-
-
-	Yes
-	Yes
-	
-
-	Brood
-Collect
-	No
-	No
-	No
-	No
-	No
-	No
-	No
-	No
-	No
-	O
-	F,M,O
-	F,M,O
-	
-
-	Fid
-	
-
-	
-
-	
-
-	
-
-	96
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Man
-	
-
-	
-
-	
-
-	
-
-	95
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	Oys
-	
-
-	
-
-	
-
-	
-
-	94
-	
-
-	
-
-	
-
-	
-
-	22
-	
-
-	
-
-	
-
-	Dab
-	
-
-	
-
-	
-
-	
-
-	152
-	94
-	
-
-	
-
-	161
-	
-
-	
-
-	
-
-	
-
-	Terminal
-Sample
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	D
-	
-
-	
-
-	
-
-	
-
-	Table 1. T[c]his table denote actions taken in each month of the survey period in regards to field work. In the Visited and Genetic Samples rows F = Fidalgo, M = Manchester, O = Oyster Bay, and D = Dabob. In the Metrics row S = Size, W = Weight, L = Live Count, and D = Dead Count. Numbers are exact numbers of samples collected at each site. 
+Adult oysters were collected from three locations in Puget Sound (Fidalgo, Dabob, and Oyster Bays) during November and December 2012 by Puget Sound Restoration Fund. Mass spawning of ~20-25 oysters from each location occurred in June 2013 following several months of conditioning. All offspring produced were raised and conditioned under common garden conditions such that no population received different treatment throughout the entire experiment. Larvae were raised in flowing seawater and fed microalgae. Following setting on microcultch, juveniles were cultured in flowing seawater in Port Gamble. In August 2013, 480 oysters (5-10 mm) from each population were planted at Fidalgo, Oyster Bay, Dabob, and Manchester Bays.[c][d]  At each site, oysters from each population were placed into four 0.61M X 0.61M growout trays (120 each). In each tray, oysters were equally distributed in four 10x7.5cm mesh (1475 micron) bags. Trays were  anchored into substrate using using rebar stakes. In late autumn trays at Fidalgo Bay, Oyster Bay, and Manchester were transferred from substrate to a midcolumn hanging deployment.   At each site, a HOBOlogger temperature logger (OnSet, USA) was deployed to monitor temperature every 15 minutes. 
 
 
 
 
 Site Monitoring
-
-
 Mortality
-        Mortality was determined via counts of dead oysters or remaining live oysters at each site visit. Survival was assessed [d] in December 2013, January (Dabob only), February, April/May, June, and July/August 2014. 
-All trays were examined winter visits and a single tray was counted during each summer visits allowing for a full population count at the end of 4 weeks. No oysters remained at Dabob after April.  
+        Mortality was determined via counts of dead oysters or remaining live oysters at each site visit. Survival was assessed in December 2013, January (Dabob only), February, April/May, June, and July/August 2014.  All trays were examined winter visits and a single tray was counted during each summer visits allowing for a full population count at the end of 4 weeks. No oysters remained at Dabob after April.  Differences in mortality were determined through survdiff tests performed in the R statistical packag[e]e (survival). Only findings with a p-value < 0.05 were considered different. 
 
 
 Growth
-Size was assessed five times between August 2013 outplant and August 2014. Size was assessed using photos and imageJ.[e][f] Images for size were taken at every visit in February, April/May, June (subsample), and July/August 2014. 
+Size was assessed five times between August 2013 outplant and August 2014. Images for size were taken at every visit in February, April/May, June (subsample), and July/August 2014. For each image a reference was measured along with all oysters. For all oysters a linear measurement was made at the longest distance from hinge. Growth rate was calculated using ggplot2 and a best fit line calculated via linear method.  Growth was compared using ANOVA assuming normal distribution as well as Kruskal-Wallis assuming non-normal distribution. Pairwise comparisons were performed using Student’s T-Test as well as Tukey’s HSD. P-Values less than 0.05 (P<0.05) were considered significantly different. 
+
+
 
 
 Reproductive Activity
-To assess number of larvae, one tray from each population was subjected to anesthesia (Jackson et al, in press) with larvae removed and counted. This was carried out on weekly basis from May 14th, 2014 until August 15th, 2014 . Specifically, trays were removed from water and placed on land for 45 minutes then immersed in heptahydrate sulfate mineral epsomite (MgSO4·7H2O) (epsom salt) dissolved in sea water (75g/l) for 45 minutes. When brooding oysters were detected via visual inspection, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a plastic tube (50ml) for later analysis. The number brooding adults to treated oysters was recorded.
+To assess number of larvae produced, one tray from each population was subjected to anesthesia (Jackson et al, in press) with larvae removed and counted. This was carried out on weekly basis from May 14th, 2014 until August 15th, 2014 for a total of 15 timepoint observations for each site . Specifically, trays were removed from water for 45 minutes then immersed in heptahydrate sulfate mineral epsomite (MgSO4·7H2O) (epsom salt) dissolved in sea water (75g/l) for 45 minutes. When brooding oysters were detected via visual inspection, larvae were flushed out using ambient sea water onto a 52 micron screen. The screen was then washed with 95% ethanol into a plastic tube (50ml) for later analysis. The number brooding adults per site visit was recorded, then arcsine transformed to create normality followed by an ANOVA and Tukey Honest Significant Difference test to produce significant differences between comparisons of site, population, and population by site. We also 
 
 
-Statistical Analysis
-        Differences in mortality were determined through Cox Proportional Hazard tests performed in the R statistical package (survival). Only findings with a P-Value less that 0.05 (P<0.05) were considered different. 
-        Growth was compared using ANOVA assuming normal distribution as well as Kruskal-Wallis assuming non-normal distribution. Pairwise comparisons were performed using Student’s T-Test as well as Tukey’s HSD. P-Values less than 0.05 (P<0.05) were considered different. 
-        
-
-
+________________
 
 
 Results
+* see also supplemental data http://goo.gl/oVlvXb
 
 
+Site Characteristics[f][g][h][i]
+        Temperature data was collected throughout the experiment. Across all sites the temperature ranged from -3.32C to 31.88C.  No oysters remained at Dabob after April. 
+ meantempcomp.jpeg 
+
+Figure 1. Average Daily Temperatures for all 4 sites. Dabob = Green, Manchester = Blue, Fidalgo Bay = Purple, Oyster Bay = Orange, 12.5 C Spawn Threshold = Red
 
 
-Survival
-Significant differences between group mortalities were found with the Dabob group having the highest survival and Fidalgo had the lowest survival, overall. At the Fidalgo s[g]ite an average 78% of the oysters from all three cohorts remain after 10 months (Fig 1b). No significant differences in mortalities between groups were observed at Fidalgo. Limited mortality was observed at Manchester where on average 65% of cohorts remain by July 2014 (Fig 1d). No significant differences in mortalities between groups were found at Manchester.
-At Oyster Bay there were significantly more mortality in all three populations [h] as compared to the Fidalgo and Manchester sites, with an average of 39% survival [i]by September 2014 (Fig 1a). At Oyster Bay Dabob had the highest survival and Oyster Bay had the lowest survival [j][k]at 11 months post outplant.
-
-
-
-
+Survival[j][k][l][m][n][o]
+Differences in mortality was observed based on location of origin at three of the four locations. Dabob oysters survived better at Dabob, Oyster Bay, and Manchester (Figure 1A, 1B, 1C).  At Oyster Bay, the native population performed the worse with 37.0% (+/-2.3%) survival (Χ2=76.3, df=2, P=0)  (Figure 1A). Limited mortality was observed at Manchester where at least 80% of oysters remain after 11 months (July 2014) (Fig 1b).
+The Dabob Bay location experienced the highest overall mortality, as such the trial was ended prematurely in April 2014. There was also significant differences in mortality across populations (Χ2=141, df=2, P=0), with the Fidalgo oysters having the lowest survival (21.2% +/- 2.1%) (Fig 1c). At the Fidalgo field site, at least 80% of the oysters from all three cohorts remain after 10 months[p]. No differences in mortalities between groups were observed at Fidalgo (Χ2=2.6, df=2, P=0.247)  (Fig 1d) .
 
 
  KMoysfixed.jpeg 
- kmdabfixed2.jpeg 
  KMmanfixed2.jpeg 
+
+ kmdabfixed2.jpeg 
  KMfidfixed2.jpeg 
 
 
 
-Figure 1a,b,c,d. Kaplan-Meier (KM) graphs showing percent decline in population at each site for all extant populations. Groups labelled via color Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay. X-Axis is time in months from Outplant. Fig 1a. (Top Left) KM for Oyster Bay, 1b. (Bottom Left) KM for Fidalgo Bay, 1c. (Top Right) KM for Dabob, note graph lines stop at 8 months due to terminal sampling percentage survival is awkwardly high due to large number of missing from each population, 1d. (Bottom Right) KM for Manchester. 
+
+
+Figure 2. Percent survival for three oyster populations (Dabob = Blue, Fidalgo = purple,. Oyster Bay = orange) at four locations; Oyster Bay (A),  Manchester (B)  Dabob (C), and Fidalgo (D). 
 
 
 
@@ -345,7 +123,87 @@ Figure 1a,b,c,d. Kaplan-Meier (KM) graphs showing percent decline in population 
 
 
 Growth
-Mean oyster size at outplant was XXX (SD +-) across all sights. It should be noted that at Manchester[l][m] animals from the Dabob groups were outplanted at a slightly larger mean size (approximately 5mm more) [n]than the other two groups at outplanting.  After one year, mean size of oysters at Oyster Bay were 26, 28, and 32 [o]mm for Dabob, Oyster Bay, and Fidalgo groups respectively. At Fidalgo mean size of oysters were 23, 27, and 29[p] mm for Dabob, Oyster Bay, and Fidalgo groups. At Manchester, mean size of oysters were 18, 20, and 21 mm for Dabob, Oyster Bay, and Fidalgo groups. Gr[q]owth was observed at Dabob but was insignificant as all oysters died 8 months post outplanting.
+Mean oyster size at outplant was 11.36 mm (+/-3.15 mm). At Oyster Bay, Fidalgo oysters grew larger (34.7mm +/-6.53). than Dabob and Oyster Bay oysters (FIg3). At both Fidalgo and Manchester, oysters from Dabob were smaller than other population at the end fo the experiment. 
+
+
+
+
+ bxoysbay.jpeg 
+[q][r]
+Figure 3. Size Comparison between oysters in September 2014 survey at Oyster Bay. Boxplots with mean size as central line and colored boxes represent second and third quartile. Horizontal lines are 1st and 4th quartile with dots representing outliers from data set.  
+
+
+ bxfidbay.jpeg 
+
+
+
+Figure 4. Size Comparison between oysters in October 2014 [s][t][u][v]survey at Fidalgo Bay. Boxplots with mean size as central line and colored boxes represent second and third quartile. Horizontal lines are 1st and 4th quartile with dots representing outliers from data set. 
+
+
+ bxmanchester.jpeg 
+
+Figure 5. Size Comparison between oysters in October 2014 survey at Manchester. Boxplots with mean size as central line and colored boxes represent second and third quartile. Horizontal lines are 1st and 4th quartile with dots representing outliers from data set.  
+
+
+
+
+Brooding females
+The numbers of brooding females at each site varied with the largest number of brooding females present at Oyster Bay and the least amount of brooding females at Manchester (Table X). The Oyster Bay population produced the highest number of brooding females at all locations (Table X).
+ 
+Group/Site
+	Fidalgo Bay
+	Manchester
+	Oyster Bay
+	Fidalgo
+	8
+	1
+	30
+	Dabob
+	8
+	7
+	26
+	Oyster Bay
+	39
+	13
+	69
+	Table 1. Number of brooding female oysters at three locations (Fidalgo Bay, Manchester, Oyster Bay) from each population at each site. 
+
+
+
+
+
+
+The first br[w][x]ooding female at Oyster Bay discovered on May 29 with at least brooding oyster from each population (Fig. 6). The Oyster Bay population reached peak brooding by June 19th while Dabob and Fidalgo groups reached peak brooding on July 10. The first brooding female at Fidalgo was discovered on June 6th,  from the Fidalgo population (Fig. 7). At Fidalgo, the Oyster Bay group reached peak brooding by July 11th while Fidalgo and Dabob groups did not reach peak spawn until August 8th. Manchester did not produced a brooding female until June 18th from the Oyster Bay population (Fig. 8). At Manchester, Oyster Bay and Dabob groups reached peak brooding on August 6th. The smallest average size and minimum individual size at brooding was  observed at Manchester from the Dabob population,19.1+/-3.7 and 15mm respectively. 
+
+
+ prcbrdoystempfix.jpeg 
+
+Figure 6. Percent brooding females from each group at each sample date at Oyster Bay. Percent determined by number of brooding females (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
+ prcbrdoysnotemp.jpeg 
+
+
+
+
+
+ prcbrdfidtempfix.jpeg 
+[y]
+Figure 7. Percent brooding females from each group at each sample date at Fidalgo. Percent determined by number of brooding females (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
+ percbrdfidnotemp.jpeg 
+
+
+
+
+
+ prcbrdmantempfix.jpeg 
+
+Figure 8. Percent brooding females from each group at each sample date at Manchester. Percent determined by number of brooding females (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
+ prcbrdmannotemp.jpeg 
+
+
+
+
+
+In order to evaluate to role of temperature on brooding activity the number of degree days to peak brooding events was calculated at the two location where oysters were selected from and used in the experiment (Fidalgo and Oyster Bay). Oyster Bay brooding activity peaked at an average of 331.025 (+/- 23.13) [z][aa]degree days while Dabob and Fidalgo t[ab][ac]ook an average of 483.01 (+/- 29.98) degree days. 
 
 
 
@@ -354,91 +212,11 @@ Mean oyster size at outplant was XXX (SD +-) across all sights. It should be not
 
 
 
+ ddupdate.jpeg 
+
+Figure 9. Cumulative Degree Days for Oyster Bay (Orange Line) and Fidalgo Bay (Purple Line) overlaid with 12.5 C spawn threshold temperature (Green Square) as well as peak spawn dates for Oyster Bay (Orange crosshairs) and Fidalgo/Dabob groups (Purple,Blue crosshairs). Vertical lines indicate average degree day between sites for 12.5 C spawn threshold (green), Oyster Bay peak spawn (orange), Fidalgo/Dabob peak spawn (purple). 
 
 
-
-
-
-
- sizecomparisonoysterbay.jpeg 
-[r]
-Figure 2. Size Comparison between oysters at August 2013 outplant and oysters in August 2014 survey at Oyster Bay. Peaks on the left are August 2013. Peaks on the right are August 2014. Blue = Dabob, Purple =  Fidalgo, Orange = Oyster Bay
-
-
- sizecomparisonfidalgo.jpeg 
-
-
-
-Figure 3. Size Comparison between oysters at August 2013 outplant and oysters in August 2014 survey at Fidalgo Bay. Peaks on the left are August 2013. Peaks on the right are August 2014. Blue = Dabob, Purple =  Fidalgo, Orange = Oyster Bay
-
-
- sizecomparisonmanchester.jpeg 
-
-
-
-Growth Rate[s]
-         From individual sizes collected via ImageJ analysis of oyster size, growth rate was calculated using ggplot2 [t] and a best fit line calculated via linear method was overlaid to determine differences in growth rate between populations. At Oyster Bay, the Oyster Bay groups grew the slowest while the Fidalgo group grew the fastest w[u]ith Dabob in between.
-At Fidalgo, all three groups grew at roughly equal rates.  At Manchester, Oyster Bay grew the fastest while Fidalgo and Dabob grew at equivalent rates. 
-
-
- growthoysterbay.jpeg 
-
-
-
-Figure XX. Growth Rate plotted from February to August 2014 using size information from ImageJ at Oyster Bay. Growth rate plotted as individual lines. Blue=Dabob, Purple=Fidalgo, Orange=Oyster Bay. 
-
-
- growthfidalgo.jpeg 
-
-Figure XX. Growth Rate plotted from February to August 2014 using size information from ImageJ at Fidalgo Bay. Growth rate plotted as individual lines. Blue=Dabob, Purple=Fidalgo, Orange=Oyster Bay. 
-
-
- growthmanchester.jpeg 
-
-Figure XX. Growth Rate plotted from February to August 2014 using size information from ImageJ at Manchester. Growth rate plotted as individual lines. Blue=Dabob, Purple=Fidalgo, Orange=Oyster Bay. 
-
-
-
-
- Brooding Females[v][w]
-
-
-Spawning Temperature Threshold Data
-Stuff about spawning temperature threshold at sites.
-
-
- oysmediantmpY1.jpeg 
-
- oysminmaxmedtmpsY1.jpeg 
-[x][y]
-The proportion of brooding oysters at the three field sites was assessed from May to August 2014.  At Oyster Bay and Fidalgo, the Oyster Bay group had an elevated proportion of brooding adults throughout the season. At Oyster Bay, there were 69 brooding oysters (41%_. This is in comparison to 14% and 11% brooding oysters from Fidalgo and Dabob, respectively.The peak percentage of brooding oysters in Oyster Bay was reached in third week of June in oysters from Oysters Bay, three weeks prior to peaks in other populations. 
- percbroodoys.jpeg 
-[z][aa]
-
-
-Figure XX. Percent Brooders from each group at each sample date at Oyster Bay. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
-
-
-At Fidalgo Bay, Oyster Bay oysters peaked in percentage of brooder in the second week of July.  The Oyster Bay group produced 39 brooders representing 10% of the population over the course of season. The Northern and Dabob groups produced 8 brooders a piece representing ~2% of each population. [ab][ac][ad][ae][af]
-
-
- percbroodfid.jpeg 
-
-Figure XX. Percent Brooders from each group at each sample date at Fidalgo. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
-
-
-Conditions at Manchester led to an underwhelming[ag] spawning season though all populations produced at least one brooder. The Southern[ah] population spawned the most and produced 11 brooders representing roughly 3% of the oysters present. Interestingly the Dabob population produced more brooders than the Northern population with 7 and 1 brooders respectively. This represented ~2% and 0.3% of each population respectively. 
-
-
- percbroodman.jpeg 
-
-Figure XX. Percent Brooders from each group at each sample date at Manchester. Percent determined by number of brooders (Br) divided by number of treated oysters (T) or %=(Br/T)*100. Blue = Dabob, Purple = Fidalgo, Orange = Oyster Bay.  
-
-
-
-
-Size at Brooding[ai]
-        Each brooder was measured in the field to determine size at brooding. These sizes were then correlated with group to determine total size at brooding[aj]. It was found that there were significant differences between each group as well as between each [ak]site. The Fidalgo group produced the largest brooders with an average size of 29 mm while the Dabob group produced the smallest brooders at 23 mm. Oyster bay produced an average size brooder of 26 mm. By site, Animals at Oyster Bay and Fidalgo Bay ranged between average size of 27-28 mm while Manchester produced the smallest average brooders at around 22 mm[al]. 
 
 
 
@@ -450,48 +228,115 @@ Size at Brooding[ai]
 DISCUSSION
 
 
-Survival Differences
-        The main driver of survival at each site was the environment. The sites with the lowest mortality had the most stable temperature regimes. While Dabob, the site with the most intense temperature fluctuation and noted freezing events within the trays was completely wiped out by the end of Winter 2014. The second largest factor affecting mortality was the population of origin. A feature of the Dabob population led to significantly lower mortality than the other two groups at sites with high mortality overall. This could be a function of increased stress resilience possessed by the Dabob group. 
 
 
-Mean Length Differences
-        Again the main driver of growth was the outplant site with even the smallest mean length size population, Dabob, being proportional in size to the Oyster Bay and Fidalgo groups. The effect of population affected the degree to which they grew allowing the Fidalgo and Oyster Bay populations to grow the largest, while the Dabob population was the smallest at each site. We speculate that this reduced size was in part due to energetic tradeoffs Dabob oysters made in effort to prime themselves for future stressors. Production of heat shock proteins have been shown to be increased prior to stress events in populations that inhabit more stressful environments. 
 
 
-Growth Rate Differences
-        While growth rates were quite similar at most sites, the Fidalgo population experienced a significantly higher growth rate at Oyster Bay than it did in its bay of origin. Savolainen et al. 2007 found similar changes in growth rates of trees from more northern lattitudes and suggested that this phenomena is due to more efficient energy allocation in populations that exist in areas that limit the period of growth due to colder annual temperatures. When these populations are moved from the northern latitudes to southern, warmer latitudes the populations experience intense prolonged growth rates due to the increased length of the growing season. 
+        Here we carried out at reciprocal transplant experiment with Olympia oysters from three locations in Puget Sound Washington and found that differential responses based on several factors including temperature and population of origin . 
 
 
-Distribution of Brooders
-        Since Hopkins et al. 1936, it has been known that Ostrea lurida begin spawning at temperatures above 12.5 C. From our temperature logs and brooder information, this holds true as oysters at each site did not begin brooding until the daily minimum water temperature remained above 12.5 C for several consecutive days. The spawning threshold temperature was met at each in Mid May, Late June, and Mid-July for Oyster Bay, Fidalgo, and Manchester respectively. 
-This temperature threshold determines the point after which populations in each area begin being reproductively active. Only after this point is reached does population origin begin to have an effect on brooding. If temperature determines when spawning begins, then population origin determines to what degree each population spawns. At Oyster Bay and Fidalgo, the Oyster Bay group brooded in significantly higher numbers than the Fidalgo or Dabob groups.  At Manchester, the Oyster Bay group produced the largest number of brooders but it was not significantly different from that of the Dabob group which was surprising though the overall numbers were quite low. 
-The smallest observed brooder was 15 mm and the largest was above 40 mm. The majority of each population fell into the range of these two sizes suggesting that the majority of each populations was above the size threshold of 15 mm and could have been capable of spawning. 
 
 
-**Fecundity (If we add this part like brent suggested)
-        The majority of these samples are still being processed so no definite conclusion can be considered here just yet. However we did find that animals that spawned earlier in the season produced significantly less larvae than animals that spawned later in the season. It should also be noted that the numbers of larvae produced are similar to the findings of Hopkins et al. (1936) in which similar brooding surveys on animals ranging in ages found larvae production to be near 100,000 or more larvae per individual in each brood. 
-        
-I’ll also probably add some information about size at brooding. This analysis could be done by Joelle by having her take the list of counted brood samples and correlating it back with the size of the brooder it came from. I’m sure I could do a quick analysis to figure out if larger animals brooder more. 
+Differences in survival were influenced by site, as all oysters survived better at two location - Fidalgo and Manchester. This is likely attributed to temperature stability at these sit[ad][ae]es? The mortality event at Dabob was likely attributed to temperate as this site experienced subfreezing temperatures of -0.78 C and -3.3 C in December 2013 and February 2014 respectively.
+
+
+
+
+Another primary finding was the Dabob population survived better overall.  This could be a function of increased stress resilience possessed by the Dabob group in response to strong temperature variation found within their native habitat at Dabob bay. [af] When comparing high intertidal species typically exposed to higher temperatures to low intertidal animals, Somero (2002) suggested that animals that experience lower temperatures typically induce heat shock pathways at lower temperature limits which is energetically costly and often induces high mortality in highly variable sites. For two species of Pacific Coast kelp (Egregia menziesii and Undaria pinnatifida), differences in expression of heat shock protein reflected thermal history for the species (Henkel and Hofmann, 2008). Stearns (1992) described reproduction as the “most prominent” life history trade off, and is frequently offset by maintenance of homeostasis. This seems to hold true as the Dabob group has the best survival and the weakest reproductive activity. 
+
+
+
+
+
+
+Site of origin influenced growth as oysters from Dabob grew the least at all sties. The observation that Dabob oyster grew the least could be explained by…
+
+
+Further at the two sites with native oysters outplanted (Oyster Bay and Fidalgo) the native population did not grow bigger than cohorts.  In fact at Oyster Bay, oysters from Fidalgo grew larger. [ag][ah]In a transplant study, Yanick et al. (2003) found that blue mussels (Mytilus trossulus) from southern Vancouver Island, BC were transplanted to a northern location along with a local population, the two populations experienced equivalent growth in shell length over the study period and were not significantly different in size by the end of the study.
+
+
+One explanation to why the Fidalgo oysters grew better than there native counterparts (Oyster Bay) is that the Fidalgo oysters have adapted / evolved to grow at an more efficient rate given the short growing season and when moved to warmer locatio[ai]ns this efficient growth is realized over a longer duration. THis is consistent to what Savolainen et al. 2007 found with trees from more northern latitudes where trees moved from the northern latitudes to southern, warmer latitudes the populations experience intense prolonged growth. Dittman et al. (1997) found that C.virginica from colder northern lattitudes had significantly more cilliary activity suggesting that they had adapted to feed more actively at colder temperatures. Increased ingestion of nutrients at warmer climates, where primary production is often higher, could allow for more energy being directed to growth if reproduction is not being actively pursued. Yamahira and Conover (2002) showed that north lattitude Menidia menidia had a faster growth rate and better overall growth in areas with warmer temperatures. These findings suggest that northern lattitude species often experience countergradient adaptation for metabolic processes involved with growth. 
+
+
+An additional explanation to why Oyster Bay oysters did not grow as well as Fidalgo oysters at Oyster Bay is that native oysters were putting more energy into reproductive development. This is evident give the elevated number of brooding females. Arendt (1997) addressed this phenomena by suggesting that adult body size is a dynamic balance between optimal growth and reproductive activity. 
+
+
+
+
+
+
+
+
+
+
+
+
+Interestingly at Oyster Bay, the Dabob Bay group and Oyster Bay group were not significantly different in size which suggests the net growth was not different between the two groups. The major difference between the two groups is that the Oyster Bay group produced 4 times as many brooding females as the Dabob group did. This suggests that the Oyster Bay group used energetic tradeoffs to produce more brooding females whereas the Dabob group was most likely using energetic tradeoffs to pre-empt future stressors. This can be confirmed by the mortality findings at Oyster Bay which showed that the Dabob group survived significantly better than the Oyster Bay group. 
+
+
+
+
+
+
+
+
+
+
+Reproductive Activity
+        The number and timing of brooding females varied among site. The timing of reproductive activity is driven by temperature as……
+
+
+
+
+
+
+
+
+        Since Hopkins et al. 1936, it has been known that Ostrea lurida begin spawning at temperatures above 12.5 C. From our temperature logs and brooding female information, this holds true as oysters at each site did not begin brooding until the daily minimum water temperature remained above 12.5 C for several consecutive days. The spawning threshold temperature was met at each in Mid May, Late June, and Mid-July for Oyster Bay, Fidalgo, and Manchester respectively. 
+This temperature threshold determines the point after which populations in each area begin being reproductively active. Only after this point is reached does population origin begin to have an effect on brooding. If temperature determines when spawning begins, then population origin determines to what degree each population spawns and when peak brooding occurs. At Oyster Bay and Fidalgo, the Oyster Bay group brooded in significantly higher numbers than the Fidalgo or Dabob groups.  At Manchester, the Oyster Bay group produced the largest number of brooding females but it was not significantly different from that of the Dabob group which was surprising though the overall numbers were quite low. 
+
+
+OYSTERS from dabob smaller brooders
+
+
+The smallest observed brooding female was 15 mm and the largest was above 40 mm. The majority of each population fell into the range of these two sizes suggesting that the majority of each populations was above the size threshold of 15 mm and could have been capable of spawning. We did find that the environment affected the size at which brooding occurs with environmentally poor sites pressuring populations to spawn at a much smaller size on average though this shift in size was not considered significant via analysis. 
+
+
+
+
+Population and Environment Interaction
+        By comparing cumulative degree days over time at the two latitudinal extremes, we were able to visually confirm reproductive activity timing traits that are controlled via population even with the presence of significant environmental variability. Both sites took roughly equivalent amounts of degree days to reach the spawn threshold though temporally it took nearly a month longer for Fidalgo Bay to reach the threshold compared to Oyster Bay. It also took an equivalent amounts of degree days to produce peak brooding for the Oyster Bay group at both sites as well as the Fidalgo and Dabob group.
+Spawning timing has been linked to genetic variation in many marine species (Palumbi, 1994) including salmon spp. (Quinn 2007) and Eastern oysters, Crassostrea virginica (Barber, 1991). These timings have developed in response to environmental variables most suitable for offspring survival through such phenomena as Cushing (1984) match-mismatch hypothesis.
+When comparing the two sites environmental variation a clear trend throughout the spawning season exists. In Oyster Bay temperatures steadily increase through the temperature threshold and continue to extend well above this threshold. At higher temperatures primary production within the bay increases and thus creates an ample supply of food for young larvae. In response the local populations have timed their peak spawn shortly after reaching the critical temperature threshold ensuring that any larvae produced will have the longest possible duration of exposure to high primary productivity and suitable environmental conditions before settling. 
+In contrast is Fidalgo Bay in which the minimum water temperature varied around the spawning threshold for several weeks before increasing to warmer, more productive temperatures later in the summer. In response, the local population delays peak spawn timing until later in the season when minimum water temperatures have stabilized in a warming trend well above the spawn threshold thus providing a more suitable environment for larvae to  grow and develop in prior to settling. 
+If these spawn timing features had high plasticity we could expect to see each population adjust its peak spawn timing in relation to environmental cues such as extended duration of exposure to high water temperatures. Instead we find that each population retains the original peak spawn timing phenotype suggesting that peak spawn timing is genetically linked. This linkage can of course be considered evidence of local adaptation as these traits increase fitness within home sites for local populations. 
 
 
 Local Adaptation
-        A main objective of this study was to determine whether the phenomena of local adaptation occurs on a scale small enough to affect Olympia oysters originating in geographically separated bays along a latitudinal gradient. From our findings we see that each of our populations expresses distinct differences in each of the three key metrics. These differences however do not seem to imbue any one population with a higher fitness within its home bay nor does it promote one population more than the others at foreign sites. Unlike Savolainen et al., we did not observe overall greater fitness of oysters from northern habitats placed in southern bays though we did see increased growth most likely due to efficient energy allocation. This allocation however did not seem to favor reproduction or homeostatic stability as we observed these features from the Oyster Bay group and Dabob group respectively. With further study we will be able to determine whether this energy allocation is genetically imprinted within each population. If so the possibility of outbreeding depression may still exist at sites where animals are outplanted and interbreed with native species. 
+        A main objective of this study was to determine whether the phenomena of local adaptation occurs on a scale small enough to affect Olympia oysters originating in geographically separated bays along a latitudinal gradient. From our findings we see that each of our populations expresses distinct differences in each of the three key metrics. These differences however do not seem to imbue any one population with an overall higher fitness within its home bay nor does it promote one population more than the others at foreign sites.
+In regards to differences in mortality, we found that the Dabob group had significantly better survival at three of the four sites, with the fourth site having the lowest overall mortality for all populations. It can be inferred from the drastic variation in temperature at Dabob, that the Dabob group has allocated more energy in survival than other populations in less dynamic environments. The effects of this can be seen in the fact that they remain the smallest group at two of the 3 sites monitored while also producing fewer brooding females at each site regardless of environmental conditions. 
+Growth showed significant interactions with environmental variation but population effects still existed such as the previously mentioned lack of growth in the Dabob group. The Fidalgo group on the other hand had significantly higher growth at Oyster Bay than it did in its home site. This could be attributed to efficient energy allocation as described by Savolainen et al. 2007 of populations from northern latitudes growing significantly faster in southern latitudes. Indirectly this suggests that the Fidalgo population is better suited to the shorter growing season in Fidalgo Bay though we saw no significant difference in size at Fidalgo Bay when compared with the Oyster Bay group. 
+As discussed previously, reproductive activity showed the strongest, most identifiable signal of local adaptation. While peak spawn is of significant benefit when it matches with strong periods of primary productivity, it can be a strong detriment to recruitment if peak spawn timing is mismatched with the environment. The Fidalgo population produced significantly fewer broods than that of the Oyster Bay group but due to environmental variation within Fidalgo Bay. It could be assumed that the majority of larvae produced by the Fidalgo group had significantly better environmental conditions to grow and develop in. The Oyster Bay group would have spawned possibly too early and wasted reproductive effort by expressing larvae into an unfavorable environment. 
+While each metric showed some degree of local adaptation, overall fitness of each population in each environment was significantly reduced enough to claim maladaptive traits. Local adaptation works for only the most prevalent forces within each environment and traits that are not directly affected by these forces will remain relatively unchanged. A major issue with local adaptation in local stocks is that it is unknown for how many generations will these differences persist. Depending on this, populations with long lived multigenerational traits may induce outbreeding depression of traits if interbred with other dissimilar populations. If the reverse is true, then traits may be short lived enough to only have mild consequences within the first couple of generations and be removed from a population through either selection or phenotypic plasticity. Without knowing the duration of locally adapted traits, it increasingly difficult to predict effects of introduction of non local populations through supplementation efforts and any future population level changes they may induce. 
+
+
 
 
 Implications for Restoration
-        As part of the Washington Shellfish Initiative, there is a push for increased restoration activities for the native oyster species of Washington. Several restoration projects have been promoted and are currently active within the Puget Sound. These efforts include outplanting of viable larvae and seed oysters in current but diminished O. lurida population as well as sites historically known to have populations but may not currently exist. 
+        As part of the Washington Shellfish Initiative, there is a push for increased restoration activities for the native oyster species of Washington. Several restoration projects have been promoted and are currently active within the Puget Sound. These efforts include outplanting of viable larvae and seed oysters as supplementation to diminished O. lurida population as well as sites historically known to have populations but may not currently. 
 While most restoration efforts use broodstock collected from the bay of interest, it may be necessary at times (due to very small local populations or in historically described areas) to plant seed produced from broodstock of alternative bays. In cases such as this, two very important factors come into play which will determine the success of the restoration effort: environmental stability of site and desired traits in broodstock. 
-Environmental stability affects every fitness component of outplanted animals and determines the rate of mortality, the degree of growth, and the length of the spawning season. When stability is high, most populations are fit enough to survive and reproduce. If stability is low and outplanted individuals experience extreme high or low temperatures for extended or multiple durations, the seeds will have limited to no success in establishing a self sustaining population. While no environment is ever considered perfect, we can improve the success of restoration efforts by carefully choosing broodstock populations.
+Environmental stability affects every fitness component of outplanted animals and determines the rate of mortality, the overall growth, and the length of the spawning season. When stability is high, most populations are fit enough to survive and reproduce. If stability is low and outplanted individuals experience extreme high or low temperatures for extended or multiple durations, the seed oysters will have limited to no success in establishing a self sustaining population. While no environment is ever considered perfect, we can improve the success of restoration efforts by carefully choosing broodstock populations.
 Selecting desired traits in broodstock may be difficult as no population, at least within this study, has shown to have significant success in all key metrics. A good rule of thumb is to investigate and monitor a site of interest and oyster origin bay for environmental parameters such as tidal influence, minimum and maximum daily temps throughout a year or more, influence from currents or bay turnover events especially during May/June when spawning may be halted due to temperature shift, and primary productivity. The more closely the parameters match, the more likely success of outplanted individuals will be. If no origin bay can be designated, then populations with traits that correlate well with environmental challenges in bays of interest may be the best solution. 
-With further genetic study, it will become more clear on whether local populations face the threat of outbreeding depression. Until it can be understood which traits are inheritable and which are made plastic by the environment, it is best treated with conservative approaches and considered possible to avoid introducing negative traits into local populations. 
+With further genetic study, it will become more clear on whether local populations face the threat of outbreeding depression due to hatchery supplementation. Until it can be understood which traits are heritable and which have high plasticity, it is best treated with conservative approaches and to avoid introducing detrimental traits into local populations. 
 
 
 Study Limitations
         There are limitations to this study that must be addressed when considering the findings such as subtidal outplantation, drastic mortality at Dabob, accidental limitation of genetic diversity, truncated reproductive sampling period. 
-        First, populations were held at subtidal elevations off of floating docks at Oyster Bay, Fidalgo, and Manchester. These populations experience less tidal influence than they would have at more intertidal zones. The decision to place them at subtidal zones was due to the threat of extreme low temperature events during Winter 2014. To be able to study longterm growth and reproductive activity effectively within the study and that the subtidal elevation would affect all populations equally still allowing for comparable results. 
-The only site that continued through the study at an intertidal elevation was Dabob which had no accessible floating dock. The extreme fluctuations and lows had a significant effect on mortality with all populations as over 50% of the outplanted animals were deceased 5 months after outplant. By April 2014, the Dabob site was terminally sampled and discontinued as part of the study. This restricted us from being able to compare longterm growth and reproductive activity at this site. Overall though, the extreme mortality events had did lead to finding an interesting difference between the populations as well as give a great example of how what kind of site not to select for restoration. 
-Due to the nature of randomly selecting seed for outplant from larvae produced en mass, there is a possibility that genetic diversity may be due to overrepresentation of brooders with higher fecundity. This portion of the study could not address this issue directly due to the inherent need for genetic testing. Future studies will include tests for relatedness to alleviate any possible doubts about limitation of genetic diversity. 
-The truncation of the reproductive sampling period was simply due to limited resources such as travel funds and time available for field work. It was noted that at Manchester, water temperatures did not hit spawning threshold until mid July. this mean that by mid August when we stopped sampling, the outplanted animals were spawning as shown by samples from the last field dates at Manchester. It was likely these animals didn’t not reach peak spawning until late August or early September. Without collection of this peak, we are unable to show whether the trend of Oyster Bay producing more broods remained true. In future studies it is suggested that brood sampling continue until at least Mid September to retain the most spawning information for late warmup sites. 
+        First, populations were held at subtidal elevations off of floating docks at Oyster Bay, Fidalgo, and Manchester. These populations experience less tidal influence than they would have at more intertidal zones. The decision to place them at subtidal zones was due to the threat of extreme low temperature events during Winter 2014. To be able to study longterm growth and reproductive activity effectively within the study we wanted to limit broadspectrum mortality from environmental extremes. Subtidal elevation was the obvious choice as it would affect all populations equally while still allowing for comparable results. It has also been noted that O. lurida typically settle at lower tidal elevations and are more susceptible to the effects of environmental extreme when placed in higher elevations (White, 2009). The subtidal placement allowed these animals to experience environmental parameters closer to those preferentially selected for while still allowing the samples to be accessible for monitoring.  
+The only site that continued through the study at an intertidal elevation was Dabob which had no accessible floating dock. The extreme temperature fluctuations and lows had a significant effect on mortality with all populations as over 50% of the outplanted animals were deceased 5 months after outplant. By April 2014, the Dabob site was terminally sampled and discontinued as part of the study. This restricted us from being able to compare longterm growth and reproductive activity at this site. Overall though, the extreme mortality events did lead to finding an interesting difference between the populations as well as give a great example of how what kind of site not to select for restoration. 
+Due to the nature of randomly selecting seed for outplant from larvae produced en mass, there is a possibility that genetic diversity may be limited due to overrepresentation of brooding females with higher fecundity. This portion of the study could not address this issue directly due to the inherent need for genetic testing. Future studies will include tests for relatedness to alleviate any possible doubts about limitation of genetic diversity. 
+The truncation of the reproductive sampling period was simply due to limited resources such as travel funds and time available for field work. It was noted that at Manchester, water temperatures did not hit spawning threshold until mid July, meaning that by mid August when we stopped sampling the outplanted animals were brooding as shown by samples from the last field dates at Manchester. It was likely these animals didn’t not reach peak brooding until late August or early September and thus were edited out of the degree day information as it would not have been truly representative. Without collection of this peak, we are unable to show whether the trend of Oyster Bay producing more broods remained true as well as whether all populations continued the trend of brooding in relatively the same number of degree days. In future studies it is suggested that brood sampling continue until at least Mid September to retain the most brooding information for late warmup sites. 
+Even with these limitations we were still able to find significant differences in key metrics for each population. This study is built on the need to further information about Ostrea lurida due to the severe lack of research stemming from academic neglect due to reprioritization at commercial and state levels. Information from this study, including efficacy of study design, will be beneficial in producing future projects that better navigate pitfalls while producing quality data for analysis. 
 
 
 Future Research
@@ -511,6 +356,39 @@ Future Research
 
 
 
+
+
+
+
+
+
+
+
+
+
+Growth Rate
+        
+ growthoysterbay.jpeg 
+
+
+
+Figure XX. Growth Rate plotted from February to August 2014 using size information from ImageJ at Oyster Bay. Growth rate plotted as individual lines. Blue=Dabob, Purple=Fidalgo, Orange=Oyster Bay. 
+
+
+ growthfidalgo.jpeg 
+
+Figure XX. Growth Rate plotted from February to August 2014 using size information from ImageJ at Fidalgo Bay. Growth rate plotted as individual lines. Blue=Dabob, Purple=Fidalgo, Orange=Oyster Bay. Slope are Fidalgo=0.04068,Dabob=0.04567,Oyster Bay=0.04604
+
+
+ growthmanchester.jpeg 
+
+Figure XX. Growth Rate plotted from February to August 2014 using size information from ImageJ at Manchester. Growth rate plotted as individual lines. Blue=Dabob, Purple=Fidalgo, Orange=Oyster Bay. Slopes are Fidalgo=0.03443,Dabob=0.03183,Oyster Bay=0.03942
+
+
+**Fecundity (If we add this part like brent suggested)
+        The majority of these samples are still being processed so no definite conclusion can be considered here just yet. However we did find that animals that spawned earlier in the season produced significantly less larvae than animals that spawned later in the season. It should also be noted that the numbers of larvae produced are similar to the findings of Hopkins et al. (1936) in which similar brooding surveys on animals ranging in ages found larvae production to be near 100,000 or more larvae per individual in each brood. 
+        
+I’ll also probably add some information about size at brooding. This analysis could be done by Joelle by having her take the list of counted brood samples and correlating it back with the size of the brooder it came from. I’m sure I could do a quick analysis to figure out if larger animals brooder more. 
 
 
 
@@ -544,7 +422,7 @@ As for each population, surprisingly the southern population has had the best re
 
 
 
-Manchester was the slowest and lo[am]west spawning site all summer. While it seemingly had good parameters for survival, it negatively influenced spawning. The first spawner found at Manchester was in mid June, 3 weeks after the first pulse of spawning seen at Oyster Bay. From this point, each population only produced 1 brooder until mid July when the Southern population began having small numbers of brooders. Overall brood quality was less dense than at other sites with visibly less larvae being collected for each animal. Overall this site had a poor effect on spawning and would likely be a poor site choice for any future restoration efforts. That said the new oyster hatchery owned by NOAA and run by PSRF is based in the same bay. They have broodstock being maintained at the floating docks which is great for longterm survival but to create offspring the oysters must be conditioned in the hatchery weeks to months prior to spawning to induce fecundity. 
+Manchester was the slowest and lo[aj]west spawning site all summer. While it seemingly had good parameters for survival, it negatively influenced spawning. The first spawner found at Manchester was in mid June, 3 weeks after the first pulse of spawning seen at Oyster Bay. From this point, each population only produced 1 brooder until mid July when the Southern population began having small numbers of brooders. Overall brood quality was less dense than at other sites with visibly less larvae being collected for each animal. Overall this site had a poor effect on spawning and would likely be a poor site choice for any future restoration efforts. That said the new oyster hatchery owned by NOAA and run by PSRF is based in the same bay. They have broodstock being maintained at the floating docks which is great for longterm survival but to create offspring the oysters must be conditioned in the hatchery weeks to months prior to spawning to induce fecundity. 
 
 
 
@@ -617,7 +495,7 @@ Manchester was the slowest and lo[am]west spawning site all summer. While it see
 
 
 notes
-At Manchester and Fidalgo, there were relatively equivalent numbers of oysters in each population prior to spawning season. Since the four stacks contained equivalent numbers of oysters, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [an]
+At Manchester and Fidalgo, there were relatively equivalent numbers of oysters in each population prior to spawning season. Since the four stacks contained equivalent numbers of oysters, once stack was checked each week leading to a month between each recheck on the stacks.  At Oyster bay, due to tray organization within the hanging stacks as well as a temporary loss of one stack for several months during the early period of spawning season and a accidental researcher induced mortality event in one stack, we were forced to conduct reproductive surveys on only one stack of trays until late June when the lost stack was recovered. From that point two stacks, instead of four that were normally checked. This lead to the stacks being checked every other week instead of once a month. [ak]
 
 
 Sampling occurred from April 30th to August 1st, 2014, with each site being visited once per week except for the week of May 4th during which water temperatures were below spawning threshold as evidenced by the lack of brooders in the week prior and the week after.
@@ -636,43 +514,45 @@ Sampling occurred from April 30th to August 1st, 2014, with each site being visi
 
 
 Larvae Counts/quality
-[a]not--perhaps Fitness?
-[b]I changed this to fitness but I'm not sure that fitness describes it either. I stated success at we can directly state that the animal was successful at reproducing. I feel that fitness indicates that the animal had the potential to reproduce but does not indicate that we were successful in proving that it did reproduce. Though I do understand that success generally implies later recruitment of offspring. Is there possibly a more neutral term to indicate breeding success but not imply future recruitment?
-[c]note this will not be included in final but helps with writing.
-[d]list when this occured
-[e]Be specific.
-[f]Should I put in a paragraph containing the protocol for ImageJ or should I just say that we compared oysters measured in images to a known size standard to calculate exact size of each individual measured?
-[g]Get Letters on graphs for ease
-[h]compared to ....
-[i]graph does not reflect that
-[j]give #s
-[k]Exact numbers?
-[l]use specific language
-[m]I have added the specificity you requested here about which population and the increased size at outplant.
-[n]no need to approx - give exact diff in mean
-[o]Double Check on R
-[p]Double Check on R
-[q]turn this into simple table
-[r]lets plan on keeping these in - fix fonts
-[s]Need to produced and test Rsquare values for growth curves. I have some references to build the code off of but I haven't had a chance to do it yet.
-[t]dont state methods in results
-[u]give value
-[v]What is main message you want to get across.
-[w]I stated that the Oyster Bay group produced significantly more broods at Oyster Bay and Fidalgo than did the other groups. I then want to go into further detail about the differences at each site.
-[x]Should I place these graphs within the paper or as part of an appendix at the end. I like them because the clearly show spawning temperature threshold. I would also like to make a truncated form of this graph to overlay weekly brooder percentages for each site.
-[y]there is no way those spikes are real
-[z]your working on getting these to # of those that opened?
-[aa]I would overlay this graph onto a truncated temperature graph for the same period.
-[ab]not sure how this relates to data. would not these numbers need to refer to specific time point?
-[ac]They are totals for the season instead of single time points.
-[ad]could be same oysters (no way of knowing) so please describe in terms of time points
-[ae]Do you want individual percentages of spawning for each populations at each site at each time point. If so we should considered a table as it would be less cluttered than a graph and I could high light things such as first spawn and peak spawn?
-[af]table is fine
-[ag]no commentary in results
-[ah]name
-[ai]add one sentence indicating the minimum size of brooder found at each site for each pop.
-[aj]this is method
-[ak]but not diff from rest of pop..
-[al]My understanding is his has no relevance as population sizes varied accordingly?
-[am]keep consistent how you cover sites in text. 1
-[an]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).
+[a]provide an outline for discussion ie phrase for each paragraph
+[b]Done, though it may need changing as the introduction is updated
+[c]lets consider a map for the paper
+[d]Would a map similar to the one I used for the presentation work? I could also make it interactive and give a link with the document.
+[e]both the software (R) and package need a citation
+[f]Create a graph that has 4 lines for mean temperature, one for each location- this will allow for better direct comparisons.
+[g]Done, included the spawn threshold line as well. I can remove easily if need be.
+[h]Nice! though suprised we didn't see dabob to be colder give mortality
+
+
+Can you do a similar graph with minimum temperatures?
+[i]Yup. Though I just left for today. I can make one on monday.
+[j]where is raw data / link to notebook
+[k]How should I compile all the data for  this link? I can put a copy of the blog but I think maybe a figshare project or something would work well.
+[l]where is raw data now?
+assume csv file?
+[m]Yeah there are several CSVs relating to different sets of data. They are both hosted locally, in the Eagle Drive, and as google sheets in google drive.
+[n]whats the url for the data on Eagle.
+[o]Its currently spread through a folder called R in my eagle drive. I can condense them into a single folder if need be.
+[p]is this 10 or 11?  fix here or earlier in paragraph
+[q]Quick question. Why are you scaling these graphs down? Is it standard formatting?
+[r]no - just trying to be able to see graph and text at same time so
+[s]would this be 12 months in the field?
+[t]For Manchester and Fidalgo its 14 months, for Oyster Bay its 13 months.
+[u]Why do the vary?
+[v]The annual samples were collected in september and october due to time constrictions on my part. I tried to keep the difference in time between samples at sites to a month or less.
+[w]assign figure # and include relevant ones in this paragrpah
+[x]Done
+[y]Created two sets of Perc Brood graphs. One with temp on a set scale and one without temp.
+[z]why is there +- for only two sites?
+Provide both degree day numbers
+[aa]These aren't two sites but two populations at each site. The average is based on the combined DD from two sites. Dabob and Fidalgo had the exact same number of degree days due to the resolution of our sampling period. I clumped them together since they are equal.
+[ab]again provide number of degree days to peak for each group
+[ac]Do you want the number of degree days for each pop at each site in a table? The averages are based on the number of degree days for the pops between each site. Dabob and Fidalgo groups were exactly equal in number of degree days at both Fidalgo and Oyster Bay due to the resolution of a sampling protocol, thus why I lumped them together.
+[ad]based on CV - only Manchester was stable, not Fidalgo.
+[ae]Hmm. I'm not sure how to explain the low mortality at Fidalgo except that they were lower on average without being so cold as to cause a freezing event. Maybe reduced metabolic need in response to cooler than average temperature?
+[af]this needs support from literature, explanation etc.
+[ag]need to find other studies, common garden - and see how populations performed. there must be some with shellfish, marine invertebrates. This will be basis of discussion
+[ah]I've got a great review paper that covers multiple common garden and reciprocal transplant experiments on shellfish/marine inverts. I need to read through some of the associate studies to find stronger supporting evidence. The review paper is "Local Adaptation in Marine Invertebrates" Sanford and Kelly 2011.
+[ai]is this site, in fact statistically warmer?
+[aj]keep consistent how you cover sites in text. 1
+[ak]condense. Perhaps start with describing what was planned, i.e. the sentence below this paragraph. Then follow with the deviation from the plan at both Dabob (no viable place to hang the trays, but a perched embayment was used) and Oyster Bay (temporary stack loss, overexposure to high temp during sampling).
