@@ -66,6 +66,8 @@
 <a id="peer">
 ##Peer-Reviewed Publications</a>
 
+Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB. (**2014**). [Shotgun proteomics reveals physiological response to ocean acidification in *Crassostrea gigas*](http://www.biomedcentral.com/1471-2164/15/951/) BMC Genomics 2014, 15:951  doi:10.1186/1471-2164-15-951 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1471-2164-15-951" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.0022   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2014.00224" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Gavery MR and Roberts SB. (**2014**) [A context specific role for DNA methylation in bivalves](http://bfg.oxfordjournals.org/content/13/3/217) Briefings in Functional Genomics. doi:10.1093/bfgp/elt054 ([pdf](http://eagle.fish.washington.edu/cnidarian/Briefings%20in%20Functional%20Genomics-2014-Gavery-217-22.pdf))   <span data-badge-popover="right" data-badge-type="4" data-doi="10.1093/bfgp/elt054" data-hide-no-mentions="true" class="altmetric-embed"></span>
