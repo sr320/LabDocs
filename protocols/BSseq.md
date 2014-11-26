@@ -33,13 +33,14 @@ _Before starting, DNA should be fragmented to an average size of less than 1,000
 >Note: HB16 and NB3 did not have any unsheared gDNA left in their tubes, so nothing was run on a gel.
 >
 >Ladder used: O'GeneRuler 100bp Ladder (ThermoFisher)
-
+>
 ><img src="http://eagle.fish.washington.edu/Arabidopsis/20141125_-_LSU_Claire_Sheared.png" width="600px" height="300px" />
 >
 >
 >Well, it's rather obvious that the initial shearing did NOT work. Will re-shear the samples.
-
+>
 >Looking at the Biorupter (Diagenode) manual, it turns out that shearing samples in a 1.5mL tube (in which these were >sheared) requires a minimum volume of 100uL. All the samples were far below this minimum volume. Additionally, the >recommendations in the manual to reach the target size range are significantly longer (30 - 40 cycles) than what was applied >(4 cycles). The combination of these two factors are likely the reason that shearing didn't take place.
+>
 
 _Resuspend Dynabeads_ 
 - Gently pipette Dynabeads up and down and avoid air bubble. Gently inverte the tube.
