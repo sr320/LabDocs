@@ -55,6 +55,17 @@ Low power
 >
 30s off
 >
+>Target average fragment size is ~350bp.
+>
+>Ran ~250ng of sheared C.gigas gDNA from the above shearing on a 1xTAE 1%agarose + EtBr gel
+>
+>Ladder used: O'GeneRuler 100bp Ladder (ThermoFisher)
+
+
+><img src="http://eagle.fish.washington.edu/Arabidopsis/20141126_-_Sheared_Oil_Spill_gDNA.png" width="600px" height="600px"/>
+
+>The shearing is, surprisingly, very inconsistent across the samples. The target average fragment size was ~350bp. However, most of these samples are <250bp.
+>
 
 
 _Resuspend Dynabeads_ 
