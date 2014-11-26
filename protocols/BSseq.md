@@ -41,6 +41,17 @@ _Before starting, DNA should be fragmented to an average size of less than 1,000
 >
 >Looking at the Biorupter (Diagenode) manual, it turns out that shearing samples in a 1.5mL tube (in which these were sheared) requires a minimum volume of 100uL. All the samples were far below this minimum volume. Additionally, the recommendations in the manual to reach the target size range are significantly longer (30 - 40 cycles) than what was applied (4 cycles). The combination of these two factors are likely the reason that shearing didn't take place.
 >
+>
+>
+Used the remainder of the "sheared" samples (~2750ng). Brought the volumes up to 80uL and transferred to 0.5mL snap cap tubes. The volume of 80uL was selected because it's above the minimum volume required for shearing in 0.5mL tubes (10uL according to the Biorupter 300 manual) and the MethylMiner Kit (Invitrogen) requires the input DNA volume to be <= 80uL.
+
+DNA was sheared with the following parameters:
+Low power
+30 cycles of:
+30s on
+30s off
+>
+>
 
 _Resuspend Dynabeads_ 
 - Gently pipette Dynabeads up and down and avoid air bubble. Gently inverte the tube.
