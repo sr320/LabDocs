@@ -39,7 +39,7 @@ _Before starting, DNA should be fragmented to an average size of less than 1,000
 >
 >Well, it's rather obvious that the initial shearing did NOT work. Will re-shear the samples.
 >
->Looking at the Biorupter (Diagenode) manual, it turns out that shearing samples in a 1.5mL tube (in which these were >sheared) requires a minimum volume of 100uL. All the samples were far below this minimum volume. Additionally, the >recommendations in the manual to reach the target size range are significantly longer (30 - 40 cycles) than what was applied >(4 cycles). The combination of these two factors are likely the reason that shearing didn't take place.
+>Looking at the Biorupter (Diagenode) manual, it turns out that shearing samples in a 1.5mL tube (in which these were sheared) requires a minimum volume of 100uL. All the samples were far below this minimum volume. Additionally, the recommendations in the manual to reach the target size range are significantly longer (30 - 40 cycles) than what was applied (4 cycles). The combination of these two factors are likely the reason that shearing didn't take place.
 >
 
 _Resuspend Dynabeads_ 
