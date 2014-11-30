@@ -1,19 +1,20 @@
 
-- Congrats to Claire Olson - successfully defended her Master's degree! [11/14]
+- Congrats to Claire Olson - [successfully defended her Master's degree!](http://faculty.washington.edu/sr320/?p=7601) [11/14]
 
 - Claire Olson presented [evidence for lineage specific DNA methylation patterns in oysters](http://www.slideshare.net/chellis6/olsonpcsga2014) at the Pacific Coast Shellfish Growers Association (PCSGA) [9/14] 
 
 - [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) - Accepted for publication! [6/13]
 
-- Congrats to Claire Olson - recipient of College travel award! [5/14]
-
-- Congrats to Jake Heare - [awarded Pacific Northwest Shell Club Scholarship Award!](http://genefish.tumblr.com/post/84623277959) [5/14]</span>
 
 [Archive](http://faculty.washington.edu/sr320/?page_id=1362)
 
 &nbsp;
 
 <!--more-->
+
+- Congrats to Claire Olson - recipient of College travel award! [5/14]
+
+- Congrats to Jake Heare - [awarded Pacific Northwest Shell Club Scholarship Award!](http://genefish.tumblr.com/post/84623277959) [5/14]</span>
 
 - Another slidedeck - <a href="http://www.slideshare.net/sr320/genomic-approaches-to-assessing-ecosystem-health">Genomic approaches to assessing ecosystem health</a> @ Salish Sea Conference [5/14]
 
