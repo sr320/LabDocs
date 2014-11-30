@@ -1,5 +1,6 @@
+- Sam & Steven completed Software Carpentry Instructor Training [11/14]
 
-- Congrats to Claire Olson - [successfully defended her Master's degree!](http://faculty.washington.edu/sr320/?p=7601) [11/14]
+- Congrats to Claire Olson - [successfully defended her Master's degree!](http://faculty.washington.edu/sr320/?p=7601) [11/19]
 
 - Claire Olson presented [evidence for lineage specific DNA methylation patterns in oysters](http://www.slideshare.net/chellis6/olsonpcsga2014) at the Pacific Coast Shellfish Growers Association (PCSGA) [9/14] 
 
