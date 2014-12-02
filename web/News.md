@@ -2,6 +2,8 @@
 
 - Congrats to Claire Olson - [successfully defended her Master's degree!](http://faculty.washington.edu/sr320/?p=7601) [11/19]
 
+- Jay Dimond joins the lab [9/14]
+
 - Claire Olson presented [evidence for lineage specific DNA methylation patterns in oysters](http://www.slideshare.net/chellis6/olsonpcsga2014) at the Pacific Coast Shellfish Growers Association (PCSGA) [9/14] 
 
 - [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) - Accepted for publication! [6/13]
