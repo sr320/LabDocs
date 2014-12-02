@@ -1,6 +1,9 @@
 - Sam & Steven completed Software Carpentry Instructor Training [11/14]
 
 - Congrats to Claire Olson - [successfully defended her Master's degree!](http://faculty.washington.edu/sr320/?p=7601) [11/19]
+- Jake Heare presented [Identifying Local Olympia Oyster Stocks Useful for Restoration](https://docs.google.com/presentation/d/1BeAZ2BbPNIahI6wvq3A4WCaQpyBcRIrRmE-2NsrITgo/edit?usp=sharing) at the Western Society of Naturalists Annual Conference 2014 [11/14]
+- 
+- Jake Heare presented [Local Oyster Stock for Restoration: Does Local Adaptation Affect Outplanting?](https://docs.google.com/presentation/d/1bgM_sHAcKEWETDYKcnEH12y8QfWQhu9Jk73bpsDDB9s/edit?usp=sharing) at the Pacific Coast Shellfish Growers Association (PCSGA) [9/14]
 
 - Claire Olson presented [evidence for lineage specific DNA methylation patterns in oysters](http://www.slideshare.net/chellis6/olsonpcsga2014) at the Pacific Coast Shellfish Growers Association (PCSGA) [9/14] 
 
