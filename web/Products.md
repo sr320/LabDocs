@@ -238,7 +238,12 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 <a id="theses">
 ##Theses</a>
 
-Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. fig**share**. 
+Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
+
+The Effects of Ocean Acidification on Multiple Life History Stages of the Pacific Oyster, _Crassostrea gigas_: Implications for Physiological Trade-offs. Emma Timmins-Schiffman. 2014. [http://hdl.handle.net/1773/25413](http://hdl.handle.net/1773/25413)
+
+
+Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. figshare. 
 <a href="http://dx.doi.org/10.6084/m9.figshare.661720"> http://dx.doi.org/10.6084/m9.figshare.661720</a><span class="impactstory-embed" data-id="10.6084/m9.figshare.661720" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>
 
 Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a>
