@@ -55,13 +55,13 @@ $sed 's/text_you_want_replaced/replacement_text/g' path/to/source_file > path/to
 
 Code explanation:
 
-- "s" invokes the substitute command in sed
-- 
-- "g" tells sed to apply the substitute command globally on each line. Without the "g" argument, sed will only apply your substitute command to the first instance it encounters on each line that contains your "text_you_want_replaced".
+"s" invokes the substitute command in sed
+    
+"g" tells sed to apply the substitute command globally on each line. Without the "g" argument, sed will only apply your substitute command to the first instance it encounters on each line that contains your "text_you_want_replaced".
 
 NOTE: This command is case sensitive and will only match EXACLTY what you enter in as the "text_you_want_replaced". If you need more flexibility (e.g. having sed find variations like upper- and lowercase text), it exists, but is a bit too in-depth to go into here.
 
-
+---
 
 
 ###Audible Notification of Job Completion (Terminal)
