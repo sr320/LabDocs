@@ -173,14 +173,23 @@ Add 3 µL to each sample.
 >Gel fragment weighed 254mg.
 >
 >Purified using MiniElute Gel Extraction Kit (Qiagen).
+
 >Added three volumes (762uL) of Buffer QG to gel slice.
+
 >Incubated ~10mins on rotator until gel slice was fully dissolved.
+
 >Added one gel slice volume (254uL) of isopropanol; inverted multiple times to mix.
+
 >Added 700uL to MiniElute column; spun max speed (~16,000g) 1min; discarded flow-through.
+
 >Added remainder of sample to MiniElute column; spun max speed (~16,000g) 1min; discarded flow-through.
+
 >Added 500uL of Buffer QG to MiniElute column; spun max speed (~16,000g) 1min; discarded flow-through.
+
 >Added 750uL of Buffer PE to MiniElute column; incubated @ RT for 5mins; spun max speed (~16,000g) 1min; discarded >flow-through.
+
 >Spun MinElute column spun max speed (~16,000g) 1min; transferred column to clean 2.0mL tube.
+
 >Added 50uL of Buffer EB to column, incubated @ RT for 5mins and spun max speed (~16,000g) 1min; discarded column.
 >
 >Stored sample @ 4C.
