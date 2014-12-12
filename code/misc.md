@@ -140,7 +140,7 @@ Compare the hashes provided from both before and after moving the files. If the 
 The following step is performed twice: once before transferring files and again once the files are finished transferring. It is likely helpful to transfer your pre-transfer md5 file when you transfer your files. After transferring, make a new md5 file (with a different name than your pre-transfer md5 file!) from the files that were transferred.
 
 
-###Create a file containing md5 hashes of multiple files
+####Create a file containing md5 hashes of multiple files
 `$md5 file1 file2 file3 >> YourDesiredFileName.md5`
 
 Code explanation:
@@ -151,7 +151,7 @@ file1 file2 file3 - The files you want hashes generated from. Can be any number 
 YourDesiredFileName.md5 - The file name you want to give. Keep the ".md5" suffix for easy file identification.
 
 
-###Now, compare pre- and post-transfer md5 hash files
+####Now, compare pre- and post-transfer md5 hash files
 `$diff PreTransferMD5hashes.md5 PostTransferMD5hases.md5`
 
 
@@ -162,7 +162,6 @@ PostTransferMD5hases.md5 - The name of the md5 file containing the hashes of the
 
 If there are any differences in the hashes in the two md5 files, those files were corrupted during transfer and should be retransferred.
 
-6/20/2014 - kubu4 kubu4
 
 
 
