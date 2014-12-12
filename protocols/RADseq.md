@@ -186,7 +186,7 @@ Add 3 µL to each sample.
 
 >Added 500uL of Buffer QG to MiniElute column; spun max speed (~16,000g) 1min; discarded flow-through.
 
->Added 750uL of Buffer PE to MiniElute column; incubated @ RT for 5mins; spun max speed (~16,000g) 1min; discarded >flow-through.
+>Added 750uL of Buffer PE to MiniElute column; incubated @ RT for 5mins; spun max speed (~16,000g) 1min; discarded flow-through.
 
 >Spun MinElute column spun max speed (~16,000g) 1min; transferred column to clean 2.0mL tube.
 
