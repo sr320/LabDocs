@@ -202,7 +202,31 @@ Add 3 µL to each sample.
 ---
 
 
-**LOTS OF STUFF**
+**Library Preparation**
+>Used gel-purified, size-selected DNA from yesterday to prepare the RAD library using the Kappa LTP Kit:
+http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Commercial%20Protocols/KAPA_Biosystems%20-%20KAPA_LTP_Library_Preparation_Kit_TDS.pdf
+
+>The protocol was followed with the following changes:
+>
+>Section 8
+---
+>
+>Skipped entirely
+>
+>Section 9.1
+---
+>
+>Used 10uL of library DNA (instead of 20uL)
+>
+>Used 1uL of mixed primer set (instead of 5uL)
+>
+>Section 9.2
+---
+>
+>Performed 12 cycles of PCR protocol. This was Carita's recommendation and experience with using the Kappa LTP Kit for RAD library construction.
+>
+>Sample was eluted from the AMPure beads with 15uL of Buffer EB (Qiagen) and stored @ -20C.
+>
 
 ---
 
