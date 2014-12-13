@@ -203,8 +203,8 @@ Add 3 µL to each sample.
 
 
 **Library Preparation**
->Used gel-purified, size-selected DNA from yesterday to prepare the RAD library using the Kappa LTP Kit:
-http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Commercial%20Protocols/KAPA_Biosystems%20-%20KAPA_LTP_Library_Preparation_Kit_TDS.pdf
+>Used gel-purified, size-selected DNA from yesterday to prepare the RAD library using the [Kappa LTP Kit]
+(http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Commercial%20Protocols/KAPA_Biosystems%20-%20KAPA_LTP_Library_Preparation_Kit_TDS.pdf)
 
 >The protocol was followed with the following changes:
 >
