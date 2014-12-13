@@ -209,19 +209,19 @@ Add 3 µL to each sample.
 >The protocol was followed with the following changes:
 >
 >Section 8
----
+
 >
 >Skipped entirely
 >
 >Section 9.1
----
+
 >
 >Used 10uL of library DNA (instead of 20uL)
 >
 >Used 1uL of mixed primer set (instead of 5uL)
 >
 >Section 9.2
----
+
 >
 >Performed 12 cycles of PCR protocol. This was Carita's recommendation and experience with using the Kappa LTP Kit for RAD library construction.
 >
