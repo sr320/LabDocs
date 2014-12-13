@@ -7,7 +7,7 @@
 _use filter tip pipette tips at all times, to avoid cross-contamination between libraries_
 
 
-* Extract DNA
+##Extract DNA
 
 > Samples taken from field August 2013    
 > ![bag](http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_August_2013_outplanting_1A01889A.png)   
@@ -53,7 +53,7 @@ _use filter tip pipette tips at all times, to avoid cross-contamination between 
 * Resuspend DNA in a total volume of 20 µL of water.   
      
 
-* Make restriction enzyme digestion mix 
+##Restriction enzyme digestion 
 
 Reageant   | amount
 ------------ | ------------- 
@@ -69,14 +69,14 @@ _note that PstI will also work with adaptors_
 * Incubate at 37˚C for 90 minutes, then at 80˚C for 20 minutes to inactivate the enzyme (_check appropriate inactivation temperature for the enzyme in use, if other than SbfI_).
 
 * Add 2 µL of each barcoded SbfI short P1 RAD adapter (25nM) (these are the illumina barcodes located in -20˚C freezer) to each digested sample. Mix by pipetting.  Use RAD adapters 10 times from each aliquot plate before throwing away. 
-* 
+ 
 >
 >Added 2uL of each adapter to corresponding well of SbfI digested DNA (e.g. DNA plate well A1 got the P1 adapter from >well A1 in the adapter plate).
 >
 
 _Note:  now is a good time to turn on the sonicator to bring it down to temperature._
 
-* Make ligation mix:
+##Ligation 
 
 Reageant   | amount
 ------------ | ------------- 
@@ -198,13 +198,8 @@ Add 3 µL to each sample.
 
 
 
-
----
-
-
-**Library Preparation**
->Used gel-purified, size-selected DNA from yesterday to prepare the RAD library using the [Kappa LTP Kit]
-(http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Commercial%20Protocols/KAPA_Biosystems%20-%20KAPA_LTP_Library_Preparation_Kit_TDS.pdf)
+##Library Preparation
+>Used gel-purified, size-selected DNA from yesterday to prepare the RAD library using the [Kappa LTP Kit](http://eagle.fish.washington.edu/trilobite/Sites_genefish_100112/Steven/Commercial%20Protocols/KAPA_Biosystems%20-%20KAPA_LTP_Library_Preparation_Kit_TDS.pdf)
 
 >The protocol was followed with the following changes:
 >
