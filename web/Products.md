@@ -242,6 +242,8 @@ Epigenomic and transcriptomic regulation of environmental responses in the Pacif
 
 The Effects of Ocean Acidification on Multiple Life History Stages of the Pacific Oyster, _Crassostrea gigas_: Implications for Physiological Trade-offs. Emma Timmins-Schiffman. 2014. [http://hdl.handle.net/1773/25413](http://hdl.handle.net/1773/25413)
 
+Sablefish (_Anoplopoma fimbria_) sperm: The physiology of activation and the development of a cryopreservation protocol. Doug Immerman. 2014. [http://hdl.handle.net/1773/25414](http://hdl.handle.net/1773/25414)
+
 
 Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. figshare. 
 <a href="http://dx.doi.org/10.6084/m9.figshare.661720"> http://dx.doi.org/10.6084/m9.figshare.661720</a><span class="impactstory-embed" data-id="10.6084/m9.figshare.661720" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>
