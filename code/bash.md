@@ -63,7 +63,10 @@ NOTE: This command is case sensitive and will only match EXACLTY what you enter 
 
 ---
 
+###Convert FASTQ to FASTA
+    zcat input_file.fastq.gz | awk 'NR%4==1{printf ">%s\n", substr($0,2)}NR%4==2{print}' > output_file.fa
 
+---
 ###Audible Notification of Job Completion (Terminal)
 
 After typing in a Terminal command (and before hitting 'Enter') add the following:
