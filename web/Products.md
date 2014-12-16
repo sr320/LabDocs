@@ -19,25 +19,17 @@
 * NCBI - (GenBank, SRA, [BioProject](http://www.ncbi.nlm.nih.gov/bioproject?LinkName=sra_bioproject&from_uid=456318), [BioProject](http://www.ncbi.nlm.nih.gov/bioproject/71219))
 * EBI - ([PRIDE](http://www.ebi.ac.uk/pride/archive/projects/PXD000835))   
 
-
+---
 ####Secondary Data 
+##### FigShare  
 
-* FigShare  
+_Recent Products_
 
-
-
-
-
+<iframe src="http://wl.figshare.com/articles/1252249/embed?show_title=1" width="568" height="403" frameborder="0"></iframe>
 
 
-| <iframe src="http://figshare.com/badges/5/548558" frameborder="0" width="260" height="80"></iframe>        | <iframe src="http://figshare.com/badges/5/281990" frameborder="0" width="260" height="80"></iframe> | 
-| ------------- |:-------------:| -----:|
-| <iframe src="http://figshare.com/badges/5/97086" frameborder="0" width="260" height="80"></iframe>      | <iframe src="http://figshare.com/badges/5/99128" frameborder="0" width="260" height="80"></iframe> | 
- 
-
-
-	
-* GitHub  
+---	
+#####GitHub  
 
 [https://github.com/sr320/LabDocs
 ](https://github.com/sr320/LabDocs)
@@ -45,7 +37,9 @@
 [https://github.com/sr320/qdod/wiki
 ](https://github.com/sr320/qdod/wiki)
 
-* Lab Notebooks 
+----
+
+#####Lab Notebooks 
 
 <a href="http://www.genefish.wikispaces.com">
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/genefish_-_home_19EAD656.png" width="500" alt="Nightingales_-_Google_Fusion_Tables_1970319C.png" />
