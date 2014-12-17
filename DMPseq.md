@@ -4,9 +4,9 @@ Data Management Plan for dealing with sequencing data.
 
 
 ##Sequence Job Submission
-We sent data to a variety of facilities. As the samples are shipped to a facility respective information is entered in spreadsheet.
+We send material to a variety of facilities. As the samples are shipped to a facility, respective information is entered in the Google Docs spreadsheet [*Next Gen Seq Library Database*](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAdHRlUHJMd0k4S2RpdTZqbjFob2NJb2c&usp=sharing).
 
-<<INCLUDE LINK>> snapshot.
+>screenshot[![g](http://eagle.fish.washington.edu/cnidarian/skitch/Next_Gen_Seq_Library_Database_1A424204.png)](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAdHRlUHJMd0k4S2RpdTZqbjFob2NJb2c&usp=sharing)
 
 
 ##Raw Data
