@@ -10,16 +10,15 @@ We send material to a variety of facilities. As the samples are shipped to a fac
 
 
 ##Raw Data
-1) As sequencing facility provdes data, files are downloaded to
+1) As sequencing facility provdes data, files are downloaded to our local NAS (owl), in the root `nightingales` directory.  http://owl.fish.washington.edu/nightingales/
 
+2) Once metadata is included in the Google Fusion Table [Nightingales](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1), respective data files are moved to subdirectory labelled with first letter of genus followed by species ie `C_gigas`. Check url in Nightingales Fusion table to ensure it is accurate. 
 
-<<INCLUDE INFOR>>
-
-
-2) Once metadata is included in Nightingales <<<Link>>>, respective data files are moved to subdirectory labled with first letter of genus followed by species ie `C_gigas`. Check url in Nigtingales Fusion table to ensure it is accurate.
+>    
+[![ng](http://eagle.fish.washington.edu/cnidarian/skitch/Nightingales_-_Google_Fusion_Tables_1A424859.png)](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN)
 
 ##Backup
-The Google Docs spreadsheet [*Next Gen Seq Library Database*](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAdHRlUHJMd0k4S2RpdTZqbjFob2NJb2c&usp=sharing) is backed up on a regular basis? by downloading tab-delimited file and pushing to LabDocs Repository, with the file name `Next_Gen_Seq_Libraries.tsv`
+* The Google Docs spreadsheet [*Next Gen Seq Library Database*](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAdHRlUHJMd0k4S2RpdTZqbjFob2NJb2c&usp=sharing) is backed up on a regular basis? by downloading tab-delimited file and pushing to LabDocs Repository, with the file name `Next_Gen_Seq_Libraries.tsv`
 
 
 
