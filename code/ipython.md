@@ -22,9 +22,9 @@ Tunneling into Hummingbird
 1. Open Terminal.
 
 2. Enter
-```
-ssh -N -L localhost:8000:localhost:7000 srlab@Hummingbird.IP.address
-```
+
+		ssh -N -L localhost:8000:localhost:7000 srlab@Hummingbird.IP.address
+
 	Note: If it's your first SSH session into Hummingbird, you may be prompted with a message. Answer "yes" to the message. After that, you may have to start the SSH session again.
 
 	Note: If you get a message that port 8000 is already in use, feel free to change to a different port (i.e. any number greater than 8000, but less than 65000) and try again.
@@ -72,27 +72,27 @@ The web interface for IPython should open, but since you specified port 7000 (th
 **Bonus Tip!**
 Mount your Eagle web folder for easy access to your files when using IPython remotely on Hummingbird.
 
-- Open a new Terminal window and SSH into Hummingbird (see instructions above).
+1. Open a new Terminal window and SSH into Hummingbird (see instructions above).
 
-- In the /Volumes directory, make the directory where you want your Eagle web folder. Example:
+2. In the /Volumes directory, make the directory where you want your Eagle web folder. Example:
  
-`mkdir /Volumes/Eagle`
+		mkdir /Volumes/Eagle
 
-- Mount your Eagle web folder. Example:
+3. Mount your Eagle web folder. Example:
 
-`mount_afp -i "afp://username@eagle.fish.washington.edu/web/web_folder_name" /Volumes/Eagle`
+		mount_afp -i "afp://username@eagle.fish.washington.edu/web/web_folder_name" /Volumes/Eagle
 
-Explanation:
+	Explanation:
 
-mount_afp = Specifies drive mounting protocol
+	mount_afp = Specifies drive mounting protocol
 
--i = Prompts for user password after connection to server
+	-i = Prompts for user password after connection to server
 
-"afp://username@server.address/share/folder" = Specifies username, address and which folder to connect to.
+	"afp://username@server.address/share/folder" = Specifies username, address and which folder to connect to.
 
-/Volumes/Eagle = This should match the directory you created in Step #2.
+	/Volumes/Eagle = This should match the directory you created in Step #2.
 
-- Enter password when prompted.
+4. Enter password when prompted.
 
 
 ###Change the default save location for IPython notebooks (via Terminal)
@@ -160,17 +160,30 @@ Now, when you launch IPython, it should start you in the directory you specified
 ###Execute non-native (i.e. downloaded from the internet) command line programs (via Terminal):
 
 Option #1 example
-`!/Applications/sratoolkit.2.3.3-4-mac64/bin/fastq-dump.2.3.3-3 /Users/Sam/Desktop/SRR039705.sra`  
+
+`!/Applications/sratoolkit.2.3.3-4-mac64/bin/fastq-dump.2.3.3-3 /Users/Sam/Desktop/SRR039705.sra`
+
 Explanation:
-This option requires two elements. The first required element is the "!". This is equivalent to "./" to run a program in Terminal. The second required element is to specify the full path of the program you want to use (`!/Applications/sratoolkit.2.3.3-4-mac64/bin/fastq-dump.2.3.3-3`). This is different than using Terminal, where you can navigate to the file directory and run the program while in the directory.
+
+This option requires two elements. 
+
+The first required element is the "!". This is equivalent to "./" to run a program in Terminal. 
+
+The second required element is to specify the full path of the program you want to use (`!/Applications/sratoolkit.2.3.3-4-mac64/bin/fastq-dump.2.3.3-3`). This is different than using Terminal, where you can navigate to the file directory and run the program while in the directory.
 
 
 Option #2 example
+
 `!fastq-dump.2.3.3-3 /Users/Sam/Desktop/SRR039705.sra`  
+
 Explanation:
+
 This option requires that the command line program be located in (on Mac OSX): /usr/local/bin
+
 See the section immediately below this for instructions on how to copy a program to /usr/local/bin
-NOTE: In order to enable this, some permissions need to be changed on /usr/local/bin. Using command line, enter: sudo chmod 4755 /usr/local/bin
+
+NOTE: In order to enable this, some permissions need to be changed on /usr/local/bin. Using command line, enter: `sudo chmod 4755 /usr/local/bin`
+
 This will now allow you to add additional users and grant them read/write permissions via the Finder's "Get Info" menu. In Finder, use the "Go" > "Go to folder..." and enter /usr/local/bin. Right-click on the "bin" folder, "Get Info" and then you can add your user account and enable read/write permissions (you must be an administrator to make these changes).
 
 
@@ -178,25 +191,36 @@ This will now allow you to add additional users and grant them read/write permis
 `!cp -i /path/to_your_file/your_file /usr/local/bin`
 
 Explanation:
+
 ! - Equivalent to "./" in Terminal. Runs the target command
+
 cp - The copy command in Terminal
+
 -i - If destination contains duplicate file name, it will prompt you before overwriting the existing file
+
 /path/to_your_file/your_file - The path to the file you want to copy
+
 /usr/local/bin - The path to the destination folder of your file
-- kubu4 kubu4 10/25/2013
 
 
 ###Run code in a cell:
+
 Type your code in a cell and press Ctrl+Enter
+
 - This will execute the code in just that cell and the cursor will remain in that cell.
 
 
 ###Run code in a cell and insert a new cell below:
+
 Type your code in a cell and press Shift+Enter
+
 - This will execute the code in just that cell, insert a cell below and put your cursor in the new cell.
 
 
 ###Install a python module/package:
+
 After downloading your desired module/package, navigate to the module's folder in Terminal or Command Line and type:
+
 `python setup.py install --user`   
+
 - This will initiate python and run the setup file (setup.py) for the module. Don't know why "--user" is necessary, but it seems to be.
