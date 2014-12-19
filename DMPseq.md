@@ -12,7 +12,14 @@ We send material to a variety of facilities. As the samples are shipped to a fac
 ##Raw Data
 1) As sequencing facility provdes data, files are downloaded to our local NAS (owl), in the root `nightingales` directory.  http://owl.fish.washington.edu/nightingales/
 
-2) Once metadata is included in the Google Fusion Table [Nightingales](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1), respective data files are moved to subdirectory labelled with first letter of genus followed by species ie `C_gigas`. Check url in Nightingales Fusion table to ensure it is accurate. 
+2) The Nightingales Google Spreadsheet is updated.
+
+3) Update the Nightingales Google Fusion Table with new information from the Nightingales Google Spreadsheet.  This is accomplished by:
+
+- deleting all rows in the Nightingales Google Fusion Table (Edit > Delete all rows)
+- Importing data from the Nightingales Google Spreadsheet (File > Import more rows...)
+
+4) Once metadata is included in the Google Fusion Table [Nightingales](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN#rows:id=1), respective data files are moved to subdirectory labelled with first letter of genus followed by species ie `C_gigas`. Check url in Nightingales Fusion table to ensure it is accurate. 
 
 >    
 [![ng](http://eagle.fish.washington.edu/cnidarian/skitch/Nightingales_-_Google_Fusion_Tables_1A424859.png)](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN)
