@@ -25,17 +25,17 @@ Tunneling into Hummingbird
 ```
 ssh -N -L localhost:8000:localhost:7000 srlab@Hummingbird.IP.address
 ```
-Note: If it's your first SSH session into Hummingbird, you may be prompted with a message. Answer "yes" to the message. After that, you may have to start the SSH session again.
+	Note: If it's your first SSH session into Hummingbird, you may be prompted with a message. Answer "yes" to the message. After that, you may have to start the SSH session again.
 
-Note: If you get a message that port 8000 is already in use, feel free to change to a different port (i.e. any number greater than 8000, but less than 65000) and try again.
+	Note: If you get a message that port 8000 is already in use, feel free to change to a different port (i.e. any number greater than 8000, but less than 65000) and try again.
 
 3. Enter the srlab password on Hummingbird
 
-Note: You can change "srlab" to your personal login on Hummingbird, if you so desire.
+	Note: You can change "srlab" to your personal login on Hummingbird, if you so desire.
 
 4. Terminal should look like it's active at this point (i.e. it does NOT return the command prompt)
 
-The above steps have created a tunnel into Hummingbird.
+	The above steps have created a tunnel into Hummingbird.
 
 Start IPython on Hummingbird
 
@@ -46,11 +46,11 @@ Start IPython on Hummingbird
 
 3. Enter the srlab password for Hummingbird
 
-Note: You should login to the same account as specified in the tunnel instructions above (e.g. srlab and srlab).
+	Note: You should login to the same account as specified in the tunnel instructions above (e.g. srlab and srlab).
 
-Note: You should notice that your command prompt now has "Hummingbird" in it, indicating you are now inside Hummingbird.
+	Note: You should notice that your command prompt now has "Hummingbird" in it, indicating you are now inside Hummingbird.
 
-Note: You may wish to change directories to the directory on Hummingbird that you want IPython to launch from.
+	Note: You may wish to change directories to the directory on Hummingbird that you want IPython to launch from.
 
 4. Enter   
 
