@@ -1,0 +1,506 @@
+{
+ "metadata": {
+  "name": ""
+ },
+ "nbformat": 3,
+ "nbformat_minor": 0,
+ "worksheets": [
+  {
+   "cells": [
+    {
+     "cell_type": "heading",
+     "level": 1,
+     "metadata": {},
+     "source": [
+      "Automating a Workflow: Beyond Blast - to GO Slim"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!date"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "Fri Feb 14 08:10:37 PST 2014\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 1
+    },
+    {
+     "cell_type": "markdown",
+     "metadata": {},
+     "source": [
+      "Updates - blast full path  \n",
+      "subsequent remove of 'blast' variable use as now full path\n",
+      "\n",
+      "--\n",
+      "\n",
+      "have to manually change sqlshare id in code (for now)"
+     ]
+    },
+    {
+     "cell_type": "markdown",
+     "metadata": {},
+     "source": [
+      "The concept is that you can take a fasta file in a working directory and end up with GO slim information all within a single notebook that is automated. Currently this work by writing (and overwriting) as scracth file to SQLShare. Assumptions are that you are working in a directory with fasta file named `query.fa`. And you have SQLShare Python client install\n"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#allows plots to be shown inline\n",
+      "%pylab inline"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "Populating the interactive namespace from numpy and matplotlib\n"
+       ]
+      }
+     ],
+     "prompt_number": 1
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#Setting Working Directory\n",
+      "wd=\"/Users/Mackenzie/Desktop/FISH546/wd\"\n",
+      "#Setting directory of Blast Databases !!! make sure you have last '/'\n",
+      "dbd=\"/Users/Mackenzie/Desktop/FISH546/db/\"\n",
+      "#Database name\n",
+      "dbn=\"spdb\"\n",
+      "#Blast algorithim complete path\n",
+      "ba=\"/Users/Shared/Apps/ncbi-blast-2.2.29\\+/bin/blastx\"\n",
+      "#Location of SQLShare python tools: you can empty (\"\") if tools are in PATH !!! make sure you have last '/'\n",
+      "spd=\"/Users/Mackenzie/sqlshare-pythonclient/tools/\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [],
+     "prompt_number": 5
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "cd {wd}"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "[Errno 13] Permission denied: '/Users/Mackenzie/Desktop/FISH546/wd'\n",
+        "/Users/Steven/Dropbox/Steven/ipython_nb/tools\n"
+       ]
+      }
+     ],
+     "prompt_number": 6
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#for some reason max hsp produced error and removed"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": []
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!{ba} -query query.fa -db {dbd}{dbn} -out {dbn}_blast_out.tab -evalue 1E-50 -num_threads 4 -max_target_seqs 1 -outfmt 6"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "Selenocysteine (U) at position 52 replaced by X\r\n",
+        "Selenocysteine (U) at position 49 replaced by X\r\n",
+        "Selenocysteine (U) at position 47 replaced by X\r\n",
+        "Selenocysteine (U) at position 47 replaced by X\r\n",
+        "Selenocysteine (U) at position 47 replaced by X\r\n",
+        "Selenocysteine (U) at position 47 replaced by X\r\n",
+        "Selenocysteine (U) at position 52 replaced by X\r\n",
+        "Selenocysteine (U) at position 47 replaced by X\r\n",
+        "Selenocysteine (U) at position 47 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n",
+        "Selenocysteine (U) at position 40 replaced by X\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "Selenocysteine (U) at position 690 replaced by X\r\n",
+        "Selenocysteine (U) at position 690 replaced by X\r\n",
+        "Selenocysteine (U) at position 667 replaced by X\r\n",
+        "Selenocysteine (U) at position 667 replaced by X\r\n",
+        "Selenocysteine (U) at position 665 replaced by X\r\n",
+        "Selenocysteine (U) at position 665 replaced by X\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "^C\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 17
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!head -1 {dbn}_blast_out.tab"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "ConsensusfromContig5\tsp|Q9JHQ5|LZTL1_MOUSE\t74.40\t125\t31\t1\t7\t378\t24\t148\t1e-59\t  192\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 28
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#Translate pipes to tab so SPID is in separate column for Joining\n",
+      "!tr '|' \"\\t\" <{dbn}_blast_out.tab> {dbn}_blast_out2.tab"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [],
+     "prompt_number": 29
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!head -1 {dbn}_blast_out2.tab"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "ConsensusfromContig5\tsp\tQ9JHQ5\tLZTL1_MOUSE\t74.40\t125\t31\t1\t7\t378\t24\t148\t1e-59\t  192\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 30
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#Uploads formatted blast table to SQLshare; currently has generic name and meant to be temporary: Warning will overwrite.\n",
+      "!python {spd}singleupload.py -d scratchblast_out {dbn}_blast_out2.tab"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "processing chunk line 0 to 153 (0.000229120254517 s elapsed)\r\n",
+        "pushing spdb_blast_out2.tab...\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "parsing 40DB86D8...\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "finished scratchblast_out\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 35
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!python {spd}fetchdata.py -s \"SELECT * FROM [mgavery@washington.edu].[scratchblast_out]blast Left Join [sr320@washington.edu].[uniprot-reviewed_wGO_010714]unp ON blast.Column3 = unp.Entry Left Join [sr320@washington.edu].[SPID and GO Numbers]go ON unp.Entry = go.SPID Left Join [sr320@washington.edu].[GO_to_GOslim]slim ON slim.GO_id = go.GOID\" -f tsv -o {dbn}_join2goslim.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [],
+     "prompt_number": 36
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!head -2 {dbn}_join2goslim.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "Column1\tColumn2\tColumn3\tColumn4\tColumn5\tColumn6\tColumn7\tColumn8\tColumn9\tColumn10\tColumn11\tColumn12\tColumn13\tColumn14\tEntry\tEntry name\tGene ontology IDs\tInteracts with\tCross-reference (GO)\tGene ontology (GO)\tStatus\tInterPro\tPathway\tProtein names\tGene names\tOrganism\tLength\tSPID\tGOID\tGO_id\tterm\tGOSlim_bin\taspect\r",
+        "\r\n",
+        "ConsensusfromContig764\tsp\tA2BIJ3\tBSDC1_DANRE\t83.02\t106\t18\t0\t21\t338\t15\t120\t1E-55\t184\tA2BIJ3\tBSDC1_DANRE\t\t\t\t\treviewed\tIPR005607;\t\tBSD domain-containing protein 1\tbsdc1 si:ch211-51n3.2 zgc:100785\tDanio rerio (Zebrafish) (Brachydanio rerio)\t412\t\t\t\t\t\t\r",
+        "\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 37
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!python {spd}singleupload.py -d scratchjoin_slim {dbn}_join2goslim.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "processing chunk line 0 to 1978 (0.00637292861938 s elapsed)\r\n",
+        "pushing spdb_join2goslim.txt...\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "parsing 94DDEBBA...\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "finished scratchjoin_slim\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 38
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#Sets GO aspect \n",
+      "!python {spd}fetchdata.py -s \"SELECT Distinct Column1 as query, Column3 as SPID, GOSlim_bin FROM [mgavery@washington.edu].[scratchjoin_slim] Where aspect = 'P'\" -f tsv -o justslim.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [],
+     "prompt_number": 39
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!head justslim.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "query\tSPID\tGOSlim_bin\r",
+        "\r\n",
+        "ConsensusfromContig10\tQ9PVZ4\tcell organization and biogenesis\r",
+        "\r\n",
+        "ConsensusfromContig10\tQ9PVZ4\tdevelopmental processes\r",
+        "\r\n",
+        "ConsensusfromContig10\tQ9PVZ4\tother metabolic processes\r",
+        "\r\n",
+        "ConsensusfromContig10\tQ9PVZ4\tprotein metabolism\r",
+        "\r\n",
+        "ConsensusfromContig10\tQ9PVZ4\tsignal transduction\r",
+        "\r\n",
+        "ConsensusfromContig107\tQ5R8W6\tdeath\r",
+        "\r\n",
+        "ConsensusfromContig107\tQ5R8W6\tRNA metabolism\r",
+        "\r\n",
+        "ConsensusfromContig107\tQ5R8W6\tstress response\r",
+        "\r\n",
+        "ConsensusfromContig117\tA6QR55\tother biological processes\r",
+        "\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 40
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "from pandas import *\n",
+      "\n",
+      "jslim = read_table(\"justslim.txt\", # name of the data file\n",
+      "            #sep=\",\", # what character separates each column?\n",
+      "            na_values=[\"\", \" \"]) # what values should be considered \"blank\" values?"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "ename": "IOError",
+       "evalue": "File justslim.txt does not exist",
+       "output_type": "pyerr",
+       "traceback": [
+        "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m\n\u001b[0;31mIOError\u001b[0m                                   Traceback (most recent call last)",
+        "\u001b[0;32m<ipython-input-3-f6b9dbe27bfa>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m()\u001b[0m\n\u001b[1;32m      3\u001b[0m jslim = read_table(\"justslim.txt\", # name of the data file\n\u001b[1;32m      4\u001b[0m             \u001b[0;31m#sep=\",\", # what character separates each column?\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 5\u001b[0;31m             na_values=[\"\", \" \"]) # what values should be considered \"blank\" values?\n\u001b[0m",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/io/parsers.pyc\u001b[0m in \u001b[0;36mparser_f\u001b[0;34m(filepath_or_buffer, sep, dialect, compression, doublequote, escapechar, quotechar, quoting, skipinitialspace, lineterminator, header, index_col, names, prefix, skiprows, skipfooter, skip_footer, na_values, true_values, false_values, delimiter, converters, dtype, usecols, engine, delim_whitespace, as_recarray, na_filter, compact_ints, use_unsigned, low_memory, buffer_lines, warn_bad_lines, error_bad_lines, keep_default_na, thousands, comment, decimal, parse_dates, keep_date_col, dayfirst, date_parser, memory_map, nrows, iterator, chunksize, verbose, encoding, squeeze)\u001b[0m\n\u001b[1;32m    399\u001b[0m                     buffer_lines=buffer_lines)\n\u001b[1;32m    400\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m--> 401\u001b[0;31m         \u001b[0;32mreturn\u001b[0m \u001b[0m_read\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mfilepath_or_buffer\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mkwds\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m    402\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    403\u001b[0m     \u001b[0mparser_f\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0m__name__\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mname\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/io/parsers.pyc\u001b[0m in \u001b[0;36m_read\u001b[0;34m(filepath_or_buffer, kwds)\u001b[0m\n\u001b[1;32m    207\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    208\u001b[0m     \u001b[0;31m# Create the parser.\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m--> 209\u001b[0;31m     \u001b[0mparser\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mTextFileReader\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mfilepath_or_buffer\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m**\u001b[0m\u001b[0mkwds\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m    210\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    211\u001b[0m     \u001b[0;32mif\u001b[0m \u001b[0mnrows\u001b[0m \u001b[0;32mis\u001b[0m \u001b[0;32mnot\u001b[0m \u001b[0mNone\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/io/parsers.pyc\u001b[0m in \u001b[0;36m__init__\u001b[0;34m(self, f, engine, **kwds)\u001b[0m\n\u001b[1;32m    507\u001b[0m             \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0moptions\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;34m'has_index_names'\u001b[0m\u001b[0;34m]\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mkwds\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;34m'has_index_names'\u001b[0m\u001b[0;34m]\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    508\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m--> 509\u001b[0;31m         \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0m_make_engine\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mengine\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m    510\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    511\u001b[0m     \u001b[0;32mdef\u001b[0m \u001b[0m_get_options_with_defaults\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mself\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mengine\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/io/parsers.pyc\u001b[0m in \u001b[0;36m_make_engine\u001b[0;34m(self, engine)\u001b[0m\n\u001b[1;32m    609\u001b[0m     \u001b[0;32mdef\u001b[0m \u001b[0m_make_engine\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mself\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mengine\u001b[0m\u001b[0;34m=\u001b[0m\u001b[0;34m'c'\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    610\u001b[0m         \u001b[0;32mif\u001b[0m \u001b[0mengine\u001b[0m \u001b[0;34m==\u001b[0m \u001b[0;34m'c'\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m--> 611\u001b[0;31m             \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0m_engine\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mCParserWrapper\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mf\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m**\u001b[0m\u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0moptions\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m    612\u001b[0m         \u001b[0;32melse\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    613\u001b[0m             \u001b[0;32mif\u001b[0m \u001b[0mengine\u001b[0m \u001b[0;34m==\u001b[0m \u001b[0;34m'python'\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/io/parsers.pyc\u001b[0m in \u001b[0;36m__init__\u001b[0;34m(self, src, **kwds)\u001b[0m\n\u001b[1;32m    891\u001b[0m         \u001b[0;31m# #2442\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    892\u001b[0m         \u001b[0mkwds\u001b[0m\u001b[0;34m[\u001b[0m\u001b[0;34m'allow_leading_cols'\u001b[0m\u001b[0;34m]\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mindex_col\u001b[0m \u001b[0;32mis\u001b[0m \u001b[0;32mnot\u001b[0m \u001b[0mFalse\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m--> 893\u001b[0;31m         \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0m_reader\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0m_parser\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mTextReader\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0msrc\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0;34m**\u001b[0m\u001b[0mkwds\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m    894\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    895\u001b[0m         \u001b[0;31m# XXX\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/_parser.so\u001b[0m in \u001b[0;36mpandas._parser.TextReader.__cinit__ (pandas/src/parser.c:2771)\u001b[0;34m()\u001b[0m\n",
+        "\u001b[0;32m//anaconda/lib/python2.7/site-packages/pandas/_parser.so\u001b[0m in \u001b[0;36mpandas._parser.TextReader._setup_parser_source (pandas/src/parser.c:4803)\u001b[0;34m()\u001b[0m\n",
+        "\u001b[0;31mIOError\u001b[0m: File justslim.txt does not exist"
+       ]
+      }
+     ],
+     "prompt_number": 3
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "jslim.groupby('GOSlim_bin').query.count().plot(kind='bar')\n"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": []
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "!say \"hash tag winning\""
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [],
+     "prompt_number": 43
+    },
+    {
+     "cell_type": "heading",
+     "level": 3,
+     "metadata": {},
+     "source": [
+      "Below is optional"
+     ]
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#could also upload again to get a simple table\n",
+      "#could be done in pandas\n",
+      "\n",
+      "#!python {spd}singleupload.py -d scratchpie justslim.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "processing chunk line 0 to 2538 (0.00250601768494 s elapsed)\r\n",
+        "pushing justslim.txt...\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "parsing 87B0B7A8...\r\n"
+       ]
+      },
+      {
+       "output_type": "stream",
+       "stream": "stdout",
+       "text": [
+        "finished scratchpie\r\n"
+       ]
+      }
+     ],
+     "prompt_number": 13
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [
+      "#fetching data grouped by GObin\n",
+      "\n",
+      "#!python {spd}fetchdata.py -s \"SELECT GOSlim_bin, COUNT(GOSlim_bin) as termcount from [sr320@washington.edu].[scratchpie] Group by GOSlim_bin\" -f tsv -o justpie.txt"
+     ],
+     "language": "python",
+     "metadata": {},
+     "outputs": [],
+     "prompt_number": 14
+    },
+    {
+     "cell_type": "code",
+     "collapsed": false,
+     "input": [],
+     "language": "python",
+     "metadata": {},
+     "outputs": []
+    }
+   ],
+   "metadata": {}
+  }
+ ]
+}
