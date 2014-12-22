@@ -1,7 +1,7 @@
 Data and Resource Sharing Plan
 ================================
 
-It is the philosophy of the group to make data available to the widest potential audience in a timely manner.
+It is the philosophy of our group to make data available to the widest potential audience in a timely manner.
 
 
 ##Data Sharing 
