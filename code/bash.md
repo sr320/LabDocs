@@ -96,6 +96,25 @@ Example code is below which will move any files with the extension ".sra" in any
 find /volume1/web/trilobite/Crassostrea_gigas_HTSdata/SRP014 -iname '*.sra' -exec mv '{}' /volume1/web/trilobite/Crassostrea_gigas_HTSdata/SRP014 \;
 ```
 
+Code explanation:
+
+find - The command to initiate a search for files
+
+/volume1/web/trilobite/Crassostrea_gigas_HTSdata/SRP014 - Example path to a starting directory.  The find command searches recursively (i.e. from current directory through any/all subfolders containd therein) by default.
+
+-iname - Test for the find command to perform a case insensitive search.
+
+'*.sra' - The expression that the find command is evaluating.  The asterisk is a wildcard and will match 0 or more characters before ".sra".  So, in this example, the find command is using "-iname" to find all file names that end with the ".sra" suffix (file type).
+
+-exec mv - Action that tells the find command to execute a move (mv) command on all matching file names.
+
+'{}' - Empty expansion braces that are filled with the result of the find command to be processed.  As each matching file is encountered, the file name is expanded in the curly braces until it is handled by another program/option.  It is then removed from the curly braces and the next match is then entered into the curly braces.
+
+/volume1/web/trilobite/Crassostrea_gigas_HTSdata/SRP014 - Example path to destination directory for any/all files that are to be moved.
+
+\; - The semi-colon is required to end the find command.  However, the semi-colon is a special character in the command line bash).  So, a backslash is required to escape (i.e. ignore) the semi-colon from being interpreted by bash.
+
+
 ---
 
 ### Sum Column in Tab Delimited File
