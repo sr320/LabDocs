@@ -21,13 +21,15 @@ wc = Terminal command for "word count"
 ---
 ###Count the number of instances/occurrences of items in a column in a file
 
-`$cut -f1 | sort | uniq -c`
+`$cut -f1 /path/to/file | sort | uniq -c`
 
 Explanation:
 
 cut - Command to apply options to the designated field (i.e. column).
 
 -f1 - -f1 = specifies which field (i.e. column) to work on. Change the number to specify your desired column. Or, you can even specify a range of columns to work on (e.g. -f2-6)
+
+/path/to/file - Location of file to operate on.  If file is in current directory, no path is needed; just use the filename
 
 "|" - Pipe which sends the results of the previous command ("cut" in this example) to another command.
 
