@@ -27,6 +27,8 @@ We send material to a variety of facilities. As the samples are shipped to a fac
 ##Backup
 * The Google Docs spreadsheet [*Next Gen Seq Library Database*](https://docs.google.com/spreadsheet/ccc?key=0AtV_gF766XZAdHRlUHJMd0k4S2RpdTZqbjFob2NJb2c&usp=sharing) is backed up on a regular basis? by downloading tab-delimited file and pushing to LabDocs Repository, with the file name `Next_Gen_Seq_Libraries.tsv`
 
+* The nigtingales directory on owl is backed up to Amazon Glacier.
+
 
 
 ##SRA Upload
