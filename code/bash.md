@@ -1,3 +1,11 @@
+###Shortcuts
+Keyboard shortcuts in Terminal (OSX)    
+Skip to beginning of line: Ctrl+a   
+Skip to end of line: Ctrl+e   
+Skip forward a word: Esc+f   
+Skip back a word: Esc+b   
+
+---
 
 ###Simple for loop in terminal
 
