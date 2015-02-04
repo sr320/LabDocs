@@ -236,4 +236,9 @@ In Terminal type:
 To revert back, simple repeat from the first step, but change the word "True" in the first entry to "False". Remember to follow up with the killall Finder command to restart the Finder!
 
 
+###Add files >100MB to .gitignore file
+
+    find ./* -size +100M | cat >> .gitignore
+
+This finds all files in your current directory (presumably a Git repo) greater than 100MB and writes the paths to those files in your .gitignore file.  
 
