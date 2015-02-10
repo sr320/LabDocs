@@ -19,9 +19,13 @@
 !perl -e '$col = 2;' -e 'while (<>) { s/\r?\n//; @F = split /\t/, $_; $len = length($F[$col]); print "$_\t$len\n" } warn "\nAdded column with length of column $col for $. lines.\n\n";' /Volumes/web/cnidarian/cgigas_v9_genome01.tab > /Volumes/web/cnidarian/cgigas_v9_genome02.tab
 ```
 
+###Count Number of Sequences in a FASTA File (grep)
 
-Count Number of Sequences in a FASTA File
-$awk '/>/ { count++ } END { print count }' path/to/InputFastFile.fasta
+    $grep -c '>' path/to/InputFasta/file.fasta
+
+###Count Number of Sequences in a FASTA File (awk)
+
+    $awk '/>/ { count++ } END { print count }' path/to/InputFastFile.fasta
 
 Code explanation:
 />/
