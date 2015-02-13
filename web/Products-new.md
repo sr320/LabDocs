@@ -15,12 +15,12 @@
 
 ##Lab Notebooks
 
-Steven Roberts : half-shell    
-Sam White     
-Jake Heare    
-Jay Dimond   
-Grace     
-Claire Olson
+[Steven Roberts](http://onsnetwork.org/halfshell/) `half-shell`    
+[Sam White](http://onsnetwork.org/kubu4/)     
+[Jake Heare](http://heareresearch.blogspot.com/)    
+[Jay Dimond ](http://onsnetwork.org/jdimond/)  
+[Grace Crandall](http://genefish.wikispaces.com/Grace%27s+Notebook)    
+[Claire Olson](http://claireeolson.blogspot.com)
 
 <a id="pres">
 ##Recent Presentations</a>
