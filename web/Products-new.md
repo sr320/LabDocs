@@ -24,12 +24,19 @@
 
 <a id="pres">
 ##Recent Presentations</a>
-
 _2015_    
-escience 
+[Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
-_2014_    
+_2014_      
+[Does DNA methylation facilitate phenotypic plasticity in marine invertebrates?](http://www.slideshare.net/sr320/does-dna-methylation-facilitate-phenotypic-plasticity-in-marine-invertebrates) Friday Harbor Research Labs Seminar Series (Friday Harbor, WA). August 2014        
 
+[Science Communication and Impact: A Researcher's Perspective](http://www.slideshare.net/sr320/science-communication-and-impact-a-researchers-perspective) Special Libraries Association - Panel discussion - Staying in the Game: New Roles for Libraries in Research Support Assocation (Vancouver, WA). June 2014.      
+
+[Genomic approaches to assessing ecosystem health](http://www.slideshare.net/sr320/genomic-approaches-to-assessing-ecosystem-health) Salish Sea Conference (Seattle, WA). May 2014.			
+
+ [Collaborative Genomic Data Analyses in the Cloud](http://www.slideshare.net/sr320/escience-roberts-microsoft) Escience in the Cloud -Microsoft Research Campus (Seattle, WA). March 2014			
+
+[Genomics on the Half Shell: Making Science more Open](http://www.slideshare.net/sr320/escience-roberts) UW escience Seminar (Seattle, WA). February 2014			
 
 
 <a id="peer">
