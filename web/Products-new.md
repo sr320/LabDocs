@@ -1,10 +1,5 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<h2 style="text-align: center;"><a href="#pres"><strong>Presentations</strong></a> | <a href="#peer"><strong>Peer-Reviewed Manuscripts</strong></a> | <a href="#preprint"><strong>PrePrints</strong></a> | <a href="#theses"><strong>Theses</strong></a> | <a href="#grants"><strong>Grants</strong></a>  </h2>
-
----
-
-
 <a id="data">
 ## Lab Notebooks</a>
 
