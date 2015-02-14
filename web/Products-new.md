@@ -2,18 +2,16 @@
 
 <h3 style="text-align: center;"><a href="#data"><strong>Data</strong></a> | <a href="#pres"><strong>Presentations</strong></a> | <a href="#peer"><strong>Peer-Reviewed Publications</strong></a> | <a href="#preprint"><strong>PrePrints</strong></a> | <a href="#theses"><strong>Theses</strong></a> | <a href="#grants"><strong>Grants</strong></a> | <a href="#props"><strong>Proposals</strong></a> | <a href="#vids"><strong>Media</strong></a></h3>
 
-
-
 ---
 
 <a id="data">
-##Data</a>
+## Data</a>
 
 [raw] High-throughput Sequences   
 [project]   
 
 
-##Lab Notebooks
+## Lab Notebooks
 
 [Steven Roberts](http://onsnetwork.org/halfshell/) `half-shell`    
 [Sam White](http://onsnetwork.org/kubu4/)     
@@ -23,7 +21,7 @@
 [Claire Olson](http://claireeolson.blogspot.com)
 
 <a id="pres">
-##Recent Presentations</a>
+## Recent Presentations</a>
 _2015_    
 [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
@@ -40,7 +38,7 @@ _2014_
 
 
 <a id="peer">
-##Peer-Reviewed Publications</a>     
+## Peer-Reviewed Publications</a>     
 
 see also <a href="#preprint">_preprints_</a>
 
@@ -177,7 +175,7 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 
 
 <a id="preprint">
-##PrePrints</a>
+## PrePrints</a>
 
 Heare JE, Blake B, Davis JP, Vadopalas B, Roberts SB. (2014) Evidence of Ostrea lurida (Carpenter 1894) population structure in Puget Sound, WA. **PeerJ PrePrints** 2:e704v1 <http://dx.doi.org/10.7287/peerj.preprints.704v1> <span data-badge-popover="right" data-badge-type="4" data-doi="10.7287/peerj.preprints.704v1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -221,7 +219,7 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 
 
 <a id="theses">
-##Theses</a>
+## Theses</a>
 
 Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
 
@@ -242,11 +240,11 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 
 <a id="grants">
-##Grants</a>
+## Grants</a>
 
 <br>
 
-####Alleviating Regulatory Impediments to Native Shellfish Aquaculture
+#### Alleviating Regulatory Impediments to Native Shellfish Aquaculture
 
 Source of Support: NOAA Aquaculture Program
 
@@ -262,7 +260,7 @@ Award Period: 9/1/2012 - 8/30/2014
 </ul>
 
 ---
-####Sablefish Reproductive Life History and Genetics
+#### Sablefish Reproductive Life History and Genetics
 
 Source of Support: NOAA / JISAO
 
@@ -276,7 +274,7 @@ Award Period: 9/15/2012 - 6/30/2013
 
 ---
 
-####DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates
+#### DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates
 
 Source of Support: National Science Foundation
 
@@ -303,7 +301,7 @@ Award Period: 5/1/2012 - 4/30/2014
 
 ---
 
-####Sablefish Broodstock Development and Functional Genomics
+#### Sablefish Broodstock Development and Functional Genomics
 
 Source of Support: NOAA [Contract]
 
@@ -316,7 +314,7 @@ Award Period: 9/15/2011 - 9/14/2013
 
 ---
 
-####Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change
+#### Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change
 
 Source of Support: NOAA
 
@@ -333,7 +331,7 @@ Award Period: 9/1/2009 - 2/29/2012
 
 ---
 
-####Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies
+#### Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies
 
 Award Amount: $79,503
 
