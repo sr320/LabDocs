@@ -76,8 +76,7 @@ Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic res
 Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2011.00116" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img class="aligncenter" title="merv" alt="" src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" width="300" height="154" /></a></p>
-
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img class="aligncenter" title="merv" alt="" src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" width="300" height="154" />
 
 Gavery MR* and Roberts SB. (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.cbd.2011.12.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
