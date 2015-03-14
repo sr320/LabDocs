@@ -1,5 +1,16 @@
 #IPython
 
+###Embed IPython notebook (or anything else) in onsnetwork.org wordpress
+`iframe` can be used for this, something normally not allowed on wordpress.com.
+Here is an example
+```
+[iframe src="http://nbviewer.ipython.org/github/sr320/paper-Temp-stress/blob/authorea/ipynb/Array-feature-overlap-03.ipynb" width="100%" same_height_as="window" scrolling="yes"]
+```
+This code is used on 
+http://onsnetwork.org/halfshell/2015/03/02/up-down-in-the-house/
+
+
+
 ###Start IPython in a web browser (via Terminal or Command Line):
 `ipython notebook`
 Or, type this URL into a browser: http://127.0.0.1:8888
