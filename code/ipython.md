@@ -1,5 +1,32 @@
 #IPython
 
+###Convert number stored in variable
+If using a bash commands to store numbers to variables in Jupyter (IPython) notebooks, the variable will store the number as a Python string list instead of just the actual number. This is identifiable by the format of the ```print``` command output. Here's an example:
+
+Input: ```print variable```
+
+Output: ```['102345']```
+
+The square brackets and the value of your variable stored within single quotes indicate a string list format. 
+
+Convert the value in the string list to a number (integer in this example) that can more readily be accessed by other steps in your notebook:
+
+Input: ```int(variable[0])```
+
+Input: ```print variable```
+
+Output: ```102345```
+
+___Explanation___
+
+The ```int(variable[0])``` changes the value in our string list (```variable```) at position/index 0 (```[0]```) in that list to an integer (```int```). 
+
+Note: You may need to use ```float``` instead of ```int``` if you have a non-integer value stored in your variable!
+
+
+
+
+
 ###Embed IPython notebook (or anything else) in onsnetwork.org wordpress
 `iframe` can be used for this, something normally not allowed on wordpress.com.
 Here is an example
