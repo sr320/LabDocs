@@ -1,5 +1,5 @@
 
-- Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): Genomic signatures population structure sablefish [3/15]
+- Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): "Genomic signatures population structure sablefish" [3/15]
 
 - [Steven teaches](http://faculty.washington.edu/sr320/?p=8780) "Physiological response of marine organisms to environmental change from a genomic perspective" in Concepcion, Chile [1/15]
 
