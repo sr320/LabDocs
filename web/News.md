@@ -1,3 +1,8 @@
+
+- Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): Genomic signatures population structure sablefish [3/15]
+
+- [Steven teaches](http://faculty.washington.edu/sr320/?p=8780) "Physiological response of marine organisms to environmental change from a genomic perspective" in Concepcion, Chile [1/15]
+
 - Sam & Steven completed Software Carpentry Instructor Training [11/14]
 
 - Congrats to Claire Olson - [successfully defended her Master's degree!](http://faculty.washington.edu/sr320/?p=7601) [11/14]
