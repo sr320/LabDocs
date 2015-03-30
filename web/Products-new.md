@@ -252,6 +252,9 @@ Award Period: 9/1/2012 - 8/30/2014
 <ul>
 	<li><a href="http://oystergen.es/olympia/">Website</a></li>
 	<li><a href="http://oystergen.es/blog/">Blog</a></li>
+	<li><a href="https://xxxxxxxx">Progress Report</a> [1/15]</li>
+	<li><a href="https://dl.dropboxusercontent.com/u/115356/docs/WSG-report-2014.pdf">Progress Report</a> [1/14]</li>
+	<li><a href="https://dl.dropboxusercontent.com/u/115356/docs/WSG-report-2013.pdf">Progress Report</a> [1/13]</li>
 	<li><a href="https://dl.dropbox.com/u/115356/Roberts_6976_update_narrative_404.pdf">Progress Report </a> [1/12]</li>
 	<li>[Manuscript] <a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract">Genomic resource development for shellfish of conservation concern</a></li>
 	<li>[Data] <a href="http://dx.doi.org/10.6084/m9.figshare.156431">Transcriptome characterization of the Olympia oyster and pinto abalone</a></li>
