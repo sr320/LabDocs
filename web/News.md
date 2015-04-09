@@ -1,4 +1,4 @@
-
+- Jake Heare produced a [workthrough for Olympia oyster RAD-Seq Data.](http://dx.doi.org/10.6084/m9.figshare.1336051) (Heare, Jake (2015): Ostrea lurida RADSeq Process. figshare.
 - Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): "Genomic signatures population structure sablefish" [3/15]
 
 - [Steven teaches](http://faculty.washington.edu/sr320/?p=8780) "Physiological response of marine organisms to environmental change from a genomic perspective" in Concepcion, Chile [1/15]
