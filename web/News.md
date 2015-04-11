@@ -5,6 +5,13 @@
 
 - Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): "Genomic signatures population structure sablefish" [3/15]
 
+
+[Archive](http://faculty.washington.edu/sr320/?page_id=1362)
+
+&nbsp;
+
+<!--more-->
+
 - [Sam teaches Git at Software Carpentry @ UW eScience Data Center.](http://sophieclayton.github.io/2015-01-15-uw/) [1/15]
 
 - [Steven teaches](http://faculty.washington.edu/sr320/?p=8780) "Physiological response of marine organisms to environmental change from a genomic perspective" in Concepcion, Chile [1/15]
@@ -17,13 +24,6 @@
 
 - Jay Dimond joins the lab [9/14]
 
-
-
-[Archive](http://faculty.washington.edu/sr320/?page_id=1362)
-
-&nbsp;
-
-<!--more-->
 
 - Jake Heare presented [Local Oyster Stock for Restoration: Does Local Adaptation Affect Outplanting?](https://docs.google.com/presentation/d/1bgM_sHAcKEWETDYKcnEH12y8QfWQhu9Jk73bpsDDB9s/edit?usp=sharing) at the Pacific Coast Shellfish Growers Association (PCSGA) [9/14]
 
