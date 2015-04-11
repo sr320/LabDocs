@@ -1,6 +1,8 @@
 
 - [Sam helps at Software Carpentry @ UW eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
 
+- Jake Heare produced a [workthrough for Olympia oyster RAD-Seq Data.](http://dx.doi.org/10.6084/m9.figshare.1336051) (Heare, Jake (2015): Ostrea lurida RADSeq Process. figshare
+
 - Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): "Genomic signatures population structure sablefish" [3/15]
 
 - [Sam teaches Git at Software Carpentry @ UW eScience Data Center.](http://sophieclayton.github.io/2015-01-15-uw/) [1/15]
