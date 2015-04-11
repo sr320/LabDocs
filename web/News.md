@@ -1,4 +1,4 @@
-- [Jay completes FISH 546 project entitled "Germline DNA methylation in five coral transcriptomes"](http://figshare.com/articles/Germline_methylation_of_five_coral_transcriptomes/1342817) [3/15]
+- [Jay completes FISH 546 project titled "Germline DNA methylation in five coral transcriptomes"](http://figshare.com/articles/Germline_methylation_of_five_coral_transcriptomes/1342817) [3/15]
 
 - [Sam helps at Software Carpentry @ UW eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
 
