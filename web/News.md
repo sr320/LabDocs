@@ -1,5 +1,9 @@
 
+- [Sam helps at Software Carpentry @ Uw eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
+
 - Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): "Genomic signatures population structure sablefish" [3/15]
+
+- [Sam teaches Git at Software Carpentry @ UW eScience Data Center.](http://sophieclayton.github.io/2015-01-15-uw/) [1/15]
 
 - [Steven teaches](http://faculty.washington.edu/sr320/?p=8780) "Physiological response of marine organisms to environmental change from a genomic perspective" in Concepcion, Chile [1/15]
 
