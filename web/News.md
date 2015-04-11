@@ -1,5 +1,5 @@
 
-- [Sam helps at Software Carpentry @ Uw eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
+- [Sam helps at Software Carpentry @ UW eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
 
 - Andy [succesfully defends his thesis](http://eagle.fish.washington.edu/andy/): "Genomic signatures population structure sablefish" [3/15]
 
