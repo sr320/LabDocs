@@ -47,12 +47,22 @@ sort - Sorts the info from the "cut" command in ascending order.
 
 uniq -c - Counts the number of occurrences of each unique "word" in the specified column(s). (Note: Technically "uniq -c" is counting the occurrence of each unique line in the specified column, not the actual "words." It is this reason (that uniq occurrences are tallied by line) that you use the cut command to have the uniq command focus on a single column from the source file.)
 
+---
 
+###Count the number of columns in a file
+
+```
+$awk '{print NF; exit}' input_file.txt
+```
+
+This reads the number of fields (```NF```; i.e. columns) in just the first row of the input file specified. If you suspect you may have more columns that are not represented on the first line of your file, remove the ```; exit``` from the command to have awk scan the entire file.
+
+---
 
 ---
 ###Count the number of characters in column
 
-`!awk '{print $1, "\t", $2, "\t", length($2)}' j_tab2 > tab_1_length﻿`
+`awk '{print $1, "\t", $2, "\t", length($2)}' j_tab2 > tab_1_length﻿`
 
 ---
 
@@ -73,7 +83,7 @@ NOTE: This command is case sensitive and will only match EXACLTY what you enter 
 
 ---
 
-###Replace Delimiters with Different Characters
+###Replace delimiters with different characters
 
 Here's an example:
 
