@@ -56,7 +56,7 @@ uniq -c - Counts the number of occurrences of each unique "word" in the specifie
 
 ---
 
-###Basic Substitutions in a File
+###Substitutions in a File
 This is the same as Find and Replace in programs like Microsoft Word, but will run on files that are too large to be opened with such programs.
 
 ```
@@ -72,6 +72,19 @@ Code explanation:
 NOTE: This command is case sensitive and will only match EXACLTY what you enter in as the "text_you_want_replaced". If you need more flexibility (e.g. having sed find variations like upper- and lowercase text), it exists, but is a bit too in-depth to go into here.
 
 ---
+
+###Replace Delimiters with Different Characters
+
+Here's an example:
+
+```
+$awk '{ print $1"\t"$2"_"$3"_"$4 }' input_file.txt > output_file.txt
+```
+
+The above code will replace the delimiters after each field (i.e. column) with the indicated character. In this instance, the space between columns 1 and 2 is replaced with a tab (```\t```). The space between columns 2 & 3 is replaced with an underscore.
+
+---
+
 
 ###Convert FASTQ to FASTA
     zcat input_file.fastq.gz | awk 'NR%4==1{printf ">%s\n", substr($0,2)}NR%4==2{print}' > output_file.fa
