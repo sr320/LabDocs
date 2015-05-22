@@ -36,4 +36,6 @@ tophat (2.0.13.OSX_x86_64)
 
 trinity (Release 2013-11-10)
 
+ipython (3.0.0)
+
 ----
