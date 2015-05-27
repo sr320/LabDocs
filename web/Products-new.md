@@ -3,9 +3,17 @@
 <a id="data">
 ## Lab Notebooks</a>
 
-<center><font color="red">
-##### [onsnetwork.org/halfshell](http://onsnetwork.org/halfshell/)		-		[onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)		-		[heareresearch.blogspot](http://heareresearch.blogspot.com/)		-		[onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)		-		[grace@wikispaces](http://genefish.wikispaces.com/Grace%27s+Notebook)		-		[claireeolson.blogspot](http://claireeolson.blogspot.com)     -		[beckerlab@wikipaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)     -		[megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
-</center></font>
+
+
+Person | Notebook 
+--- | --- | ---
+Steven | [onsnetwork.org/halfshell](http://onsnetwork.org/halfshell/) 
+Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)
+Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
+Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
+Claire | [claireeolson.blogspot](http://claireeolson.blogspot.com)
+Beckerlab | [beckerlab@wikipaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
+Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 
 
 ---

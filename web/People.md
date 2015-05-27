@@ -10,18 +10,6 @@ Associate Professor in the School of Aquatic and Fishery Sciences at the Univers
 
 #Graduate Students
 
-
-
-###[Claire Olson](http://students.washington.edu/che625/)
-
-<img src="http://students.washington.edu/che625/Claire_Ellis/Welcome_files/DSCF1161.jpg" width="195" height="147" />
-
-I am currently a masters student in Steven Roberts’ lab at the University of Washington in the School of Aquatic and Fishery Sciences.  My general research interests are studying aquatic ecosystem health as a function of environmental change, with an emphasis on the study of epigenetics.
-
-
-
----
-
 ###[Jake Heare](http://heareresearch.blogspot.com/)
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_home_188DDB31.png" alt="olyo_-_home_188DDB31_png" width="180" height="200" />
@@ -43,11 +31,6 @@ I'm a naturalist at heart with a particular fascination with marine invertebrate
 
 ---
 
-###Andy Jasonowicz
-
-
-
----
 <br>
 
 #Research Scientists
@@ -67,8 +50,6 @@ Giles Goetz
 
 Katie Jackson
 
-Joelle Blaise 
-
 Grace Crandall
 
 Jonathan Allen
@@ -79,6 +60,10 @@ Jonathan Allen
 <br>
 
 ###_Graduate Students_
+
+Andy Jasonowicz
+
+Claire Olson
 
 [Mackenzie Gavery](http://students.washington.edu/mgavery/Welcome.html)
 
@@ -95,7 +80,7 @@ Dave Metzger
 
 ###_Undergraduates_
 
-
+Joelle Blaise UW SAFS (2014)
 
 Hannah Wear; UW SAFS (2013-2014)
 [proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit)
@@ -110,8 +95,7 @@ Charles Duber; UW SAFS (2013-2014)
 [notebook](http://genefish.wikispaces.com/Charles%27+Notebook)
 
 Jessica Blanchette; UW SAFS (2013-2014)
-[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit)
-[paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub)
+[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit )   [paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub)
 [slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx)
 [notebook](http://genefish.wikispaces.com/Jessica%27s+Notebook)
 
