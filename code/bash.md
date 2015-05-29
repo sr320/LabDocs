@@ -143,7 +143,7 @@ find - The command to initiate a search for files
 
 /volume1/web/trilobite/Crassostrea_gigas_HTSdata/SRP014 - Example path to destination directory for any/all files that are to be moved.
 
-\; - The semi-colon is required to end the find command.  However, the semi-colon is a special character in the command line bash).  So, a backslash is required to escape (i.e. ignore) the semi-colon from being interpreted by bash.
+\; - The semi-colon is required to end the find command.  However, the semi-colon is a special character in the bash.  So, a backslash is required to escape (i.e. ignore) the semi-colon from being interpreted by bash.
 
 
 ---
@@ -204,4 +204,16 @@ screenshot:
 #sed 's/abc/XYZ/g' <infile> outfile
 ```
 
+###Remove spaces from filenames in a directory
 
+```
+for file in *; do mv "$file" ${file// /}; done
+```
+
+Explanation:
+
+```for file in *;``` - A for loop that looks at all files in the current directory. The word ```file``` is a variable that takes on the value of each file name in the directory (one file name per loop). The ```;``` is needed for bash for loop formatting.
+
+```do mv "$file" ${file// /};``` - Tells bash to use the move command (```mv```) and use the current contents of the variable ```$file``` as the initial filename. The ```${file// /}``` is a substitution command that tells bash to use the contents of the ```file``` variable and replace all spaces (```// ```) with nothing (```/``` - you can add text after this slash to replace with information of your choice). The The ```;``` is needed for bash for loop formatting.
+
+```done``` - Ends the for loop
