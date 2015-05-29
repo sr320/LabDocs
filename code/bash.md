@@ -227,7 +227,7 @@ Explanation:
 Note: Uses ```wget``` which is not installed on Mac OS X by default.
 
 ```
-wget -U mozilla -E -H -k -p --wait=60 --random-wait --rate-limit=100k http://website.com/notebook
+wget -U mozilla -E -H -k -p --wait=60 --random-wait --rate-limit=5m http://website.com/notebook
 ```
 
 Explanation:
@@ -248,7 +248,7 @@ Explanation:
 
 ```--random-wait``` - This sets the request interval to a random value between 0.5 x ```-wait``` and 1.5 x ```wait```, in seconds. So, in this example, ```wget``` will wait between 30 and 90 seconds between file retrieval requests. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
 
-```--limit-rate=100k``` - Limits bandwidth usage to 100KB/s. Without setting a rate limit, ```wget``` will use the maximum amount of bandwidth and, potentially, greatly slow the server's response. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
+```--limit-rate=5m``` - Limits bandwidth usage to 5MB/s. Without setting a rate limit, ```wget``` will use the maximum amount of bandwidth and, potentially, greatly slow the server's response. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
 
 ```http://website.com/notebook``` - Replace this with the URL to the desired notebook.
 
