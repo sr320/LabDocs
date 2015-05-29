@@ -204,6 +204,8 @@ screenshot:
 #sed 's/abc/XYZ/g' <infile> outfile
 ```
 
+---
+
 ###Remove spaces from filenames in a directory
 
 ```
@@ -217,3 +219,37 @@ Explanation:
 ```do mv "$file" ${file// /};``` - Tells bash to use the move command (```mv```) and use the current contents of the variable ```$file``` as the initial filename. The ```${file// /}``` is a substitution command that tells bash to use the contents of the ```file``` variable and replace all spaces (```// ```) with nothing (```/``` - you can add text after this slash to replace with information of your choice). The The ```;``` is needed for bash for loop formatting.
 
 ```done``` - Ends the for loop
+
+---
+
+###Back up websites for offline viewing
+
+Note: Uses ```wget``` which is not installed on Mac OS X by default.
+
+```
+wget -U mozilla -E -H -k -p --wait=60 --random-wait --rate-limit=100k http://website.com/notebook
+```
+
+Explanation:
+
+```wget``` - Program for downloading remote files
+
+```-U mozilla``` - Specifies the user agent (in this case, mozilla) that ```wget``` presents itself as to the remote server. Using this gets around sites that disallow standard ```wget``` requests.
+
+```-E``` - Save HTML/CSS documents with proper extensions.
+
+```-H``` - Go to foreign hosts when recursive (i.e. follow links outside of current website). This will download images hosted on other websites.
+
+```-k``` - Make links in downloaded HTML or CSS point to local files.
+
+```-p``` - Get all images, etc. needed to display HTML page.
+
+```--wait=60``` - Sets an interval, in seconds, that ```wget``` should wait between download requests. Although this is not necessary, it's a polite way to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests. In this example, the wait time is governed by the next option (```--random-wait```).
+
+```--random-wait``` - This sets the request interval to a random value between 0.5 x ```-wait``` and 1.5 x ```wait```, in seconds. So, in this example, ```wget``` will wait between 30 and 90 seconds between file retrieval requests. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
+
+```--limit-rate=100k``` - Limits bandwidth usage to 100KB/s. Without setting a rate limit, ```wget``` will use the maximum amount of bandwidth and, potentially, greatly slow the server's response. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
+
+```http://website.com/notebook``` - Replace this with the URL to the desired notebook.
+
+---
