@@ -227,7 +227,7 @@ Explanation:
 Note: Uses ```wget``` which is not installed on Mac OS X by default.
 
 ```
-wget -U mozilla -E -H -k -p --wait=60 --random-wait --rate-limit=5m http://website.com/notebook
+time wget -U mozilla -E -r -H -k -p -R *.xad,*.zip,*.gz,*.fastq -Donsnetwork.org,eagle.fish.washington.edu,http://heareresearch.blogspot.com --no-parent -e robots=off --wait=60 --random-wait --limit-rate=10m http://website.com/notebook
 ```
 
 Explanation:
@@ -238,17 +238,25 @@ Explanation:
 
 ```-E``` - Save HTML/CSS documents with proper extensions.
 
+```-r``` - Downloads recursively (i.e. follows all links and downloads content from those links).
+
 ```-H``` - Go to foreign hosts when recursive (i.e. follow links outside of current website). This will download images hosted on other websites.
 
 ```-k``` - Make links in downloaded HTML or CSS point to local files.
 
 ```-p``` - Get all images, etc. needed to display HTML page.
 
+```-R *.xad,*.zip,*.gz,*.fastq``` - The ```-R``` flag specifies files to reject. The command is followed by a comma-separated list of files to skip when downloading.
+
+```-Donsnetwork.org,eagle.fish.washington.edu,http://heareresearch.blogspot.com``` - The ```-D``` flag specifies which domains content can be downloaded from. The flag is followed by a comma-separated list of domains (and/or subdomains) of the allowed websites.
+
+```--no-parent``` - This argument instructs ```wget``` to only download items within and below the initial directory specified.
+
 ```--wait=60``` - Sets an interval, in seconds, that ```wget``` should wait between download requests. Although this is not necessary, it's a polite way to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests. In this example, the wait time is governed by the next option (```--random-wait```).
 
 ```--random-wait``` - This sets the request interval to a random value between 0.5 x ```-wait``` and 1.5 x ```wait```, in seconds. So, in this example, ```wget``` will wait between 30 and 90 seconds between file retrieval requests. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
 
-```--limit-rate=5m``` - Limits bandwidth usage to 5MB/s. Without setting a rate limit, ```wget``` will use the maximum amount of bandwidth and, potentially, greatly slow the server's response. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
+```--limit-rate=10m``` - Limits bandwidth usage to 5MB/s. Without setting a rate limit, ```wget``` will use the maximum amount of bandwidth and, potentially, greatly slow the server's response. This is a polite way to to approach recursive downloads from a server so that the server isn't overwhelmed trying to process the entire ```wget``` requests.
 
 ```http://website.com/notebook``` - Replace this with the URL to the desired notebook.
 
