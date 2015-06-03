@@ -222,7 +222,7 @@ Explanation:
 
 ---
 
-###Back up websites for offline viewing
+###Back up onsnetwork.org notebooks for offline viewing
 
 Note: Uses ```wget``` which is not installed on Mac OS X by default.
 
