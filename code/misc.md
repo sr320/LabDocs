@@ -20,11 +20,14 @@ This can be accomplished by navigating to the desired directory and entering the
 `echo "Options +Indexes" > .htaccess`
 
 Code explanation:
-echo - Normally used to print some text to the screen. But, used in this context, the text that is supposed to be printed to the screen gets written to our file.
-"Options +Indexes" - The text contained in the quotations will be written to the desired file. "Options +Indexes" is an instruction for Apache (a common server software) to display an index of all files in the directory.
 
-This is the write-to-file instruction.
-.htaccess - The name of the file that you want your echo command to write to. If the file name does not already exist, this file will be created.
+```echo``` - Normally used to print some text to the screen. But, used in this context, the text that is supposed to be printed to the screen gets written to our file.
+
+```"Options +Indexes"``` - The text contained in the quotations will be written to the desired file. "Options +Indexes" is an instruction for Apache (a common server software) to display an index of all files in the directory.
+
+```>``` - This is the write-to-file instruction.
+
+```.htaccess``` - The name of the file that you want your echo command to write to. If the file name does not already exist, this file will be created.
 
 ---
 
