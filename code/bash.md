@@ -261,3 +261,12 @@ Explanation:
 ```http://website.com/notebook``` - Replace this with the URL to the desired notebook.
 
 ---
+###Back up Blogger/blogspot notebooks for offline viewing
+
+Note: Uses ```wget``` which is not installed on Mac OS X by default.
+
+See above for code explanation. However, the following code substitutes the ```-m``` (mirror) flag, for the ```-r``` (recursive).
+
+```
+wget -U mozilla -E -m -H -k -p -R *.xad,*.zip,*.gz,*.fastq --no-parent -e robots=off --wait=1 --random-wait --limit-rate=100m -Dblogspot.com http://notebook.blogspot.com/
+```
