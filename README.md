@@ -11,4 +11,4 @@ This is a dynamic respository, and soon to be the jumping off place, for finding
 
 We will be using the [wiki](https://github.com/sr320/LabDocs/wiki) to migrate active, canonical [protocols](http://genefish.wikispaces.com/protocols) and [procedures](http://genefish.wikispaces.com/How-to) from genefish.wikispaces.com
 
-The [issues](https://github.com/sr320/LabDocs/issues) ![issues](https://img.shields.io/github/issues/sr320/LabDocs.svg) feature is how we resolve general issues, make purchase request, and identify topics for lab meeting.
+The[![issues](https://img.shields.io/github/issues/sr320/LabDocs.svg)](https://github.com/sr320/LabDocs/issues) feature is how we resolve general issues, make purchase request, and identify topics for lab meeting.
