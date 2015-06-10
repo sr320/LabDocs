@@ -1,14 +1,14 @@
 LabDocs
 =======
 
-Roberts Lab Documents
+This is a dynamic respository, and soon to be the jumping off place, for finding our own stuff on the web. The current highlights include 
 
-This is a dynamic respository where many of our open science documents, protocols, code snippets live (for now).
+* [Useful code and scripts](https://github.com/sr320/LabDocs/tree/master/code)
+* [Data Sharing Plan](https://github.com/sr320/LabDocs/blob/master/DataSharePlan.md)
+* [Proposal Database](https://github.com/sr320/LabDocs/blob/master/Proposal_database.md)
+* [Next-Gen Sequencing Data Management Plan](https://github.com/sr320/LabDocs/blob/master/DMPseq.md)
 
 
-Highlights 
+We will be using the [wiki](https://github.com/sr320/LabDocs/wiki) to migrate active, canonical [protocols](http://genefish.wikispaces.com/protocols) and [procedures](http://genefish.wikispaces.com/How-to) from genefish.wikispaces.com
 
-* [Data Sharing Plan]
-* [Proposal Database]
-* [Next-Gen Sequencing Data Repo]
-* 
+The [issues](https://github.com/sr320/LabDocs/issues) feature is how we resolve general issues, make purchase request, and identify topics for lab meeting.
