@@ -1,7 +1,7 @@
 LabDocs
 =======
 
-This is a dynamic respository, and soon to be the jumping off place, for finding our own stuff on the web. The current highlights include 
+This is a dynamic respository, and soon to be the jumping off place, for finding [our own](http://faculty.washington.edu/sr320/) stuff on the web. The current highlights include 
 
 * [Useful code and scripts](https://github.com/sr320/LabDocs/tree/master/code)
 * [Data Sharing Plan](https://github.com/sr320/LabDocs/blob/master/DataSharePlan.md)
