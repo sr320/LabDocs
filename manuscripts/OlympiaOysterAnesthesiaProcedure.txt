@@ -1,0 +1,17 @@
+﻿Introduction
+The ability to anesthetize O. lurida which induces gaping, would allow for examination of the internal structures and non-lethal sampling. This tool would be useful in many situations. For example, studies with low sample size that cannot afford induced mortality, experimental procedures on live oysters, non-lethal tissue sampling, or examination and removal of brooded larvae without harming the brooder.  An optimal relaxation method would work quickly and be simple enough to complete in the field, allow the animal to recover quickly as to reduce stress, and have no mortality or lasting effects.
+Anesthetization using different concentrations of MgCl2 was attempted with little response from the animals. The method was repeated using Pacific oysters (Crassostrea gigas), and was successful.
+As O. lurida did not suitably respond to MgCl2, we sought to develop a method to anesthetize Olympia oysters in the lab or in the field using an alternative anesthetic. magnesium sulfate, MgSO4. In particular, we investigated pretreatments, dosage, and treatment duration to develop and optimize  protocol for the most effective treatment of Ostrea lurida with MgSO4.
+
+
+Materials and Methods
+
+
+Oysters:
+The Olympia Oysters (O. lurida) used for this experiment were obtained from the Puget Sound Restoration Fund hatchery in Port Gamble, Washington. The oysters were kept in ambient, clean seawater before the experiment.
+Concentration and duration:
+Concentrations of 25, 50, 75, 85, and 100 g/L of MgSO4 were tested for efficacy in relaxation of O. lurida. The correct mass of magnesium sulfate for 2 liters of solution was weighed ahead of time. For all treatments, a 1:1 ratio of freshwater to saltwater was used to partially compensate for the change in salinity with the added MgSO4. The total amount of MgSO4 was dissolved in the freshwater before being combined with the seawater in clear, 6-quart, plastic containers. The control treatments contained only clean seawater. The underside of the bins were labeled, and randomized to blind the trials. The temperatures of the solution as well as the oysters’ original location was recorded in order to document temperature change. There were three replicates for each treatment as well as three controls.
+The oysters were placed cup side down into a random treatment. A team of four observers checked 3 bins each every 15 minutes and rotated between bins for each observation. Three responses were monitored at each interval for each animal. Gape, f the oyster appeared to be open. Second, if the oyster was opened, the animal was gently tapped to check for a response to touch. Third, if the oyster was still open, it was lifted out of the water. If it remained open after 10 seconds, it was removed from the treatment and placed into clean seawater for recovery. The experiment ran for 2 hours. After the trials, the oysters were placed into separate bags for each treatment and replicate. Any animals that had no response during the treatment were also separated. 
+Desiccation: 
+        Groups of 10 adult O. lurida were removed from their common tank and placed on the lab bench at 20 ̊ C for 0, 15, 30, 45, or 60 min. After desiccation, the animals were replaced into clean seawater and observed for the gape response at 15 minute intervals over the course of one hour. 
+Survival
