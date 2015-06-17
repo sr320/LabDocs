@@ -57,7 +57,7 @@ cd /volume1/Archive/notebooks/steven
 #Reject possibly large files (.zip, .gz, .fastq, .fasta, .fa, .bam/sam, .gtf/gff, etc.)
 wget --user-agent mozilla --adjust-extension --mirror --span-hosts --convert-links \
 --page-requisites \
---reject *.[BbSs][Aa][Mm],*.[Ff][Aa]*,*.zip,*.gz,*.[Tt][Aa][Bb]*,*.txt,*.[Gg]*[Ff],*.goa*,*.interval \
+--reject *.[BbSs][Aa][Mm],*.[Ff][Aa]*,*.zip,*.*gz,*.[Tt][Aa][Bb]*,*.txt,*.[GgVv]*[Ff]*,*.goa*,*.interval \
 --no-parent \
 -e robots=off --wait=1 --random-wait --limit-rate=100m \
 --domains=onsnetwork.org,eagle.fish.washington.edu,docs.google.com \
