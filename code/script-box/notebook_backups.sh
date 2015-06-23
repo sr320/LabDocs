@@ -57,7 +57,12 @@ cd /volume1/Archive/notebooks/steven
 #Reject possibly large files (.zip, .gz, .fastq, .fasta, .fa, .bam/sam, .gtf/gff, etc.)
 wget --user-agent mozilla --adjust-extension --mirror --span-hosts --convert-links \
 --page-requisites \
---reject *.[BbSs][Aa][Mm],*.[Ff][Aa]*,*.zip,*.*gz,*.[Tt][Aa][Bb]*,*.txt,*.[GgVv]*[Ff]*,*.goa*,*.interval \
+--reject *.[BbSs][Aa][Mm],*.*[Ff][Aa]*,*.zip,*.gz,*.[Tt][Aa][BbRr]*,*.txt,\
+*.[Gg]*[Ff]*,*.goa*,*.interval,*.enex,*[Ss]oap*,*.tgz,*.[np]hr,*.[np]sq,*.[np]sd,
+*.[np]in,*.[np]nd,*.[np]in,*.[np]hd,*.[np]pd,*[np]og,*.[np]hi,*.[np]ni,*.[np]si,
+*.[np]in,*.msk,*.[Qq][Uu][Aa][Ll],swissprot*,methratio*,*.[Bb][Ss][Pp],*.[Ff][Qq],
+gp_association_goa_uniprot_2,BiGoRNA_CLCtrim_adp5,CGmotif_intersect_feature,
+BiGoRNASeq_noMap,test_adp,*.[Bb][Ee][Dd]*,*.edge,bbd44e69cb8906b53daf33e308b70cb5 \
 --no-parent \
 -e robots=off --wait=1 --random-wait --limit-rate=100m \
 --domains=onsnetwork.org,eagle.fish.washington.edu,docs.google.com \
