@@ -1,4 +1,7 @@
 
+- [Sam teaches the Unix shell & GitHub at Software Carpentry @ UW eScience Data Center.](http://suparee.github.io/2015-06-25-uw/) [6/30]
+
+
 - Steven does SAFS Seminar - [DNA methylation in inverts, should we care?](https://github.com/sr320/talk-safs-2015) [4/15]
 
 
