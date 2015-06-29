@@ -38,4 +38,6 @@ trinity (Release 2013-11-10)
 
 ipython (3.0.0)
 
+Geneious (5.3.6)
+
 ----
