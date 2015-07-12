@@ -14,13 +14,17 @@ Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
 Claire | [claireeolson.blogspot](http://claireeolson.blogspot.com)
 Beckerlab | [beckerlab@wikipaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
-
+Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 
 ---
 
 <a id="pres">
 ## Recent Presentations</a>
 #### 2015 
+* [Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster](https://github.com/sr320/talk-osu-2015) Oregon State Unversity (Corvallis, OR). May 4, 2015.
+
+* [Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?](https://github.com/sr320/talk-fiu-2015) Florida International University (Miami, FL). April 23, 2015.
+
 * [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
 #### 2014
@@ -40,6 +44,8 @@ Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 ## Peer-Reviewed Publications</a>     
 
 see also <a href="#preprint">*preprints*</a>
+
+Fuess LE, Eisenlord ME, Closek CJ, Tracy AM, Mauntz R, Gignoux-Wolfsohn S, Moritsch MM,  Yoshioka R,  Burge CA, Harvell CD, Friedman CS, Hewson I, Hershberger PK, Roberts SB. (**2015**). [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease] () PLoS ONE doi:      <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1471-2164-15-951" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB. (**2014**). [Shotgun proteomics reveals physiological response to ocean acidification in *Crassostrea gigas*](http://www.biomedcentral.com/1471-2164/15/951/) BMC Genomics 2014, 15:951  doi:10.1186/1471-2164-15-951 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1471-2164-15-951" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
