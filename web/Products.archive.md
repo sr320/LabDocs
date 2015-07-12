@@ -1,51 +1,12 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-<a id="data">
-## Lab Notebooks</a>
+<h3 style="text-align: center;"><a href="#data"><strong>Data</strong></a> | <a href="#pres"><strong>Presentations</strong></a> | <a href="#peer"><strong>Peer-Reviewed Publications</strong></a> | <a href="#preprint"><strong>PrePrints</strong></a> | <a href="#theses"><strong>Theses</strong></a> | <a href="#grants"><strong>Grants</strong></a> | <a href="#props"><strong>Proposals</strong></a> | <a href="#vids"><strong>Media</strong></a></h3>
 
-
-
-Person | Notebook 
---- | --- | ---
-Steven | [onsnetwork.org/halfshell](http://onsnetwork.org/halfshell/) 
-Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)
-Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
-Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
-Claire | [claireeolson.blogspot](http://claireeolson.blogspot.com)
-Beckerlab | [beckerlab@wikipaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
-Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
-Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
-
----
-
-<a id="pres">
-## Recent Presentations</a>
-#### 2015 
-* [Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster](https://github.com/sr320/talk-osu-2015) Oregon State Unversity (Corvallis, OR). May 4, 2015.
-
-* [Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?](https://github.com/sr320/talk-fiu-2015) Florida International University (Miami, FL). April 23, 2015.
-
-* [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
-
-#### 2014
-* [Does DNA methylation facilitate phenotypic plasticity in marine invertebrates?](http://www.slideshare.net/sr320/does-dna-methylation-facilitate-phenotypic-plasticity-in-marine-invertebrates) Friday Harbor Research Labs Seminar Series (Friday Harbor, WA). August 2014.        
-
-* [Science Communication and Impact: A Researcher's Perspective](http://www.slideshare.net/sr320/science-communication-and-impact-a-researchers-perspective) Special Libraries Association - Panel discussion - Staying in the Game: New Roles for Libraries in Research Support Assocation (Vancouver, WA). June 2014.      
-
-* [Genomic approaches to assessing ecosystem health](http://www.slideshare.net/sr320/genomic-approaches-to-assessing-ecosystem-health) Salish Sea Conference (Seattle, WA). May 2014.			
-
-* [Collaborative Genomic Data Analyses in the Cloud](http://www.slideshare.net/sr320/escience-roberts-microsoft) Escience in the Cloud -Microsoft Research Campus (Seattle, WA). March 2014	.		
-
-* [Genomics on the Half Shell: Making Science more Open](http://www.slideshare.net/sr320/escience-roberts) UW escience Seminar (Seattle, WA). February 2014	.		
 
 ---
 
 <a id="peer">
-## Peer-Reviewed Publications</a>     
-
-see also <a href="#preprint">*preprints*</a>
-
-Fuess LE, Eisenlord ME, Closek CJ, Tracy AM, Mauntz R, Gignoux-Wolfsohn S, Moritsch MM,  Yoshioka R,  Burge CA, Harvell CD, Friedman CS, Hewson I, Hershberger PK, Roberts SB. (**2015**). [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease] () PLoS ONE doi:      <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1471-2164-15-951" data-hide-no-mentions="true" class="altmetric-embed"></span>
+##Peer-Reviewed Publications</a>
 
 Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB. (**2014**). [Shotgun proteomics reveals physiological response to ocean acidification in *Crassostrea gigas*](http://www.biomedcentral.com/1471-2164/15/951/) BMC Genomics 2014, 15:951  doi:10.1186/1471-2164-15-951 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1471-2164-15-951" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -90,41 +51,34 @@ Roberts SB, Hauser L, Seeb LW and Seeb JE (**2012**) [Development of genomic res
 Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methylation and phenotypic plasticity in invertebrates?](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed) Frontiers in Physiology 2:116. doi:10.3389/fphys.2011.00116   <span data-badge-popover="right" data-badge-type="4" data-doi="10.3389/fphys.2011.00116" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img class="aligncenter" title="merv" alt="" src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" width="300" height="154" />
-
-Gavery MR* and Roberts SB. (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.cbd.2011.12.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img class="aligncenter" title="merv" alt="" src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" width="300" height="154" /></a></p>
 
 
-Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA. (**2011**) [RNA-Seq reveals an integrated immune response in nucleated erythrocytes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026998) PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1371/journal.pone.0026998" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Gavery MR* and Roberts SB. (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003
 
-Roberts SB, Sunila I, and Wikfors G. (**2011**) [Immune response and mechanical stress susceptibility in diseased oysters, _Crassostrea virginica_](http://www.springerlink.com/content/u975017n6763324n/) Journal of Comparative Physiology B 182:1 41-48. doi:10.1007/s00360-011-0605-z <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s00360-011-0605-z" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA. (**2011**) [RNA-Seq reveals an integrated immune response in nucleated erythrocytes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026998) PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998
 
-Seeb JE, Carvalho G, Hauser L, Naish K, Roberts SB and Seeb LW. (**2011**) [Single-nucleotide polymorphism (SNP) discovery and applications of SNP genotyping in nonmodel organisms](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2010.02979.x/full) Molecular Ecology Resources 11 1–8. doi:10.1111/j.1755-0998.2010.02979.x <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/j.1755-0998.2010.02979.x" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Roberts SB, Sunila I, and Wikfors G. (**2011**) [Immune response and mechanical stress susceptibility in diseased oysters, _Crassostrea virginica_](http://www.springerlink.com/content/u975017n6763324n/) Journal of Comparative Physiology B 182:1 41-48. doi:10.1007/s00360-011-0605-z
 
-Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB. (**2010**) [Transcriptome sequencing and high-resolution melt analysis advance single nucleotidepolymorphism discovery in duplicated salmonids](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2010.02936.x/abstract) Molecular Ecology Resources. doi: 10.1111/j.1755-0998.2010.02936.x <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/j.1755-0998.2010.02936.x" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Seeb JE, Carvalho G, Hauser L, Naish K, Roberts SB and Seeb LW. (**2011**) [Single-nucleotide polymorphism (SNP) discovery and applications of SNP genotyping in nonmodel organisms](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2010.02979.x/full) Molecular Ecology Resources 11 1–8. doi:10.1111/j.1755-0998.2010.02979.x
 
+Seeb JE, Pascal CE, Graue ED, Seeb LW, Templin WD, Harkins T and Roberts SB. (**2010**) [Transcriptome sequencing and high-resolution melt analysis advance single nucleotidepolymorphism discovery in duplicated salmonids](http://onlinelibrary.wiley.com/doi/10.1111/j.1755-0998.2010.02936.x/abstract) Molecular Ecology Resources. doi: 10.1111/j.1755-0998.2010.02936.x
 
-Gavery MR and Roberts SB. (**2010**) [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (_Crassostrea gigas_)](http://www.biomedcentral.com/1471-2164/11/483) BMC Genomics 11:483. doi:10.1186/1471-2164-11-483 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1186/1471-2164-11-483" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Gavery MR and Roberts SB. (**2010**) [DNA methylation patterns provide insight into epigenetic regulation in the Pacific oyster (_Crassostrea gigas_)](http://www.biomedcentral.com/1471-2164/11/483) BMC Genomics 11:483. doi:10.1186/1471-2164-11-483
 
-
-Mathger L, Roberts SB, and Hanlon R. (**2010**) [Evidence for distributed light sensing in the skin of cuttlefish, _Sepia officinalis_](http://rsbl.royalsocietypublishing.org/content/6/5/600.long) Biology Letters. doi: 10.1098/rsbl.2010.0223 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1098/rsbl.2010.0223" data-hide-no-mentions="true" class="altmetric-embed"></span>
-
+Mathger L, Roberts SB, and Hanlon R. (**2010**) [Evidence for distributed light sensing in the skin of cuttlefish, _Sepia officinalis_](http://rsbl.royalsocietypublishing.org/content/6/5/600.long) Biology Letters. doi: 10.1098/rsbl.2010.0223
 
 
 <img class="alignright" title="sepia" alt="" src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2936158/bin/rsbl20100223-g1.jpg" width="266" height="211" /></p>
 
 
-Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S. (**2010**) [A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (_Salvelinus namaycush_)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04481.x/abstract) Molecular Ecology 19 176–196. <span data-badge-popover="right" data-badge-type="4" data-doi="10.1111/j.1365-294X.2009.04481.x" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Goetz FW, Rosauer D, Sitar S, Goetz G, Simchick C, Roberts SB, Johnson R, Murphy C, Bronte C, and Mackenzie S. (**2010**) [A genetic basis for the phenotypic differentiation between siscowet and lean lake trout (_Salvelinus namaycush_)](http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04481.x/abstract) Molecular Ecology 19 176–196.
 
+Defaveri J*, Smolowitz R, and Roberts S (**2009**) [Development and validation of a real-time quantitative PCR assay for the detection and quantification of _Perkinsus marinus_ in the Eastern oyster, _Crassostrea virginica_](http://www.bioone.org/doi/abs/10.2983/035.028.0306) Journal of Shellfish Research Vol. 28 No. 3 459-464
 
-Defaveri J*, Smolowitz R, and Roberts S (**2009**) [Development and validation of a real-time quantitative PCR assay for the detection and quantification of _Perkinsus marinus_ in the Eastern oyster, _Crassostrea virginica_](http://www.bioone.org/doi/abs/10.2983/035.028.0306) Journal of Shellfish Research Vol. 28 No. 3 459-464. <span data-badge-popover="right" data-badge-type="4" data-doi="10.2983/035.028.0306" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Roberts SB, Goetz G, White S, and Goetz F (**2009**) [Analysis of genes isolated from plated hemocytes of the Pacific Oyster, _Crassostrea gigas_](http://www.springerlink.com/content/435447rxg52h7152/) Marine Biotechnology 11:24-44.
 
-
-Roberts SB, Goetz G, White S, and Goetz F (**2009**) [Analysis of genes isolated from plated hemocytes of the Pacific Oyster, _Crassostrea gigas_](http://www.springerlink.com/content/435447rxg52h7152/) Marine Biotechnology 11:24-44. doi: 10.1007/s10126-008-9117-6 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1007/s10126-008-9117-6" data-hide-no-mentions="true" class="altmetric-embed"></span>
-
-
-Roberts SB, Gueguen Y, de Lorgeril J, and Goetz F. (**2008**) [Rapid accumulation of an interleukin 17 homolog transcript in _Crassostrea gigas_ hemocytes following bacterial exposure](http://www.sciencedirect.com/science/article/pii/S0145305X08000451) Developmental and Comparative Immunology 32, 1099-1104. doi: 10.1016/j.dci.2008.02.006 <span data-badge-popover="right" data-badge-type="4" data-doi="10.1016/j.dci.2008.02.006" data-hide-no-mentions="true" class="altmetric-embed"></span>
-
+Roberts SB, Gueguen Y, de Lorgeril J, and Goetz F. (**2008**) [Rapid accumulation of an interleukin 17 homolog transcript in _Crassostrea gigas_ hemocytes following bacterial exposure](http://www.sciencedirect.com/science/article/pii/S0145305X08000451) Developmental and Comparative Immunology 32, 1099-1104.
 
 
 <img class="alignnone" title="align" alt="" src="http://ars.els-cdn.com/content/image/1-s2.0-S0145305X08000451-gr1.jpg" width="464" height="154" /></p>
@@ -187,7 +141,7 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 
 
 <a id="preprint">
-## PrePrints</a>
+##PrePrints</a>
 
 Heare JE, Blake B, Davis JP, Vadopalas B, Roberts SB. (2014) Evidence of Ostrea lurida (Carpenter 1894) population structure in Puget Sound, WA. **PeerJ PrePrints** 2:e704v1 <http://dx.doi.org/10.7287/peerj.preprints.704v1> <span data-badge-popover="right" data-badge-type="4" data-doi="10.7287/peerj.preprints.704v1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
@@ -231,7 +185,7 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 
 
 <a id="theses">
-## Theses</a>
+##Theses</a>
 
 Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
 
@@ -252,11 +206,11 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 
 <a id="grants">
-## Grants</a>
+##Grants</a>
 
 <br>
 
-#### Alleviating Regulatory Impediments to Native Shellfish Aquaculture
+####Alleviating Regulatory Impediments to Native Shellfish Aquaculture
 
 Source of Support: NOAA Aquaculture Program
 
@@ -266,16 +220,13 @@ Award Period: 9/1/2012 - 8/30/2014
 <ul>
 	<li><a href="http://oystergen.es/olympia/">Website</a></li>
 	<li><a href="http://oystergen.es/blog/">Blog</a></li>
-	<li><a href="https://xxxxxxxx">Progress Report</a> [1/15]</li>
-	<li><a href="https://dl.dropboxusercontent.com/u/115356/docs/WSG-report-2014.pdf">Progress Report</a> [1/14]</li>
-	<li><a href="https://dl.dropboxusercontent.com/u/115356/docs/WSG-report-2013.pdf">Progress Report</a> [1/13]</li>
 	<li><a href="https://dl.dropbox.com/u/115356/Roberts_6976_update_narrative_404.pdf">Progress Report </a> [1/12]</li>
 	<li>[Manuscript] <a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract">Genomic resource development for shellfish of conservation concern</a></li>
 	<li>[Data] <a href="http://dx.doi.org/10.6084/m9.figshare.156431">Transcriptome characterization of the Olympia oyster and pinto abalone</a></li>
 </ul>
 
 ---
-#### Sablefish Reproductive Life History and Genetics
+####Sablefish Reproductive Life History and Genetics
 
 Source of Support: NOAA / JISAO
 
@@ -289,7 +240,7 @@ Award Period: 9/15/2012 - 6/30/2013
 
 ---
 
-#### DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates
+####DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates
 
 Source of Support: National Science Foundation
 
@@ -316,7 +267,7 @@ Award Period: 5/1/2012 - 4/30/2014
 
 ---
 
-#### Sablefish Broodstock Development and Functional Genomics
+####Sablefish Broodstock Development and Functional Genomics
 
 Source of Support: NOAA [Contract]
 
@@ -329,7 +280,7 @@ Award Period: 9/15/2011 - 9/14/2013
 
 ---
 
-#### Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change
+####Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change
 
 Source of Support: NOAA
 
@@ -346,7 +297,7 @@ Award Period: 9/1/2009 - 2/29/2012
 
 ---
 
-#### Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies
+####Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies
 
 Award Amount: $79,503
 
@@ -356,11 +307,11 @@ Award Period: 3/1/2008 - 2/28/2011
 	<li>[Data] <a href="http://figshare.com/articles/Hard_clam_transcriptome_contigs/90073">Hard Clam transcriptome</a></li>
 </ul>
 
+---
 
 &nbsp;</p>
 
 <a id="vids"><h3>Media</h3></a>
 <hr />
 
-[Photos](https://www.flickr.com/photos/35623250@N04/sets/) (flickr)   
-[Lab Meetings](https://www.youtube.com/user/sroberts320/videos) (youtube)    
+coming soon
