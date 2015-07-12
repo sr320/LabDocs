@@ -1,16 +1,8 @@
+- [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease] - a new product from [FHL Course EIMD!](http://onsnetwork.org/eimd/)
 
 - [Sam teaches the Unix shell & GitHub at Software Carpentry @ UW eScience Data Center.](http://suparee.github.io/2015-06-25-uw/) [6/30]
 
-
 - Steven does SAFS Seminar - [DNA methylation in inverts, should we care?](https://github.com/sr320/talk-safs-2015) [4/15]
-
-
-- [Sam helps at Software Carpentry @ UW eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
-
-
-- Jay completes FISH 546 project entitled ["Germline DNA methylation in five coral transcriptomes"](http://figshare.com/articles/Germline_methylation_of_five_coral_transcriptomes/1342817) [3/15]
-
-
 
 
 
@@ -20,6 +12,12 @@
 &nbsp;
 
 <!--more-->
+
+- [Sam helps at Software Carpentry @ UW eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
+
+
+- Jay completes FISH 546 project entitled ["Germline DNA methylation in five coral transcriptomes"](http://figshare.com/articles/Germline_methylation_of_five_coral_transcriptomes/1342817) [3/15]
+
 - Jake Heare produced a [workthrough for Olympia oyster RAD-Seq Data.](http://dx.doi.org/10.6084/m9.figshare.1336051) figshare [3/15]
 
 
