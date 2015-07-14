@@ -14,7 +14,7 @@ Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)
 Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
 Claire | [claireeolson.blogspot](http://claireeolson.blogspot.com)
-Grace | [grace@wikispaces](
+Grace | [grace@wikispaces](http://genefish.wikispaces.com/Grace%27s+Notebook)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
