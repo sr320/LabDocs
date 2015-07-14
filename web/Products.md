@@ -1,5 +1,7 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+
+
 <a id="data">
 ## Lab Notebooks</a>
 
@@ -12,7 +14,8 @@ Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)
 Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
 Claire | [claireeolson.blogspot](http://claireeolson.blogspot.com)
-Beckerlab | [beckerlab@wikipaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
+Grace | [grace@wikispaces](
+Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 
@@ -344,23 +347,4 @@ Award Period: 9/1/2009 - 2/29/2012
 	<li>Proposal</li>
 </ul>
 
----
-
-#### Evaluation of Putatively QPX-Resistant Strains of Northern Hard Clams Using Field and Genetic Studies
-
-Award Amount: $79,503
-
-Award Period: 3/1/2008 - 2/28/2011
-<ul>
-	<li><span style="line-height: 13px;">Preprint</span></li>
-	<li>[Data] <a href="http://figshare.com/articles/Hard_clam_transcriptome_contigs/90073">Hard Clam transcriptome</a></li>
-</ul>
-
-
-&nbsp;</p>
-
-<a id="vids"><h3>Media</h3></a>
-<hr />
-
-[Photos](https://www.flickr.com/photos/35623250@N04/sets/) (flickr)   
-[Lab Meetings](https://www.youtube.com/user/sroberts320/videos) (youtube)    
+ 
