@@ -48,6 +48,9 @@ Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 
 see also <a href="#preprint">*preprints*</a>
 
+Froehlich HE, Roberts SB, Essington TE. (**2015**) [Evaluating hypoxia-inducible factor-1α mRNA expression in a pelagic fish, Pacific herring _Clupea pallasii_, as a biomarker for hypoxia exposure](website) Comparative Biochemistry and Physiology - Part A: Molecular and Integrative Physiology doi:xxxx <span data-badge-popover="right" data-badge-type="2" data-doi="xxxxx" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
 <a href="website"><img class="wp-image-2505 alignright" title="sea star heat map" src="http://eagle.fish.washington.edu/cnidarian/skitch/Figure_3__2___1__tif_1B558324.png" alt="heat-map" width="265" height="143" /></a>
 
 Fuess LE, Eisenlord ME, Closek CJ, Tracy AM, Mauntz R, Gignoux-Wolfsohn S, Moritsch MM,  Yoshioka R,  Burge CA, Harvell CD, Friedman CS, Hewson I, Hershberger PK, Roberts SB. (**2015**). [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133053) PLoS ONE doi:10.1371/journal.pone.0133053 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0133053" data-hide-no-mentions="true" class="altmetric-embed"></span>
@@ -97,7 +100,8 @@ Roberts SB and Gavery MR (**2012**) [Is there a relationship between DNA methyla
 
 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3249382/?tool=pubmed"><img class="aligncenter" title="merv" alt="" src="http://c431376.r76.cf2.rackcdn.com/19155/fphys-02-00116-HTML/image_m/fphys-02-00116-g002.jpg" width="300" height="154" />
 
-Gavery MR and Roberts SB. (**2012**) [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2011.12.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Gavery MR and Roberts SB (**2012**)  [Characterizing short read sequencing for gene discovery and RNA-Seq analysis in Crassostrea gigas](http://www.sciencedirect.com/science/article/pii/S1744117X11001018) Comparative Biochemistry and Physiology Part D: Genomics and Proteomics 7:2 94-99. doi:10.1016/j.cbd.2011.12.003 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2011.12.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
 Morera D, Roher N, Ribas L, Balasch JC, Doñate C, Callol A, Boltaña A, Roberts SB, Goetz G, Goetz FW and Mackenzie SA. (**2011**) [RNA-Seq reveals an integrated immune response in nucleated erythrocytes](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0026998) PLoS ONE 6(10): e26998. doi:10.1371/journal.pone.0026998 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0026998" data-hide-no-mentions="true" class="altmetric-embed"></span>
