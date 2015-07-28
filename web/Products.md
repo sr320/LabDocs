@@ -238,6 +238,8 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 <a id="theses">
 ## Theses</a>
 
+DNA methylation variation in gametes and larvae of the Pacific oyster, _Crassostrea gigas_. Claire Ellis Olson. 2014 [http://hdl.handle.net/1773/27478](http://hdl.handle.net/1773/27478)
+
 Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
 
 The Effects of Ocean Acidification on Multiple Life History Stages of the Pacific Oyster, _Crassostrea gigas_: Implications for Physiological Trade-offs. Emma Timmins-Schiffman. 2014. [http://hdl.handle.net/1773/25413](http://hdl.handle.net/1773/25413)
