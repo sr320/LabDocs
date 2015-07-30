@@ -1,24 +1,37 @@
 Current Supported Projects 
 
-##Alleviating Regulatory Impediments to Native Shellfish Aquaculture
+#Environmental Epigenetics
+
+###Alleviating Regulatory Impediments to Native Shellfish Aquaculture
 _Summary_:The overarching goal of this project is to increase our knowledge of local adaptation in Olympia oysters to address concerns that interbreeding between potentially maladapted cultured and wild stocks could negatively impact wild populations. Our approach is to simultaneously address local adaptation in three genetically differentiated populations of Olympia oysters by evaluating genotype-by-environment interactions. We will reciprocally transplant seed produced from wild parents collected from contrasting environments into all environments. This extensive reciprocal transplant experiment can test for local population advantages in survival, maturation and growth in Olympia oysters. In order to attain our goal, the specific objectives of this proposal are to 1) Evaluate fitness components and performance of seed from different origins in a reciprocal transplant experiment, and 2) Characterize genetic and epigenetic markers associated with oysters from different origins in a reciprocal transplant experiment
 
-##Developing genomic resources to support restoration and protection of the Olympia Oyster in Puget Sound
+###Developing genomic resources to support restoration and protection of the Olympia Oyster in Puget Sound
 _Summary_: There is a significant gap in our fundamental understanding of this species’ resilience in the face of environmental change, ecological interactions, and population structure. This information is critical to local restoration efforts and to predicting how molluscs will adapt to long-term environmental change.  There is recent evidence that oysters have the capacity to respond to environmental change at a rate beyond what would be predicted by genetic variation alone.  The overall objective of this research is to produce genomic resources and capacity to understand the response of Olympia oysters to environmental change.  Specifically, a draft genome assembly for the Olympia oyster will be produced and used to understand how responses of the Olympia oyster to environmental changes are inherited (i.e., genetic or epigenetic) using restriction site associated DNA sequencing (RAD-Seq) and bisulfite sequencing (BS-Seq).  A web-based platform will be developed based on these resources that will be used for discovery and further collaboration.
 
 ##Assessing the Capacity for Evolutionary Adaptation to Ocean Acidification in Geoduck
 _Summary_: We will investigate the roles of standing genetic (DNA sequence) and epigenetic (DNA methylation) variation in the response to ocean acidification and elevated temperature in geoduck at the vulnerable larval stage. The specific research objectives are to (1) characterize changes in allele frequencies under ocean acidification and temperature stress at single nucleotide polymorphisms (SNPs) throughout the genome, and (2) determine the change in frequency of methylation states (epialleles) under ocean acidification and temperature stress throughout the epigenome. To meet our objectives, we will employ a within-generation selection experiment on larvae subjected to ambient and high pCO2 and ambient and high temperature in a factorial cross. This experimental design allows us to uncover changes in standing genetic and epigenetic variation in response to ocean acidification and elevated temperature, and will provide essential information on how marine invertebrate populations can respond to, and persist in, an acidifying ocean.
 
+
+
+
+#Reproductive Biology and Ecology
+
 ##Using satellite pop-up tags to track movements of sablefish during spawning and changes in vertical position in the water column
 _Summary_:  The Sablefish (_Anoplopoma fimbria_) is a deep-water groundfish species widely distributed throughout the northern Pacific Ocean. While some broadscale movements of sablefish have been addressed with tagging studies, two fundamental questions related to sablefish movements are 1) Where do sablefish go during spawning and; 2) Are sablefish adults exclusively benthic inhabitants?  To address these questions we will use “pop-up” satellite tag (PSAT) technology. Pop-up satellite tags are composed of a data-logger and battery, and a float with attached antenna.  The tag is tethered to the fish and the data logger is programmed to continually collect depth, temperature, and location for a specified duration (weeks to months).  At the end of the programmed time, a detachment mechanism is automatically activated that releases the data logger/float and antenna from the tether.  The float carries the data logger to the surface where the antenna transmits the data to an orbiting satellite of the ARGOS System that then transmits data back to the researcher.  Time series analysis will be employed to determine periodicity in depth profiles and relationships with other environmental parameters such as temperature.  Data from this study will allow us to discern daily/weekly and monthly patterns in vertical positioning in the water column and will provide information on possible spawning locations.
+
+
+
+##Maturation processes in the marine mollusc, Panopea generosa
+
+
+#Aquaculture Resources
+
+##Engaging Students and Public in Marine Conservation through Sustainable Shellfish Aquaculture
+
+##Resource coordination workshops focused on oysters and other shellfish
 
 
 ##Crossbreeding and Selection for Resistance to Ocean Acidification in Pacific Oysters
 _Summary_: We propose to utilize the large number of genetically distinct, pair-mated Pacific oyster lines produced through Taylor Shellfish Company’s breeding program to initiate large-scale and high throughput testing for evaluating differential response in Pacific oysters during two critical and sensitive larval life history phases to increased levels of pCO2 under experimental conditions. Information on relative resilience (measured as survivorship, growth and lipid energy reserves) to OA conditions in genetically distinct oyster lines will inform and guide the production of genetically improved broodstocks and provide the shellfish industry with better surviving/performing intraspecific hybrid oysters. This research will also enable us to greatly expand upon ongoing WA Sea Grant supported work that is investigating the critical importance of OA exposure during the sexual development phase (e.g. conditioning) in adults on subsequent larval and seed survivorship and growth (e.g. intergenerational effects). 
 
 
-##Engaging Students and Public in Marine Conservation through Sustainable Shellfish Aquaculture
-
-##Resource coordination workshops focused on oysters and other shellfish
-
-##Maturation processes in the marine mollusc, Panopea generosa
