@@ -48,7 +48,7 @@ Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 
 see also <a href="#preprint">*preprints*</a>
 
-Froehlich HE, Roberts SB, Essington TE. (**2015**) [Evaluating hypoxia-inducible factor-1α mRNA expression in a pelagic fish, Pacific herring _Clupea pallasii_, as a biomarker for hypoxia exposure](website) Comparative Biochemistry and Physiology - Part A: Molecular and Integrative Physiology doi:xxxx <span data-badge-popover="right" data-badge-type="2" data-doi="xxxxx" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Froehlich HE, Roberts SB, Essington TE. (**2015**) [Evaluating hypoxia-inducible factor-1α mRNA expression in a pelagic fish, Pacific herring _Clupea pallasii_, as a biomarker for hypoxia exposure](http://www.sciencedirect.com/science/article/pii/S1095643315002044) Comparative Biochemistry and Physiology - Part A: Molecular and Integrative Physiology doi:10.1016/j.cbpa.2015.07.016 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbpa.2015.07.016" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
 <a href="website"><img class="wp-image-2505 alignright" title="sea star heat map" src="http://eagle.fish.washington.edu/cnidarian/skitch/Figure_3__2___1__tif_1B558324.png" alt="heat-map" width="265" height="143" /></a>
