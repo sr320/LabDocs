@@ -28,6 +28,8 @@ Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 
 * [Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?](https://github.com/sr320/talk-fiu-2015) Florida International University (Miami, FL). April 23, 2015.
 
+* [USDA NRSP-8 - NSA Genomics Resource Coordination Workshop](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-USDA-NSA.pdf) Monterey, CA. March 25, 2015.
+
 * [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
 #### 2014
