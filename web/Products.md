@@ -30,7 +30,7 @@ Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 
 * [USDA NRSP-8 - NSA Genomics Resource Coordination Workshop](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-USDA-NSA.pdf) Monterey, CA. March 25, 2015.
 
-* [Science Communication & Impact]() Altmetric Webinar. February 18th, 2015. [Blog post](http://www.digital-science.com/blog/events/applied-altmetrics-researchers-in-action/) - [Webinar](http://godigitalscience.com/view/mail?iID=Y9PXAVDJMH5JVAUPJU79)
+* [Science Communication & Impact](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-Altmetrics.pdf) Altmetric Webinar. February 18th, 2015. [Blog post](http://www.digital-science.com/blog/events/applied-altmetrics-researchers-in-action/) - [Webinar](http://godigitalscience.com/view/mail?iID=Y9PXAVDJMH5JVAUPJU79)
 
 * [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
