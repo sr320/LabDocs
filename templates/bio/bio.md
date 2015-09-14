@@ -1,3 +1,5 @@
 Bio
 
-Physiological response of aquatic species to environmental change with a particular focus on the relationship of transcriptomics, genetics, and epigenetic modifications. Current research efforts include characterizing the adaptive potential of native oysters in Puget Sound and the functional role of DNA methylation in shellfish.
+Steven Roberts, Associate Professor in the School of Aquatic and Fishery Sciences, received his Ph.D. in Biology at the University of Notre Dame in 2002. His main research interest is the physiological response of aquatic species to environmental change with a particular focus on environmental epigenetics, reproductive biology, and aquaculture. 
+
+A large part of his lab's research acitivity is analysis of large genomic datasets. In doing this, they practice open notebook science, strive to make all data analysis easily reproducible, and hold open online lab meetings. 
