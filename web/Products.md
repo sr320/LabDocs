@@ -203,6 +203,8 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 <a id="preprint">
 ## PrePrints</a>
 
+Gavery MR, Delrow J, Basom R, Roberts SB. (2015) Influence of 17α-ethinylestradiol on DNA Methylation in Oysters. **GitHub / Zenodo** <https://github.com/sr320/paper-Oyster-EE2>
+
 Heare JE, Blake B, Davis JP, Vadopalas B, Roberts SB. (2014) Evidence of Ostrea lurida (Carpenter 1894) population structure in Puget Sound, WA. **PeerJ PrePrints** 2:e704v1 <http://dx.doi.org/10.7287/peerj.preprints.704v1> <span data-badge-popover="right" data-badge-type="2" data-doi="10.7287/peerj.preprints.704v1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Claire E. Olson, Steven B. Roberts. Indication of family-specific DNA methylation patterns in developing oysters **bioRxiv** doi: <http://dx.doi.org/10.1101/012831> <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/012831" data-hide-no-mentions="true" class="altmetric-embed"></span>
