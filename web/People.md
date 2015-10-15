@@ -29,6 +29,8 @@ My previous work has been in the Eastern oyster (Crassostrea virginica) with foc
 
 I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. 
 
+---
+
 
 ### Megan Hintz
 
@@ -59,11 +61,11 @@ Andy Jasonowicz
 # Undergraduate Students
 
 
-Katie Jackson
-
 Grace Crandall
 
 Jonathan Allen
+
+Mrunmayee Manohar Shete
 
 ---
 
@@ -90,6 +92,8 @@ Dave Metzger
 
 
 ### _Undergraduates_
+
+Katie Jackson UW SAFS (2015)
 
 Joelle Blaise UW SAFS (2014)
 
