@@ -1,5 +1,5 @@
-#Principal Investigator
-###[Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
+# Principal Investigator
+### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
 <img src="https://dl.dropboxusercontent.com/u/115356/Steven-Roberts1-262x262.jpg" width="144" height="142" /> 
 
@@ -8,9 +8,9 @@ Associate Professor in the School of Aquatic and Fishery Sciences at the Univers
 
 ---
 
-#Graduate Students
+# Graduate Students
 
-###[Jake Heare](http://heareresearch.blogspot.com/)
+### [Jake Heare](http://heareresearch.blogspot.com/)
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_home_188DDB31.png" alt="olyo_-_home_188DDB31_png" width="180" height="200" />
 
@@ -23,17 +23,26 @@ My previous work has been in the Eastern oyster (Crassostrea virginica) with foc
 ---
 
 
-###Jay Dimond 
+### Jay Dimond 
 
 <img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" />
 
 I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. 
 
+
+### Megan Hintz
+
+<img src="http://eagle.fish.washington.edu/cnidarian/skitch/FieldWork__2__jpg_1BD04567.png" alt="FieldWork__2__jpg_1BD04567.png"/>
+
+Like many Washingtonians, I grew up exploring and enjoying the unique marine environment of Puget Sound. Because of the natural connection I had with the waters in Puget Sound, I became interested in marine research in college. I started in the Becker Lab at UW Tacoma as an undergraduate researcher on two projects: determining the ability of mussels to remove nutrients from the Thea Foss Waterway and measuring the distribution of Olympia oyster larvae in Fidalgo Bay. Following graduation, I completed an eight month internship at the Center for Urban Waters, where I investigated different methods to remove phosphorus from stormwater. Currently my research focuses on studying the movements of larval oysters to enhance restoration efforts. The dynamic nature of my current research, with the combination of field and lab elements, keeps me intrigued and motivated.  At any time I could be trudging through the mud in Fidalgo Bay or doing molecular biology in the lab. Through this research experience I have also discovered that baby oysters are super cute. It’s not every day that you get to use complex science to aid in the restoration of adorable marine critters.  Follow Megan on Twitter ([@BivalveFanatic](https://twitter.com/BivalveFanatic))
+
+
+
 ---
 
 <br>
 
-#Research Scientists
+# Research Scientists
 
 Sam White
 
@@ -43,9 +52,11 @@ Crystal Simchick
 
 Giles Goetz
 
+Andy Jasonowicz
+
 ---
 
-#Undergraduate Students
+# Undergraduate Students
 
 
 Katie Jackson
@@ -56,10 +67,10 @@ Jonathan Allen
 
 ---
 
-#Alumni
+# Alumni
 <br>
 
-###_Graduate Students_
+### _Graduate Students_
 
 Andy Jasonowicz
 
@@ -78,7 +89,7 @@ Dave Metzger
 <br>
 
 
-###_Undergraduates_
+### _Undergraduates_
 
 Joelle Blaise UW SAFS (2014)
 
@@ -165,7 +176,7 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/researc
 <br>
 
 
-###_Visiting Scientsts_
+### _Visiting Scientsts_
 
 Timothy Green; University of Queensland
 
