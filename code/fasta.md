@@ -13,6 +13,14 @@
 ```
 ---
 
+### Tab-delimited to fasta
+
+`!awk '{print ">"$1"\n"$2}'`
+
+
+
+---
+
 ###Count bp in fasta Tab-delim
 
 ```
