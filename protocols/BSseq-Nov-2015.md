@@ -23,55 +23,26 @@
 ###MBD precipitation
 Invitrogen - [MethylMiner Methylated DNA Enrichment Kit](http://www.lifetechnologies.com/order/catalog/product/ME10025) (ME10025) - [user guide](https://tools.lifetechnologies.com/content/sfs/manuals/methylminer_man.pdf)
 
-_Before starting, DNA should be fragmented to an average size of less than 1,000bp (typically aim for a length of 500bp). To determine size distribution of DNA gel eletrophoresis can be performed._ 
+_Before starting, DNA should be fragmented to an average size of less than 1,000bp_
 
 
->Claire sheared DNA
->
->Sam ran ~250ng (out of 3000ng, according to Claire) of LSU C.gigas oil spill gDNA on a gel that was previously sheared by >Claire to verify that shearing was successful.
->
->Ran unsheared side-by-side with sheared gDNA for comparison.
->
->Note: HB16 and NB3 did not have any unsheared gDNA left in their tubes, so nothing was run on a gel.
->
->Ladder used: O'GeneRuler 100bp Ladder (ThermoFisher)
->
-><img src="http://eagle.fish.washington.edu/Arabidopsis/20141125_-_LSU_Claire_Sheared.png" width="600px" height="300px" />
->
->
->Well, it's rather obvious that the initial shearing did NOT work. Will re-shear the samples.
->
->Looking at the Biorupter (Diagenode) manual, it turns out that shearing samples in a 1.5mL tube (in which these were sheared) requires a minimum volume of 100uL. All the samples were far below this minimum volume. Additionally, the recommendations in the manual to reach the target size range are significantly longer (30 - 40 cycles) than what was applied (4 cycles). The combination of these two factors are likely the reason that shearing didn't take place.
->
->
->
-Used the remainder of the "sheared" samples (~2750ng). Brought the volumes up to 80uL and transferred to 0.5mL snap cap tubes. The volume of 80uL was selected because it's above the minimum volume required for shearing in 0.5mL tubes (10uL according to the Biorupter 300 manual) and the MethylMiner Kit (Invitrogen) requires the input DNA volume to be <= 80uL.
->
-DNA was sheared with the following parameters (based on recommendations in the Bioruptor 300 (Diagenode) manual:
->
-Low power
->
-30 cycles of:
->
-30s on
->
-30s off
->
->Target average fragment size is ~350bp.
->
->Ran ~250ng of sheared C.gigas gDNA from the above shearing on a 1xTAE 1%agarose + EtBr gel
->
->Ladder used: O'GeneRuler 100bp Ladder (ThermoFisher)
+DNA may be fragmented using your method of choice. DNA must be
+fragmented to an average size of less than 1,000 bp and should be in DNasefree
+water, TE buffer, or another low ionic-strength, neutral pH buffer.
+The fragment size should be appropriate for your downstream analysis. For
+example, DNA fragmented to an average length of ~250 bp is suitable for assay
+by real-time quantitative PCR (qPCR). Similarly, DNA fragmented to an
+average length of ~100–200 bp is suitable for fragment library construction for
+short-read high-throughput sequencing. 
 
 
-><img src="http://eagle.fish.washington.edu/Arabidopsis/20141126_-_Sheared_Oil_Spill_gDNA.png" width="600px" height="600px"/>
 
->The shearing is, surprisingly, very inconsistent across the samples. The target average fragment size was ~350bp. However, most of these samples are <250bp.
->
+![amounts](http://www.awesomescreenshot.com/upload//159773/b4618f79-7ab1-4635-775f-1b9900548b2b.png)
+
 
 
 _Resuspend Dynabeads_ 
-- Gently pipette Dynabeads up and down and avoid air bubble. Gently inverte the tube.
+- Gently pipette Dynabeads up and down and avoid air bubble. Gently invert the tube.
 
 
 
