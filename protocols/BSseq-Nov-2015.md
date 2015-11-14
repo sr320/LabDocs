@@ -7,7 +7,8 @@
 * Extract DNA 
 
 > Silliman Extracted DNA using the "Mollusc Kit"
-> See photo : <img src="https://www.evernote.com/l/AAprud4EwDdFrZ8QNAV1cCfdcW8ZDkHbXlUB/image.png" alt="Determine%20means%20for%20Epigenetic%20analysis%20of%20Katherine's%20samples%20%C2%B7%20Issue%20%23177%20%C2%B7%20sr320/LabDocs" width = "50%" />
+> See photo :
+> <img src="https://www.evernote.com/l/AAprud4EwDdFrZ8QNAV1cCfdcW8ZDkHbXlUB/image.png" alt="Determine%20means%20for%20Epigenetic%20analysis%20of%20Katherine's%20samples%20%C2%B7%20Issue%20%23177%20%C2%B7%20sr320/LabDocs" width = "50%" />
 >
 
 
@@ -23,6 +24,11 @@
 ###MBD precipitation
 Invitrogen - [MethylMiner Methylated DNA Enrichment Kit](http://www.lifetechnologies.com/order/catalog/product/ME10025) (ME10025) - [user guide](https://tools.lifetechnologies.com/content/sfs/manuals/methylminer_man.pdf)
 
+![amounts](http://www.awesomescreenshot.com/upload//159773/b4618f79-7ab1-4635-775f-1b9900548b2b.png)
+
+
+
+
 _Before starting, DNA should be fragmented to an average size of less than 1,000bp_
 
 
@@ -37,7 +43,6 @@ short-read high-throughput sequencing.
 
 
 
-![amounts](http://www.awesomescreenshot.com/upload//159773/b4618f79-7ab1-4635-775f-1b9900548b2b.png)
 
 
 
