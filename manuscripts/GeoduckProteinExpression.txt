@@ -1,0 +1,200 @@
+﻿Protein expression pattern during geoduck reproductive cycle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Methods
+
+
+Sampling
+Geoduck (N=100) were collected on November 6, 2014 from the area fronting the Puget Marina, Nisqually Reach, Washington.  The lat/long in WGS84 datum are 47 08.89 degrees / 122 47.439 degrees. The geoducks were collected between depths of 30 to 45 feet from a sandy substrate. Geoduck were transferred to and held in common conditions at the Taylor Shellfish Hatchery in Quilcene, Washington. Geoduck (6-8) were sampled approximately biweekly from Nov. 7, 2014 to January 16, 2015.  Geoduck were dissected and a transverse cut made through the gonad-viseral complex.  Approximately 2 mm thick sections were placed into histology cassettes, fixed for 24 hours  (PAXgene tissue fix, Qiagen), preserved (PAXgene Tissue stabilizer, Qiagen), processed for routine paraffin histology. slide mounted and stained with hematoxylin and eosin to enable visualization of gametogenesis via light microscopy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Staging[a]
+
+
+
+
+	Stage 1
+	Stage 2
+	Stage 3
+	Stage 4
+	Stage 5
+	Males
+	small acini, <5% spermatids
+	 small acini, 5-10% spermatids
+	medium acini, ~50% spermatids
+	 large acini,50=75% spermatids
+	 large acini, 75-90% spermatids
+	Females
+	Acini <200µ
+Oocytes ~5-15µ
+	Acini 200-500µ
+Oocytes ~20-35µ
+	Acini large, sparse
+Oocytes ~45-60µ
+	Acini large, numerous, connective tissue prevalent
+Oocytes ~50-75µ
+	Acini large, numerous, little connective tissue
+Oocytes ~65-85µ
+	
+
+
+
+
+
+
+
+Transcriptomes[b] 
+
+
+Based on histological determination of gender and developmental stage, seven female (developmental stages 1, 5, and 6) and six male (developmental stages 1 and 3) paraffin-embedded gonad samples were selected for RNA isolation. RNA was isolated using the PAXgene Tissue RNA Kit (Qiagen) according to the manufacturer’s instructions with the following changes. Five 5um sections were collected from each paraffin block. Where the protocol indicated centrifugation speeds of “maximum speed”, samples were centrifuged at 19,000g. In lieu of a shaker-incubator, the samples were incubated for 15 minutes at 45C in a dry oven using the Disruptor Genie (Scientific Industries). Samples were eluted using 40uL of Buffer TR4. 
+
+
+All samples were quantified using a NanoDrop1000 (Thermo Fisher Scientific). RNA integrity was verified on a Bioanalyzer (Agilent Technologies) using either the RNA 6000 Pico Kit (Agilent Technologies) or the RNA 6000 Nano Kit (Agilent Technologies), depending on sample concentration.
+
+
+Two pools of RNA (male RNA and female RNA) were prepared for RNA-seq. Both pools contained equal quantities of RNA from each developmental stage[c]. Library preparations and sequencing were performed by GeneWiz, Inc. Libraries were constructed using the Ultra RNA Library Preparation Kit (New England Biolabs). Both libraries were sequenced on a single lane of the HiSeq2500 (Illumina) sequencer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Proteomics
+
+
+Protein digestion and LC-MS/MS
+Gonad tissue from three individuals at early, mid, and late stage gonad maturation, from both males and females were characterized for protein expression. These 9[d] samples (Table X) were initially homogenized using a sonicating probe 300 µl of 6 M urea in 50 mM NH4HCO3 homogenized using a sonicating probe 300 µl of 6 M urea in 50 mM NH4HCO3.
+Samples were sonicated three times and chilled in ethanol with dry ice in between sonications.  The probe was cleaned with ethanol and milliQ water in between samples. 
+        The microplate Pierce BCA assay for 10 µl of sample was used to quantify protein.  Each sample was diluted (11 µl clam mixture: 22 µl NH4HCO3) to dilute the urea so as not to impact the assay.
+        Protein digestion followed the protocol outlined in Timmins-Schiffman et al. (2014).  Briefly, 6.6 µl of 1.5M Tris-HCl (pH 8.8) and 2.5 µl of 200 mM TCEP were added to each sample and then incubated for 1 hour at 37°C.  Samples were alkylated with 20 µl of 200 mM iadoacetamide and incubated for 1 hour at room temperature in the dark.  Excess IAM was absorbed using 20 µl of 200 mM DTT (incubated 1 hour at room temperature).  The remainder of the digestion protocol was carried out on 100 µg of protein from each sample.  To each sample, 800 µl 25 mM NH4HCO3 and 200 µl HPLC grade methanol were added.  Trypsin (5 µg) was then added to each sample and incubated overnight at 37°C.  The digested samples were evaporated to near dryness on a speed vac and then reconstituted in 100 µl 0.1% formic acid in water and 10 µl 10% formic acid.  The samples were then evaporated until dry. Before desalting, samples were reconstituted in 100 µl solvent B (5% ACN + 0.1% TFA) and checked to make sure pH < 2.
+Desalting of the samples was done using Macrospin columns (Nest Group).  Columns were first prepared with washes of solvents A (60% ACN + 0.1% TFA) and B.  Peptides were then bound to the column while all contaminants were washed off and subsequently eluted in solvent A, evaporated, and reconstituted in 100 µl solvent B.
+Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) was accomplished on a Q-Exactive-HF (Thermo) on technical triplicates for each sample. The analytical column was 20 cm long and column packed with C18 beads with a flow rate of 0.3 µl/min.  The solvent gradient consisted of: 0-1 minutes 98% A/2% B; 1-60 minutes 95% A/5% B; 60-61 minutes 65% A/35% B; 61-71 minutes 20%A/80% B; 71-90 minutes 98% A/2% B.  Quality control standards (PRTC + BSA) were run throughout the experiment to ensure consistency of peptide detection and elution times.
+
+
+Protein identification and bioinformatics
+        A protein identification database was created from transcriptomic sequences described above.  The nucleotide sequences were translated using the transeq tool in EMBOSS in iPlant with a 6-frame translation.[e][f][g]  The raw mass spectrometry data was searched against the database using Comet v 2015.01 rev.2 (parameter file available in supp file X) to find peptide spectral matches[h][i][j][k].  Protein inference and match probability were found using [l][m]the Trans-Proteomic Pipeline (CITE, version downloaded November, 2014) (commands used found in supp file Y).   Protein identifications were considered true matches if the probability of the match was at least 0.9 and at least 2 independent spectra were associated with the protein across all samples.  Proteins were annotated with UniProt-KB/Swissprot accession numbers and Gene Ontology (GO) annotations.[n][o][p][q]
+Non-metric multidimensional scaling analysis (NMDS) was used to determine  the similarity of technical replicates (supp file).  NMDS was performed on log-transformed data using a Bray-Curtis dissimilarity matrix with the vegan package in R.  Technical replicates showed a high degree of reproducibility so spectral counts were averaged the replicates.  Normalized spectral abundance factors (NSAF) were calculated on the averaged spectral counts for all the high confidence, detected proteins as a proxy for protein expression.  A new NMDS was performed on the NSAF data to compare proteome abundance profiles between males and females and across reproductive stages.  ANOSIM was used on the NMDS to determine the statistical differences among sex-stage groups.
+Differentially abundant proteins between all treatments were found using QSpec.  Spectral counts were summed across technical replicates to create input files for QSpec.  Seven comparisons were analyzed for differentially abundant proteins: Early male (EM) vs. early female (EF); midstage male (MM) vs. midstage female (MF); late male (LM) vs. late female (LF); EM vs. MM; MM vs. LM; EF vs. MF; MF vs. LF.  Proteins were considered significantly different if the absolute value of the log fold change was at least 0.5 and the absolute value of the z-statistic was at least 0.2.
+Enrichment analysis using DAVID v. 6.7 (https://david.ncifcrf.gov/) was used to find the biological processes that were the most prominent for each developmental stage.  The background gene list (proteome) used was the list of all Swissprot accession numbers that corresponded to a high confidence protein with an e-value less than or equal to 1E-10.  The gene lists were Swissprot accession numbers for proteins that were detected only in a specific sex and stage (e.g. early females, midstage males) or for all proteins detected across every stage in either males or females.
+
+
+
+
+
+
+comet (info can be found on UWPR website).  Here are the commands: https://proteomicsresource.washington.edu/protocols06/comet_commands.php
+More info here: http://comet-ms.sourceforge.net/
+
+
+
+
+
+
+
+
+
+
+Results
+
+
+Proteomics
+There were 3,627 proteins detected with high confidence across males and females of early, middle, and late reproductive stages.  Female and male gonad proteomic profiles were more similar in early stage reproduction, with proteomes diverging as reproductive maturity advanced (NMDS figure).  
+ NMDS NSAF.jpg 
+
+Three hundred five of these proteins were detected only in females and 522 were detected only in males.  The number of proteins unique to a specific reproductive stage increases with reproductive maturity from 24 and 20 in early females and males, respectively, to 20 and 43 in midstage females and males, and 161 and 145 in late stage females and males (Table[r]).  
+ sex-stage unique proteins.jpg 
+
+Important biological processes for each reproductive stage, as determined by the enrichment analysis, also increased with complexity as maturity advanced (Table).  In early females, proteins involved in muscle development were enriched, followed by those associated with epithelium development in midstage females.  In proteins unique to late reproductive females, the enriched processes included cell adhesion, organ development, and cell differentiation.  Early male unique proteins were enriched for hydrolase activity, midstage males had more proteins involved in RNA metabolism, and late reproductive males had a greater abundance of proteins involved in spermatogenesis, microtubule movement, and ion transport.
+In addition to the proteins that were unique to reproductive stage, many more were differentially abundant in comparisons between stage and sex.  Between sexes, there were 613 differentially abundant proteins in early females vs. early males, 637 in midstage females vs. midstage males, and 750 in late females vs. late males.  Between stages, there were 979 differentially abundant proteins for early females vs. midstage females, 988 for midstage females vs. late females, 1073 between early males vs. midstage males, and 1352 between midstage males vs. late males (supp. table).
+
+
+To do: 
+* proteins present throughout development that increase in abundance with maturity - heatmap
+
+
+[a]Grace's notebook indicates 7 stages for females.
+[b]+Samuel.J.White@gmail.com can you add RNA-seq methods here?
+[c]Is this clear that this is only referring to the developmental stages that were isolated? Or, does the statement seem like it implies all developmental stages characterized (see table)?
+[d]early females = 3,4,8; mid females = 34,35,38 ; late females = 51,69,70; early males = 2,7,9; mid males = 41,42,46; late males = 65,67,68
+[e]I know this is not correct
+[f]so you used the protein database I provided from transencoder?
+[g]yes
+[h]+emsie25@gmail.com can you provide links to raw data and corresponding code (commmands) that was used to find spectral matches?
+[i]I haven't uploaded it yet, but I can add that to my "do soon" list.  I'll prep a supp file with the code.
+[j]links to commands provided
+[k]I have started the process of submitting the raw and search result files to proteomeXchange so that we will have a publicly accessible link.
+[l]+emsie25@gmail.com similarly can you include commands used for this?
+[m]http://eagle.fish.washington.edu/oyster/index.php?dir=geoduck+supp+files%2F
+[n]this is not complete
+[o]Can you complete it?
+[p]yes
+[q]blast is running...
+[r]I envision a table with the numbers of unique proteins and enriched biological processes for each category.  This would complement the figure of unique proteins.
