@@ -18,6 +18,8 @@ Grace | [grace@wikispaces](http://genefish.wikispaces.com/Grace%27s+Notebook)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
+Mrunmayee | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
+
 
 ---
 
@@ -249,6 +251,8 @@ Thompson R and Roberts SB (**preprint**) Influence of carbon dioxide-induced aci
 <a id="theses">
 ## Theses</a>
 
+Genomic signatures of natural selection and population structure in West Coast and Alaskan sablefish (_Anoplopoma fimbria_).  Andrew Jasonowicz. 2014 [http://hdl.handle.net/1773/33907](http://hdl.handle.net/1773/33907)
+
 DNA methylation variation in gametes and larvae of the Pacific oyster, _Crassostrea gigas_. Claire Ellis Olson. 2014 [http://hdl.handle.net/1773/27478](http://hdl.handle.net/1773/27478)
 
 Epigenomic and transcriptomic regulation of environmental responses in the Pacific oyster, _Crassostrea gigas_. Mackenzie Gavery. 2014. [http://hdl.handle.net/1773/25984](http://hdl.handle.net/1773/25984)
@@ -268,98 +272,5 @@ Characterizing the effects of ocean acidification in larval and juvenile Manila 
 
 ---
 
-
-<a id="grants">
-## Grants</a>
-
-<br>
-
-#### Alleviating Regulatory Impediments to Native Shellfish Aquaculture
-
-Source of Support: NOAA Aquaculture Program
-
-Award Amount: $427,371
-
-Award Period: 9/1/2012 - 8/30/2014
-<ul>
-	<li><a href="http://oystergen.es/olympia/">Website</a></li>
-	<li><a href="http://oystergen.es/blog/">Blog</a></li>
-	<li><a href="https://xxxxxxxx">Progress Report</a> [1/15]</li>
-	<li><a href="https://dl.dropboxusercontent.com/u/115356/docs/WSG-report-2014.pdf">Progress Report</a> [1/14]</li>
-	<li><a href="https://dl.dropboxusercontent.com/u/115356/docs/WSG-report-2013.pdf">Progress Report</a> [1/13]</li>
-	<li><a href="https://dl.dropbox.com/u/115356/Roberts_6976_update_narrative_404.pdf">Progress Report </a> [1/12]</li>
-	<li>[Manuscript] <a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12052/abstract">Genomic resource development for shellfish of conservation concern</a></li>
-	<li>[Data] <a href="http://dx.doi.org/10.6084/m9.figshare.156431">Transcriptome characterization of the Olympia oyster and pinto abalone</a></li>
-</ul>
-
----
-#### Sablefish Reproductive Life History and Genetics
-
-Source of Support: NOAA / JISAO
-
-Award Amount: $189,869
-
-Award Period: 9/15/2012 - 6/30/2013
-<ul>
-	<li><span style="line-height: 13px;"><a href="https://dl.dropbox.com/u/115356/JISAO%20Sablefish%20ReproProgress%20Report%202013.pdf">Progress Report </a> [2/12]</span></li>
-<li><a href="http://faculty.washington.edu/sr320/?p=3402/">Proposal</a></li>
-</ul>
-
----
-
-#### DNA Methylation as a Mechanism to Increase Adaptive Potential in Invertebrates
-
-Source of Support: National Science Foundation
-
-Award Amount: $243,090
-
-Award Number: <a href="http://nsf.gov/awardsearch/showAward?AWD_ID=1158119">1158119</a>
-
-Award Period: 5/1/2012 - 4/30/2014
-<ul>
-	<li>[NCBI SRA] <a href="http://www.ncbi.nlm.nih.gov/sra/SRX327373"><em>Crassostrea gigas</em> MBD bisulfite sequencing - gill</a></li>     
-	<li>[NCBI SRA] <a href="http://www.ncbi.nlm.nih.gov/sra/SRX367081"><em>Crassostrea gigas</em> RNA-seq - gill</a></li>     
-	<li>[NCBI SRA] <a href="http://www.ncbi.nlm.nih.gov/sra/SRX3903468"><em>Crassostrea gigas</em> RNA-seq - male gonad</a></li>     
-        <li>[NCBI SRA] <a href="http://www.ncbi.nlm.nih.gov/sra/SRX386228"><em>Crassostrea gigas</em> bisulfite sequencing - male gonad</a></li>     
-        <li>[Data] <a href="http://dx.doi.org/10.6084/m9.figshare.749728"><em>Crassostrea gigas</em> high-throughput bisulfite sequencing (gill tissue)</a></li>     
-        <li>[Paper] <a href="https://peerj.com/articles/215/">Predominant intragenic methylation is associated with gene expression characteristics in a bivalve mollusc</a></li> 
-        <li>[Presentation] <a href="http://figshare.com/articles/Epigenetic_and_Environmental_Influences_on_the_Shellfish_Immune_Response/730626">Epigenetic and Environmental Influences on the Shellfish Immune Response</a></li>
-	<li><a href="http://oystergen.es/pacific/"><span style="line-height: 13px;">Website</span></a></li>
-        <li>[Poster] <a href="http://figshare.com/articles/NSA_Poster_2013_Claire_Ellis/478021">DNA Methylation Patterns in (<em id="__mceDel">Crassostrea gigas</em>)</a></li>      
-        <li>[Presentation] <a href="http://figshare.com/articles/DNA_methylation_as_a_source_of_epigenetic_regulation_in_the_Pacific_oyster_Crassostrea_gigas_/640501">DNA methylation as a source of epigenetic regulation in the Pacific oyster </a></li>
-        <li>[Data] <a href="http://figshare.com/articles/DNA_methylation_coverage_in_two_tissues_of_the_Pacific_Oyster/652964">DNA methylation coverage in two tissues of the Pacific Oyster</a></li>
-	<li>[Poster] <a href="http://eagle.fish.washington.edu/cnidarian/PAG_Gavery_2013.pdf">Epigenetic Landscapes in the Pacific Oyster (<em id="__mceDel">Crassostrea gigas</em>)</a></li>
-	<li><a href="http://dx.doi.org/10.6084/m9.figshare.97107">Proposal</a></li>
-</ul>
-
----
-
-#### Sablefish Broodstock Development and Functional Genomics
-
-Source of Support: NOAA [Contract]
-
-Award Amount: $349,407
-
-Award Period: 9/15/2011 - 9/14/2013
-<ul>
-	<li><a href="http://faculty.washington.edu/sr320/?p=1046"><span style="line-height: 13px;">Website</span></a></li>
-</ul>
-
----
-
-#### Threats to Bivalve Aquaculture and Fisheries: The Influence of Emerging Diseases and Environmental Change
-
-Source of Support: NOAA
-
-Award Amount: $243,000
-
-Award Period: 9/1/2009 - 2/29/2012
-<ul>
-	<li><a href="http://safsoa.wordpress.com/">Website</a></li>
-	<li><a href="https://docs.google.com/document/d/11u5RZcXWa6zhU-7PI4bTYdxWzmrfw9nywracw9rNzPk/edit">Progress Reports</a> (collated)</li>
-	<li>[Manuscript] <a href="http://link.springer.com/article/10.1007%2Fs00227-012-2055-x">Elevated pCO2 causes developmental delay in early larval Pacific oysters, <em>Crassostrea gigas</em></a></li>
-	<li>[Data] <a href="http://figshare.com/articles/Contigs_de_novo_RE22/90805">Contiguous sequences from <em>Vibrio tubiashii</em> RE22 assembly</a></li>
-	<li>Proposal</li>
-</ul>
 
  

@@ -5,6 +5,34 @@ Below are examples of some standard queries. In some examples datasets are actua
 
 ---
 
+### Only keep rows where value is not blank
+
+
+    Where [column_name] <> ' '
+
+---
+
+### Wildcards
+
+
+Wildcard  |  Description
+--------- | ---------
+% |	A substitute for zero or more characters
+_	| A substitute for a single character
+[charlist]	 | Sets and ranges of characters to match
+[^charlist] or [!charlist] | Matches only a character NOT specified within the brackets
+
+
+
+example
+
+    SELECT * FROM [emmats@washington.edu].[bact detection peptides and proteins]
+    Where protein like '%RUEPO%'
+
+
+
+---
+
 ### Reorder columns in an existing table (Use the "Edit dataset" button in SQLShare)
 ```sql
 SELECT
