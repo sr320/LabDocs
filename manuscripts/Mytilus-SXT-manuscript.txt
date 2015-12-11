@@ -1,0 +1,127 @@
+﻿Title option 1:
+Title option 2:
+Title option 3:
+
+
+
+
+Abstract
+
+
+Introduction
+
+
+
+
+Methods
+
+
+Experiment
+
+
+
+
+
+
+Transcriptome Assembly (Trinity)
+        Sequencing reads from all six libraries were assembled using Trinity (version 2.0.6).  As part of the Trinity package reads were quality trimmed[a] (Trimmomatic) and normalized prior to assembly with minimum kmer coverage of 2.  Assessment of transcriptome quality and completeness was performed using Transrate. To further assess completeness of the transcriptome contigs where compared to the The Transdecoder package that is part of Trinity was used to predict putative corresponding proteins. 
+
+
+
+
+
+
+Transcriptome Annotation (Trinity)
+        Resulting contigs were first compared to the NCBI nucleotide (nt) database to identify any non target taxa sequences (ie bacteria) and these were removed from further analysis. Contigs were compared to the Uniprot-Sprot protein database for functional annotation and subsequently associated with corresponding Gene Ontology descriptions using SQLShare. 
+
+
+
+
+Differential Expression
+
+
+Long non-coding RNA identification (CLC + online tools)
+
+
+
+
+
+
+Results
+
+
+Experiment
+
+
+Transcriptome Assembly (Trinity)
+        Following quality trimming, 792,714,472 (99%) of reads were assembled into 184834 transcripts corresponding to 110408 genes. Trinity fasta file(184834 seqs)
+After removing sequences (668) with significant matches to not Eukaryota taxa 184,166 contigs remained. Fasta file.   
+
+
+Long non-coding identification (CLC + online tools)
+
+
+Table I. Long non-coding sequences after data filtering steps.
+
+
+Item
+	Number of obtained sequences
+	Number of discarded sequences
+	De novo assembly
+	138833
+	0
+	Coverage (average coverage of contigs > 50)
+	38609
+	100224
+	ORF identification (sequence with ORF > 200 were discarded)
+	23492
+	15117
+	Coding potential (CPAT)
+	22308
+	1148
+	Contig length (> 250 bp)
+	16012
+	6296
+	blastX against mollusca proteins
+	12714
+	3298
+	Conserved Domains Search
+	
+
+	
+
+	blastn against nr genbank database
+	
+
+	
+
+	
+
+
+
+
+
+Transcriptome Annotation (Trinity)
+         Comparison with Uniprot Swiss-Prot database resulted in 29,486 contigs with annotations. 
+  
+
+
+
+  
+
+
+
+
+
+Differential Expression
+
+
+Discussion
+
+
+
+
+[a]ILLUMINACLIP:/share/bioinformatics/trinity-2.1.0/trinity-plugins/Trimmomatic/adapters/TruSeq3-PE.fa:2:30:10 SLIDINGWINDOW:4:5 LEADING:5 TRAILING:5 MINLEN:25
+
+
+It removes any adapters in that fasta file, it does the sliding window, then it checks for low quality at the beginning and end then removes anything less then 25 bp.
