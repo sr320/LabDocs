@@ -178,6 +178,38 @@ screenshot:
 **code:** `cp ncbi-blast-2.2.27+/bin/* /usr/local/bin`
 
 ---
+### Add program to PATH
+Similar to hack above where all files are added to `/usr/local/bin`
+modifed from <http://hathaway.cc/post/69201163472/how-to-edit-your-path-environment-variables-on-mac>
+
+Step 2: Enter the follow commands:
+
+touch ~/.bash_profile; open ~/.bash_profile
+
+This will open the .bash_profile file in Text Edit (the default text editor included on your system). The file allows you to customize the environment your user runs in.
+
+Step 3: Add the following line to the end of the file adding whatever additional directory you want in your path:
+
+export PATH=$PATH:/Applications/SalmonBeta-0.4.2_OSX-10.10/bin
+
+That example would allow me to just type `salmon` at command line to run program.
+
+Step 4: Save the .bash_profile file and Quit (Command + Q) Text Edit.
+
+Step 5: Force the .bash_profile to execute. This loads the values immediately without having to reboot. In your Terminal window, run the following command.
+
+source ~/.bash_profile
+
+That’s it! Now you know how to edit the PATH on your Mac OS X computer system. You can confirm the new path by opening a new Terminal windows and running:
+
+echo $PATH
+
+You should now see the values you want in your PATH.
+
+
+
+
+---
 ###Remove duplicate lines
 **code:** `!uniq  /Volumes/web/cnidarian/TJGR_prom_notgene_cpgIsland1.gff  > /Volumes/web/cnidarian/TJGR_prom_notgene_cpgIsland1u.gff`
 
