@@ -10,18 +10,6 @@ Associate Professor in the School of Aquatic and Fishery Sciences at the Univers
 
 # Graduate Students
 
-### [Jake Heare](http://heareresearch.blogspot.com/)
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/olyo_-_home_188DDB31.png" alt="olyo_-_home_188DDB31_png" width="180" height="200" />
-
-My current research focuses on understanding the phenotypic and genotypic effects of local adaptation in Washington’s native Olympia oyster (Ostrea lurida). I use tools such as next generation genomic and epigenomic sequencing as well as standard molecular methods such as PCR and qPCR.
-
-I’m interested in understanding the ecology, biology, and physiology of oyster reefs with my primary focus on oysters themselves. I have used tools such as histology, immunohistochemistry, western blots, PCR, and qPCR to study various phenomena in oysters. I seek to improve conservation and aquaculture methods to ensure beautiful coastal areas and bountiful seafood catches for years to come.
-
-My previous work has been in the Eastern oyster (Crassostrea virginica) with focus on reproduction and maturation at Louisiana State University, Oyster habitat damage assessment from the Deepwater Horizon oil spill with the National Resource Damage Assessment (NRDA) work group, and disease testing in oysters at Texas A&M University at Galveston (TAMUG). I have a Bachelors of Science degree in Marine Biology from TAMUG.
-
----
-
 
 ### Jay Dimond 
 
@@ -63,8 +51,6 @@ Andy Jasonowicz
 
 Grace Crandall
 
-Jonathan Allen
-
 Mrunmayee Manohar Shete
 
 ---
@@ -73,6 +59,8 @@ Mrunmayee Manohar Shete
 <br>
 
 ### _Graduate Students_
+
+[Jake Heare](http://heareresearch.blogspot.com/)
 
 Andy Jasonowicz
 
@@ -93,26 +81,17 @@ Dave Metzger
 
 ### _Undergraduates_
 
+Jonathan Allen UW  [proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing) [paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing)  [slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing)  [notebook](http://jda26.blogspot.com/)
+
 Katie Jackson UW SAFS (2015)
 
 Joelle Blaise UW SAFS (2014)
 
-Hannah Wear; UW SAFS (2013-2014)
-[proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit)
-[paper](https://docs.google.com/document/d/1w-AcodhwPoMyW96W9Oik81lbZJZqaQ5cLjl46l9sW7Y/pub)
-[poster](http://figshare.com/articles/Differential_Gene_Expression_in_the_Male_and_Female_Olympia_Oyster/1019944)
-[notebook](http://genefish.wikispaces.com/Hannah%27s+notebook)
+Hannah Wear; UW SAFS (2013-2014)  [proposal](https://docs.google.com/document/d/1mW8bMd3AWPGF9euY1Ck6h4MQ_TOZLBXnJyeQc6wKd2Q/edit)  [paper](https://docs.google.com/document/d/1w-AcodhwPoMyW96W9Oik81lbZJZqaQ5cLjl46l9sW7Y/pub)  [poster](http://figshare.com/articles/Differential_Gene_Expression_in_the_Male_and_Female_Olympia_Oyster/1019944)  [notebook](http://genefish.wikispaces.com/Hannah%27s+notebook)
 
-Charles Duber; UW SAFS (2013-2014)
-[proposal](https://docs.google.com/document/d/1ghXmH85LJlohpopaWs9jD8Lw1VcN4ZVMjUbzpV28R-0/edit)
-[paper](https://docs.google.com/document/d/1MOC9FTrbURgqKs1_sA-c6mda0S9-4Gs1xi-jm4wphjg/pub)
-[slides](https://docs.google.com/presentation/d/1IhEipEdYuHja7EIruawfrdxeRbO5xqqs6Us6wubeqsI/pub?start=false&loop=false&delayms=3000)
-[notebook](http://genefish.wikispaces.com/Charles%27+Notebook)
+Charles Duber; UW SAFS (2013-2014)  [proposal](https://docs.google.com/document/d/1ghXmH85LJlohpopaWs9jD8Lw1VcN4ZVMjUbzpV28R-0/edit)  [paper](https://docs.google.com/document/d/1MOC9FTrbURgqKs1_sA-c6mda0S9-4Gs1xi-jm4wphjg/pub)  [slides](https://docs.google.com/presentation/d/1IhEipEdYuHja7EIruawfrdxeRbO5xqqs6Us6wubeqsI/pub?start=false&loop=false&delayms=3000)  [notebook](http://genefish.wikispaces.com/Charles%27+Notebook)
 
-Jessica Blanchette; UW SAFS (2013-2014)
-[proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit )   [paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub)
-[slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx)
-[notebook](http://genefish.wikispaces.com/Jessica%27s+Notebook)
+Jessica Blanchette; UW SAFS (2013-2014)  [proposal](https://docs.google.com/document/d/12TBVhJFzyUVG3ZkHLFtQIqDR3rFMDxgIVLkVL2Upqj0/edit )   [paper](https://docs.google.com/document/d/12nb-nepY0VGAjGzpQO4Ni20yLjssj-rP0Ohrv7q8LQc/pub)  [slides](https://www.dropbox.com/s/w9at6mhduthozih/Blanchette%20Capstone.pptx)  [notebook](http://genefish.wikispaces.com/Jessica%27s+Notebook)
 
 <!---
 I realize all code below is crappy (html) 
