@@ -149,8 +149,11 @@ The following step is performed twice: once before transferring files and again 
 Code explanation:
 
 md5 - Program to generate hashes
+
 file1 file2 file3 - The files you want hashes generated from. Can be any number of files.
+
 ">>" - Directs the output of md5 to new file and appends each file's hash to the new file.
+
 YourDesiredFileName.md5 - The file name you want to give. Keep the ".md5" suffix for easy file identification.
 
 
@@ -159,27 +162,30 @@ YourDesiredFileName.md5 - The file name you want to give. Keep the ".md5" suffix
 
 
 Code explanation:
+
 diff - Compares files and lists any lines in the files that have differences
+
 PreTransferMD5hashes.md5 - The name of the md5 file containing the hashes of the files pre-transfer.
+
 PostTransferMD5hases.md5 - The name of the md5 file containing the hashes of the files post-transfer.
 
 If there are any differences in the hashes in the two md5 files, those files were corrupted during transfer and should be retransferred.
 
 
 
-
-
-
-
-
 ###Create gzipped tarball file (in Terminal)
 This will combine any number of files/directories into a single file (tar) and then compress (gzip) that file to make it smaller.
+
 `$tar -cvzf YourDesiredFileName.tar.gz file1 file2 file3`
 
 Code explanation:
+
 tar - Name of program that combines all files/directories listed into a single file (.tar)
+
 -cvzf - c = create a new archive, v = Verbose to list files being added to archive, z = gzip, f = file archive
+
 YourDesiredFileName.tar.gz - User's desired file name for the tarball gzip file that will be created. Keep the ".tar.gz" part of the file name!
+
 file1 file2 file3 - The list of files and/or directories that you want to include in the tarball. This is not limited to only 3 files/directories.
 
 
@@ -188,16 +194,21 @@ file1 file2 file3 - The list of files and/or directories that you want to includ
 This will perform two functions simulataneously
 - Unzip (decompress) the tarball file
 - Extract the contents of the tarball file.
+
 `$tar -zxvf filename.tar.gz`
 
 Code explanation:
+
 tar - Name of program to use.
+
 -zxvf - z = Work on gzip compression automatically when reading compressed files, x = Extract archive, v = Verbose to list files extracted, f = Read the archive file specified
+
 filename.tar.gz - name of the tarball gzipped file that you want to extract
 
 
 
 ###View files contained in a gzipped tarball file (in Terminal)
+
 `$tar -tvf filename.tar.gz`
 
 Code explanation:
@@ -208,6 +219,7 @@ filename.tar.gz - Name of the gzipped tarball file whose content you'd like to v
 
 
 ###Append (add) files to an existing tarball file (in Terminal)
+
 `$tar -rf path/to/tarball/file.tar path/to/file/to/add`
 
 NOTE: If the tarball is gzipped, you will have to unzip the tarball, append your file, then re-zip the tarball.
@@ -230,10 +242,12 @@ NOTE: If the tarball is gzipped, you will have to unzip the tarball, append your
 
 ###Show Hidden Files in Mac OSX 10.8, 10.7 and 10.6 (Terminal)
 In Terminal enter
+
 `defaults write com.apple.Finder AppleShowAllFiles True`
 
 After pressing enter, the Finder needs to be restarted for the changes to take place.
 In Terminal type:
+
 `killall Finder`
 
 To revert back, simple repeat from the first step, but change the word "True" in the first entry to "False". Remember to follow up with the killall Finder command to restart the Finder!
