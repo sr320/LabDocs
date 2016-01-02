@@ -27,6 +27,17 @@ wc = Terminal command for "word count"
 
 
 ---
+
+---
+###Count the number of reads in an Illumina FASTQ file
+
+`echo $(( $(wc -l < filename.fastq) / 4 ))`
+
+Explanation:
+
+An Illumina FASTQ file contains four lines per read, so run a word count on the number of lines divided by four will yield the number of reads.
+
+---
 ###Count the number of instances/occurrences of items in a column in a file
 
 `$cut -f1 /path/to/file | sort | uniq -c`
