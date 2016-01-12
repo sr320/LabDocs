@@ -1,6 +1,8 @@
 - [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease] - a new product from [FHL Course EIMD!](http://onsnetwork.org/eimd/)
 
-- [Sam teaches the Unix shell & GitHub at Software Carpentry @ UW eScience Data Center.](http://suparee.github.io/2015-06-25-uw/) [6/30]
+- [Sam helps at Software Carpentry @ UW eScience Data Center](http://uwescience.github.io/2016-01-07-uw/) [01/16]
+
+- [Sam teaches the Unix shell & GitHub at Software Carpentry @ UW eScience Data Center.](http://suparee.github.io/2015-06-25-uw/) [6/15]
 
 - Steven does SAFS Seminar - [DNA methylation in inverts, should we care?](https://github.com/sr320/talk-safs-2015) [4/15]
 
