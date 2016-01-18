@@ -1,11 +1,11 @@
-- [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease] - a new product from [FHL Course EIMD!](http://onsnetwork.org/eimd/)
-
-- [Sam helps at Software Carpentry @ UW eScience Data Center](http://uwescience.github.io/2016-01-07-uw/) [01/16]
-
-- [Sam teaches the Unix shell & GitHub at Software Carpentry @ UW eScience Data Center.](http://suparee.github.io/2015-06-25-uw/) [6/15]
-
-- Steven does SAFS Seminar - [DNA methylation in inverts, should we care?](https://github.com/sr320/talk-safs-2015) [4/15]
-
+- <a href="http://www.animalgenome.org/community/NRSP-8/2016/leadership">Steven elected as USDA NRSP-8 Aquaculture Co-coordinator</a> [01/16]
+<br>
+- <a href="http://uwescience.github.io/2016-01-07-uw/">Sam helps at Software Carpentry @ UW eScience Data Center</a> [01/16]
+<br>
+- Jay Dimond's <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract">Coral Epigenetic paper published</a> [11/15]
+<br>
+- Check out <a href="https://www.youtube.com/watch?v=oVyv3nHyv-0&feature=youtu.be">Jay in Belize!</a> [11/15]
+<br> 
 
 
 
@@ -14,6 +14,16 @@
 &nbsp;
 
 <!--more-->
+
+ Jay Dimond's <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract">Coral Epigenetic paper published</a> [11/15]
+<br>
+- Check out <a href="https://www.youtube.com/watch?v=oVyv3nHyv-0&feature=youtu.be">Jay in Belize!</a> [11/15]
+<br> 
+- <a href="http://www.washington.edu/news/2015/10/07/student-collaboration-leads-to-first-results-describing-sick-sea-star-immune-response/">Student collaboration leads to first results describing sick sea star immune response</a> [10/15] 
+<br>
+- Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease - a new product from <a href="http://onsnetwork.org/eimd/">FHL Course EIMD</a>! [7/15]
+<br>
+
 
 - [Sam helps at Software Carpentry @ UW eScience Data Center](http://efran.github.io/2015-04-09-UW/) [4/15]
 
