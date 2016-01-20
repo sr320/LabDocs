@@ -11,6 +11,20 @@ Skip back a word: Esc+b
 
 `for i in e f; do echo $i; done`
 
+---
+
+
+###Uncompress / Unzip all files in a directory
+
+```
+%%bash
+for f in *.gz
+do
+  STEM=$(basename "${f}" .gz)
+  gunzip -c "${f}" > /Users/sr320/data-genomic/tentacle/mchil-sxt/fq/"${STEM}"
+done
+```
+
 
 ---
 
