@@ -1,6 +1,8 @@
 LabDocs
 =======
 
+[![Join the chat at https://gitter.im/sr320/LabDocs](https://badges.gitter.im/sr320/LabDocs.svg)](https://gitter.im/sr320/LabDocs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a dynamic respository, and soon to be the jumping off place, for finding [our own](http://faculty.washington.edu/sr320/) stuff on the web. The current highlights include 
 
 * [Useful code and scripts](https://github.com/sr320/LabDocs/tree/master/code)
