@@ -13,13 +13,14 @@ Steven | [onsnetwork.org/halfshell](http://onsnetwork.org/halfshell/)
 Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)
 Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
-Claire | [claireeolson.blogspot](http://claireeolson.blogspot.com)
 Grace | [grace@wikispaces](http://genefish.wikispaces.com/Grace%27s+Notebook)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
-Jonathan | [jda26.blogspot](http://jda26.blogspot.com/)
 Mrunmayee | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
-
+Michelle | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
+Laura | [safsoa/Laura](https://safsoa.wordpress.com/category/lauras-notebook/)
+Evan | [genefish/seamaea](https://genefish.wordpress.com/author/seamaea/)
+Hollie | [safsoa/Hollie](https://safsoa.wordpress.com/category/hollies-notebook/)
 
 ---
 
