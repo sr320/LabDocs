@@ -26,7 +26,14 @@ Hollie | [safsoa/Hollie](https://safsoa.wordpress.com/category/hollies-notebook/
 
 <a id="pres">
 ## Recent Presentations</a>
+#### 2016
+* [Does DNA Methylation Facilitate Phenotypic Plasticity?](https://github.com/sr320/talk-univ-perp-2016) CNRS Amphitheatre (Moltpellier, France). February 2, 2015.
+ 
 #### 2015 
+* [Open Access Opportunities for Credit, Tenure, and Promotion](https://github.com/sr320/talk-CC-OA-2015) Claremont College (Claremont, CA). October 15, 2015.
+
+* [Phenotypic Plasticity and Epigenetics in Invertebrates](https://github.com/sr320/talk-cicese-2015) Centro de Investigación Científica y de Educación Superior de Ensenada, B.C. (CICESE). October 19, 2015.
+
 * [Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster](https://github.com/sr320/talk-osu-2015) Oregon State Unversity (Corvallis, OR). May 4, 2015.
 
 * [Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?](https://github.com/sr320/talk-fiu-2015) Florida International University (Miami, FL). April 23, 2015.
