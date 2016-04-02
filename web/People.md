@@ -49,7 +49,8 @@ Andy Jasonowicz
 # Undergraduate Students
 
 
-Grace Crandall
+Grace Crandall  [proposal]() [paper]()  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook]()
+
 
 Mrunmayee Manohar Shete
 
