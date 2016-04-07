@@ -18,9 +18,12 @@ RUN apt-get update && \
     unzip \
     wget \
     
+# Make bioinformatics directory and add to PATH
+RUN mkdir /usr/local/bioinformatics \
+	&& export PATH=/usr/bin/bioinformatics/:$PATH
+    
 #INSTALL blast2.3.0
 RUN	wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	&& mkdir /usr/local/bioinformatics \
 	&&tar -xvzf ncbi-blast-2.3.0+-x64-linux.tar.gz \
 	&& cp ncbi-blast-2.3.0+/bin/* /usr/local/bioinformatics \
 	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
