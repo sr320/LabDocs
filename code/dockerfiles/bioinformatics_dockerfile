@@ -1,3 +1,5 @@
 # Roberts Lab
 # Bioinformatics Image
 
+FROM ubuntu:14:04
+MAINTAINTER samwhite@uw.edu
