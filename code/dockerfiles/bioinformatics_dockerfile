@@ -19,9 +19,8 @@ RUN apt-get update && \
     bzip2 \
     wget \
     
-# Make bioinformatics directory and add to PATH
-RUN mkdir /usr/local/bioinformatics \
-	&& export PATH=/usr/bin/bioinformatics/:$PATH
+# Make bioinformatics directory
+RUN mkdir /usr/local/bioinformatics
     
 # Install blast2.3.0
 RUN	wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
@@ -36,3 +35,7 @@ RUN wget --output-document=samtools-0.1.19.tar.bz2 \
 	&& tar -xjf samtools-0.1.19.tar.bz2 -C /usr/local/bioinformatics \
 	&& make /usr/local/bioinformatics/samtools-0.1.19/ \
 	&& rm samtools-0.1.19.tar.bz2
+
+
+# Add bioinformatics directory to PATH
+	export PATH=/usr/bin/bioinformatics/:$PATH
