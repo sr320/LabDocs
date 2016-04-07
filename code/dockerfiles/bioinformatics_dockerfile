@@ -5,7 +5,7 @@ FROM debian:8
 MAINTAINTER samwhite@uw.edu
 RUN apt-get update && \
     apt-get install -y \    
-    apt-utils \
+    software-properties-common #installs python, apt-utils and python/perl libraries
     sudo \
     nano \
     curl \
@@ -13,4 +13,3 @@ RUN apt-get update && \
     man \
     unzip \
     wget \
-    
