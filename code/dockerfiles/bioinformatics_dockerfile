@@ -3,3 +3,5 @@
 
 FROM debian:8
 MAINTAINTER samwhite@uw.edu
+RUN apt-get update
+RUN apt-get wget
