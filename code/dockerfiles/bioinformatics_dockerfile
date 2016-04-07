@@ -3,6 +3,8 @@
 
 FROM debian:8
 MAINTAINTER samwhite@uw.edu
+
+# Get fundamental software
 RUN apt-get update && \
     apt-get install -y \    
     software-properties-common \ #installs python, apt-utils and python/perl libraries
@@ -15,3 +17,10 @@ RUN apt-get update && \
     man \
     unzip \
     wget \
+    
+#INSTALL blast2.3.0
+RUN	wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	&& mkdir /usr/local/bioinformatics \
+	&&tar -xvzf ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	&& cp ncbi-blast-2.3.0+/bin/* /usr/local/bioinformatics \
+	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
