@@ -17,7 +17,7 @@ RUN apt-get update && \
     man \
     unzip \
     bzip2 \
-    wget \
+    wget
     
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics
