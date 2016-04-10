@@ -29,9 +29,11 @@ WORKDIR /usr/local/bioinformatics
 ENV PATH /usr/local/bioinformatics:$PATH
     
 # Install blast2.3.0
-#RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	#&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	#&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
+RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
+
+#ENV PATH /usr/local/bioinformatics/:$PATH
 	
 	
 # Install samtools0.1.19 (version required for use with Stacks)
