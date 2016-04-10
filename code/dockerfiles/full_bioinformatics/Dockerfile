@@ -52,5 +52,3 @@ ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 	#&& rm samtools-0.1.19.tar.bz2
 
 
-# Add bioinformatics directory to PATH
-	#export PATH=/usr/bin/bioinformatics/:$PATH
