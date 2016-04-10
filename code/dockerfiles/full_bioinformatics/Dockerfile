@@ -2,7 +2,7 @@
 # Bioinformatics Image
 
 FROM debian:8
-MAINTAINTER Sam White <samwhite@uw.edu>
+MAINTAINER Sam White <samwhite@uw.edu>
 
 # Get fundamental software
 RUN apt-get update && \
