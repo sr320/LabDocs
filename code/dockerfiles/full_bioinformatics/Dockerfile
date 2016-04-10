@@ -7,6 +7,7 @@ MAINTAINER Sam White <samwhite@uw.edu>
 # Get fundamental software
 RUN apt-get update && \
     apt-get install -y \
+    openjdk-7-jre \
     software-properties-common \
     build-essential \
     dialog \
