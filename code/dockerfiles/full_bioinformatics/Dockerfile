@@ -20,7 +20,7 @@ RUN apt-get update && \
     wget
     
 # Make bioinformatics directory
-RUN mkdir /usr/local/bioinformatics \
+RUN mkdir /usr/local/bioinformatics
 
 # Set working directory
 WORKDIR=/usr/local/bioinformatics
