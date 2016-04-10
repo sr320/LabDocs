@@ -33,7 +33,7 @@ RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2
 	&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
 	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
 
-#ENV PATH /usr/local/bioinformatics/:$PATH
+ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 	
 	
 # Install samtools0.1.19 (version required for use with Stacks)
