@@ -29,9 +29,9 @@ WORKDIR /usr/local/bioinformatics
 ENV PATH /usr/local/bioinformatics:$PATH
     
 # Install blast (v2.3.0+)
-RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
+#RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	#&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	#&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
 
 ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 
