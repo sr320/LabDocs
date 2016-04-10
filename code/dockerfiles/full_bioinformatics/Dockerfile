@@ -24,8 +24,7 @@ RUN mkdir /usr/local/bioinformatics
     
 # Install blast2.3.0
 RUN wget --directory-prefix=/usr/local/bioinformatics ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	#&& tar -xvzf ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	#&& cp ncbi-blast-2.3.0+/bin/* /usr/local/bioinformatics \
+	&& tar -xvzf /usr/local/bioinformatics/ncbi-blast-2.3.0+-x64-linux.tar.gz \
 	#&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
 	
 	
