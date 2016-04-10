@@ -22,6 +22,8 @@ RUN apt-get update && \
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics \
 
+# Set working directory
+WORKDIR=/usr/local/bioinformatics
     
 # Install blast2.3.0
 RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
