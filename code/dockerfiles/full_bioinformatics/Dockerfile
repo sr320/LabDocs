@@ -39,7 +39,7 @@ ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 # Install FastQC (v.0.11.5)
 RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
 	&& unzip fastqc_v0.11.5.zip \
-	&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc
+	&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc \
 	&& rm fastqc_v0.11.5.zip
 	
 	
