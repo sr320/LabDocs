@@ -6,8 +6,8 @@ MAINTAINER Sam White <samwhite@uw.edu>
 
 # Get fundamental software
 RUN apt-get update && \
-    apt-get install -y \    
-    software-properties-common \ #installs python, apt-utils and python/perl libraries
+    apt-get install -y \
+    software-properties-common \
     build-essential \
     dialog \
     sudo \
