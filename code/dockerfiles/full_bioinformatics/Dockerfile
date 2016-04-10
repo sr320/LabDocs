@@ -28,12 +28,17 @@ WORKDIR /usr/local/bioinformatics
 # Add bioinformatics directory to PATH
 ENV PATH /usr/local/bioinformatics:$PATH
     
-# Install blast2.3.0
+# Install blast (v2.3.0+)
 RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
 	&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
 	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
 
 ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
+
+# Install FastQC (v.0.11.5)
+RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
+	&& unzip fastqc_v0.11.5.zip \
+	&& rm fastqc_v0.11.5.zip
 	
 	
 # Install samtools0.1.19 (version required for use with Stacks)
