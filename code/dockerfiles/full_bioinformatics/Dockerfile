@@ -48,8 +48,7 @@ ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 RUN wget --output-document=samtools-0.1.19.tar.bz2 \
 	http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
 	&& tar -xjf samtools-0.1.19.tar.bz2 \
-	&& ./usr/local/bioinformatics/samtools-0.1.19/configure \
-	#&& make \
+	&& make /usr/local/bioinformatics/samtools-0.1.19/ \
 	#&& make install \
 	#&& rm samtools-0.1.19.tar.bz2
 
