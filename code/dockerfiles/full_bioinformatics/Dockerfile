@@ -10,6 +10,7 @@ RUN apt-get update && \
     openjdk-7-jre \
     software-properties-common \
     build-essential \
+    libpng12-0 \
     dialog \
     sudo \
     nano \
