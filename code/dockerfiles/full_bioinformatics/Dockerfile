@@ -50,7 +50,7 @@ ENV PATH /usr/local/bioinformatics/bowtie2-2.2.8:$PATH
 
 # Install cufflinks (v2.1.1)
 RUN wget http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/cufflinks-2.1.1.tar.gz \
-	&& tar -zxvf cufflinks-2.1.1.tar.gz
+	&& tar -zxvf cufflinks-2.1.1.tar.gz \
 	&& rm cufflinks-2.1.1.tar.gz
 
 ENV PATH /usr/local/bioinformatics/cufflinks-2.1.1:$PATH
