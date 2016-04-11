@@ -11,6 +11,7 @@ RUN apt-get update && \
     software-properties-common \
     build-essential \
     libpng12-0 \
+    zlib1g-dev \
     dialog \
     sudo \
     nano \
