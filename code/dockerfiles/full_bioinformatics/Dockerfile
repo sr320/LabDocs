@@ -49,7 +49,7 @@ RUN wget --output-document=bowtie2-2.2.8-linux-x86_64.zip \
 ENV PATH /usr/local/bioinformatics/bowtie2-2.2.8:$PATH
 
 # Install FastQC (v.0.11.5)
-#RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
+RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
 	&& unzip fastqc_v0.11.5.zip \
 	&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc \
 	&& rm fastqc_v0.11.5.zip
