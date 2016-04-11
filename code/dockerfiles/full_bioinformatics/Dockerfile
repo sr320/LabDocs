@@ -49,10 +49,14 @@ ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 	
 # Install samtools0.1.19 (version required for use with Stacks)
-RUN wget --output-document=samtools-0.1.19.tar.bz2 \
-	http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
-	&& tar -xjf samtools-0.1.19.tar.bz2 \
-	&& make -C /usr/local/bioinformatics/samtools-0.1.19/ \
+#RUN wget --output-document=samtools-0.1.19.tar.bz2 \
+	#http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
+	#&& tar -xjf samtools-0.1.19.tar.bz2 \
+	#&& make -C /usr/local/bioinformatics/samtools-0.1.19/ \
 	#&& rm samtools-0.1.19.tar.bz2
+
+# Install tophat (v.2.1.1)
+RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
+
 
 
