@@ -34,9 +34,9 @@ WORKDIR /usr/local/bioinformatics
 ENV PATH /usr/local/bioinformatics:$PATH
     
 # Install blast (v2.3.0+)
-#RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	#&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	#&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
+RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
+	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
 
 ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 
@@ -50,23 +50,23 @@ ENV PATH /usr/local/bioinformatics/bowtie2-2.2.8:$PATH
 
 # Install FastQC (v.0.11.5)
 #RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
-	#&& unzip fastqc_v0.11.5.zip \
-	#&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc \
-	#&& rm fastqc_v0.11.5.zip
+	&& unzip fastqc_v0.11.5.zip \
+	&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc \
+	&& rm fastqc_v0.11.5.zip
 
 ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 	
 # Install samtools0.1.19 (version required for use with Stacks)
-#RUN wget --output-document=samtools-0.1.19.tar.bz2 \
-	#http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
-	#&& tar -xjf samtools-0.1.19.tar.bz2 \
-	#&& make -C /usr/local/bioinformatics/samtools-0.1.19/ \
-	#&& rm samtools-0.1.19.tar.bz2
+RUN wget --output-document=samtools-0.1.19.tar.bz2 \
+	http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
+	&& tar -xjf samtools-0.1.19.tar.bz2 \
+	&& make -C /usr/local/bioinformatics/samtools-0.1.19/ \
+	&& rm samtools-0.1.19.tar.bz2
 
 # Install tophat (v.2.1.1)
-#RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
-	#&& tar -zxvf tophat-2.1.1.Linux_x86_64.tar.gz \
-	#&& rm tophat-2.1.1.Linux_x86_64.tar.gz
+RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
+	&& tar -zxvf tophat-2.1.1.Linux_x86_64.tar.gz \
+	&& rm tophat-2.1.1.Linux_x86_64.tar.gz
 
 ENV PATH /usr/local/bioinformatics/tophat-2.1.1.Linux_x86_64:$PATH
 
