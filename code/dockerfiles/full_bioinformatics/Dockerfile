@@ -57,6 +57,6 @@ ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 
 # Install tophat (v.2.1.1)
 RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
-
+	&& tar -fxvz tophat-2.1.1.Linux_x86_64.tar.gz
 
 
