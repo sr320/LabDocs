@@ -43,7 +43,7 @@ ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 # Install bowtie (v2.2.8)
 RUN wget --output-document=bowtie2-2.2.8-linux-x86_64.zip \
 	https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.2.8/bowtie2-2.2.8-linux-x86_64.zip/download \
-
+	&& unzip bowtie2-2.2.8-linux-x86_64.zip
 
 # Install FastQC (v.0.11.5)
 #RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
