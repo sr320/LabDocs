@@ -48,6 +48,10 @@ RUN wget --output-document=bowtie2-2.2.8-linux-x86_64.zip \
 
 ENV PATH /usr/local/bioinformatics/bowtie2-2.2.8:$PATH
 
+# Install cufflinks (v2.1.1)
+RUN wget http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/cufflinks-2.1.1.tar.gz \
+	&& tar -zxvf cufflinks-2.1.1.tar.gz
+
 # Install FastQC (v.0.11.5)
 RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
 	&& unzip fastqc_v0.11.5.zip \
