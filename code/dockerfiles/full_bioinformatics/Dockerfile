@@ -10,6 +10,8 @@ RUN apt-get update && \
     openjdk-7-jre \
     software-properties-common \
     build-essential \
+    libncurses5-dev \
+    libncursesw5-dev \
     libpng12-0 \
     zlib1g-dev \
     dialog \
