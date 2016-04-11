@@ -47,9 +47,8 @@ ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 # Install samtools0.1.19 (version required for use with Stacks)
 RUN wget --output-document=samtools-0.1.19.tar.bz2 \
 	http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
-	#&& tar -xjf samtools-0.1.19.tar.bz2 \
-	#&& cd /usr/local/bioinformatics/samtools-0.1.19/ \
-	#&& ./configure \
+	&& tar -xjf samtools-0.1.19.tar.bz2 \
+	&& ./usr/local/bioinformatics/samtools-0.1.19/configure \
 	#&& make \
 	#&& make install \
 	#&& rm samtools-0.1.19.tar.bz2
