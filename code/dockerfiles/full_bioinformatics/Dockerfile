@@ -35,7 +35,8 @@ ENV PATH /usr/local/bioinformatics:$PATH
 
 # Install bedtools (v.2.25.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2.25.0.tar.gz \
-	&& tar -zxvf bedtools-2.25.0.tar.gz
+	&& tar -zxvf bedtools-2.25.0.tar.gz \
+	&& rm bedtools-2.25.0.tar.gz
     
 # Install blast (v2.3.0+)
 RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
