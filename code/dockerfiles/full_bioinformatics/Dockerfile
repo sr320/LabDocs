@@ -40,6 +40,11 @@ ENV PATH /usr/local/bioinformatics:$PATH
 
 ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 
+# Install bowtie (v2.2.8)
+RUN wget --output-document=bowtie2-2.2.8-linux-x86_64.zip \
+	https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.2.8/bowtie2-2.2.8-linux-x86_64.zip/download \
+
+
 # Install FastQC (v.0.11.5)
 #RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
 	#&& unzip fastqc_v0.11.5.zip \
@@ -56,9 +61,9 @@ ENV PATH /usr/local/bioinformatics/FastQC:$PATH
 	#&& rm samtools-0.1.19.tar.bz2
 
 # Install tophat (v.2.1.1)
-RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
-	&& tar -zxvf tophat-2.1.1.Linux_x86_64.tar.gz \
-	&& rm tophat-2.1.1.Linux_x86_64.tar.gz
+#RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
+	#&& tar -zxvf tophat-2.1.1.Linux_x86_64.tar.gz \
+	#&& rm tophat-2.1.1.Linux_x86_64.tar.gz
 
 ENV PATH /usr/local/bioinformatics/tophat-2.1.1.Linux_x86_64:$PATH
 
