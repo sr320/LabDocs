@@ -36,6 +36,7 @@ ENV PATH /usr/local/bioinformatics:$PATH
 # Install bedtools (v.2.25.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2.25.0.tar.gz \
 	&& tar -zxvf bedtools-2.25.0.tar.gz \
+	&& make -C /usr/local/bioinformatics/bedtools2 \
 	&& rm bedtools-2.25.0.tar.gz
     
 # Install blast (v2.3.0+)
