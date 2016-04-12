@@ -102,4 +102,7 @@ ENV PATH /usr/local/bioinformatics/fastx_toolkit/bin:$PATH
 
 # Install bismark (v0.15.0)
 RUN wget http://www.bioinformatics.babraham.ac.uk/projects/bismark/bismark_v0.15.0.tar.gz \
-	&& tar -xzf bismark_v0.15.0.tar.gz
+	&& tar -xzf bismark_v0.15.0.tar.gz \
+	&& rm bismark_v0.15.0.tar.gz
+
+ENV PATH /usr/local/bioinformatics/bismark_v0.15.0
