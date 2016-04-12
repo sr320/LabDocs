@@ -105,4 +105,4 @@ RUN wget http://www.bioinformatics.babraham.ac.uk/projects/bismark/bismark_v0.15
 	&& tar -xzf bismark_v0.15.0.tar.gz \
 	&& rm bismark_v0.15.0.tar.gz
 
-ENV PATH /usr/local/bioinformatics/bismark_v0.15.0
+ENV PATH /usr/local/bioinformatics/bismark_v0.15.0:$PATH
