@@ -88,4 +88,5 @@ ENV PATH /usr/local/bioinformatics/tophat-2.1.1.Linux_x86_64:$PATH
 # Install trimmomatic (v0.36)
 RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.36.zip \
 	&& unzip Trimmomatic-0.36.zip \
+	&& alias trimmomatic="java -jar /usr/local/bioinformatics/Trimmomatic-0.36"
 	&& rm Trimmomatic-0.36.zip
