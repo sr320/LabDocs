@@ -92,4 +92,8 @@ RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmoma
 	&& echo 'alias trimmomatic="java -jar /usr/local/bioinformatics/Trimmomatic-0.36/trimmomatic-0.36.jar"' >> ~/.bashrc \
 	&& rm Trimmomatic-0.36.zip
 
-# Install fastx toolkit 
+# Install fastx toolkit (v.0.0.14)
+###Install libgtextutils (v.0.6)
+RUN wget http://cancan.cshl.edu/labmembers/gordon/files/libgtextutils-0.6.tar.bz2 \
+	&& tar -xjf libgtextutils-0.6.tar.bz2 \
+	&& ./libgtextutils-0.6/configure
