@@ -10,6 +10,7 @@ RUN apt-get update && \
     openjdk-7-jre \
     software-properties-common \
     build-essential \
+    pkg-config \
     libncurses5-dev \
     libncursesw5-dev \
     libpng12-0 \
@@ -90,3 +91,5 @@ RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmoma
 	&& unzip Trimmomatic-0.36.zip \
 	&& echo 'alias trimmomatic="java -jar /usr/local/bioinformatics/Trimmomatic-0.36/trimmomatic-0.36.jar"' >> ~/.bashrc \
 	&& rm Trimmomatic-0.36.zip
+
+# Install fastx toolkit 
