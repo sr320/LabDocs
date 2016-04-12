@@ -110,4 +110,7 @@ ENV PATH /usr/local/bioinformatics/bismark_v0.15.0:$PATH
 # Install bsmap (v2.90)
 RUN wget http://lilab.research.bcm.edu/dldcc-web/lilab/yxi/bsmap/bsmap-2.90.tgz \
 	&& tar -xzf bsmap-2.90.tgz \
-	&& (cd /usr/local/bioinformatics/bsmap-2.90 && exec make && make install)
+	&& (cd /usr/local/bioinformatics/bsmap-2.90 && exec make && make install) \
+	&& rm bsmap-2.90.tgz
+
+ENV PATH /usr/local/bioinformatics/bsmap-2.90:$PATH
