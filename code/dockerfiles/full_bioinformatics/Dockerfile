@@ -1,5 +1,29 @@
 # Roberts Lab
+# Aquatic & Fishery Sciences
+# University of Washington
 # Bioinformatics Image
+
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# List of bioinformatics software in this image #
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+#						#
+#########################			#
+# SOFTWARE	VERSION #			#
+#########################			#
+# bedtools	2.25.0  #			#
+# bismark	0.15.0  #			#
+# blast		2.3.0+  #			#
+# bowtie2	2.2.8   #			#
+# bsmap		2.90    #			#
+# cufflinks	2.1.1   #			#
+# fastqc	0.11.5  #			#
+# fastx_toolkit	0.0.13  #			#
+# samtools	0.1.19  #			#
+# tophat	2.1.1   #			#
+# trimmomatic	0.36    #			#
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+
+
 
 FROM debian:8
 MAINTAINER Sam White <samwhite@uw.edu>
@@ -34,7 +58,7 @@ WORKDIR /usr/local/bioinformatics
 # Add bioinformatics directory to PATH
 ENV PATH /usr/local/bioinformatics:$PATH
 
-# Install bedtools (v.2.25.0)
+# Install bedtools (v2.25.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2.25.0.tar.gz \
 	&& tar -zxvf bedtools-2.25.0.tar.gz \
 	&& make -C /usr/local/bioinformatics/bedtools2 \
@@ -49,7 +73,7 @@ RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2
 
 ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 
-# Install bowtie (v2.2.8)
+# Install bowtie2 (v2.2.8)
 RUN wget --output-document=bowtie2-2.2.8-linux-x86_64.zip \
 	https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.2.8/bowtie2-2.2.8-linux-x86_64.zip/download \
 	&& unzip bowtie2-2.2.8-linux-x86_64.zip \
@@ -64,7 +88,7 @@ RUN wget http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/cufflinks
 
 ENV PATH /usr/local/bioinformatics/cufflinks-2.1.1:$PATH
 
-# Install FastQC (v.0.11.5)
+# Install FastQC (v0.11.5)
 RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
 	&& unzip fastqc_v0.11.5.zip \
 	&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc \
@@ -79,7 +103,7 @@ RUN wget --output-document=samtools-0.1.19.tar.bz2 \
 	&& make -C /usr/local/bioinformatics/samtools-0.1.19/ \
 	&& rm samtools-0.1.19.tar.bz2
 
-# Install tophat (v.2.1.1)
+# Install tophat (v2.1.1)
 RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
 	&& tar -zxvf tophat-2.1.1.Linux_x86_64.tar.gz \
 	&& rm tophat-2.1.1.Linux_x86_64.tar.gz
@@ -92,7 +116,7 @@ RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmoma
 	&& echo 'alias trimmomatic="java -jar /usr/local/bioinformatics/Trimmomatic-0.36/trimmomatic-0.36.jar"' >> ~/.bashrc \
 	&& rm Trimmomatic-0.36.zip
 
-# Install fastx toolkit (v.0.0.13)
+# Install fastx toolkit (v0.0.13)
 RUN wget http://hannonlab.cshl.edu/fastx_toolkit/fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 \
 	&& mkdir /usr/local/bioinformatics/fastx_toolkit \
 	&& tar -xjf fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 -C /usr/local/bioinformatics/fastx_toolkit \
