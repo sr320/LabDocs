@@ -97,5 +97,4 @@ RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmoma
 RUN wget http://cancan.cshl.edu/labmembers/gordon/files/libgtextutils-0.6.tar.bz2 \
 	&& tar -xjf libgtextutils-0.6.tar.bz2 \
 	&& (cd /usr/local/bioinformatics/libgtextutils-0.6 && exec ./configure) \
-	&& make -C /usr/local/bioinformatics/libgtextutils-0.6 \
-	&& make -c install /usr/local/bioinformatics/libgtextutils-0.6
+	&& (cd /usr/local/bioinformatics/libgtextutils-0.6 && make && make install)
