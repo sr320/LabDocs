@@ -106,3 +106,7 @@ RUN wget http://www.bioinformatics.babraham.ac.uk/projects/bismark/bismark_v0.15
 	&& rm bismark_v0.15.0.tar.gz
 
 ENV PATH /usr/local/bioinformatics/bismark_v0.15.0:$PATH
+
+# Install bsmap (v2.90)
+RUN wget http://lilab.research.bcm.edu/dldcc-web/lilab/yxi/bsmap/bsmap-2.90.tgz \
+	&& tar -xzf bsmap-2.90.tgz
