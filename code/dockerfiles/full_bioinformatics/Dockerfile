@@ -95,4 +95,7 @@ RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmoma
 # Install fastx toolkit (v.0.0.13)
 RUN wget http://hannonlab.cshl.edu/fastx_toolkit/fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 \
 	&& mkdir /usr/local/bioinformatics/fastx_toolkit \
-	&& tar -xjf fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 -C /usr/local/bioinformatics/fastx_toolkit
+	&& tar -xjf fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 -C /usr/local/bioinformatics/fastx_toolkit \
+	&& rm fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2
+
+ENV PATH /usr/local/bioinformatics/fastx_toolkit/bin:$PATH
