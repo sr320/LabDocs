@@ -85,3 +85,7 @@ RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64
 
 ENV PATH /usr/local/bioinformatics/tophat-2.1.1.Linux_x86_64:$PATH
 
+# Install trimmomatic (v0.36)
+RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.36.zip \
+	&& unzip Trimmomatic-0.36.zip
+
