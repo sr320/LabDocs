@@ -143,4 +143,4 @@ ENV PATH /usr/local/bioinformatics/bsmap-2.90:$PATH
 # Install pyrad (v3.0.66)
 RUN wget https://github.com/dereneaton/pyrad/archive/3.0.66.tar.gz \
 	&& tar -xzf 3.0.66.tar.gz \
-	&& (cd /usr/local/bioinformatics/pyrad-3.0.66 && exec python setup.py install && pyrad -h) \
+	&& (cd /usr/local/bioinformatics/pyrad-3.0.66 && exec python setup.py install && pyrad -h)
