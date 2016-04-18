@@ -35,6 +35,7 @@ RUN apt-get update && \
     software-properties-common \
     build-essential \
     pkg-config \
+    python-setuptools \
     libncurses5-dev \
     libncursesw5-dev \
     libpng12-0 \
