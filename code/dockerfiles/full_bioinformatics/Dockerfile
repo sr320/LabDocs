@@ -148,4 +148,4 @@ RUN wget https://github.com/dereneaton/pyrad/archive/3.0.66.tar.gz \
 	&& (cd /usr/local/bioinformatics/pyrad-3.0.66 && exec python setup.py install && pyrad -h) \
 	&& rm 3.0.66.tar.gz
 
-ENV PATH /usr/local/bioinformatics/pyrad-3.0.66
+ENV PATH /usr/local/bioinformatics/pyrad-3.0.66:$PATH
