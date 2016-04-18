@@ -156,3 +156,7 @@ RUN wget http://www.drive5.com/muscle/downloads3.8.31/muscle3.8.31_i86linux64.ta
 	&& rm muscle3.8.31_i86linux64.tar.gz
 
 ENV PATH /usr/local/bioinformatics/muscle3.8.31_i86linux64:$PATH
+
+# Install vsearch (v1.11)
+RUN wget wget https://github.com/torognes/vsearch/releases/download/v1.11.1/vsearch-1.11.1-linux-x86_64.tar.gz \
+	&& tar -xzf vsearch-1.11.1-linux-x86_64.tar.gz
