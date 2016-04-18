@@ -163,3 +163,7 @@ RUN wget https://github.com/torognes/vsearch/releases/download/v1.11.1/vsearch-1
 	&& rm vsearch-1.11.1-linux-x86_64.tar.gz
 
 ENV PATH /usr/local/bioinformatics/vsearch-1.11.1-linux-x86_64/bin:$PATH
+
+# Install pear
+RUN git clone https://github.com/xflouris/PEAR.git \
+	&& (cd /usr/local/bioinformatics/PEAR && ./autogen.sh && ./configure && make && make install)
