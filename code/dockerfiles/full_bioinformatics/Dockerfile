@@ -50,7 +50,8 @@ RUN apt-get update && \
     man \
     unzip \
     bzip2 \
-    wget
+    wget \
+    automake
     
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics
