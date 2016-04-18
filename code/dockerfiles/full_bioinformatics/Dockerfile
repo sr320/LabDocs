@@ -149,3 +149,10 @@ RUN wget https://github.com/dereneaton/pyrad/archive/3.0.66.tar.gz \
 	&& rm 3.0.66.tar.gz
 
 ENV PATH /usr/local/bioinformatics/pyrad-3.0.66:$PATH
+
+# Install muscle (v3.8.31)
+RUN wget http://www.drive5.com/muscle/downloads3.8.31/muscle3.8.31_i86linux64.tar.gz \
+	&& tar -xzf muscle3.8.31_i86linux64.tar.gz \
+	&& rm muscle3.8.31_i86linux64.tar.gz
+
+ENV PATH /usr/local/bioinformatics/muscle3.8.31_i86linux64:$PATH
