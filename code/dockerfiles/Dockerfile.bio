@@ -54,6 +54,7 @@ RUN apt-get update && \
     automake \
     gfortran \
     gcc-multilib \
+    gobjc++ \
     
     
 # Make bioinformatics directory
