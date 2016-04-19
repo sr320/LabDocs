@@ -52,7 +52,9 @@ RUN apt-get update && \
     bzip2 \
     wget \
     automake \
-    gfortran
+    gfortran \
+    gcc-multilib \
+    
     
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics
