@@ -55,7 +55,8 @@ RUN apt-get update && \
     gfortran \
     gcc-multilib \
     gobjc++ \
-    aptitude
+    aptitude \
+    xorg-dev
     
 RUN aptitude update && \
     aptitude install -y \
