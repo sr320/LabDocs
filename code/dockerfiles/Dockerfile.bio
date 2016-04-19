@@ -55,7 +55,7 @@ RUN apt-get update && \
     gfortran \
     gcc-multilib \
     gobjc++ \
-    aptitude \
+    aptitude
     
 RUN aptitude install libreadline-dev
     
