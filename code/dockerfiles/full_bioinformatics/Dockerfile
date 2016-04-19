@@ -165,7 +165,7 @@ RUN wget https://github.com/torognes/vsearch/releases/download/v1.11.1/vsearch-1
 
 ENV PATH /usr/local/bioinformatics/vsearch-1.11.1-linux-x86_64/bin:$PATH
 
-# Install pear
+# Install pear (0.9.6)
 RUN wget http://sco.h-its.org/exelixis/web/software/pear/files/pear-0.9.6-bin-64.tar.gz \
 	&& tar -xzf pear-0.9.6-bin-64.tar.gz \
 	&& rm pear-0.9.6-bin-64.tar.gz
