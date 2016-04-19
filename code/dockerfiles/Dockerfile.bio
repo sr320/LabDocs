@@ -56,7 +56,7 @@ RUN apt-get update && \
     gcc-multilib \
     gobjc++ \
     aptitude \
-    
+    aptitude install libreadline-dev
     
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics
