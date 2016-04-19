@@ -56,7 +56,8 @@ RUN apt-get update && \
     gcc-multilib \
     gobjc++ \
     aptitude \
-    xorg-dev
+    xorg-dev \
+    apt-utils
     
 RUN aptitude update && \
     aptitude install -y \
