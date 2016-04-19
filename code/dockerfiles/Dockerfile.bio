@@ -55,6 +55,7 @@ RUN apt-get update && \
     gfortran \
     gcc-multilib \
     gobjc++ \
+    aptitude \
     
     
 # Make bioinformatics directory
