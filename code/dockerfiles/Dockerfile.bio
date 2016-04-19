@@ -186,5 +186,5 @@ ENV PATH /usr/local/bioinformatics/pear-0.9.6-bin-64:$PATH
 # Install R (v3.2.5)
 RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& tar -xzf R-3.2.5.tar.gz \
-	&& (cd R-3.2.5 && exec ./configure && make && make check && make info) \
+	&& (cd R-3.2.5 && exec ./configure && make && && make install && make check && make info) \
 	&& rm R-3.2.5.tar.gz
