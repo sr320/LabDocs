@@ -56,7 +56,8 @@ Claire E. Olson, Steven B. Roberts. Indication of family-specific DNA methylatio
 Influence of 17α-ethinylestradiol on DNA Methylation in Oysters paper-Oyster-EE2: v1.5. Zenodo. 0.5281/zenodo.19046 <https://github.com/sr320/paper-Oyster-EE2/blob/master/Gavery-Roberts-EE2.md> | [GitHub](https://github.com/sr320/paper-Oyster-EE2) [Zenodo](https://zenodo.org/record/19046#.Vx5vD-aDFBc) | [GitHub](https://github.com/sr320/paper-Oyster-EE2) [Zenodo](https://zenodo.org/record/19046#.Vx5vD-aDFBc) (p: R)
 Dimond JL and Roberts SB  (2016), Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change Molecular Ecology doi:[10.1111/mec.13414](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> | [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.pq827) | [GitHub](https://github.com/jldimond/Coral-CpG) (c: Jupyter)
 
-⍋ p=partial; c=complete; [blog post describing above products](http://faculty.washington.edu/sr320/?p=11381)
+⍋ p=partial; c=complete;     
+_[blog post describing above products](http://faculty.washington.edu/sr320/?p=11381)_
 
 
 
