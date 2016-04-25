@@ -25,8 +25,6 @@ ImpactStory – http://impactstory.org/StevenRoberts
 
 Scopus – http://www.scopus.com/authid/detail.url?authorId=55366464800
 
-Husky SciVal Experts – http://www.experts.scival.com/uwashington/expertProfile.asp?n=Steven+Roberts&u_id=2452&oe_id=1&o_id=95
-
 SlideShare – http://www.slideshare.net/sr320/presentations
 
 Mendeley – http://www.mendeley.com/profiles/steven-roberts1/
