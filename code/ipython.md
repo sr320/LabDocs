@@ -36,6 +36,14 @@ Here is an example
 This code is used on 
 http://onsnetwork.org/halfshell/2015/03/02/up-down-in-the-house/
 
+###Embed Jupyter (iPython) notebook hosted on GitHub in onsnetwork.org wordpress
+
+####Obtain the Jupyter Notebook GitHub URL
+1. Go to GitHub page to view the Jupyter (iPython) Notebook
+2. Right-click on the Jupyter (iPython) Notebook
+3. View the source for the frame - the verbiage varies by browser.
+4. Copy the URL (should begin with https://render.githubusercontent.com).
+5. Paste the URL into the iframe code shown in example above.
 
 
 ###Start IPython in a web browser (via Terminal or Command Line):
