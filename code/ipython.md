@@ -27,7 +27,7 @@ Note: You may need to use ```float``` instead of ```int``` if you have a non-int
 
 
 
-###Embed IPython notebook (or anything else) in onsnetwork.org wordpress
+###Embed IPython notebook hosted on nbviewer in onsnetwork.org wordpress
 `iframe` can be used for this, something normally not allowed on wordpress.com.
 Here is an example
 ```
