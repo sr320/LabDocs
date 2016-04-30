@@ -58,7 +58,8 @@ RUN apt-get update && \
     aptitude \
     xorg-dev \
     apt-utils \
-    texinfo
+    texinfo \
+    gdebi-core
     
 RUN aptitude update && \
     aptitude install -y \
