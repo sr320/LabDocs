@@ -18,6 +18,7 @@
 # cufflinks	2.1.1   #			#
 # fastqc	0.11.5  #			#
 # fastx_toolkit	0.0.13  #			#
+# R		3.2.5   #			#
 # samtools	0.1.19  #			#
 # tophat	2.1.1   #			#
 # trimmomatic	0.36    #			#
@@ -191,3 +192,7 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& rm R-3.2.5.tar.gz
 
 ENV PATH /usr/local/bioinformatics/R-3.2.5/bin:$PATH
+
+# Install R Server (v.99)
+RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-i386.deb \
+	&& gdebi rstudio-server-0.99.896-i386.deb
