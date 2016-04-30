@@ -60,7 +60,8 @@ RUN apt-get update && \
     xorg-dev \
     apt-utils \
     texinfo \
-    gdebi-core
+    gdebi-core \
+    libsparsehash-dev
     
 RUN aptitude update && \
     aptitude install -y \
