@@ -197,3 +197,6 @@ ENV PATH /usr/local/bioinformatics/R-3.2.5/bin:$PATH
 # Install R Server (v.99)
 RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
 	&& gdebi rstudio-server-0.99.896-amd64.deb
+
+# Expose Ports
+EXPOSE 8787
