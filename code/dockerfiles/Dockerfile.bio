@@ -223,7 +223,7 @@ RUN echo '\n\
 \n# where this Docker container is running. \
 \nif(is.na(Sys.getenv("HTTR_LOCALHOST", unset=NA))) { \
 \n  options(httr_oob_default = TRUE) \
-\n}' >> /etc/R/Rprofile.site
+\n}' >> /usr/local/bioinformatics/R-3.2.5/src/gnuwin32/fixed/etc/Rprofile.site
 
 # Continue Rstudio server installation
 # Taken from rocker/rstudio Dockerhub
