@@ -228,17 +228,6 @@ RUN echo -e '\n\
 
 # Continue Rstudio server installation
 # Taken from rocker/rstudio Dockerhub
-## A default user system configuration. For historical reasons, 
-## we want user to be 'rstudio', but it is 'docker' in r-base 
-RUN usermod -l rstudio docker \
-	&& usermod -m -d /home/rstudio rstudio \
-	&& groupmod -n rstudio docker \
-	&& echo '"\e[5~": history-search-backward' >> /etc/inputrc \
-	&& echo '"\e[6~": history-search-backward' >> /etc/inputrc \
-	&& echo "rstudio:rstudio" | chpasswd
-
-# Continue Rstudio server installation
-# Taken from rocker/rstudio Dockerhub
 ## Use s6
 RUN wget -P /tmp/ https://github.com/just-containers/s6-overlay/releases/download/v1.11.0.1/s6-overlay-amd64.tar.gz \
 	&& tar xzf /tmp/s6-overlay-amd64.tar.gz -C /
