@@ -70,7 +70,7 @@ RUN apt-get update && \
     libcurl4-openssl-dev \
     libssl1.0.0 \
     libssl-dev \
-    psmisc \
+    psmisc
     
 RUN aptitude update && \
     aptitude install -y \
