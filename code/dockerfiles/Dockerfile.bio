@@ -19,7 +19,6 @@
 # fastqc	0.11.5  #			#
 # fastx_toolkit	0.0.13  #			#
 # R		3.2.5   #			#
-# Rstudio Server0,99	#			#
 # samtools	0.1.19  #			#
 # tophat	2.1.1   #			#
 # trimmomatic	0.36    #			#
