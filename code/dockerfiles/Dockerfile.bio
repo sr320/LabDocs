@@ -212,7 +212,7 @@ RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
 	&& wget https://github.com/jgm/pandoc-templates/archive/1.15.0.6.tar.gz \
   	&& mkdir -p /opt/pandoc/templates && tar zxf 1.15.0.6.tar.gz \
 	&& cp -r pandoc-templates*/* /opt/pandoc/templates && rm -rf pandoc-templates* \
-	&& mkdir /root/.pandoc && ln -s /opt/pandoc/templates /root/.pandoc/templates \
+	&& mkdir /root/.pandoc && ln -s /opt/pandoc/templates /root/.pandoc/templates
 
 # Continue Rstudio server installation
 # Taken from rocker/rstudio Dockerhub
