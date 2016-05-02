@@ -217,7 +217,7 @@ RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
 # Continue Rstudio server installation
 # Taken from rocker/rstudio Dockerhub
 ## Ensure that if both httr and httpuv are installed downstream, oauth 2.0 flows still work correctly. 
-RUN echo '\n\
+RUN echo '\n \
 \n# Configure httr to perform out-of-band authentication if HTTR_LOCALHOST \
 \n# is not set since a redirect to localhost may not work depending upon \
 \n# where this Docker container is running. \
