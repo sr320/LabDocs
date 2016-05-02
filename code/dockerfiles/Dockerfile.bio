@@ -19,6 +19,7 @@
 # fastqc	0.11.5  #			#
 # fastx_toolkit	0.0.13  #			#
 # R		3.2.5   #			#
+# Rstudio Server0,99	#			#
 # samtools	0.1.19  #			#
 # tophat	2.1.1   #			#
 # trimmomatic	0.36    #			#
@@ -29,7 +30,7 @@
 FROM debian:8
 MAINTAINER Sam White <samwhite@uw.edu>
 
-# Get fundamental software
+# Get software dependencies
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     openjdk-7-jdk \
@@ -61,7 +62,15 @@ RUN apt-get update && \
     apt-utils \
     texinfo \
     gdebi-core \
-    libsparsehash-dev
+    libsparsehash-dev \
+    file \
+    ca-certificates \
+    libapparmor1 \
+    libedit2 \
+    libcurl4-openssl-dev \
+    libssl1.0.0 \
+    libssl-dev \
+    psmisc \
     
 RUN aptitude update && \
     aptitude install -y \
