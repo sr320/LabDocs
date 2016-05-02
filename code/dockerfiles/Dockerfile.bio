@@ -236,7 +236,10 @@ COPY userconf.sh /etc/cont-init.d/conf
 COPY run.sh /etc/services.d/rstudio/run
 COPY add-students.sh /usr/local/bin/add-students
 
-## Expose a default volume for Kitematic VOLUME /home/rstudio
+## Expose a default volume for Kitematic 
+
+VOLUME /home/rstudio
+
 # Expose Ports
 EXPOSE 8787
 
