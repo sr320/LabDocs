@@ -35,7 +35,7 @@ Frontiers – http://community.frontiersin.org/people/StevenRoberts/43641
 
 ResearchGate – http://www.researchgate.net/profile/Steven_Roberts6
 
-Publons – https://publons.com/author/13038/steven-roberts
+Publons – https://publons.com/a/13038/ 
 
 ---
 

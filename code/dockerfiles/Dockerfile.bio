@@ -18,6 +18,7 @@
 # cufflinks	2.1.1   #			#
 # fastqc	0.11.5  #			#
 # fastx_toolkit	0.0.13  #			#
+# R		3.2.5   #			#
 # samtools	0.1.19  #			#
 # tophat	2.1.1   #			#
 # trimmomatic	0.36    #			#
@@ -28,9 +29,9 @@
 FROM debian:8
 MAINTAINER Sam White <samwhite@uw.edu>
 
-# Get fundamental software
+# Get software dependencies
 RUN apt-get update && \
-    apt-get install -y \
+    apt-get install -y --no-install-recommends \
     openjdk-7-jdk \
     software-properties-common \
     build-essential \
@@ -58,7 +59,17 @@ RUN apt-get update && \
     aptitude \
     xorg-dev \
     apt-utils \
-    texinfo
+    texinfo \
+    gdebi-core \
+    libsparsehash-dev \
+    file \
+    ca-certificates \
+    libapparmor1 \
+    libedit2 \
+    libcurl4-openssl-dev \
+    libssl1.0.0 \
+    libssl-dev \
+    psmisc
     
 RUN aptitude update && \
     aptitude install -y \
@@ -186,8 +197,7 @@ ENV PATH /usr/local/bioinformatics/pear-0.9.6-bin-64:$PATH
 # Install R (v3.2.5)
 RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& tar -xzf R-3.2.5.tar.gz \
-	&& mkdir R \
-	&& (cd /usr/local/bioinformatics/R-3.2.5 && exec ./configure --prefix=/usr/local/bioinformatics/R && make) \
+	&& (cd /usr/local/bioinformatics/R-3.2.5 && ./configure --enable-R-shlib; make) \
 	&& rm R-3.2.5.tar.gz
 
-ENV PATH /usr/local/bioinformatics/R-3.2.5:$PATH
+ENV PATH /usr/local/bioinformatics/R-3.2.5/bin:$PATH
