@@ -63,7 +63,7 @@ RUN apt-get update && \
     texinfo \
     libsparsehash-dev \
     gdebi-core \
-    libapparmor1 \https://support.rstudio.com/hc/en-us/articles/200717193-RStudio-Server-Will-Not-Start
+    libapparmor1 \
     libbsd0 \
     libedit2 \
     psmisc
