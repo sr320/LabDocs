@@ -75,7 +75,7 @@ RUN mkdir /usr/local/bioinformatics
 WORKDIR /usr/local/bioinformatics
 
 # Add bioinformatics directory to PATH
-ENV PATH /usr/local/bioinformatics:$PATH
+# ENV PATH /usr/local/bioinformatics:$PATH
 
 # Install bedtools (v2.25.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2.25.0.tar.gz \
