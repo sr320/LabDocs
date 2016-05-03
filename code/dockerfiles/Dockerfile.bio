@@ -62,7 +62,11 @@ RUN apt-get update && \
     apt-utils \
     texinfo \
     libsparsehash-dev \
-    gdebi-core
+    gdebi-core \
+    libapparmor1 \
+    libbsd0 \
+    libedit2 \
+    psmisc
 
     
 RUN aptitude update && \
