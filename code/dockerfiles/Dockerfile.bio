@@ -63,7 +63,7 @@ RUN apt-get update && \
     texinfo \
     libsparsehash-dev \
     gdebi-core \
-    libapparmor1 \
+    libapparmor1 \https://support.rstudio.com/hc/en-us/articles/200717193-RStudio-Server-Will-Not-Start
     libbsd0 \
     libedit2 \
     psmisc
@@ -205,5 +205,5 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 
 # Install RStudio Server (v.0.99.896)
 RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
-	&& gdebi rstudio-server-0.99.896-amd64.deb \
+	&& gdebi --non-interactive rstudio-server-0.99.896-amd64.deb \
 	&& rm rstudio-server-0.99.896-amd64.deb
