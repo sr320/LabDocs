@@ -205,7 +205,7 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 
 # Create srlab user
 RUN useradd -ms /bin/bash srlab \
-	echo "srlab:scallop" | chpasswd
+	&& echo "srlab:scallop" | chpasswd
 
 # Install RStudio Server (v.0.99.896)
 #RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
