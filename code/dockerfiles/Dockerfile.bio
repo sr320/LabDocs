@@ -61,7 +61,8 @@ RUN apt-get update && \
     xorg-dev \
     apt-utils \
     texinfo \
-    libsparsehash-dev
+    libsparsehash-dev \
+    gdebi-core
 
     
 RUN aptitude update && \
@@ -198,4 +199,7 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& cp /usr/local/bioinformatics/R-3.2.5/bin/R /usr/local/bin \
 	&& rm R-3.2.5.tar.gz
 
-# ENV PATH /usr/local/bioinformatics/R-3.2.5/bin:$PATH
+# Install RStudio Server (v.0.99.896)
+RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
+	&& gdebi rstudio-server-0.99.896-amd64.deb \
+	&& rm rstudio-server-0.99.896-amd64.deb
