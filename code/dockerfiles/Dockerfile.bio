@@ -61,16 +61,8 @@ RUN apt-get update && \
     xorg-dev \
     apt-utils \
     texinfo \
-    gdebi-core \
-    libsparsehash-dev \
-    file \
-    ca-certificates \
-    libapparmor1 \
-    libedit2 \
-    libcurl4-openssl-dev \
-    libssl1.0.0 \
-    libssl-dev \
-    psmisc
+    libsparsehash-dev
+
     
 RUN aptitude update && \
     aptitude install -y \
