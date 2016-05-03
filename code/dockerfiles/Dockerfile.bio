@@ -208,6 +208,6 @@ RUN useradd -ms /bin/bash srlab \
 	echo "srlab:scallop" | chpasswd
 
 # Install RStudio Server (v.0.99.896)
-RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
-	&& gdebi --non-interactive rstudio-server-0.99.896-amd64.deb \
-	&& rm rstudio-server-0.99.896-amd64.deb
+#RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
+#	&& gdebi --non-interactive rstudio-server-0.99.896-amd64.deb \
+#	&& rm rstudio-server-0.99.896-amd64.deb
