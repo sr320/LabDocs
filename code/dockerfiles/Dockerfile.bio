@@ -197,4 +197,4 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& (cd /usr/local/bioinformatics/R-3.2.5 && ./configure --enable-R-shlib; make) \
 	&& rm R-3.2.5.tar.gz
 
-ENV PATH /usr/local/bioinformatics/R-3.2.5/bin:$PATH
+# ENV PATH /usr/local/bioinformatics/R-3.2.5/bin:$PATH
