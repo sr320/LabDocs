@@ -17,6 +17,8 @@ ORCID – http://orcid.org/0000-0001-8302-1138
 
 GitHub – https://github.com/sr320
 
+Publons – https://publons.com/a/13038/ 
+
 Google Scholar – http://scholar.google.com/citations?hl=en&user=aAoYWVUAAAAJ
 
 FigShare – http://figshare.com/authors/Steven_Roberts/97086
@@ -35,9 +37,14 @@ Frontiers – http://community.frontiersin.org/people/StevenRoberts/43641
 
 ResearchGate – http://www.researchgate.net/profile/Steven_Roberts6
 
-Publons – https://publons.com/a/13038/ 
 
 ---
+
+### Open Data
+###### Our lab primarily generates high-throughput sequencing data. In addition to making this available in [NCBI](http://www.ncbi.nlm.nih.gov/) repositories, we also make our entire catalog of projects available [here](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN) with direct access to raw data on our [local server](http://owl.fish.washington.edu/nightingales/). All intermediate data products are also on a public facing server with select works also in [Figshare](https://figshare.com/) e.g., [Dryad](http://datadryad.org/) e.g., [Github](https://github.com/) e.g., and [Zenodo](https://zenodo.org/) e.g.. [Grant proposals](https://github.com/sr320/LabDocs/blob/master/Proposal_database.md) and [lab meetings](https://www.youtube.com/playlist?list=PLLDVqNxOKWsQSCKgQ3OwW4JidvPfEgyJd) are also open and online.
+
+---
+
 
 ### Enhanced Products
 
