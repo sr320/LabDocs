@@ -10,6 +10,13 @@ Lab Notebook - http://onsnetwork.org/halfshell/
 
 ---
 
+
+### Open Data
+###### Our lab primarily generates high-throughput sequencing data. In addition to making this available in [NCBI](http://www.ncbi.nlm.nih.gov/) repositories, we make our entire catalog of projects available [here](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN) with direct access to raw data on our [local server](http://owl.fish.washington.edu/nightingales/). All intermediate data products are on a public facing server with select works available at [Figshare](https://figshare.com/) [_e.g._](https://figshare.com/s/7733b8df67f1f70152a8), [Dryad](http://datadryad.org/) [_e.g._](http://datadryad.org/resource/doi:10.5061/dryad.pq827), [Github](https://github.com/) [_e.g._](https://github.com/sr320/paper-Oyster-EE2), and [Zenodo](https://zenodo.org/) [_e.g._](https://zenodo.org/record/30373). [Grant proposals](https://github.com/sr320/LabDocs/blob/master/Proposal_database.md) and [lab meetings](https://www.youtube.com/playlist?list=PLLDVqNxOKWsQSCKgQ3OwW4JidvPfEgyJd) are open and available.
+
+---
+
+
 ### Profiles
 
 
@@ -40,14 +47,11 @@ ResearchGate – http://www.researchgate.net/profile/Steven_Roberts6
 
 ---
 
-### Open Data
-###### Our lab primarily generates high-throughput sequencing data. In addition to making this available in [NCBI](http://www.ncbi.nlm.nih.gov/) repositories, we make our entire catalog of projects available [here](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN) with direct access to raw data on our [local server](http://owl.fish.washington.edu/nightingales/). All intermediate data products are on a public facing server with select works available at [Figshare](https://figshare.com/) [_e.g._](https://figshare.com/s/7733b8df67f1f70152a8), [Dryad](http://datadryad.org/) [_e.g._](http://datadryad.org/resource/doi:10.5061/dryad.pq827), [Github](https://github.com/) [_e.g._](https://github.com/sr320/paper-Oyster-EE2), and [Zenodo](https://zenodo.org/) [_e.g._](https://zenodo.org/record/30373). [Grant proposals](https://github.com/sr320/LabDocs/blob/master/Proposal_database.md) and [lab meetings](https://www.youtube.com/playlist?list=PLLDVqNxOKWsQSCKgQ3OwW4JidvPfEgyJd) are open and available.
 
----
 
 
 ### Enhanced Products
-
+While we can certainly improve on our efforts to make our work open and reproducible, we have published a series of products over the last few years that have had associated code/data repositories that have accompanied the narratives (aka manuscripts). Below are said products. See also a [blog post](http://faculty.washington.edu/sr320/?p=11381) describing these efforts.
 
 Paper | Data | Code ⍋ (p/c)
 ------|------|-------
@@ -61,8 +65,7 @@ Claire E. Olson, Steven B. Roberts. Indication of family-specific DNA methylatio
 Influence of 17α-ethinylestradiol on DNA Methylation in Oysters paper-Oyster-EE2: v1.5. Zenodo. 0.5281/zenodo.19046 <https://github.com/sr320/paper-Oyster-EE2/blob/master/Gavery-Roberts-EE2.md> | [GitHub](https://github.com/sr320/paper-Oyster-EE2) [Zenodo](https://zenodo.org/record/19046#.Vx5vD-aDFBc) | [GitHub](https://github.com/sr320/paper-Oyster-EE2) [Zenodo](https://zenodo.org/record/19046#.Vx5vD-aDFBc) (p: R)
 Dimond JL and Roberts SB  (2016), Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change Molecular Ecology doi:[10.1111/mec.13414](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> | [Dryad](http://datadryad.org/resource/doi:10.5061/dryad.pq827) | [GitHub](https://github.com/jldimond/Coral-CpG) (c: Jupyter)
 
-⍋ p=partial; c=complete; [blog post describing above products](http://faculty.washington.edu/sr320/?p=11381)
-
+⍋ p=partial; c=complete (can go from raw data to figures in manuscript)
 
 
 ---
