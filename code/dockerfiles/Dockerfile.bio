@@ -69,7 +69,6 @@ RUN apt-get update && \
     libbsd0 \
     libedit2 \
     psmisc \
-    sqlite3
 
     
 RUN aptitude update && \
