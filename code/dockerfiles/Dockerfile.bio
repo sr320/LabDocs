@@ -216,4 +216,5 @@ RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
 # Install Stacks (v.1.40)
 RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 	&& tar -xzf stacks-1.40.tar.gz \
+	&& (cd /usr/local/bioinformatics/stacks-1.40 && ./configure --enable-sparsehash && make -j 16) \
 	&& rm stacks-1.40.tar.gz
