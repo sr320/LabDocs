@@ -68,7 +68,8 @@ RUN apt-get update && \
     libapparmor1 \
     libbsd0 \
     libedit2 \
-    psmisc
+    psmisc \
+    sqlite3
 
     
 RUN aptitude update && \
