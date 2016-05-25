@@ -68,7 +68,7 @@ RUN apt-get update && \
     libapparmor1 \
     libbsd0 \
     libedit2 \
-    psmisc \
+    psmisc
 
     
 RUN aptitude update && \
