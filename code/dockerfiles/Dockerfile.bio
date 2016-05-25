@@ -222,4 +222,4 @@ RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 
 # Install MiniConda (for installing Jupyter Notebook)
 RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
-	&& bash Miniconda2-latest-Linux-x86_64.sh
+	&& bash -b Miniconda2-latest-Linux-x86_64.sh
