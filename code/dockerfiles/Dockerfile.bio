@@ -230,3 +230,4 @@ ENV PATH /root/miniconda2/bin:$PATH
 # Install Jupyter Notebook & all dependencies (via MiniConda)
 RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config
+	&& (sed -i '/# c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py)
