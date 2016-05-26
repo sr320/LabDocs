@@ -231,4 +231,4 @@ ENV PATH /root/miniconda2/bin:$PATH
 RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config \
 	&& (sed -i '/# c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
-	&& (sed -i '/# c.NotebookApp.ip/c\c.NotebookApp.ip = \'0.0.0.0\'' /root/.jupyter/jupyter_notebook_config.py)
+	&& (sed -i '/# c.NotebookApp.ip/c\c.NotebookApp.ip = x270.0.0.0x27' /root/.jupyter/jupyter_notebook_config.py)
