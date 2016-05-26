@@ -228,4 +228,5 @@ RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
 ENV PATH /root/miniconda2/bin:$PATH
 
 # Install Jupyter Notebook & all dependencies (via MiniConda)
-RUN conda install jupyter -y
+RUN conda install jupyter -y \
+	&& jupyter notebook --generate-config
