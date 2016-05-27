@@ -77,7 +77,7 @@ _[blog post describing above products](http://faculty.washington.edu/sr320/?p=11
 * [Science Communication and Impact: A Researcher's Perspective](http://www.slideshare.net/sr320/science-communication-and-impact-a-researchers-perspective) Special Libraries Association - Panel discussion - Staying in the Game: New Roles for Libraries in Research Support Assocation (Vancouver, WA). June 2014.      
 			
 
-* [Collaborative Genomic Data Analyses in the Cloud](http://www.slideshare.net/sr320/escience-roberts-microsoft) Escience in the Cloud -Microsoft Research Campus (Seattle, WA). March 2014	.		
+* [Collaborative Genomic Data Analyses in the Cloud](http://www.slideshare.net/sr320/escience-roberts-microsoft) Escience in the Cloud -Microsoft Research Campus (Seattle, WA). March 2014	
 
 * [Genomics on the Half Shell: Making Science more Open](http://www.slideshare.net/sr320/escience-roberts) UW escience Seminar (Seattle, WA). February 2014
 
