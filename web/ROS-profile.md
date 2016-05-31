@@ -2,13 +2,20 @@
 This page is a template for creating your own Reproducibility and Open Science Profile page .
 -->
 
-# Reproducibility and Open Science Stuff
+# Reproducibility and Open Science Profile
 
 ## [Steven Roberts](http://robertslab.info)
 
 Lab Notebook - http://onsnetwork.org/halfshell/
 
 ---
+
+
+### Open Data
+###### Our lab primarily generates high-throughput sequencing data. In addition to making this available in [NCBI](http://www.ncbi.nlm.nih.gov/) repositories, we make our entire catalog of projects available [here](https://www.google.com/fusiontables/DataSource?docid=13IxnqIZ_2Xpz_HE-3YcnU_egASYz9ZlA0PYIDGLN) with direct access to raw data on our [local server](http://owl.fish.washington.edu/nightingales/). All intermediate data products are on a public facing server with select works available at [Figshare](https://figshare.com/) [_e.g._](https://figshare.com/s/7733b8df67f1f70152a8), [Dryad](http://datadryad.org/) [_e.g._](http://datadryad.org/resource/doi:10.5061/dryad.pq827), [Github](https://github.com/) [_e.g._](https://github.com/sr320/paper-Oyster-EE2), and [Zenodo](https://zenodo.org/) [_e.g._](https://zenodo.org/record/30373). [Grant proposals](https://github.com/sr320/LabDocs/blob/master/Proposal_database.md) and [lab meetings](https://www.youtube.com/playlist?list=PLLDVqNxOKWsQSCKgQ3OwW4JidvPfEgyJd) are open and available.
+
+---
+
 
 ### Profiles
 
@@ -17,15 +24,15 @@ ORCID – http://orcid.org/0000-0001-8302-1138
 
 GitHub – https://github.com/sr320
 
+Publons – https://publons.com/a/13038/ 
+
 Google Scholar – http://scholar.google.com/citations?hl=en&user=aAoYWVUAAAAJ
 
 FigShare – http://figshare.com/authors/Steven_Roberts/97086
 
-ImpactStory – http://impactstory.org/StevenRoberts
+ImpactStory –https://impactstory.org/u/0000-0001-8302-1138
 
 Scopus – http://www.scopus.com/authid/detail.url?authorId=55366464800
-
-Husky SciVal Experts – http://www.experts.scival.com/uwashington/expertProfile.asp?n=Steven+Roberts&u_id=2452&oe_id=1&o_id=95
 
 SlideShare – http://www.slideshare.net/sr320/presentations
 
@@ -37,12 +44,14 @@ Frontiers – http://community.frontiersin.org/people/StevenRoberts/43641
 
 ResearchGate – http://www.researchgate.net/profile/Steven_Roberts6
 
-Publons – https://publons.com/author/13038/steven-roberts
 
 ---
 
-### Enhanced Products
 
+
+
+### Enhanced Products
+While we can certainly improve on our efforts to make our work open and reproducible, we have published a series of products over the last few years that have had associated code/data repositories that have accompanied the narratives (aka manuscripts). Below are said products. See also a [blog post](http://faculty.washington.edu/sr320/?p=11381) describing these efforts.
 
 Paper | Data | Code ⍋ (p/c)
 ------|------|-------
@@ -61,7 +70,9 @@ _[blog post describing above products](http://faculty.washington.edu/sr320/?p=11
 
 
 
+
 ---
+
 ### Open Science Presentations 
 
 
