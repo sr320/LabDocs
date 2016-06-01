@@ -40,6 +40,13 @@ These instructions will run the Docker container from the image built above with
 
   You will now be inside the docker container. The container is basically a specialized computer that has very few programs besides the bioinformatics programs specified in the Dockerfile. Feel free to move around and try things out.
 
-3. Exit the container:
-  
-  ```exit```
+3. Exit the container: Type "exit".
+
+
+Explanation:
+
+- ```docker ps -a``` Lists all images on the system in order they were created, newest to oldest
+- ```docker run``` Starts a Docker container. Requires an image name.
+- ```-it``` Starts a Docker container with an interactive terminal (i.e. a terminal window to type in).
+- ```IMAGE``` The name of the image that should be used to start the Docker container.
+- ```/bin/bash``` The command that the container should run when it starts. In this case, we tell the container to start bash. Bash is the command line stuff you use when using Terminal.
