@@ -218,7 +218,7 @@ RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
 # Install Stacks (v.1.40)
 RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 	&& tar -xzf stacks-1.40.tar.gz \
-	&& (cd /usr/local/bioinformatics/stacks-1.40 && ./configure --enable-sparsehash --enable-bam --with-bam-include-path=/usr/local/bioinformatics/samtools-0.1.19/ --with-bam-lib-path=/usr/local/bioinformatics/samtools-0.1.19/ && make -j 16 && make install) \
+	&& (cd /usr/local/bioinformatics/stacks-1.40 && ./configure --enable-sparsehash --enable-bam --with-bam-include-path=/usr/local/bioinformatics/samtools-0.1.19/ --with-bam-lib-path=/usr/local/bioinformatics/samtools-0.1.19/ && make -j 8 && make install) \
 	&& rm stacks-1.40.tar.gz
 
 # Install MiniConda (for installing Jupyter Notebook)
