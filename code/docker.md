@@ -1,6 +1,6 @@
 ### Roberts Lab Docker Help File
 
-Build the Docker Image
+#### Build the Docker Image
 
 - Only needs to be done once.
 - Items in all caps (e.g. NAME) can be replaced with text of your choosing and does not need to be uppercase.
@@ -16,9 +16,14 @@ Build the Docker Image
     2. ```docker build --tag="NAME/bioinformatics:v11" --file="Dockerfile.bio" .```
   2. Non-Mac:```docker build --tag="NAME/bioinformatics:v11" --file="Dockerfile.bio" .```
 
-Start a Docker Container (Basic)
+Explanation:
+- ```docker build``` constructs the Docker image from the instructions in the Dockerfile. The Dockerfile tells Docker which programs should be downloaded, installed, and where/how to install them in the Docker image.
+- ```--tag="<name>"``` Allows you to give the image you build an easy to remember name. It can be anything you like.
+- ```--file="<dockerfile_name>" .``` Tells Docker the name of the Dockerfile and to look for it in the current directory (the ```.```).
 
-These instructions will run a Docker container with no "frills."
+#### Start a Docker Container (Basic)
+
+These instructions will run the Docker container from the image built above with no "frills." See the Intermediate instructions to begin using R Studio and Jupyter Notebooks in the Docker container.
 
 - Requires that a Docker image has already been built
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
@@ -32,3 +37,9 @@ These instructions will run a Docker container with no "frills."
 2. Start a Docker container (replace IMAGE with desired image name from Step 1): 
 
   ```docker run -it IMAGE /bin/bash```
+
+  You will now be inside the docker container. The container is basically a specialized computer that has very few programs besides the bioinformatics programs specified in the Dockerfile. Feel free to move around and try things out.
+
+3. Exit the container:
+  
+  ```exit```
