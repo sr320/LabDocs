@@ -50,3 +50,21 @@ Explanation:
 - ```-it``` Starts a Docker container with an interactive terminal (i.e. a terminal window to type in).
 - ```IMAGE``` The name of the image that should be used to start the Docker container.
 - ```/bin/bash``` The command that the container should run when it starts. In this case, we tell the container to start bash. Bash is the command line stuff you use when using Terminal.
+
+#### Run R Studio and Jupyter Notebook in Docker Container (Intermediate)
+
+1. Start a Docker container with specific port mappings:
+
+  ```docker run -p 8787:8787 -p 8888:8888 -it IMAGE /bin/bash```
+
+2. Start R Studio (enter this inside the container):
+
+  ```rstudio-server start```
+  
+3. Start Jupyter Notebook (enter this inside the container):
+
+  ```jupyter notebook```
+
+4. Run R Studio in your browser (enter as URL):
+  1. Mac users: ```192.168.99.100:8787```
+  2. 
