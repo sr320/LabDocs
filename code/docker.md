@@ -21,9 +21,9 @@ Explanation:
 - ```--tag="<name>"``` Allows you to give the image you build an easy to remember name. It can be anything you like.
 - ```--file="<dockerfile_name>" .``` Tells Docker the name of the Dockerfile and to look for it in the current directory (the ```.```).
 
-#### Start a Docker Container (Basic)
+#### <a name="basic"></a> Start a Docker Container (Basic)
 
-These instructions will run the Docker container from the image built above with no "frills." See the Intermediate instructions to begin using R Studio and Jupyter Notebooks in the Docker container.
+These instructions will run the Docker container from the image built above with no "frills." See the [Intermediate](#intermediate) instructions to begin using R Studio and Jupyter Notebooks in the Docker container.
 
 - Requires that a Docker image has already been built
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
@@ -51,7 +51,7 @@ Explanation:
 - ```IMAGE``` The name of the image that should be used to start the Docker container.
 - ```/bin/bash``` The command that the container should run when it starts. In this case, we tell the container to start bash. Bash is the command line stuff you use when using Terminal.
 
-#### Run R Studio and Jupyter Notebook in Docker Container (Intermediate)
+#### <a name="intermediate"></a> Run R Studio and Jupyter Notebook in Docker Container (Intermediate)
 
 1. Start a Docker container with specific port mappings:
 
@@ -65,6 +65,15 @@ Explanation:
 
   ```jupyter notebook```
 
-4. Run R Studio in your browser (enter as URL):
-  1. Mac users: ```192.168.99.100:8787```
-  2. 
+4. Run R Studio in your browser:
+  1. Enter URL:
+    1. Mac users: ```192.168.99.100:8787```
+    2. Others: ```localhost:8787```
+  2. Enter the following credentials in the R Studio interface:
+    1. Username: srlab
+    2. Password: rstudio
+
+5. Run Jupyter Notebook in your browser:
+  1. Enter URL (in a different window or tab than what you're using for R Studio):
+    1. Mac users: ```192.168.99.100:8888```
+    2. Others: ```localhost:8888```
