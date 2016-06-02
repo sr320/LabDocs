@@ -1,6 +1,15 @@
 ### Roberts Lab Docker Help File
 
-#### Build the Docker Image
+This file is intended to provide a brief introduction on using Docker and the Dockerfile, [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio), for the Roberts Lab.
+
+There are four sections of instructions, each with increasing usage complexity:
+
+- [Build an Image](#build): Required to begin working with Docker.
+- [Starting a Container](#basic): Instructions on running a container from an image. Lacks the ability to interact with files on your computer.
+- [Using R Studio & Jupyter Notebooks](#intermediate): Instructions on how to run a container and use R Studio and Jupyter Notebooks in your computer's browser. Lacks the ability to interact with files on your computer.
+- [Interact with Files on Your Computer](#advanced): Instructions on how to run a container that can interact with files on your computer. This will be the most useful container and will likely be the default setup you use from here on out.
+
+#### <a name="build"></a> Build the Docker Image
 
 - Only needs to be done once.
 - Items in all caps (e.g. NAME) can be replaced with text of your choosing and does not need to be uppercase.
@@ -77,3 +86,5 @@ Explanation:
   1. Enter URL (in a different window or tab than what you're using for R Studio):
     1. Mac users: ```192.168.99.100:8888```
     2. Others: ```localhost:8888```
+
+#### <a name="advanced"></a> Access Files Outside of a Docker Container (Advanced)
