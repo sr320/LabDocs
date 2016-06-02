@@ -94,7 +94,7 @@ Explanation:
 
 #### <a name="advanced"></a>Access Files Outside of a Docker Container (Advanced)
 
-- Requires that a Docker image has already been built
+- Requires that a Docker [image has already been built](#build)
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
 
 ```eval "$(docker-machine env default)"```
@@ -102,3 +102,16 @@ Explanation:
 1. Start a Docker container with specific port mappings and volume mount points:
 
   ```docker run -p 8787:8787 -p 8888:8888 -v /path/to/computer/folder:/path/to/container/folder -it IMAGE_NAME /bin/bash```
+
+Explanation:
+
+- ```docker run -p 8787:8787 -p 8888:8888 -it IMAGE_NAME /bin/bash``` See the [Basic](#basic) & [Intermediate](#intermediate) guides.
+- ```-v``` This flag tells Docker to mount a volume from your computer in the Docker container.
+- ```/path/to/computer/folder:``` The location of the folder on your computer that you would like to be able to access from your Docker container. If the folder doesn't exist on your computer, Docker will create it.
+- ```/path/to/container/folder``` The location of the folder inside the Docker container where you will be able to access the folder on your computer specified in the first portion of the command.
+
+Example: 
+
+```-v /Volumes/User/Sam/Downloads:/home/srlab/junk```
+
+The above command allows me to acces the files in my Downloads folder on my computer. Once I'm in the Docker container, I would change to the "junk" directory to interact with the files in my Downloads folder on my computer.
