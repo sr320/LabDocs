@@ -1,13 +1,14 @@
 ### Roberts Lab Docker Help File
 
-This file is intended to provide a brief introduction on using Docker and the Dockerfile, [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio), for the Roberts Lab.
+#####<em>This file is intended to provide a brief introduction on using Docker and the Dockerfile, [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio), for the Roberts Lab.</em>
 
-There are four sections of instructions, each with increasing usage complexity:
+There are five sections of instructions, each with increasing usage complexity:
 
 - [Build an Image](#build): Required to begin working with Docker.
 - [Starting a Container](#basic): Instructions on running a container from an image. Lacks the ability to interact with files on your computer.
 - [Using R Studio & Jupyter Notebooks](#intermediate): Instructions on how to run a container and use R Studio and Jupyter Notebooks in your computer's browser. Lacks the ability to interact with files on your computer.
 - [Interact with Files on Your Computer](#advanced): Instructions on how to run a container that can interact with files on your computer. This will be the most useful container and will likely be the default setup you use from here on out.
+- [Semi-important Supplemental Info](#supplemental): Instructions on how to limit and reduce Docker image disk space usage by re-using existing images/containers and/or deleting old/unused images/containers.
 
 #### <a name="build"></a>Build the Docker Image
 
@@ -116,3 +117,26 @@ Example:
 ```-v /Volumes/User/Sam/Downloads:/home/srlab/junk```
 
 The above command allows me to acces the files in my Downloads folder on my computer. Once I'm in the Docker container, I would change to the "junk" directory to interact with the files in my Downloads folder on my computer.
+
+####<a name="supplemental"></a>Supplemental Info
+#####Reuse an existing container
+- Most users should follow this once they've built and run their first image/container.
+- Requires that a Docker [image has already been built](#build)
+- Requires that a [Docker container has been created](#basic)
+- Mac users: If opening a new Terminal window, enter the following before proceeding:
+
+```eval "$(docker-machine env default)"```
+
+Every time the ```docker run``` command is used, a new container is created (even if you use the same exact ```docker run``` command). This can lead to clutter and confusion. To reuse an existing container do the following:
+
+1. ```docker ps -a``` Lists all existing containers
+2. If the container STATUS is listed as "Exited" use one of the following options:
+  1. ```docker start CONTAINER_ID``` Replace "CONTAINER_ID" with the ID of the desired container.
+  2. ```docker start NAMES``` Replace "NAMES" with the name of the desired container.
+3. If the container STATUS is listed as "Up", use one of the following options:
+  1. ```docker attach CONTAINER_ID``` Replace "CONTAINER_ID" with the ID of the desired container.
+  2. ```docker attach NAMES``` Replace "NAMES" with the name of the desired container.
+4. Press CTRL-c to enter the container.
+5. When finished, leave the container using one of the following options:
+  1. Press CTRL-p, then press CTRL-q. This will detach the container and leave it running. This will allow you to skip Step 2 when reusing the container.
+  2. ```exit``` This will stop the container. You will have to start at Step 2 in order to reuse the container.
