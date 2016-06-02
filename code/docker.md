@@ -87,6 +87,11 @@ Explanation:
     1. Mac users: ```192.168.99.100:8888```
     2. Others: ```localhost:8888```
 
+Explanation:
+- ```-p 8787:8787``` Tells Docker to create container that binds container port 8787 to your computer's port 8787. Allows you to use R Studio in your browser.
+- ```-p 8888:8888``` Tells Docker to create container that binds container port 8888 to your computer's port 8888. Allows you to use Jupyter Notebook in your browser.
+- These ports can be changed as needed. It's recommended to stick to port numbers greater than 9000 if they need to be changed.
+
 #### <a name="advanced"></a>Access Files Outside of a Docker Container (Advanced)
 
 - Requires that a Docker image has already been built
