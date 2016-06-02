@@ -5,7 +5,7 @@
 #### Dockerfile.bio - 
 A Dockerfile intended to create a container containing the full suite of bioinformatics software most frequently used by the Roberts Lab. Highlights include RStudio and Jupyter Notebooks. The current image built from this Docker file is ~3GB. 
 
-#### Quick Start Instructions (see the [detailed instructions here](https://github.com/sr320/LabDocs/blob/master/code/docker.md)). To use this Dockerfile, first install and run [Docker](https://www.docker.com/). Then...
+##### Quick Start Instructions (see the [detailed instructions here](https://github.com/sr320/LabDocs/blob/master/code/docker.md)). To use this Dockerfile, first install and run [Docker](https://www.docker.com/). Then...
 1. Open a terminal.
 2. Change to the directory containing the Dockerfile.
 3. Build the Docker image: 
@@ -20,7 +20,6 @@ A Dockerfile intended to create a container containing the full suite of bioinfo
 
 NOTES: 
 
-1. These instructions will not allow you to save any data! All work will be lost when the container is exited!
-2. Mac users will likely need to enter the following command after Step 2: ```eval "$(docker-machine env default)"```
+1. Mac users will likely need to enter the following command after Step 2: ```eval "$(docker-machine env default)"```
 
 
