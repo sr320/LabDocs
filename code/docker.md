@@ -94,6 +94,7 @@ Explanation:
 
 #### <a name="advanced"></a>Access Files Outside of a Docker Container (Advanced)
 
+- WARNING! The current setup of the Roberts Lab Dockerfile.bio runs the Docker container as the "root" user. Any changes made to volumes on your computer that are mounted in the Docker container will be executed without asking for a password! If you mount the wrong directories of your computer, you may do serious harm (like, render it inoperable) to your computer when making changes to the directory mounted inside the Docker container!
 - Requires that a Docker [image has already been built](#build)
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
 
