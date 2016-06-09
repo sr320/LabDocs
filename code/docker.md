@@ -118,10 +118,12 @@ Example:
 
 The above command allows me to acces the files in my Downloads folder on my computer. Once I'm in the Docker container, I would change to the "junk" directory to interact with the files in my Downloads folder on my computer.
 
+Note: Similar to binding multiple ports (-p -p 8787:8787 -p 8888:8888), you can do the same for mounting multiple volumes by adding multiple ```-v``` flags followed by the desired local and container mount points.
+
 ####<a name="supplemental"></a>Supplemental Info
 #####Reuse an existing container
 - Most users should follow this once they've built and run their first image/container.
-- Requires that a Docker [image has already been built](#build)
+- Requires that a [Docker image has already been built](#build)
 - Requires that a [Docker container has been created](#basic)
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
 
