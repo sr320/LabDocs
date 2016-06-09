@@ -12,7 +12,7 @@
 #########################
 # bedtools	2.25.0  #
 # bismark	0.15.0  #
-# blast		2.3.0+  #
+# blast		2.4.0+  #
 # bowtie2	2.2.8   #
 # bsmap		2.90    #
 # cufflinks	2.1.1   #
@@ -93,10 +93,10 @@ RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2
 
 ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
     
-# Install blast (v2.3.0+)
-RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	&& tar -zxvpf ncbi-blast-2.3.0+-x64-linux.tar.gz \
-	&& rm ncbi-blast-2.3.0+-x64-linux.tar.gz
+# Install blast (v2.4.0+)
+RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/ncbi-blast-2.4.0+-x64-linux.tar.gz \
+	&& tar -zxvpf ncbi-blast-2.4.0+-x64-linux.tar.gz \
+	&& rm ncbi-blast-2.4.0+-x64-linux.tar.gz
 
 ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
 
