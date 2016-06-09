@@ -118,15 +118,10 @@ Example:
 
 The above command allows me to acces the files in my Downloads folder on my computer. Once I'm in the Docker container, I would change to the "junk" directory to interact with the files in my Downloads folder on my computer.
 
-IMPORTANT! Mac users can only mount directories contained in the ```/Users``` directory! If you need to mount a location from elsewhere in the file system, you will need to create a symlink to the location within your ```/Users/username/desired/path/to/directory```.
+IMPORTANT! 
 
-Example:
-
-This example allows you to mount an external HDD within your Docker container. The external HDD is located at ```/Volumes/external_HDD```
-
-1. Change to desired location within your ```/Users/username``` directory: ```cd /Users/username```
-2. Create symlink to external HDD. Will create a link in ```/Users/username``` called "external_HDD": ```ln -s /Volumes/external_HDD```
-3. Run docker container: ```docker run -v /Users/username/external_HDD:/path/to/container/folder -it IMAGE_NAME /bin/bash```
+- Mac users can only mount directories contained in the ```/Users``` directory! 
+- Windows users can only mount directories contained in the ```/c/Users/``` directory!
 
 Note: Similar to binding multiple ports (-p -p 8787:8787 -p 8888:8888), you can do the same for mounting multiple volumes by adding multiple ```-v``` flags followed by the desired local and container mount points.
 
