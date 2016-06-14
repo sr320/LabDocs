@@ -70,7 +70,7 @@ RUN apt-get update && \
     libedit2 \
     psmisc \
     sqlite3 \
-    apt-get clean
+    && apt-get clean
 
     
 RUN aptitude update && \
