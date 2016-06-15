@@ -230,11 +230,14 @@ RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
 
 ENV PATH /root/miniconda2/bin:$PATH
 
-# Install Jupyter Notebook & all dependencies (via MiniConda)
+## Install Jupyter Notebook & all dependencies (via MiniConda)
 RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config \
 	&& (sed -i '/# c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
 	&& (sed -i '/# c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
+
+## Install R Kernel & R Essentials for Jupyter Notebook (via MiniConda)
+RUN conda install -c r r-essentials -y
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
