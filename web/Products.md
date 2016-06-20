@@ -215,7 +215,9 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 <a id="preprint">
 ## PrePrints</a>
 
-Dimond JL and Roberts SB  (**2015**)  [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](https://digital.lib.washington.edu/researchworks/handle/1773/34298) UW ResearchWorks Archive uri:http://hdl.handle.net/1773/34298 
+Heare JE, White SJ, Roberts SB. (2015) Differential response to stress in _Ostrea lurida_ (Carpenter 1864) as measured by gene expression. PeerJ PrePrints 3:e1595v1 <https://doi.org/10.7287/peerj.preprints.1595v1>
+
+Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
 
 Gavery MR, Delrow J, Basom R, Roberts SB. (2015) Influence of 17α-ethinylestradiol on DNA Methylation in Oysters. **GitHub / Zenodo** <https://github.com/sr320/paper-Oyster-EE2>
 
