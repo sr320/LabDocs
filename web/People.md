@@ -3,8 +3,7 @@
 
 <img src="https://dl.dropboxusercontent.com/u/115356/Steven-Roberts1-262x262.jpg" width="144" height="142" /> 
 
-Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
-
+Kenneth K. Chew Endowed Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
 
 ---
 
@@ -46,6 +45,12 @@ Like many Washingtonians, I grew up exploring and enjoying the unique marine env
 <br>
 
 # Research Scientists
+
+**Hollie Putnam** (Visiting Scientist)      
+Assistant Professor      
+Department of Biological Sciences    
+University of Rhode Island    
+[www.hollieputnam.com](http://www.hollieputnam.com/)
 
 Sam White
 
