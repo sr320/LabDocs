@@ -210,6 +210,12 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 
 ---
 
+<a id="book">
+## Book Chapters</a>
+
+Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, in Genomics in Aquaculture](http://www.sciencedirect.com/science/book/9780128014189). Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9
+
+---
 
 
 <a id="preprint">
@@ -281,6 +287,22 @@ Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>.
 <a href="http://dx.doi.org/10.6084/m9.figshare.661720"> http://dx.doi.org/10.6084/m9.figshare.661720</a><span class="impactstory-embed" data-id="10.6084/m9.figshare.661720" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>
 
 Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a>
+
+---
+
+<a id="more">
+## More Products!</a>
+
+
+<iframe src="https://widgets.figshare.com/articles/3205975/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>
+
+<iframe src="https://widgets.figshare.com/articles/1456226/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>
+
+
+<iframe src="https://widgets.figshare.com/articles/683879/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>
+
+
+
 
 
 &nbsp;</p>
