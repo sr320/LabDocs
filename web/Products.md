@@ -62,9 +62,17 @@ Hollie | [safsoa/Hollie](https://safsoa.wordpress.com/category/hollies-notebook/
 
 see also <a href="#preprint">*preprints*</a>
 
-Dimond JL and Roberts SB  (**2015**), [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) Molecular Ecology doi:10.1111/mec.13414 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> [_preprint_](https://digital.lib.washington.edu/researchworks/handle/1773/34298)
+Dimond JL and Roberts SB  (**2016**), [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) Molecular Ecology doi:10.1111/mec.13414 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> [_preprint_](https://digital.lib.washington.edu/researchworks/handle/1773/34298)
+
+Jasonowicz AJ, Goetz FW, Goetz GW, Nichols KM (**2016**) [Love the one you're with: Genomic evidence of panmixia in the sablefish (_Anoplopoma fimbria_)](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2016-0012#.V9RNUJMrIyd) Canadian Journal of Fisheries and Aquatic Sciences doi: 10.1139/cjfas-2016-0012 
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1139/cjfas-2016-0012" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 
 Froehlich HE, Roberts SB, Essington TE (**2015**) [Evaluating hypoxia-inducible factor-1α mRNA expression in a pelagic fish, Pacific herring _Clupea pallasii_, as a biomarker for hypoxia exposure](http://www.sciencedirect.com/science/article/pii/S1095643315002044) Comparative Biochemistry and Physiology - Part A: Molecular and Integrative Physiology doi:10.1016/j.cbpa.2015.07.016 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbpa.2015.07.016" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
+Cook MA, Massee KC, Wade TH, Oden SM, Jensen C, Jasonowicz A, Immerman DA, Goetz FW (**2015**) [Culture of sablefish (_Anoplopoma fimbria_) larvae in four experimental tank designs](http://dx.doi.org/10.1016/j.aquaeng.2015.09.003) Aquacultural Engineering doi:10.1016/j.aquaeng.2015.09.003 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aquaeng.2015.09.003" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 
 
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133053"><img class="wp-image-2505 alignright" title="sea star heat map" src="http://eagle.fish.washington.edu/cnidarian/skitch/Figure_3__2___1__tif_1B558324.png" alt="heat-map" width="265" height="143" /></a>
@@ -72,6 +80,8 @@ Froehlich HE, Roberts SB, Essington TE (**2015**) [Evaluating hypoxia-inducible 
 Fuess LE, Eisenlord ME, Closek CJ, Tracy AM, Mauntz R, Gignoux-Wolfsohn S, Moritsch MM,  Yoshioka R,  Burge CA, Harvell CD, Friedman CS, Hewson I, Hershberger PK, Roberts SB (**2015**) [Up in Arms: Immune and Nervous System Response To Sea Star Wasting Disease](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0133053) PLoS ONE doi:10.1371/journal.pone.0133053 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0133053" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Timmins-Schiffman E, Coffey WD, Hua W, Nunn BL, Dickinson GH and Roberts SB. (**2014**). [Shotgun proteomics reveals physiological response to ocean acidification in *Crassostrea gigas*](http://www.biomedcentral.com/1471-2164/15/951/) BMC Genomics 2014, 15:951  doi:10.1186/1471-2164-15-951 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/1471-2164-15-951" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Immerman DA and Goetz FW (**2014**). [The activation and cryopreservation of sablefish (_Anoplopoma fimbria_) sperm](http://dx.doi.org/10.1016/j.aquaculture.2014.04.010) Aquaculture doi:10.1016/j.aquaculture.2014.04.010  <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aquaculture.2014.04.010" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Olson CE and Roberts SB. (**2014**). [Genome-wide profiling of DNA methylation and gene expression in _Crassostrea gigas_ male gametes](http://journal.frontiersin.org/Journal/10.3389/fphys.2014.00224/abstract) Frontiers in Physiology. 5:224. doi: 10.3389/fphys.2014.0022   <span data-badge-popover="right" data-badge-type="2" data-doi="10.3389/fphys.2014.00224" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
