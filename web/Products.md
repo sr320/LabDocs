@@ -20,7 +20,7 @@ Mrunmayee | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
 Michelle | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
 Laura | [safsoa/Laura](https://safsoa.wordpress.com/category/lauras-notebook/)
 Evan | [genefish/seamaea](https://genefish.wordpress.com/author/seamaea/)
-Hollie | [safsoa/Hollie](https://safsoa.wordpress.com/category/hollies-notebook/)
+Hollie | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/)
 
 ---
 
