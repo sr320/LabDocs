@@ -29,4 +29,6 @@ There are also several documents that live elsewhere (ie Google Drive) due to re
 - [RobertsLab/project-geoduck-repro](https://github.com/RobertsLab/project-geoduck-repro)
 [![geoissues](https://img.shields.io/github/issues/RobertsLab/project-geoduck-repro.svg)](https://github.com/RobertsLab/project-geoduck-repro/issues)
 
+- [RobertsLab/project-olympia.oyster-genomic](https://github.com/RobertsLab/project-olympia.oyster-genomic)
+[![geoissues](https://img.shields.io/github/issues/RobertsLab/project-olympia.oyster-genomic.svg)](https://github.com/RobertsLab/project-olympia.oyster-genomic/issues)
 
