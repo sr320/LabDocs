@@ -20,3 +20,13 @@ The [![issues](https://img.shields.io/github/issues/sr320/LabDocs.svg)](https://
 There are also several documents that live elsewhere (ie Google Drive) due to reasons of convienence. Those include..
 
 * [Primer Database](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)
+* 
+
+---
+
+## Major Lab Project Repos
+
+- [RobertsLab/project-geoduck-repro](https://github.com/RobertsLab/project-geoduck-repro)
+[![geoissues](https://img.shields.io/github/issues/RobertsLab/project-geoduck-repro.svg)](https://github.com/RobertsLab/project-geoduck-repro/issues)
+
+
