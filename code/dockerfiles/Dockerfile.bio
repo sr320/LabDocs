@@ -35,6 +35,7 @@ MAINTAINER Sam White <samwhite@uw.edu>
 # Get software dependencies
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
+	apt-utils \
     software-properties-common
 
 RUN apt-get update && \
