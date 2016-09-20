@@ -222,7 +222,7 @@ ENV PATH /usr/local/bioinformatics/pear-0.9.6-bin-64:$PATH
 # Install R (v3.2.5)
 RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& tar -xzf R-3.2.5.tar.gz \
-	&& (cd /usr/local/bioinformatics/R-3.2.5 && ./configure --enable-R-shlib; make) \
+	&& (cd /usr/local/bioinformatics/R-3.2.5 && ./configure --with-cairo --with-libpng --enable-R-shlib; make) \
 	&& cp /usr/local/bioinformatics/R-3.2.5/bin/R /usr/local/bin \
 	&& rm R-3.2.5.tar.gz
 

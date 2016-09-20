@@ -1,0 +1,74 @@
+﻿Development of a non-lethal sampling method to assess reproductive status of Ostrea lurida
+Megan Hintz, Katie Jackson, Bonnie Becker, Brent Vadopalas, Steven Roberts 
+
+
+
+
+
+
+Target Journal? - Journal of Shellfish Research (JSR)
+
+
+Abstract: 
+
+
+A non-lethal sampling method is needed to assess the reproductive status of the Olympia oyster to expand the understanding of the reproductive cycle of Olympia oysters and inform restoration efforts. We developed method of anesthetization for Olympia oysters and assessed the use of magnesium sulfate. Three replicate groups of 8 oysters were anesthetized using magnesium sulfate at 5 concentrations (0, 25, 50, 75, 85, and 100 g/L MgSO4) in the laboratory to investigate the optimal concentration. The use of magnesium sulfate (100 g/L) as an anesthetic was applied to 14,464 oysters in the field to assess their reproductive status. Laboratory trials determined that after 45 minutes of treatment 100 g/L MgSO4 was the most effective anesthetic and MgSO4 did not induce mortality. We found the anesthetization method to have an 82.0 (+14.6) success rate in field applications, with a slight bias of shell height on the success of the method.
+
+
+Introduction:
+The Olympia oyster, Ostrea lurida Carpenter 1864, is the only oyster native to the west coast of North America. Olympia oysters are an economically, culturally, and ecologically important species in the Puget Sound region. These native oysters have been part of the diet of local Native American tribes for thousands of years (Blake 2003) as well as being important an important species in the shellfish fishing and aquaculture communities who have harvested these animals for generations (White et al. 2009).  Ecologically, native oysters are ecosystem engineers by providing biogenic habitat (Blake & Bradbury 2012), increasing biodiversity and filtering local waters (Ruesink et al 2005). Native oyster reefs were depleted and degraded by 1920 in Washington State (White et al. 2009), the decline was attributed to overharvest from fisheries, decreases in water quality, and habitat loss (Kirby 2004). Olympia oysters are still cultured and sold, but they are no longer commercially harvested (White et al. 2009). Over the last twenty years, multiple projects have aimed at restoring O. lurida populations (Peter-Contesse & Peabody 2005, Dinnel et al. 2009, Blake & Bradbury 2012).  It is important to have long term monitoring of these restoration projects and to evaluate the restoration success.  Nonlethal sampling of reproductive activity and tissue collection would improve both project efficacy and our ability to study them. 
+The ability to anesthetize O. lurida would allow for a non-lethal examination of the internal structures and sampling. It would be useful for studies with low sample size that cannot afford induced mortality, experimental procedures on live oysters, non-lethal tissue sampling, and examination and removal of brooded larvae without harming the adult oyster.  An optimal relaxation method would be simple and quick for field applications, allow the animal to recover quickly as to reduce stress, and have minimal to no mortality. Multiple methods have been published for anesthetizing mollusks (Alipia et al. 2014, Sequet et al. 2009, Butt et al. 2008, Culloty and Mulcahy 1992, Mamangkey et al. 2009, Zacherl et al. 2015), but currently no method exists to anesthetize O. lurida. A common compound used in the anesthetization of bivalves is magnesium chloride (MgCl2), which acts as a muscle relaxant (Alipia et al. 2014). Unfortunately, the use of MgCl2 that has been successfully used to anesthesia other species of oyster in the genus Ostrea (Alipia et al. 2014) was not effective in anesthetizing O. lurida. 
+Our goal was to develop an effective anesthetization method that can be applied in the hatchery and in field studies to assess the reproductive status of O. lurida. We developed a non-destructive anesthetization method of relaxing Olympia oysters using magnesium sulfate (MgSO4).  Laboratory trials were carried out to examine dose and pretreatment, followed by multiple field applications to assess spatial and temporal variability, and impacts of repeated exposure. 
+
+
+Methods:
+Laboratory Trials:
+Adult Olympia oysters were obtained from the Puget Sound Restoration Fund shellfish hatchery in Port Gamble, WA and were kept in ambient seawater prior to experiments. Oysters were submerged in concentrations of 0, 25, 50, 75, 85, and 100 g/L of magnesium sulfate (MgSO4) in order to characterize optimal anesthetic conditions. Ten oysters were randomly distributed between three replicate treatment concentrations. Treatments were carried out in clear 6-quart plastic bins with MgSO4 initially dissolved in freshwater and combined with seawater in a 1:1 ratio. Oysters were monitored at 15 minute intervals for over 2 hours for anesthetization.  Oysters were considered successfully anesthetized when values opened inducing ‘gapping’ and remain open after removal from anesthesia bath for 10 seconds. Survival of oysters in all treatment and control groups was monitored for 1 month after the trial.
+
+
+Field Application:
+The use of magnesium sulfate as an anaesthetization method was applied to 14,262 O. lurida from June - August 2015 to oysters from 11 different populations throughout Puget Sound, Washington. Oysters were desiccated for 45 minutes before transferring the individuals to an insulated bath containing 100 g/L MgSO4 50/50 seawater/freshwater solution for 45 minutes. Shell height, defined as the distance from the umbo to the opposing valve margin, and response to anesthetization were recorded for each oyster sampled. 
+To determine if the anesthetization method introduced a bias in reproductive data collection from the sampling we compared the anesthetization to lethal methods of checking reproductive status. During June 2016 in Fidalgo Bay, WA (48.477810°N, -122.574217°W) we collected all of the oysters in 1/16 m2 quadrat, two quadrats were haphazardly placed in seven different dense aggregations of Olympia oysters. For each replicate location the oysters collected in one quadrat were anesthetized and one quadrat were lethally examined for reproductive status. 
+
+
+Data analysis/ statistics:
+Data are represented as mean + SD. Proportional data was arcsine transformed then a one-way analyses of variance (ANOVA) were performed to determine statistically significant differences in the success rates, when significant differences were detected a Tukey post-hoc test was performed. Linear regression analysis weighted by sample size was used to evaluate the success of anesthesia as a response to oyster shell height and data of sampling. 
+
+
+
+
+
+
+Results:
+Laboratory Trial
+After submersion in the MgSO4 treatment for 45 minutes the 100 g/L successfully anesthetized the highest proportion 36.7 (+ 5.7) % of the oysters compared to controls and 75 g/L ((3.5 + 5.0 % and 20.0 + 17.3 % respectively) (F=7.0246, Fcrit=4.0661, df=3, p=0.0124). The anesthesia success increased over the 2 hours of treatment and there was less difference among treatment concentration. There was no mortality induced by any of the treatments. 
+
+
+
+
+Field Application:
+The anesthesia method applied in the field had a high success rate with 82.0 (+14.6) percent of the 14,262 oysters successfully anesthetized after treatment. However, there was high variability in the success of the 43 sampling events ranging from 42.4-97.9% anesthetization success. There was no significant difference in effectiveness of the treatment spatially across the 11 locations (F=1.86292, Fcrit=2.1900, df=38, p=0.09486) or temporally from June-Aug (F=2.519, P=0.1237). However, there was a significant relationship between shell height and anesthesia success, as shell height increased the success of anesthesia decreased (F=170.896, df=1, P<0.0001) (Fig 2). There was no bias introduced by the anesthetization method in proportion of oysters reproductive (F=0.795381, Fcrit=4.747225, df=13, p=0.39011).
+
+
+  
+
+Figure 2. Proportion of oysters successfully anesthetized as a response to oyster shell height weighted by the sample size and fit with a linear regression.
+
+
+Discussion:
+We aimed to develop a non-lethal method of sampling the brood chamber of O. lurida.
+A combination of desiccation and 100 g/L MgSO4 proved to be an effective method for the anesthetization of O. lurida. This method induced rapid anesthesia with a minimal stress and minimal morality that could easily be applied in the field. Although there was varied success in field applications, on average 82.0% of the individual oysters exposed were successfully anaesthetized. The addition of a 45 minute desiccation before submersion in the MgSO4 anesthetic in the field application increased the success by 45% from the 36.7% in the laboratory trials. We found no spatial or temporal bias in the 14,262 oysters sampled, and we determined that there was no bias introduced in the collection of reproductive status. However, there was a bias introduced by the size of the oysters, as larger oysters were more resistant to the anesthetic.
+Magnesium sulfate acts as a muscle relaxant, the adductor muscle of the oyster is relaxed and introduces gapping of the animal. It is likely that the larger individuals are resistant to the anesthetic because they can “hold their breath” longer, reducing the effectiveness of MgSO4 because they are not taking it in. Or, they have a larger adductor muscle so it would take more MgSO4 to induce gaping requiring a longer time in the MgSO4 anesthetic solution.
+Magnesium sulfate has been shown as a successful anesthetic in a variety of other mollusks, but is often not the recommend method of anesthesia. The European flat oyster (O. edulis) was effectively anaesthetized by MgSO4 but the large concentrations and time necessary were cited as disadvantages of using MgSO4 as a method (Culloty and Mulcahy 1992). Magnesium sulfate was shown to induce high mortality post anaesthetization in scallops (P. fumatus) (Heasman et al 1995) and juvenile abalone (Sagara and Ninomiya 1970)[a]. MgSO4 was not found to induce mortality post anaesthetization in laboratory trials on O. lurida. Heare (2015) applied this anaesthetization method at a slightly lower concentration of 75 g/L MgSO4 to the same Olympia oysters repeatedly with no mortality.
+In conclusion, we developed an O. lurida anesthetic which shows a high anesthetization success rate with minimum mortality. This non-lethal method of accessing the mantle (brood chamber) is a valuable tool. An anesthesia method would allow for the non-lethal sampling of O. lurida tissue for genetic analysis, biopsies for disease, checking the stage of gametogenesis, and collection of brooding larvae. Each of these tools can be applied to answer scientific questions and remove the limitations of lethal sampling. The use of an anesthetic is widely applied in aquaculture for tissue biopsies and for monitoring gamete development (Suquet 2010) and could be applied to the aquaculture of O. lurida.
+
+
+Acknowledgements:
+The authors wish to thank Puget Sound Restoration Fund for the use of their oysters and Swinomish Indian Tribal Community for access to their tidal lands in Fidalgo Bay. We would also like to thank the team who helped collect the data, in particular Axton Bullock, Luan Dang, and Brittany Eisel. This study was funded in part by Washington Sea Grant. [b]
+
+
+
+
+[a]This article is only available in Japanese, not in English - other's have sited it causing mortality to abalone 
+I tried to use google translate on the PDF and it wasn't helpful
+[b]Will need to get some specific language with grant #s

@@ -1,4 +1,12 @@
 ﻿Protein expression pattern during geoduck reproductive cycle
+Other options
+Gonadal maturation in Panopea generosa as revealed by proteomics
+
+
+Proteomic assay development for sexual reproduction state determination in Geoduck: working toward non-invasive proteomic assays for improving aquaculture ??
+
+
+Selected reaction monitoring targeted assay development for sex and maturation stage prediction in the geoduck clam (Panopea generosa)
 
 
 
@@ -7,10 +15,36 @@
 
 
 
+Authors: Emma, Grace, Brent, Michael Riffle, Steven
+
+
+Affiliation
 
 
 
 
+
+
+Target Journals
+Journal of Proteome Research (?)
+
+
+
+
+Introduction[a]
+
+
+Geoduck clams play important ecological and economic roles in the Pacific Northwest of the United States, leading to an increased demand for more efficient hatchery practices. [Can we get an FAO statistic about geoduck?] The fishery has an annual worth of approximately $40 million USD (Khan 2006), with X% of production exported to China and other countries.  The high market value of geoduck clams has led to black market trade.  These market demands have led to increases in hatchery production of geoduck seed in recent years, but the efficiency of production is stymied by an inability to determine individual clam sex and reproductive stage before spawning is attempted.
+Geoduck spawning can be unsuccessful because of mismatched spawn timing within a group of broodstock.  In addition to varied spawn timing, aquaculturists are unable to determine the sexes of geoduck. There is no distinguishing coloration, size, or other morphological feature between the sexes. Geoduck gametogenesis, the development of the oocytes in females and spermatocytes in males, begins in September, with spawning events occurring in March through July (Goodwin and Pease, 1989). It is also known that male geoduck clams mature sooner than females, however both sexes are not reproductively mature by approximately one year (Andersen, 1971). Currently, the only way to determine the sex of geoduck clams is to lethally dissect their gonads and examine a tissue sample, or wait for spawning, which occurs when females and males release their gametes for reproduction. Because of this, sex ratios of brood animals prior to spawning are unknown and maximum productivity in hatcheries cannot be attained.  
+In addition to not achieving maximum productivity, hatcheries run the risk of having low genetic diversity in larval cohorts. This could pose problems both for raising robust seed within the hatchery and for generating geoduck for restoration purposes. Inbreeding can be minimized if sex ratios are determined pre-spawning to maximize male-female pairing.  Genetic diversity aids in a population’s resilience to different environmental conditions due to a greater variability in phenotypes (Hughes and Stachowicz, 2004). Furthermore, if cross-breeding between hatchery and wild stocks ever occurs, the diversity of the wild stock will be minimized (Waples, 1991). [b] 
+Since male and female geoduck gonads are morphologically and functionally different at reproductive maturity, molecular assays to track these early biochemical changes could help predict which animals to spawn and when. Significant changes in both gene and protein expression are expected as gonad tissue differentiates in preparation of spawning. Thus[c][d][e][f][g], proteomic assays designed to detect these expression changes could lead to non-lethal, informative, and efficient tools for selecting broodstock. 
+Here we apply data dependent acquisition and selected reaction monitoring to characterize the geoduck gonad proteome and develop peptide assays that differentiate among sexes and maturation stages. Various proteomics studies of aquatic organisms have revealed large differences in protein abundance between organisms of different sex or reproductive status. Proteome profiles of Pacific oyster hemocytes revealed patterns of differential protein abundance between females of differing oocyte quality, as measured by larval production (Corporeau et al., 2012). Significant protein abundance differences were detected in the liver tissue of non-reproductively active male and female threespine stickleback (Viitaniemi & Leder 2011) as well as in gonad tissue of Persian sturgeon (Keyvanshokooh et al., 2009) and zebrafish (Groh et al., 2011). These previous studies support the utility of detecting reproductively-linked molecular level differences in protein expression between different sexes and reproductive stages.[h][i]
+
+
+have your final paragraph touch on how this study demonstrates that nonlethal proteomic assays on gonads can reveal sex diff, maturation state, and decrease chance of inbreeding.
+
+
+              This study combined histological methods with cutting-edge proteomics technology to develop biomarkers of geoduck sex and reproductive stage.  
 
 
 
@@ -18,35 +52,66 @@
 Methods
 
 
-Sampling
-Geoduck (N=100) were collected on November 6, 2014 from the area fronting the Puget Marina, Nisqually Reach, Washington.  The lat/long in WGS84 datum are 47 08.89 degrees / 122 47.439 degrees. The geoducks were collected between depths of 30 to 45 feet from a sandy substrate. Geoduck were transferred to and held in common conditions at the Taylor Shellfish Hatchery in Quilcene, Washington. Geoduck (6-8) were sampled approximately biweekly from Nov. 7, 2014 to January 16, 2015.  Geoduck were dissected and a transverse cut made through the gonad-viseral complex.  Approximately 2 mm thick sections were placed into histology cassettes, fixed for 24 hours  (PAXgene tissue fix, Qiagen), preserved (PAXgene Tissue stabilizer, Qiagen), processed for routine paraffin histology. slide mounted and stained with hematoxylin and eosin to enable visualization of gametogenesis via light microscopy.
+Tissue Sampling 
+Geoduck clams were collected in November 2014 from Nisqually Reach, Washington (latitude:47 08.89 , longitude:122 47.439  WGS84). Clams were collected at depths between 9 to 14 meters from a sandy substrate. Gonad tissue[j][k][l][m][n] from three geoduck clams at early, mid, and late stage gonad maturation, from both males and females were characterized for protein expression (TABLE). Details of gonadal maturation classification and histologicial details have been previously described (Crandall and Roberts 2016). The 9 tissue samples were initially homogenized using a sonicating probe 300 µl of 6 M urea in 50 mM NH4HCO3 homogenized using a sonicating probe 300 µl of 6 M urea in 50 mM NH4HCO3. Samples were sonicated three times and chilled in ethanol with dry ice in between sonications.  The probe was cleaned with ethanol and milliQ water in between samples. Protein levels were determined using the microplate Pierce BCA assay. Samples were diluted 1:2 with NH4HCO3 to reduce urea content.
 
 
 
 
+NEW TABLE[o]
+Sample ID -  sex - stage- photo 
 
 
+IMAGES - https://drive.google.com/folderview?id=0B9V_gF766XZAQUQwT1JXYVdxb1U&usp=sharing
 
 
 
 
 
 
+Protein preparation
+        Gonad tissue from each of the nine geoduck clams was sonicated in 50 mM NH4HCO3 and 6 M urea. An aliquot (100 µl) of the sonicated tissue was used for protein isolation and 100 µg was used for protein digestion (Pierce’s BCA assay).  Protein digestion followed the protocol outlined in Timmins-Schiffman et al. (2013). Briefly, each sample was incubated with TCEP buffered at pH 8.8 (1 hr, 37°C).  Samples were alkylated with iodoacetamide (IAM; 1hr, 20°C) followed by a 1 hr incubation with dithiothreitol to absorb any remaining IAM.  To each sample, NH4HCO3 and HPLC grade methanol were added to dilute urea and to increase solubilization of membrane proteins.  Samples were digested overnight with trypsin at 37°C.  Digested samples were evaporated in 5% acetonitrile  (ACN) + 0.1% trifluoroacetic acid (TFA) (100 µl) and pH was decreased to < 2.  Desalting of the samples was done using Macrospin columns (sample capacity 0.03-300 µg; The Nest Group, Southborough, MA, USA) following the manufacturer’s specifications.  Dried peptides were reconstituted in 100 µl of 5% ACN + 0.1% formic acid.
 
 
+Data-Dependent Acquisition[p] (DDA) LC-MS/MS
+Data-dependent acquisition (DDA), also referred to as shotgun proteomics was performed to complete a whole proteome comparison of different geoduck sexes and maturation stages (Figure 1). Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) was accomplished on a Q-Exactive-HF (Thermo) on technical triplicates for each sample. The analytical column was 20 cm long and column packed with C18 beads with a flow rate of 0.3 µl/min. Chromatography was accomplished with an increasing ratio of solvent A (ACN + 0.1% formic acid): solvent B (water + 0.1% formic acid).  The solvent gradient consisted of: 0-1 minutes 2% A; 1-60 minutes 5% A; 60-61 minutes 35% A; 61-71 minutes 80% A; 71-90 minutes 2% A.  Quality control standards (Pierce Peptide Retention Time Calibration mixture (PRTC) + bovine serum albumin peptides (BSA)) were analyzed throughout the experiment to ensure consistency of peptide detection and elution times.
 
 
 
 
 
 
+ proteomics workflow 2.jpg 
 
 
 
+Figure 1. Illustration[q][r] of experimental setup and workflow for mass spectrometry data acquisition and analysis (adapted from Timmins-Schiffman et al., in review). A) Geoduck of different maturation stages and sexes were sampled (representative gonad histology shown). B) MS experimental workflow: 1. Data dependent acquisition (DDA) was performed on the Q-Exactive-HF (QE) to assess the global proteomic differences between sexes and maturation stages. 2. Data independent acquisition (DIA) was also completed on the QE to create spectral libraries for selected reaction monitoring (SRM) method development. 3 & 4. These spectral libraries were analyzed in PECAN using Skyline to select optimal transitions and design an instrument method for SRM analyses. 5. SRM was completed on the TSQ Vantage for 212 bacterial peptide transitions. 6. Peptide transition detection and quantification was performed in Skyline. C) The chromatograms of peptide KEEELIDYMVKQ (from protein 130261_c0_seq1|m.17926) were collected using the 3 different MS approaches (DDA, DIA, and SRM)  late-stage female 51.  Black vertical lines indicate peak integration boundaries, and colored peaks represent the different transitions (i.e. peptide fragments) collected.
 
 
+Protein identification and quantification
+        Peptides were identified and proteins inferred using a proteome derived from a de novo assembled transcriptome of a male and female geoduck clam gonad tissue libraries (NCBI Bioproject Accession #PRJNA316216) (Del Rio-Portilla et al unpublished). Briefly, reads were assembled using Trinity (ref) and deduced protein sequences determined using the Transdecoder algorithm within Trinity. The raw mass spectrometry data (PRIDE Accession #PXD003127) was searched against the protein database (Supplemental file 1) using Comet v 2015.01 rev.2 (parameter file - supp file 2) to find peptide spectral matches[s][t].  Protein inference and match probability were found using the Trans-Proteomic Pipeline with a probability cut-off of 0.9 (Pedrioli 2010; Deutsch et al., 2015, version downloaded November, 2014).  Protein identifications were considered true matches when the probability of the match was at least 0.9 and at least 2 independent spectra were associated with the protein across all samples.  
+Non-metric multidimensional scaling analysis (NMDS) was used to determine  the similarity of technical replicates (supp file[u][v]) using the vegan package [w][x](Oksanen et al., 2016) in R v. 3.2.3 (R Core Team, 2015).  NMDS was performed on log-transformed data using a Bray-Curtis dissimilarity matrix with the vegan package in R.  As technical replicates were similar[y][z][aa], spectral counts were averaged across each sample (n=9).  Normalized spectral abundance factors (NSAF) were calculated on the averaged spectral counts for all high confidence, detected proteins as a proxy for protein expression (Florens et al., 2006). Proteomics differences between sexes and maturation stages were explored with two methods: 1) NMDS and analysis of similarity (ANOSIM) were used to compare the entire proteomic profiles in multivariate space and 2) QSpec was used to determine significant differences at the individual protein level. NMDS was performed on NSAF data followed by ANOSIM in the vegan package in R [ab][ac]to determine the differences between different stages within sex, and between maturational stages across sex. Differentially abundant proteins among the six conditions were identified using QSpec[ad][ae] (Choi et al., 2008).  Spectral counts were summed across technical replicates to create input files for QSpec[af][ag][ah][ai] with data normalized by abundance.  Nine comparisons were analyzed for differentially abundant proteins: Early male (EM) vs. early [aj][ak]female (EF); midstage male (MM) vs. midstage female (MF); late male (LM) vs. late female (LF); EM vs. MM; EM vs. LM; MM vs. LM; EF vs. MF; EF vs. LF; MF vs. LF.  Proteins were considered significantly different if the absolute value of the log fold change was > 0.5 and the absolute value of the z-statistic was > 2.
+Enrichment analysis was performed using an in-house developed script for each sex-stage on all the proteins detected and the proteins that were uniquely detected in that sex-stage.[al][am][an] Briefly, each list of proteins detected in a particular sex-stage is compared to the entire detected gonad proteome (3,627 proteins) to assess if certain biological processes are over-represented in a particular sex-stage. [M. Riffle, please fill in how the script works] For our analysis, we used a p-value cut-off of 1E-1 for GO biological processes. A p-value representing the statistical significance of the representation of a Gene Ontology (GO) term in a set of proteins was calculated using the hypergeometric distribution using the following formula:
+P(I) = ((A/I)*((T-A)/(B-I))/(T/B)
+Where A = total number of proteins submitted that have a GO annotation, B = the total number of proteins in the background proteome annotated with the given GO term (or any of its descendants), I (intersection of A and B) = the total number of submitted proteins annotated with the given GO term (or any of its descendants), and T = the total number of annotated proteins in the proteome background.
+Then, the p-value describing the chance of having an intersection of size I or larger by chance may be computed as:
+        P-value = [insert equation], where min ( A,B ) is the minimum of values A and B.
+ The p-value is then corrected for multiple hypothesis testing using the Bonferroni method by multiplying the p-value by the number of GO terms tested (setting resulting values over 1 to 1). The number of GO terms tested equals the number of GO terms found (and all ancestors) for the submitted set of proteins.
+                A p-value was calculated for every GO term represented in the protein set and for all ancestor terms up to the root term. The result is a complete directed acyclic graph (DAG) that represents a subset of the whole GO DAG where every term has an associated p-value. This DAG was then filtered by removing all terms with no children with an associated p-value ⋝some p-value cutoff. The resulting DAG was then filtered using the same method, and this process repeated until no childless terms remained with a p-value ⋝ the cutoff. The final result is a filtered subset of the GO DAG that contains no leaf nodes with a p-value greater than the cutoff, but where a given term is guaranteed to have all of its ancestor terms, even if those terms have a p-value greater than the cutoff. Having the ancestor terms present is critical to visualization as they provide context for interpreting the results.
+ This tool, specific to the geoduck gonad proteome, can be found at http://yeastrc.org/compgo_geoduck/pages/goAnalysisForm.jsp and can be explored with our input files (supp files).
 
 
+Selected Reaction Monitoring
+        A subset of proteins were chosen for development of biomarkers of geoduck sex and reproductive stage using[ao] selected reaction monitoring (SRM), or targeted proteomics, on the mass spectrometer. Based on the data-dependent acquisition, outlined above, proteins that were detected only in one of the following stages: early stage males (EM), early stage females (EF), late stage males (LM), or late stage females (LF) were screened for usable peptide transitions in SRM in Skyline[ap][aq], as described below.
+        Data independent acquisition (DIA) [ar]was used to generate spectral libraries for biomarker development[as]. Equal amounts of isolated peptides from the three biological replicates for EM, EF, LM, and LF used in the DDA experiment (described above) were pooled[at][au] in equal quantities for DIA on the Q-Exactive HF (Thermo). Each sample included a spiked-in internal quality control peptide standard (375 fmol PRTC + BSA; Pierce,[av][aw] hereafter referred to as “QC”). Sample injections for all DIA experiments included 1 ug protein plus the QC in a 2 µl injection. An analytical column (27cm) packed with 3 µm C18 beads (Dr. Maisch) and a 3 cm trap with 3 µm C12 beads (Dr. Maisch) were used for chromatography. Technical replicate DIA spectra were collected in 4 m/z isolation width windows spanning 125 m/z ranges each (400-525, 525-650, 650-775, 775-900; Panchaud et al., 2009). For each method, a gradient of 5-80% ACN over 90 minutes was applied for peptide spectra acquisition. Raw data can be accessed via ProteomeXchange (....) under identifier PXD…. MSConvert (Chambers et al., 2012) was used to generate mzML files from the raw DIA files.
+        In order to generate spectral libraries for targeted method development, Peptide Centric Analysis was completed with the software program PECAN (Ting et al., submitted; Ting et al., 2015).  Input files included the list of peptides generated for SRM[ax][ay] (n=212), as described above, and the mzML files generated from the raw DIA files. PECAN correlates a list of peptide sequences with the acquired DIA spectra in order to locate the peptide-specific spectra within the acquired DIA dataset. A background proteome of the in silico digested geoduck gonad proteome was used. [az][ba]
+        The PECAN .blib output file was then imported into Skyline daily v. 3.5.1.9706 (MacLean et al., 2010) to select peptide transitions and create MS methods that would target specific peptides and transitions. Peptide transitions are the reproducible fragments of peptides that are generated during the MS2 scan in a mass spectrometer. Peptides reliable fragment in the same way in the MS, therefore transitions are a robust and consistent signal of a peptide’s presence (Wolf-Yadlin et al., 2007). Peptide transitions were selected if peak morphology was uniform and consistent across the MS2 scans for technical replicates.[bb][bc] Peptides[bd][be] were selected for targeted analysis if they had > 4 good quality transitions and there were > 3 peptides per protein, but out of 26 biologically informative proteins, only 9 had at least 3 usable peptides and out of 56 usable peptides 42 had at least 4 usable transitions (the rest had 3 transitions). A maximum of 4 transitions per peptide were selected for targeted analysis and no more than 3 peptides per protein were selected. The final list included 25 transitions for EM biomarkers, 22 for EF, 133 for LM, and 52 for LF; this transition list was divided between two method files for the final SRM analyses to provide adequate [bf][bg]dwell time on individual transitions in order to accurately detect and measure all peptides desired (Picotti and Aebersold, 2012).
+        Selected reaction monitoring (SRM) was carried out on a Thermo Vantage for all nine geoduck gonad samples used in the original DDA[bh][bi] analysis. Samples were prepared as described above for DIA (1 µg of protein per 3 µl injection).  A new C18 trap (2 cm) and C18 analytical column (27.5 cm) were used and each sample was analyzed in triplicate across two MS experiments to cover the entire peptide transition list (n=212). Raw data can be accessed in the PeptideAtlas (....) under accession ….
+        Acquired SRM data were analyzed i[bj][bk]n Skyline for peptide transition quantification. A Skyline document was prepared with a list of the 212 peptide transitions that were monitored and can be found on Panorama (...).[bl][bm]  Peak presence was determined based on consistency of retention time (verified by spiked in QC peptides) and peak morphology.
+        All peptide transition peak intensities were exported from Skyline for automated peak picking and peak integration analysis[bn][bo]. Peptide abundance differences between sexes and  sexes and maturation stages were completed using Skyline peak integrations and [various analyses Brent and Emma did in R]. QC internal standard transitions were monitored for consistency across runs by calculating the slope of transition peak area across injections. Peak intensities for 212 geoduck transitions were normalized by dividing by the averaged intensities for the 5 QC peptide transitions that had the most peak areas across injections (PRTC.peptides_DIPVPKPK_y5, PRTC.peptides_ELGQSGVDTYLQTK_y4, PRTC.peptides_GILFVGSGVSGGEEGAR_y9, PRTC.peptides_LSSEAPALFQFDLK_y6, PRTC.peptides_SSAAPPPPPR_y5
+). [bp][bq]
+        NMDS and ANOSIM were performed on the QC-normalized SRM dataset as described above for the DDA dataset, except log-normalized instead of log(x+1)-normalized data were used. An initial NMDS showed that technical replicates clustered together well so technical replicate peak intensities were averaged for the rest of the analysis. ANOSIM was performed using grouping by sex and reproductive stage alone, as well as by a combined sex-stage factor. Coefficients of variation were calculated for combined (averaged) technical replicates using the raster package in R.
+        [Brent’s statistical magic…[br]] A heatmap of the log-normalized transition intensities was made using pheatmap in R, clustering rows (peptide transitions) and columns (samples) using euclidean distance and the average clustering method.
 
 
 
@@ -64,94 +129,26 @@ Geoduck (N=100) were collected on November 6, 2014 from the area fronting the Pu
 
 
 
-Staging[a]
 
 
 
 
-	Stage 1
-	Stage 2
-	Stage 3
-	Stage 4
-	Stage 5
-	Males
-	small acini, <5% spermatids
-	 small acini, 5-10% spermatids
-	medium acini, ~50% spermatids
-	 large acini,50=75% spermatids
-	 large acini, 75-90% spermatids
-	Females
-	Acini <200µ
-Oocytes ~5-15µ
-	Acini 200-500µ
-Oocytes ~20-35µ
-	Acini large, sparse
-Oocytes ~45-60µ
-	Acini large, numerous, connective tissue prevalent
-Oocytes ~50-75µ
-	Acini large, numerous, little connective tissue
-Oocytes ~65-85µ
-	
 
+The gonad transcriptome was translated and protein coding sequences were predicted using Transdecoder (http://transdecoder.sf.net). The proteome was annotated with UniProt-KB/Swissprot accession numbers with BLASTp (Uniprot trembl database downloaded April 28, 2015, www.uniprot.org; supp file). Proteins that were annotated with Uniprot IDs of proteins known to be involved in egg and sperm interactions were searched against the non-redundant protein database in NCBI (BLASTp) constrained by species selected for comparison. These proteins were a zona pellucida sperm-binding protein, a polycystic kidney disease and receptor for egg jelly-related protein, and a receptor for egg jelly protein (supp file). The selected species have sequenced genomes and include Nematostella vectensis, Acropora digitifera, Strongylocentrotus purpuratus, Crassostrea gigas, Lottia gigantea, Octopus bimaculoides, and Danio rerio. The top hit (below the e-value cut-off of 1E-10) was downloaded for each species and aligned with the same proteins from other invertebrates in Clustal Omega (CITE). Phylogenetic trees were constructed using Phylip 3.695 Drawgram from the Clustal Omega Newick tree output using default parameters (use branch lengths if present; branch length scaling = automatic; depth/breadth of tree = 0.53; stem length/tree depth = 0.05; character height/tip space = 0.333; ancestral nodes = weighted). Full length sequences were used for phylogenetic trees, but sequence alignments trimmed to the sequence length represented in all the species were used for percent identity (calculated in Clustal Omega). 
 
 
 
 
 
 
-Transcriptomes[b] 
 
 
-Based on histological determination of gender and developmental stage, seven female (developmental stages 1, 5, and 6) and six male (developmental stages 1 and 3) paraffin-embedded gonad samples were selected for RNA isolation. RNA was isolated using the PAXgene Tissue RNA Kit (Qiagen) according to the manufacturer’s instructions with the following changes. Five 5um sections were collected from each paraffin block. Where the protocol indicated centrifugation speeds of “maximum speed”, samples were centrifuged at 19,000g. In lieu of a shaker-incubator, the samples were incubated for 15 minutes at 45C in a dry oven using the Disruptor Genie (Scientific Industries). Samples were eluted using 40uL of Buffer TR4. 
 
 
-All samples were quantified using a NanoDrop1000 (Thermo Fisher Scientific). RNA integrity was verified on a Bioanalyzer (Agilent Technologies) using either the RNA 6000 Pico Kit (Agilent Technologies) or the RNA 6000 Nano Kit (Agilent Technologies), depending on sample concentration.
 
 
-Two pools of RNA (male RNA and female RNA) were prepared for RNA-seq. Both pools contained equal quantities of RNA from each developmental stage[c]. Library preparations and sequencing were performed by GeneWiz, Inc. Libraries were constructed using the Ultra RNA Library Preparation Kit (New England Biolabs). Both libraries were sequenced on a single lane of the HiSeq2500 (Illumina) sequencer.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Proteomics
-
-
-Protein digestion and LC-MS/MS
-Gonad tissue from three individuals at early, mid, and late stage gonad maturation, from both males and females were characterized for protein expression. These 9[d] samples (Table X) were initially homogenized using a sonicating probe 300 µl of 6 M urea in 50 mM NH4HCO3 homogenized using a sonicating probe 300 µl of 6 M urea in 50 mM NH4HCO3.
-Samples were sonicated three times and chilled in ethanol with dry ice in between sonications.  The probe was cleaned with ethanol and milliQ water in between samples. 
-        The microplate Pierce BCA assay for 10 µl of sample was used to quantify protein.  Each sample was diluted (11 µl clam mixture: 22 µl NH4HCO3) to dilute the urea so as not to impact the assay.
-        Protein digestion followed the protocol outlined in Timmins-Schiffman et al. (2014).  Briefly, 6.6 µl of 1.5M Tris-HCl (pH 8.8) and 2.5 µl of 200 mM TCEP were added to each sample and then incubated for 1 hour at 37°C.  Samples were alkylated with 20 µl of 200 mM iadoacetamide and incubated for 1 hour at room temperature in the dark.  Excess IAM was absorbed using 20 µl of 200 mM DTT (incubated 1 hour at room temperature).  The remainder of the digestion protocol was carried out on 100 µg of protein from each sample.  To each sample, 800 µl 25 mM NH4HCO3 and 200 µl HPLC grade methanol were added.  Trypsin (5 µg) was then added to each sample and incubated overnight at 37°C.  The digested samples were evaporated to near dryness on a speed vac and then reconstituted in 100 µl 0.1% formic acid in water and 10 µl 10% formic acid.  The samples were then evaporated until dry. Before desalting, samples were reconstituted in 100 µl solvent B (5% ACN + 0.1% TFA) and checked to make sure pH < 2.
-Desalting of the samples was done using Macrospin columns (Nest Group).  Columns were first prepared with washes of solvents A (60% ACN + 0.1% TFA) and B.  Peptides were then bound to the column while all contaminants were washed off and subsequently eluted in solvent A, evaporated, and reconstituted in 100 µl solvent B.
-Liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) was accomplished on a Q-Exactive-HF (Thermo) on technical triplicates for each sample. The analytical column was 20 cm long and column packed with C18 beads with a flow rate of 0.3 µl/min.  The solvent gradient consisted of: 0-1 minutes 98% A/2% B; 1-60 minutes 95% A/5% B; 60-61 minutes 65% A/35% B; 61-71 minutes 20%A/80% B; 71-90 minutes 98% A/2% B.  Quality control standards (PRTC + BSA) were run throughout the experiment to ensure consistency of peptide detection and elution times.
-
-
-Protein identification and bioinformatics
-        A protein identification database was created from transcriptomic sequences described above.  The nucleotide sequences were translated using the transeq tool in EMBOSS in iPlant with a 6-frame translation.[e][f][g]  The raw mass spectrometry data was searched against the database using Comet v 2015.01 rev.2 (parameter file available in supp file X) to find peptide spectral matches[h][i][j][k].  Protein inference and match probability were found using [l][m]the Trans-Proteomic Pipeline (CITE, version downloaded November, 2014) (commands used found in supp file Y).   Protein identifications were considered true matches if the probability of the match was at least 0.9 and at least 2 independent spectra were associated with the protein across all samples.  Proteins were annotated with UniProt-KB/Swissprot accession numbers and Gene Ontology (GO) annotations.[n][o][p][q]
-Non-metric multidimensional scaling analysis (NMDS) was used to determine  the similarity of technical replicates (supp file).  NMDS was performed on log-transformed data using a Bray-Curtis dissimilarity matrix with the vegan package in R.  Technical replicates showed a high degree of reproducibility so spectral counts were averaged the replicates.  Normalized spectral abundance factors (NSAF) were calculated on the averaged spectral counts for all the high confidence, detected proteins as a proxy for protein expression.  A new NMDS was performed on the NSAF data to compare proteome abundance profiles between males and females and across reproductive stages.  ANOSIM was used on the NMDS to determine the statistical differences among sex-stage groups.
-Differentially abundant proteins between all treatments were found using QSpec.  Spectral counts were summed across technical replicates to create input files for QSpec.  Seven comparisons were analyzed for differentially abundant proteins: Early male (EM) vs. early female (EF); midstage male (MM) vs. midstage female (MF); late male (LM) vs. late female (LF); EM vs. MM; MM vs. LM; EF vs. MF; MF vs. LF.  Proteins were considered significantly different if the absolute value of the log fold change was at least 0.5 and the absolute value of the z-statistic was at least 0.2.
-Enrichment analysis using DAVID v. 6.7 (https://david.ncifcrf.gov/) was used to find the biological processes that were the most prominent for each developmental stage.  The background gene list (proteome) used was the list of all Swissprot accession numbers that corresponded to a high confidence protein with an e-value less than or equal to 1E-10.  The gene lists were Swissprot accession numbers for proteins that were detected only in a specific sex and stage (e.g. early females, midstage males) or for all proteins detected across every stage in either males or females.
-
-
-
-
-
-
-comet (info can be found on UWPR website).  Here are the commands: https://proteomicsresource.washington.edu/protocols06/comet_commands.php
-More info here: http://comet-ms.sourceforge.net/
 
 
 
@@ -163,38 +160,414 @@ More info here: http://comet-ms.sourceforge.net/
 
 
 Results
+Proteome[bs][bt]
+        Three proteins were selected for phylogenetic analysis: zona pellucida sperm-binding protein, polycistic kidney disease receptor for egg jelly-related protein, and receptor for egg jelly. The first two proteins were represented multiple times within the geoduck gonad proteome and only the longest sequence entry was selected for this analysis.
+ phylo trees.jpg 
+[bu][bv]
+Figure X.  Phylogenetic trees of sequences of A) receptor for egg jelly 7, B) polycystic kidney disease and receptor for egg jelly-related protein, and C) zona pellucida-sperm binding protein. Uniprot accession numbers are given for each protein, except for geoduck, which is indicated by the protein ID from the current sequencing effort. The trees include sequences from zebrafish (blue), the coral Acropora digitifera (green), the anemone Nematostella vectensis (red), the oyster Crassostrea gigas (yellow), geoduck (orange), the limpet Lottia gigantea (purple), the octopus Octopus bimaculoides (pink) and the urchin Strongylocentrotus purpuratus (black). “M” indicates the molluscan clade (with “b”, “g”, and “c” on the branches for bivalvia, gastropoda, and cephalopoda), “C” the cnidarians, and “E” the echinoderm.
+
+
+ percent identity matrices.jpg 
+
+Figure Y. Percent identity heat maps of sequence similarity among geoduck, oyster, urchin, octopus, anemone, coral, and zebrafish for A) receptor for egg jelly 7, B) polycystic kidney disease and receptor for egg jelly-related protein, and C) zona pellucida-sperm binding protein. 
+
+
+
+
+
+
+
+
 
 
 Proteomics
-There were 3,627 proteins detected with high confidence across males and females of early, middle, and late reproductive stages.  Female and male gonad proteomic profiles were more similar in early stage reproduction, with proteomes diverging as reproductive maturity advanced (NMDS figure).  
+There were 3,627 proteins detected with high confidence across males and females of early, middle, and late reproductive stages.  Female and male gonad proteomic profiles were more similar in early stage reproduction, with proteomes diverging as reproductive maturity advanced (NMDS figure).  [bw][bx]Proteomic profiles were significantly different between sexes (R = 0.4122, p = 0.002) and maturation stages (R = 0.3025, p = 0.004).
  NMDS NSAF.jpg 
 
-Three hundred five of these proteins were detected only in females and 522 were detected only in males.  The number of proteins unique to a specific reproductive stage increases with reproductive maturity from 24 and 20 in early females and males, respectively, to 20 and 43 in midstage females and males, and 161 and 145 in late stage females and males (Table[r]).  
+Figure. Non-metric multidimensional scaling plot (NMDS) of geoduck gonad whole proteomic profiles generated by data-dependent analysis. Gonad proteomes differ among clams by both sex (male = orange, female = blue) and stage (early = circles, mid = squares, late = triangles; p<0.05).
+
+
+Three hundred five of these proteins were unique to the female proteomic profile and 522 were unique to males.  The number of proteins unique to a specific reproductive stage increased with reproductive maturity from 24 and 20 in early females and males, respectively, to 20 and 43 in midstage females and males, and 161 and 145 in late stage females and males (Table[by][bz]).  
  sex-stage unique proteins.jpg 
-
-Important biological processes for each reproductive stage, as determined by the enrichment analysis, also increased with complexity as maturity advanced (Table).  In early females, proteins involved in muscle development were enriched, followed by those associated with epithelium development in midstage females.  In proteins unique to late reproductive females, the enriched processes included cell adhesion, organ development, and cell differentiation.  Early male unique proteins were enriched for hydrolase activity, midstage males had more proteins involved in RNA metabolism, and late reproductive males had a greater abundance of proteins involved in spermatogenesis, microtubule movement, and ion transport.
-In addition to the proteins that were unique to reproductive stage, many more were differentially abundant in comparisons between stage and sex.  Between sexes, there were 613 differentially abundant proteins in early females vs. early males, 637 in midstage females vs. midstage males, and 750 in late females vs. late males.  Between stages, there were 979 differentially abundant proteins for early females vs. midstage females, 988 for midstage females vs. late females, 1073 between early males vs. midstage males, and 1352 between midstage males vs. late males (supp. table).
-
-
-To do: 
-* proteins present throughout development that increase in abundance with maturity - heatmap
+[ca][cb]
+Figure. Sex-stage specific protein abundance for male (orange) and female (blue) clams at early-, mid-, and late-stage of reproductive maturation. The histograms represent the frequency of proteins uniquely detected at each sex and stage from low to high abundance along the x-axis. The circles below the histograms are proportional representations of the number of proteins specific to each sex and stage. 
 
 
-[a]Grace's notebook indicates 7 stages for females.
-[b]+Samuel.J.White@gmail.com can you add RNA-seq methods here?
-[c]Is this clear that this is only referring to the developmental stages that were isolated? Or, does the statement seem like it implies all developmental stages characterized (see table)?
-[d]early females = 3,4,8; mid females = 34,35,38 ; late females = 51,69,70; early males = 2,7,9; mid males = 41,42,46; late males = 65,67,68
-[e]I know this is not correct
-[f]so you used the protein database I provided from transencoder?
-[g]yes
-[h]+emsie25@gmail.com can you provide links to raw data and corresponding code (commmands) that was used to find spectral matches?
-[i]I haven't uploaded it yet, but I can add that to my "do soon" list.  I'll prep a supp file with the code.
-[j]links to commands provided
-[k]I have started the process of submitting the raw and search result files to proteomeXchange so that we will have a publicly accessible link.
-[l]+emsie25@gmail.com similarly can you include commands used for this?
-[m]http://eagle.fish.washington.edu/oyster/index.php?dir=geoduck+supp+files%2F
-[n]this is not complete
-[o]Can you complete it?
-[p]yes
-[q]blast is running...
-[r]I envision a table with the numbers of unique proteins and enriched biological processes for each category.  This would complement the figure of unique proteins.
+Important biological processes for each reproductive stage, as determined by the enrichment analysis, also increased with complexity as maturity advanced. “Translation” and related biological processes were enriched in all sex-stage combinations.  In early stage females, proteins involved in phosphorylation were enriched, in midstage females proteins associated[cc][cd] with regulation of hydrolase activity and carbohydrate metabolism were enriched (supp file for early and mid stage clams, figure for late stage).  In proteins unique to late reproductive females, the enriched processes included cell adhesion, protein glycosylation, DNA replication, and signal peptide processing (figure).  Early male unique proteins were enriched for small molecule metabolic process and oxidation-reduction process, midstage males had more proteins involved in ATP metabolic process, and late reproductive males expressed proteins enriched in cellular macromolecule complex assembly, nucleotide metabolic process, and were highly enriched for microtubule-based movement (figure).
+ LF all and unique.jpg 
+
+
+
+ LM all and unique.jpg 
+[ce]
+Figure. Maps of enriched Gene Ontology biological processes for A) late stage female geoduck and B) late stage male geoduck. Similar maps for early and mid-stage males and females can be found in supp files. Processes colored in blue were enriched from the set of all proteins detected in the given sex-stage, while red processes are from the protein set that was uniquely detected in a sex-stage. Darker colors represent higher significance of enrichment.
+
+
+In addition to the proteins that were unique to reproductive stage, many more were differentially abundant in comparisons between stage and sex.  Between sexes, there were 387 differentially abundant proteins in early females (EF) vs. early males (EM), 625 in midstage females (MF) vs. midstage males (MM), and 1035 in late females (LF) vs. late males (LM).  Between stages in females, there were 445 differentially abundant proteins for EF vs. MF, 414 for MF vs. LF, and 878 for EF vs. LF.  There were higher numbers of differentially abundant proteins between reproductive stages for males: 625 for EM vs. MM, 671 for MM vs. LM, and 1011 for EM vs. LM (supp table).
+
+
+SRM
+        SRM was explored in order to create peptide assays that could resolve geoduck sexes and maturation stages for better broodstock management. DDA is suited to global discovery of proteomic patterns, but it suffers from lack of reproducibility and relative insensitivity to low abundance peptides. When a MS is in SRM mode, it reproducibly measures the entire signal of specific peptides of interest.  Two[cf][cg][ch] hundred and twelve peptide transitions derived from early male (EM), early female (EF), late male (LM), and late female (LF) uniquely inferred proteins were measured across all three reproductive stages and both sexes. Coefficients of variation were reasonably stable across all biological replicates, although many transitions still have high CVs indicating a need for assay optimization (boxplot sup. file). 
+In an ordination plot, the SRM data resolved males and females better in late-stage samples than the early- or mid-stage (Figure NMDS). There was significant separation based on SRM data for sex (R = 0.2425, p=0.006), stage (R=0.2132, p=0.006), and a combined sex-stage factor (R=0.4082, p=0.001). 
+
+
+ NMDS avg tech reps normalized.jpg 
+
+Figure. NMDS of geoduck gonad whole peptide transition abundance generated by selected reaction monitoring. Gonad proteomes differ among clams by both sex (male = orange, female = blue) and stage (early = circles[ci][cj], mid = squares, late = triangles; p<0.05).
+
+
+ heat map.jpg 
+[ck][cl]
+Figure. Heat map of log-normalized peptide transition intensities for all measured transitions (n=212) across all samples (early, mid, and late males[cm] and females). The samples have very similar[cn] expression profiles within sex-stage groups.
+
+
+Discussion - DO NOT READ THIS YET!!!!
+        We have characterized the geoduck clam gonad proteome throughout reproductive maturation for both males and females. Our data-dependent analysis, or shotgun proteomics, approach yielded 3,627 detected proteins across both sexes and three reproductive stages. Based on the DDA data, X proteins from early and late stage male and female clams were selected for selected reaction monitoring (SRM), or targeted proteomics, to develop peptide biomarker assays of geoduck reproductive stage. These proteins yielded 212 peptide transitions that were candidates for biomarker development and the utility of which were tested. These 212 peptide transitions could be decreased to a set of X transitions that would accurately predict a) if a geoduck was male or female and b) how far it was from reproductive maturity. These molecular tools can directly address the geoduck production problem of asynchronous spawning due to different maturation stages and unknown sexes.
+
+
+Transcriptome/Proteome
+What did we learn from the transcriptome? 
+Phylogenetic comparison of "fast-evolving” sperm-egg interaction proteins
+
+
+DDA
+There are clear proteomic profile differences in the geoduck gonad by both sex and maturation stage and these differences elucidate the biochemical pathways underlying tissue specialization. More proteins are differentially abundant between early and late stages of reproductive maturity, compared to early and mid-stages, for both males and females, reflecting that as maturation progresses and gonadal tissue becomes highly specialized to male or female reproduction. What are these differentially abundant proteins? The sex- and stage-specific proteomes were enriched for specific biological processes, further demonstrating tissue specialization. In females, the early-stage gonad proteome was enriched in proteins involved in protein phosphorylation, the mid-stage was enriched in regulation of hydrolase activity and carbohydrate metabolism, and the late stage was enriched in protein glycosylation, signal peptide processing, DNA replication, and cell adhesion. These shifts in biological pathways clarify the mechanisms behind what is already known about bivalve tissue morphology during maturation. [what do we know about bivalve gonads] The male tissue similarly demonstrated increased complexity through the enrichment analysis: early male gonad proteome was enriched only in translation processes, the mid-stage male proteome was enriched in ATP metabolic process, and the late stage for nucleotide metabolic process, microtubule-based movement, and cellular macromolecular complex assembly. These results clearly reflect the development of mature, motile sperm. The phenotypic expression of these proteomic changes are reflected in gonad histology, which reveals egg and sperm development and tissue restructuring as maturation proceeds. 
+We identified 3,627 high confidence proteins across both sexes and all maturation stages, reflecting the dynamism of the tissue physiology as well as the suitability of our tissue- and species-specific protein identification database. These two reasons - one biological and one bioinformatic - allowed us to detect, identify, and explore many more proteins than previous, similar studies have been able to analyze. Throughout geoduck sexual maturation (which lasts approximately X days), the gonad goes from undifferentiated mantle tissue to a highly specialized sex organ that can release fully mature sperm and eggs. These dramatic phenotypic changes required for reproductive maturity are realized via changes at the molecular level that prompt the biochemical shifts necessary to create mature gonad. In sequencing the gonad transcriptome to use as our protein identification database, we were able to identify many more peptides, allowing for a fuller characterization of the dynamic maturation process (i.e. Brautigaum et al., XXX; Timmins-Schiffman et al., accepted).
+[direct comparisons with other invertebrate reproduction proteomes]
+
+
+
+
+
+
+
+
+        Even with a highly specific protein identification database, the DDA method excludes many important, relatively low abundance proteins from analysis (yeast proteome citation). 
+Compare abundance of most abundant proteins in males and females within stages - in zebrafish, highly abundant vitellogenin likely made it difficult to detect many lower abundant proteins (Groh et al., 2011)
+
+
+SRM
+DDA gives us biologically interesting results, but SRM is a practical tool that we can use for enhancing aquaculture practices
+Potential for accurate quantification
+Target specific, relevant proteins to a particular process; avoid high abundance proteins that may overwhelm signal of relevant proteins
+Our entire dataset of 212 peptide transitions can differentiate easily between early and late-stage males and females (especially late stage of the 2 sexes) - mid stage is muddier because 1) probably physiologically between early & late so proteome isn’t obviously 1 or the other and 2) we developed our assays just in early and late, we did not choose peptides that would specifically differentiate the mid-stage
+From these 212, X  were highly informative for our useful sex & stage phenotypes. We can make these into an assay that would take 3 days & $X to get results for up to 25 individuals.
+Even though we selected sex- and stage-specific proteins for SRM based on DDA data, they were not always so precise in the SRM data due to the nature of MS between the two methods
+
+
+Acknowledgements
+Sonia, Jarrett, Lindsay, GSIT, Jimmy
+
+
+Supplemental files
+1. Proteins with annotations, spc, nsaf, qspec
+2. Proteins for phylogeny comparison
+3. Comet.params
+4. NMDS of technical replicates for DDA
+5. Enrichment scripts
+6. Enrichment input files
+7. SRM peptides and peak areas
+8. NMDS of technical replicates for SRM
+9. Early and mid-stage enrichment plots
+10. Enrichment reports
+11. SRM CVs
+
+
+
+
+Other figures/tables from my capstone: (Grace)
+Females
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Stage 1
+	Stage 2
+	Stage 3
+	Stage 4
+	Stage 5
+	Stage 6
+	Stage 7
+	Geo-01
+	Geo-15
+	Geo-48 **
+	Geo-31
+	Geo-25
+	Geo-37
+	Geo-57
+	Geo-03
+	Geo-18
+	Geo-55
+	Geo40
+	Geo-34
+	Geo-50
+	Geo-61
+	Geo-04
+	Geo-19
+	Geo-64
+	
+
+	Geo-35
+	Geo-51
+	
+
+	Geo-05
+	Geo-21
+	Geo-66
+	
+
+	Geo-38
+	Geo-69
+	
+
+	Geo-06
+	Geo-22
+	
+
+	
+
+	Geo-39 **
+	Geo-70
+	
+
+	Geo-08
+	Geo-23
+	
+
+	
+
+	Geo-44
+	
+
+	
+
+	Geo-14
+	Geo-24
+	
+
+	
+
+	Geo-45
+	
+
+	
+
+	Geo-29
+	
+
+	
+
+	
+
+	Geo-58
+	
+
+	
+
+	Geo-30
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	**Geoduck tissue specimens that were incorrectly fixed. There are likely a few more than those marked, but were not discernible from the correctly fixed tissues. 
+Table 3. Results of female sex-determination of histology slides and placement into reproductive stages. The number after “Geo_” represents the order in which the geoduck was sampled from week one.
+
+
+Males
+	
+
+	
+
+	
+
+	
+
+	Stage 1
+	Stage 2
+	Stage 3
+	Stage 4
+	Stage 5
+	Geo-02
+	Geo-10
+	Geo-41
+	Geo-33
+	Geo-52
+	Geo-07
+	Geo-11
+	Geo-42
+	Geo-43
+	Geo-62
+	Geo-09
+	Geo-13
+	Geo-46
+	Geo-49
+	Geo-63
+	Geo-12
+	Geo-17
+	Geo-47
+	Geo-53 **
+	Geo-65
+	Geo-16
+	Geo-20
+	Geo-54
+	Geo-56
+	Geo-67
+	Geo-26
+	Geo-27
+	
+
+	Geo-59
+	Geo-68
+	Geo-28
+	Geo-32
+	
+
+	Geo-60
+	
+
+	
+
+	Geo-36
+	
+
+	
+
+	
+
+	** Geoduck tissue specimens that were incorrectly fixed. There are likely a few more than those marked, but were not discernible from the correctly fixed tissues. 
+Table 4. Results of male sex-determination of histology slides and placement into reproductive stages. The number after “Geo_” represents the order in which the geoduck was sampled from week one. 
+
+
+
+
+ F_weight_stage.png 
+ M_weight_stage.png 
+
+3a.                                                     3b.
+ F_length_stage.png 
+ M_length_stage.png 
+
+3c.                                                     3d.
+Figure 3. The average geoduck weights per reproductive stage in females (3a) and males (3b) and the average geoduck lengths per reproductive stage in females (3c) and males (3d). There is no clear correlation between average weight or length and the reproductive stage for either sex. 
+ F_proportionstage_overweeks.png 
+
+4a.
+
+
+ M_propstages_overweeks.png 
+
+4b. 
+Figure 4a and b. The proportion of geoducks at each reproductive stage across the sampling weeks for females (4a) and males (4b). There was a general trend of increasing reproductive ripeness for both sexes as time progressed. However, there are also some variations. In both sexes, Stage 4 geoducks appear before Stage 3. Also, Stage 1 geoducks reappear for both sexes in December. 
+[a]we can wait a bit to decide how to parse this - but my first thought it to lead with molluscs in general...
+[b]I think this doesn't belong in the intro, but could be a discussion point.
+[c]can you say here the tissue/fluid you propose here?  would be more powerful statement.
+[d]well...the tissue we used isn't the best for a completely non-lethal sample. you would probably want to sample a tissue that we did use for assay development.
+[e]what could you use?
+[f]with previous gonad sampling brent said that mortality was 10-20%, but could probably be done more gently. other options include hemolymph (circulating fluid) or mantle, which is the organ that the gonad forms on.
+[g]We should have hemolymph samples from Grace
+[h]Still working on this paragraph
+[i]if sending to JPR or Proteomics remember to delete some of the explanatory sentences on proteomics.  act like you are writing to our lab group.
+[j]If you really want to sell the approach and move this paper up in tier level, I would run your assay in a non-invasive way on 10 random individuals and demonstrate it works..  What fluid  would you collect to make it work?  I would even suggest holding the paper back to do this- it wouldn't take much (Assuming you have 10 geoducks sitting around...hmmm...that sounds like the beginning of a good joke)
+[k]The assay is developed, and you would just run 10 samples...and BAM.   That would be awesome.- Molecular and Cellular Proteomics would take it then-- that would be AWESOME.
+[l]I don't think the same peptides would work in other tissues though. And I'm not sure if +roberts.sbr@gmail.com has other tissues lying around. I know we discussed it before.
+[m]is there a fluid you can suck out? or can you clip off a small piece of meat without introducing an infection point?  I have never played with a geoduck...sounds like a trip to the Asian market might be due.
+[n]I am game for 10 samples... and BAM. - Seems like easy enough to test for potential pay off
+[o]Not exactly sure what this table will look like.
+[p]Again- this part is journal dependent.  some of this txt can go (or stay) depending on where you send this.
+[q]ok...now I feel like I have seen this figure...
+dabble a bit more with the figure to see if you can make the grey lines parallel.  it should make it more appealing to the eye.
+[r]I think you might be at 1/2 page with this now size wise- so you could spread this out.
+[s]include some of the prime params here for transparency.  trypsin, 2 missed cleavages, 10ppm mass accuracy, mods.
+[t]even if we are supplying the params file?
+[u]?
+[v]a figure of the NMDS with technical replicates
+[w]I believe there is a conventional means to cite R and packages.
+[x]yep, I just haven't filled in all my citations yet. I always cite packages and R.
+[y]can this be quantified
+[z]not really, but it is very apparent when looking at the nmds
+[aa]you can figure out the distance between tech reps isn't significantly different compared to difference between treatments (an eigenanalysis).  You could report that. you can also calculate and report the actual distances.
+[ab]what and how..
+[ac]better?
+[ad]not clear what is different between this and NMDS-ANOSIM described above
+[ae]I added a sentence above, does that clarify?
+[af]parameters?
+[ag]the only choice I had to make is added. It is a web portal where you upload files and they don't give parameter selection.
+[ah]not clear what is different between this and NMDS-ANOSIM described above
+[ai]I added a sentence above, does that clarify?
+[aj]not clear what is different between this and NMDS-ANOSIM described above
+[ak]I added a sentence above, does that clarify?
+[al]need this script- in manner someone could reproduce
+[am]he is going to provide it
+[an]Created a github repository at https://github.com/yeastrc/compgo-geoduck-public that has all the source code. I'll update the manuscript to reflect.
+[ao]we might consider phrasing / intent
+[ap]What does this mean? How would someone else do this?
+[aq]the details follow. i also made a ppt tutorial for the paper i just submitted, so we could reference that.
+[ar]would like this defined.- again consider someone (like me) trying to reproduce methods
+[as]put on pride
+[at]what was pooled?
+[au]added to beginning of sentence
+[av]is  this one product- what is part number?
+[aw]I have now defined it earlier in the methods
+[ax]add numbers
+[ay]ok?
+[az]for...
+[ba]pecan requires a background proteome so it has a list of all potential peptides
+[bb]how was this determined?
+[bc]using my eyes
+[bd]not clear
+[be]better without "ideally"?
+[bf]not clear
+[bg]does following sentence help?
+[bh]reader is lost-
+[bi]I forgot to define DDA in the shotgun section. It has now been done and I added a few words here to clarify.
+[bj]why? - what does it do.
+[bk]quantifies!
+[bl]lost
+[bm]You give the skyline document a list of the things you want it to find in your data. Skyline has a bunch of tutorials that outline how to do a variety of things, so I could provide the tutorial link here.
+[bn]more specific
+[bo]ok?
+[bp]not clear what this gives reader?
+[bq]well, they would be able to look these transitions up in the supplemental file. I think it is important to know which transitions I selected to normalize the data by.
+[br]include wand type
+[bs]If we go down this path - the full proteome should be characterized first..
+[bt]curious what you mean by that
+[bu]note that when i trimmed the sequences to make a percent identity matrix, the phylo tree looked a bit different for egg jelly receptor. i can redo it if anyone thinks i should.
+[bv]same for kidney egg jelly receptor, but that one had to be trimmed down a lot
+[bw]is this based on stats?
+[bx]nope, my eyes
+[by]https://docs.google.com/spreadsheets/d/1Hb-pYxy-Wht6V1k7B1XE4XV_ZsXt-8jv832fUox5cv4/edit?usp=sharing
+[bz]table should include which proteins
+[ca]did we decide to get rid of this?
+[cb]not clear to me what it shows.
+[cc]For me, it would be nice to see a table with each batch of biological processes enriched listed
+This way it is easy to see the progression and draw a potential conclusion from.  I still like the Riffle diagrams though.
+Male early mid late
+Female early mid late
+[cd]Riffle's tool also makes an interactive report with the enriched processes and the list of proteins that contribute to the enrichment. I will make a table, but it might get big, fast.
+[ce]see if report corresponds proteins with enriched processes
+[cf]ok- you need an intro as to why you are doing SRM...the idea (I assume) is to determine if these peptides are consistently at high or low levels between stages and sexes.- start with that
+[cg]also add in a sentence that says that while DDA detect things that are uniqued and not unique it can have reproducibility issues, whereas targeted gets all the signal
+[ch]how does this sound?
+[ci]what does this plot look like if you ditch the light blue square on the far left?
+is it so off that it should be ditched?
+[cj]no, I only ditch data points when they skew the data. The midstage samples were a little wonky because the assays were developed in the early and late data. And I think the midstage clams have a wider spectrum of molecular phenotype since they are in transition between the 2 other stages.
+[ck]redo with sequential color palette
+[cl]this will become heatmap of pared down, informative transitions.
+[cm]Taz and I like this!
+[cn]Avoid hand waving to describe things.  Quantify it somehow
