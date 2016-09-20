@@ -39,11 +39,10 @@ RUN apt-get update && \
     software-properties-common
 
 RUN apt-get update && \
-	add-apt-repository ppa:openjdk-r/ppa \
+	add-apt-repository ppa:openjdk-r/ppa
 	
 RUN apt-get update \
 	apt-get install -y --no-install-recommends \
-	openjdk-7-jdk \
     build-essential \
     pkg-config \
     python-setuptools \
