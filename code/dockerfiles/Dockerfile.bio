@@ -40,6 +40,7 @@ RUN apt-get update && \
 
 RUN apt-get update && \
 	add-apt-repository ppa:openjdk-r/ppa \
+	apt-get update \
 	apt-get install -y --no-install-recommends \
 	openjdk-7-jdk \
     build-essential \
