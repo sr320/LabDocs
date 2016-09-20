@@ -3,8 +3,7 @@
 
 <img src="https://dl.dropboxusercontent.com/u/115356/Steven-Roberts1-262x262.jpg" width="144" height="142" /> 
 
-Associate Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
-
+Kenneth K. Chew Endowed Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
 
 ---
 
@@ -26,6 +25,19 @@ I'm a naturalist at heart with a particular fascination with marine invertebrate
 
 Like many Washingtonians, I grew up exploring and enjoying the unique marine environment of Puget Sound. Because of the natural connection I had with the waters in Puget Sound, I became interested in marine research in college. I started in the Becker Lab at UW Tacoma as an undergraduate researcher on two projects: determining the ability of mussels to remove nutrients from the Thea Foss Waterway and measuring the distribution of Olympia oyster larvae in Fidalgo Bay. Following graduation, I completed an eight month internship at the Center for Urban Waters, where I investigated different methods to remove phosphorus from stormwater. Currently my research focuses on studying the movements of larval oysters to enhance restoration efforts. The dynamic nature of my current research, with the combination of field and lab elements, keeps me intrigued and motivated.  At any time I could be trudging through the mud in Fidalgo Bay or doing molecular biology in the lab. Through this research experience I have also discovered that baby oysters are super cute. It’s not every day that you get to use complex science to aid in the restoration of adorable marine critters.  Follow Megan on Twitter ([@BivalveFanatic](https://twitter.com/BivalveFanatic))
 
+---
+
+
+### Laura Spencer
+
+---
+
+### Rhonda Elliot
+
+
+---
+
+### Yaamini Venkataraman
 
 
 ---
@@ -33,6 +45,12 @@ Like many Washingtonians, I grew up exploring and enjoying the unique marine env
 <br>
 
 # Research Scientists
+
+**Hollie Putnam** (Visiting Scientist)      
+Assistant Professor      
+Department of Biological Sciences    
+University of Rhode Island    
+[www.hollieputnam.com](http://www.hollieputnam.com/)
 
 Sam White
 
@@ -161,6 +179,10 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/researc
 
 
 ### _Visiting Scientsts_
+
+Jose Angel Hidalgo de la Toba - CIBNOR PhD student     
+March 27-April 25, 2016
+_New method for determining size at age in individuals to inform geoduck population models._  
 
 Timothy Green; University of Queensland
 
