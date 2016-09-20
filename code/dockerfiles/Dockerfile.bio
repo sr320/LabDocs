@@ -70,6 +70,16 @@ RUN apt-get update && \
     libedit2 \
     psmisc \
     sqlite3 \
+	infernal \ #dammit dependency
+	liburi-escape-xs-perl \ #dammit dependency
+	emboss \ #dammit dependency
+	liburi-perl \ #dammit dependency
+	ruby \ #dammit dependency
+	hmmer \ #dammit dependency
+	libsm6 \ #dammit dependency
+	libxrender1 \ #dammit dependency
+	libfontconfig1 \ #dammit dependency
+	parallel \ #dammit dependency
     && apt-get clean
 
     
