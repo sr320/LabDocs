@@ -35,8 +35,11 @@ MAINTAINER Sam White <samwhite@uw.edu>
 # Get software dependencies
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-    software-properties-common \
+    software-properties-common
+
+RUN apt-get update && \
 	add-apt-repository ppa:openjdk-r/ppa \
+	apt-get install -y --no-install-recommends \
 	openjdk-7-jdk \
     build-essential \
     pkg-config \
