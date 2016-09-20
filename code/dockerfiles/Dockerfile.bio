@@ -33,11 +33,11 @@ FROM ubuntu:16.04
 MAINTAINER Sam White <samwhite@uw.edu>
 
 # Get software dependencies
-RUN add-apt-repository ppa:openjdk-r/ppa && \
-	apt-get update \
+RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-    openjdk-7-jdk \
     software-properties-common \
+	add-apt-repository ppa:openjdk-r/ppa \
+	openjdk-7-jdk \
     build-essential \
     pkg-config \
     python-setuptools \
