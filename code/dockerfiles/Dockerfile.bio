@@ -10,7 +10,7 @@
 #########################
 # SOFTWARE	VERSION #
 #########################
-# bedtools	2.25.0  #
+# bedtools	2.26.0  #
 # bismark	0.15.0  #
 # blast		2.4.0+  #
 # bowtie2	2.2.8   #
@@ -106,10 +106,10 @@ WORKDIR /usr/local/bioinformatics
 # ENV PATH /usr/local/bioinformatics:$PATH
 
 # Install bedtools (v2.25.0)
-RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2.25.0.tar.gz \
-	&& tar -zxvf bedtools-2.25.0.tar.gz \
+RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz \
+	&& tar -zxvf bedtools-2.26.0.tar.gz \
 	&& make -C /usr/local/bioinformatics/bedtools2 \
-	&& rm bedtools-2.25.0.tar.gz
+	&& rm bedtools-2.26.0.tar.gz
 
 ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
     
