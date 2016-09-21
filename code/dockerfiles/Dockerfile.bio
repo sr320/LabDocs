@@ -269,5 +269,8 @@ RUN curl -LO http://busco.ezlab.org/files/BUSCO_v1.1b1.tar.gz \
 
 ENV PATH /usr/local/bioinformatics/BUSCO_v1.1b1:$PATH
 
+## Remove Sphinx from MiniConda (dammit requirement)
+RUN conda remove sphinx
+
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
