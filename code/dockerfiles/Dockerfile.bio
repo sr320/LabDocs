@@ -119,6 +119,15 @@ RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2
 	&& rm bedtools-2.26.0.tar.gz
 
 ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
+
+## Add MiniConda channel to allow easy install of khmer (dammit dependency)
+RUN conda config --add channels ged --add channels bioconda
+
+## Install Python dependencies for use in dammit
+RUN conda install setuptools pandas khmer doit nose ficus matplotlib
+
+## Update pandas and numexpr using MiniConda (dammit dependencies)
+##RUN conda update pandas numexpr
     
 # Install blast (v2.4.0+)
 RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/ncbi-blast-2.4.0+-x64-linux.tar.gz \
@@ -267,15 +276,6 @@ RUN curl -LO http://busco.ezlab.org/files/BUSCO_v1.1b1.tar.gz \
 	&& rm BUSCO_v1.1b1.tar.gz
 
 ENV PATH /usr/local/bioinformatics/BUSCO_v1.1b1:$PATH
-
-## Add MiniConda channel to allow easy install of khmer (dammit dependency)
-RUN conda config --add channels ged --add channels bioconda
-
-## Install Python dependencies for use in dammit
-RUN conda install setuptools pandas khmer doit nose ficus matplotlib
-
-## Update pandas and numexpr using MiniConda (dammit dependencies)
-##RUN conda update pandas numexpr
 
 ## Install dammit
 RUN pip install -U setuptools \
