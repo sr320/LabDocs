@@ -124,7 +124,7 @@ ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
 RUN conda config --add channels ged --add channels bioconda
 
 ## Install Python dependencies for use in dammit
-RUN conda install setuptools pandas khmer doit nose ficus matplotlib
+RUN conda install setuptools pandas khmer doit nose ficus matplotlib numexpr
 
 ## Update pandas and numexpr using MiniConda (dammit dependencies)
 RUN conda update pandas numexpr
