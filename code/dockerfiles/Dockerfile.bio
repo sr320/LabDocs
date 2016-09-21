@@ -270,7 +270,7 @@ RUN curl -LO http://busco.ezlab.org/files/BUSCO_v1.1b1.tar.gz \
 ENV PATH /usr/local/bioinformatics/BUSCO_v1.1b1:$PATH
 
 ## Add MiniConda channel to allow easy install of khmer (dammit dependency)
-RUN conda config --add channels ged alefnula
+RUN conda config --add channels ged --add channels alefnula
 
 ## Install Python dependencies for use in dammit
 RUN conda install setuptools pandas khmer doit nose ficus matplotlib
