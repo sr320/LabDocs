@@ -62,13 +62,11 @@ Giles Goetz
 
 Andy Jasonowicz
 
+Grace Crandall 
+
 ---
 
 # Undergraduate Students
-
-
-Grace Crandall  [proposal]() [paper]()  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook]()
-
 
 Mrunmayee Manohar Shete
 
@@ -99,6 +97,8 @@ Dave Metzger
 
 
 ### _Undergraduates_
+
+Grace Crandall  [proposal]() [paper]()  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook]()
 
 Jonathan Allen UW  [proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing) [paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing)  [slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing)  [notebook](http://jda26.blogspot.com/)
 
