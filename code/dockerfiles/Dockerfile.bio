@@ -269,7 +269,8 @@ RUN curl -LO http://busco.ezlab.org/files/BUSCO_v1.1b1.tar.gz \
 
 ENV PATH /usr/local/bioinformatics/BUSCO_v1.1b1:$PATH
 
-
+## Update pandas and numexpr using MiniConda (dammit dependencies)
+RUN conda update pandas numexpr
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
