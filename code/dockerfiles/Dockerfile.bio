@@ -278,5 +278,10 @@ RUN conda install setuptools pandas khmer doit nose ficus matplotlib
 ## Update pandas and numexpr using MiniConda (dammit dependencies)
 ##RUN conda update pandas numexpr
 
+## Install dammit
+RUN pip install -U setuptools \
+	&& pip install dammit \
+	&& dammit dependencies
+
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
