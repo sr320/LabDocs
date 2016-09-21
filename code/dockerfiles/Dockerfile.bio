@@ -45,7 +45,6 @@ RUN apt-get update && \
 	apt-get install -y --no-install-recommends \
     build-essential \
     pkg-config \
-    python-setuptools \
     python-numpy \
     python-scipy \
     libncurses5-dev \
