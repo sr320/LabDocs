@@ -96,6 +96,11 @@ Explanation:
 #### <a name="advanced"></a>Access Files Outside of a Docker Container (Advanced)
 
 - WARNING! The current setup of the Roberts Lab Dockerfile.bio runs the Docker container as the "root" user. Any changes made to volumes on your computer that are mounted in the Docker container will be executed without asking for a password! If you mount the wrong directories of your computer, you may do serious harm (like, render it inoperable) to your computer when making changes to the directory mounted inside the Docker container!
+
+IMPORTANT! 
+
+- Mac users can only mount directories contained in the ```/Users``` directory! 
+- Windows users can only mount directories contained in the ```/c/Users/``` directory!
 - Requires that a Docker [image has already been built](#build)
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
 
@@ -118,10 +123,6 @@ Example:
 
 The above command allows me to acces the files in my Downloads folder on my computer. Once I'm in the Docker container, I would change to the "junk" directory to interact with the files in my Downloads folder on my computer.
 
-IMPORTANT! 
-
-- Mac users can only mount directories contained in the ```/Users``` directory! 
-- Windows users can only mount directories contained in the ```/c/Users/``` directory!
 
 Note: Similar to binding multiple ports (-p -p 8787:8787 -p 8888:8888), you can do the same for mounting multiple volumes by adding multiple ```-v``` flags followed by the desired local and container mount points.
 
