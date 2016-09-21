@@ -95,7 +95,7 @@ RUN apt-get update && \
 RUN aptitude update && \
     aptitude install -y \
     libreadline-dev
-    
+
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics
 
@@ -257,6 +257,9 @@ RUN conda install jupyter -y \
 
 ## Install R Kernel & R Essentials for Jupyter Notebook (via MiniConda)
 RUN conda install -c r r-essentials -y
+
+## Install Conditional Reciprocal Best-hits Blast (CRBB; needed for dammit)
+RUN gem install crb-blast
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
