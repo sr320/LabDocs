@@ -127,7 +127,7 @@ RUN conda config --add channels ged --add channels bioconda
 RUN conda install setuptools pandas khmer doit nose ficus matplotlib
 
 ## Update pandas and numexpr using MiniConda (dammit dependencies)
-##RUN conda update pandas numexpr
+RUN conda update pandas numexpr
     
 # Install blast (v2.4.0+)
 RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/ncbi-blast-2.4.0+-x64-linux.tar.gz \
