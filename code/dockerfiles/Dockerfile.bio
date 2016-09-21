@@ -104,7 +104,15 @@ WORKDIR /usr/local/bioinformatics
 # Add bioinformatics directory to PATH
 # ENV PATH /usr/local/bioinformatics:$PATH
 
-# Install bedtools (v2.25.0)
+# Install MiniConda (for installing Jupyter Notebook)
+RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
+	&& bash Miniconda2-latest-Linux-x86_64.sh -b \
+	&& (cd /root/miniconda2/bin && ./conda update conda -y) \
+	&& rm Miniconda2-latest-Linux-x86_64.sh
+
+ENV PATH /root/miniconda2/bin:$PATH
+
+# Install bedtools (v2.26.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz \
 	&& tar -zxvf bedtools-2.26.0.tar.gz \
 	&& make -C /usr/local/bioinformatics/bedtools2 \
@@ -239,14 +247,6 @@ RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 	&& tar -xzf stacks-1.40.tar.gz \
 	&& (cd /usr/local/bioinformatics/stacks-1.40 && ./configure --enable-sparsehash --enable-bam --with-bam-include-path=/usr/local/bioinformatics/samtools-0.1.19/ --with-bam-lib-path=/usr/local/bioinformatics/samtools-0.1.19/ && make -j 8 && make install) \
 	&& rm stacks-1.40.tar.gz
-
-# Install MiniConda (for installing Jupyter Notebook)
-RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
-	&& bash Miniconda2-latest-Linux-x86_64.sh -b \
-	&& (cd /root/miniconda2/bin && ./conda update conda -y) \
-	&& rm Miniconda2-latest-Linux-x86_64.sh
-
-ENV PATH /root/miniconda2/bin:$PATH
 
 ## Install Jupyter Notebook & all dependencies (via MiniConda)
 RUN conda install jupyter -y \
