@@ -45,6 +45,8 @@ RUN apt-get update && \
 	apt-get install -y --no-install-recommends \
     build-essential \
     pkg-config \
+	libncurses-dev \
+	ncurses-dev \
     libncurses5-dev \
     libncursesw5-dev \
     libpng12-0 \
