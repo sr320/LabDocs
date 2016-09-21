@@ -45,8 +45,6 @@ RUN apt-get update && \
 	apt-get install -y --no-install-recommends \
     build-essential \
     pkg-config \
-    python-numpy \
-    python-scipy \
     libncurses5-dev \
     libncursesw5-dev \
     libpng12-0 \
@@ -124,7 +122,7 @@ ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
 RUN conda config --add channels ged --add channels bioconda
 
 ## Install Python dependencies for use in dammit
-RUN conda install setuptools pandas khmer doit nose ficus matplotlib numexpr
+RUN conda install setuptools pandas khmer doit nose ficus matplotlib numexpr scipy numpy
 
 ## Update pandas and numexpr using MiniConda (dammit dependencies)
 RUN conda update pandas numexpr
