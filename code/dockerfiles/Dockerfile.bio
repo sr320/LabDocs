@@ -261,5 +261,11 @@ RUN conda install -c r r-essentials -y
 ## Install Conditional Reciprocal Best-hits Blast (CRBB; needed for dammit)
 RUN gem install crb-blast
 
+## Install BUSCO for genome assembly assessment (dammit dependency)
+RUN curl -LO http://busco.ezlab.org/files/BUSCO_v1.1b1.tar.gz \
+	&& tar -xvzf BUSCO_v1.1b1.tar.gz \
+	&& chmod +x BUSCO_v1.1b1/*.py \
+	&& rm BUSCO_v1.1b1.tar.gz
+
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
