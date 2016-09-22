@@ -1,7 +1,0 @@
-#####[Home](https://github.com/sr320/LabDocs/wiki)
-#####[Lab Notebook Best Practices](https://github.com/sr320/LabDocs/wiki/Lab-Notebook-Best-Practices)
-#####[Common Lab Protocols](https://github.com/sr320/LabDocs/wiki/Common-Lab-Protocols)
-* [RNA Isolation](https://github.com/sr320/LabDocs/wiki/Common-Lab-Protocols#rna-isolation)
-* [DNase RNA](https://github.com/sr320/LabDocs/wiki/Common-Lab-Protocols#dnase-rna)
-* [Reverse Transcription](https://github.com/sr320/LabDocs/wiki/Common-Lab-Protocols#reverse-transcription)
-* [qPCR](https://github.com/sr320/LabDocs/wiki/Common-Lab-Protocols#qpcr)
