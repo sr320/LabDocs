@@ -8,6 +8,11 @@ _Summary_: There is a significant gap in our fundamental understanding of this s
 
 ##### Assessing the Capacity for Evolutionary Adaptation to Ocean Acidification in Geoduck
 _Summary_: We will investigate the roles of standing genetic (DNA sequence) and epigenetic (DNA methylation) variation in the response to ocean acidification and elevated temperature in geoduck at the vulnerable larval stage. The specific research objectives are to (1) characterize changes in allele frequencies under ocean acidification and temperature stress at single nucleotide polymorphisms (SNPs) throughout the genome, and (2) determine the change in frequency of methylation states (epialleles) under ocean acidification and temperature stress throughout the epigenome. To meet our objectives, we will employ a within-generation selection experiment on larvae subjected to ambient and high pCO2 and ambient and high temperature in a factorial cross. This experimental design allows us to uncover changes in standing genetic and epigenetic variation in response to ocean acidification and elevated temperature, and will provide essential information on how marine invertebrate populations can respond to, and persist in, an acidifying ocean.
+
+##### Evaluating the role of DNA methylation in phenotypic plasticity and response to environmental change in tropical reef corals
+_Summary_: Phenotypic plasticity is critical to the survival of many organisms in a rapidly changing environment, especially threatened species like tropical reef corals. This project will assess whether DNA methylation plays a role in coral phenotypic plasticity. Caribbean corals of the genus _Porites_ will be used as primary research models. The project will first assess whether differential methylation patterns are associated with alternative phenotypes, as well as determine whether methylation and phenotype change and co-vary in reponsive to experimental manipulations. Further work will evaluate relationships between methylation and transcription, test for a causative role of DNA methylation in coral thermal tolerance plasticity, and assess heritability of DNA methylation by comparison of methylation patterns in adult corals and their larval offspring. 
+
+
  
 <blockquote>
 <h1>Reproductive Biology and Ecology</h1>
