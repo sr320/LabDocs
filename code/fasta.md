@@ -60,11 +60,11 @@ $ awk '!/^>/ { next } { getline seq } length(seq) >= 200 { print $0 "\n" seq }' 
 ```  
 
 Code explanation:
-!/^>/ {next }
-– If a line (i.e. record) begins with a “>”, go to the next line (record). The "!" tells awk to skip the regular expression that immediatley follows. The "^" tells awk that the regular expression it's looking for should only match if it's at the beginning of a line. Finally, the regular expression we're looking for in this example is the ">", which denotes the sequence descriptor portion of FASTA files.
-{ getline seq }
-– “getline” reads the next record and assigns the entire record to a variable called “seq”
-length(seq) >=200
-– If the length of the “seq” record is greater than, or equal to, 200 then…
-{print $0 "\n" seq>}
-– Print all records ($0) of the variable “seq” in the file that matched our conditions, each on a new line (“\n”)
+!/^>/ {next }     
+– If a line (i.e. record) begins with a “>”, go to the next line (record). The "!" tells awk to skip the regular expression that immediatley follows. The "^" tells awk that the regular expression it's looking for should only match if it's at the beginning of a line. Finally, the regular expression we're looking for in this example is the ">", which denotes the sequence descriptor portion of FASTA files.    
+{ getline seq }    
+– “getline” reads the next record and assigns the entire record to a variable called “seq”    
+length(seq) >=200     
+– If the length of the “seq” record is greater than, or equal to, 200 then…    
+{print $0 "\n" seq>}    
+– Print all records ($0) of the variable “seq” in the file that matched our conditions, each on a new line (“\n”)    
