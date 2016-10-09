@@ -1,3 +1,4 @@
+- <a href="https://uwescience.github.io/2016-10-10-uw/">Sam teaches Shell lesson and helps at Software Carpentry @ UW eScience Data Center</a> [10/16]
 - <a href="http://www.animalgenome.org/community/NRSP-8/2016/leadership">Steven elected as USDA NRSP-8 Aquaculture Co-coordinator</a> [01/16]
 <br>
 - <a href="http://uwescience.github.io/2016-01-07-uw/">Sam helps at Software Carpentry @ UW eScience Data Center</a> [01/16]
