@@ -1,4 +1,4 @@
-#IPython
+#Jupyter
 
 ###Convert number stored in variable
 If using a bash commands to store numbers to variables in Jupyter (IPython) notebooks, the variable will store the number as a Python string list instead of just the actual number. This is identifiable by the format of the ```print``` command output. Here's an example:
