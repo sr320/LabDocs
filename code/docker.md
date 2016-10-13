@@ -1,6 +1,8 @@
 ### Roberts Lab Docker Help File
 
-#####<em>This file is intended to provide a brief introduction on using Docker and the Dockerfile, [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio), for the Roberts Lab.</em>
+#####<em>This file is intended to provide a brief introduction on using Docker and the Dockerfile, [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio), for the Roberts Lab.
+
+For Mac/Windows users, it is written as though you are using/launching Docker via Docker QuickStart Terminal, which is only available as part of [Docker Toolbox](https://www.docker.com/products/docker-toolbox)!</em>
 
 There are five sections of instructions, each with increasing usage complexity:
 
