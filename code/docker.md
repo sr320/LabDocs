@@ -76,10 +76,14 @@ Explanation:
 3. Start Jupyter Notebook (enter this inside the container):
 
   ```jupyter notebook```
+  
+4. In a separate Terminal window, outside of your container, check the IP address of the Docker machine:
+
+  ```docker-machine ip```
 
 4. Run R Studio in your browser:
   1. Enter URL:
-    1. Mac users: ```192.168.99.100:8787```
+    1. Mac users (use the IP address from Step 4 above): e.g. ```192.168.99.100:8787```
     2. Others: ```localhost:8787```
   2. Enter the following credentials in the R Studio interface:
     1. Username: srlab
@@ -87,7 +91,7 @@ Explanation:
 
 5. Run Jupyter Notebook in your browser:
   1. Enter URL (in a different window or tab than what you're using for R Studio):
-    1. Mac users: ```192.168.99.100:8888```
+    1. Mac users (use the IP address from Step 4 above): e.g. ```192.168.99.100:8888```
     2. Others: ```localhost:8888```
 
 Explanation:
