@@ -37,8 +37,8 @@ MAINTAINER Sam White <samwhite@uw.edu>
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     apt-utils \
-    default-jdk
-    software-properties-common
+    default-jdk \
+    software-properties-common \
     build-essential \
     pkg-config \
 	libncurses-dev \
