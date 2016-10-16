@@ -36,11 +36,9 @@ MAINTAINER Sam White <samwhite@uw.edu>
 # Get software dependencies
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-	apt-utils \
+    apt-utils \
+    default-jdk
     software-properties-common
-	
-RUN apt-get update && \
-	apt-get install -y --no-install-recommends \
     build-essential \
     pkg-config \
 	libncurses-dev \
