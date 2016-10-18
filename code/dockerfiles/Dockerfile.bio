@@ -17,6 +17,7 @@
 # bsmap		2.90    	#
 # cufflinks	2.1.1   	#
 # dammit			#
+# multiqc	0.8		#
 # fastqc	0.11.5  	#
 # fastx_toolkit	0.0.13  	#
 # R		3.2.5   	#
@@ -275,6 +276,12 @@ ENV PATH /usr/local/bioinformatics/BUSCO_v1.1b1:$PATH
 
 ## Install dammit
 RUN conda install dammit
+
+## Install MultiQC (v.0.8)
+RUN wget https://github.com/ewels/MultiQC/archive/v0.8.tar.gz \
+	&& tar -xzf v0.8.tar.gz \
+	&& (cd /usr/local/bioinformatics/MultiQC-0.8 && exec python setup.py install) \
+	&& rm /usr/local/bioinformatics/v0.8.tar.gz
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
