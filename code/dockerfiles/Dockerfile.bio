@@ -27,6 +27,7 @@
 # stacks	1.40    	#
 # tophat	2.1.1   	#
 # trimmomatic	0.36    	#
+# trinity	2.2.0		#
 ## ## ## ## ## ## ## ## ## ## ## 
 
 
@@ -282,6 +283,12 @@ RUN wget https://github.com/ewels/MultiQC/archive/v0.8.tar.gz \
 	&& tar -xzf v0.8.tar.gz \
 	&& (cd /usr/local/bioinformatics/MultiQC-0.8 && exec python setup.py install) \
 	&& rm /usr/local/bioinformatics/v0.8.tar.gz
+
+##Install Trinity (v.2.2.0)
+RUN wget https://github.com/trinityrnaseq/trinityrnaseq/archive/v2.2.0.tar.gz \
+	&& tar -xzf v2.2.0.tar.gz \
+	&& (cd /usr/local/bioinformatics/trinityrnaseq-2.2.0 && make && make plugins) \
+	&& rm /usr/local/bioinformatics/v2.2.0.tar.gz
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
