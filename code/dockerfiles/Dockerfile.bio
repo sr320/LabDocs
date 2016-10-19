@@ -290,5 +290,7 @@ RUN wget https://github.com/trinityrnaseq/trinityrnaseq/archive/v2.2.0.tar.gz \
 	&& (cd /usr/local/bioinformatics/trinityrnaseq-2.2.0 && make && make plugins) \
 	&& rm /usr/local/bioinformatics/v2.2.0.tar.gz
 
+ENV PATH /usr/local/bioinformatics/trinityrnaseq-2.2.0:$PATH
+
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
