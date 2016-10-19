@@ -44,8 +44,8 @@ RUN apt-get update && \
     software-properties-common \
     build-essential \
     pkg-config \
-	libncurses-dev \
-	ncurses-dev \
+    libncurses-dev \
+    ncurses-dev \
     libncurses5-dev \
     libncursesw5-dev \
     libpng12-0 \
@@ -74,6 +74,7 @@ RUN apt-get update && \
     libedit2 \
     psmisc \
     sqlite3 \
+    apparmor \
 	infernal \
 	liburi-escape-xs-perl \
 	emboss \
