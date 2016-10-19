@@ -259,8 +259,8 @@ RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 ## Install Jupyter Notebook & all dependencies (via MiniConda)
 RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config \
-	&& (sed -i '/# c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
-	&& (sed -i '/# c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
+	&& (sed -i '/c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
+	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
 
 ## Install R Kernel & R Essentials for Jupyter Notebook (via MiniConda)
 RUN conda install -c r r-essentials -y
