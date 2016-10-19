@@ -299,7 +299,7 @@ RUN wget --output-document=bowtie-1.1.2-linux-x86_64.zip \
 	&& unzip bowtie-1.1.2-linux-x86_64.zip \
 	&& rm bowtie-1.1.2-linux-x86_64.zip
 	
-ENV PATH /usr/local/bioinformatics/bowtie-1.1.2-linux-x86_64:$PATH
+ENV PATH /usr/local/bioinformatics/bowtie-1.1.2:$PATH
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
