@@ -19,7 +19,7 @@ There are five sections of instructions, each with increasing usage complexity:
 - ~8GB in size
 
 1. Download and install [Docker](https://www.docker.com/) for your operating system.
-2. Download the Roberts Lab bioinformatics Dockerfile: [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio)
+2. Download the Roberts Lab bioinformatics Dockerfile: [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio). Ideally, clone this repo. Otherwise, the Dockerfile should be saved in its own, dedicated directory (i.e. no other files in directory).
 3. Open a terminal.
 4. Change to the directory where you saved the Dockerfile.
 5. Build the Docker image:
