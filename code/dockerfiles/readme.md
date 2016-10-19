@@ -3,7 +3,7 @@
 ##### All Dockerfiles are text files. See each one for a list of software that they will install.
 
 #### Dockerfile.bio - 
-A Dockerfile intended to create a container containing the full suite of bioinformatics software most frequently used by the Roberts Lab. Highlights include RStudio and Jupyter Notebooks. The current image built from this Docker file is ~3GB. 
+A Dockerfile intended to create a container containing the full suite of bioinformatics software most frequently used by the Roberts Lab. Highlights include RStudio and Jupyter Notebooks. The current image built from this Docker file is ~8GB. 
 
 ##### Quick Start Instructions (see the [detailed instructions here](https://github.com/sr320/LabDocs/blob/master/code/docker.md)). To use this Dockerfile, first install and run [Docker](https://www.docker.com/). Then...
 1. Open a terminal.
