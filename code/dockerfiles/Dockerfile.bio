@@ -241,6 +241,8 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& cp /usr/local/bioinformatics/R-3.2.5/bin/R /usr/local/bin \
 	&& rm R-3.2.5.tar.gz
 
+ENV PATH /usr/local/bin:$PATH
+
 # Create srlab user
 RUN useradd -ms /bin/bash srlab \
 	&& echo "srlab:rstudio" | chpasswd
