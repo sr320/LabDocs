@@ -13,6 +13,7 @@
 # bedtools	2.26.0  	#
 # bismark	0.15.0  	#
 # blast		2.4.0+  	#
+# bowtie1	1.1.2		#
 # bowtie2	2.2.8   	#
 # bsmap		2.90    	#
 # cufflinks	2.1.1   	#
@@ -291,6 +292,14 @@ RUN wget https://github.com/trinityrnaseq/trinityrnaseq/archive/v2.2.0.tar.gz \
 	&& rm /usr/local/bioinformatics/v2.2.0.tar.gz
 
 ENV PATH /usr/local/bioinformatics/trinityrnaseq-2.2.0:$PATH
+
+# Install bowtie-1 (v.1.1.2; this version required for Trinity)
+RUN wget --output-document=bowtie-1.1.2-linux-x86_64.zip \
+	https://sourceforge.net/projects/bowtie-bio/files/bowtie/1.1.2/bowtie-1.1.2-linux-x86_64.zip/download \
+	&& unzip bowtie-1.1.2-linux-x86_64.zip \
+	&& rm bowtie-1.1.2-linux-x86_64.zip
+	
+ENV PATH /usr/local/bioinformatics/bowtie-1.1.2-linux-x86_64
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
