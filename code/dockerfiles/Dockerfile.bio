@@ -241,8 +241,6 @@ RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
 	&& cp /usr/local/bioinformatics/R-3.2.5/bin/R /usr/local/bin \
 	&& rm R-3.2.5.tar.gz
 
-ENV PATH /usr/local/bin:$PATH
-
 # Create srlab user
 RUN useradd -ms /bin/bash srlab \
 	&& echo "srlab:rstudio" | chpasswd
@@ -263,9 +261,6 @@ RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config \
 	&& (sed -i '/c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
 	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
-
-## Install R Kernel & R Essentials for Jupyter Notebook (via MiniConda)
-RUN conda install -c r r-essentials -y
 
 ## Install Conditional Reciprocal Best-hits Blast (CRBB; needed for dammit)
 RUN gem install crb-blast
