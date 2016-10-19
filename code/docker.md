@@ -16,7 +16,7 @@ There are five sections of instructions, each with increasing usage complexity:
 
 - Only needs to be done once.
 - Items in all caps (e.g. NAME) can be replaced with text of your choosing and does not need to be uppercase.
-- ~3GB in size
+- ~8GB in size
 
 1. Download and install [Docker](https://www.docker.com/) for your operating system.
 2. Download the Roberts Lab bioinformatics Dockerfile: [Dockerfile.bio](https://github.com/sr320/LabDocs/blob/master/code/dockerfiles/Dockerfile.bio)
