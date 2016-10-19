@@ -74,7 +74,6 @@ RUN apt-get update && \
     libedit2 \
     psmisc \
     sqlite3 \
-    apparmor \
 	infernal \
 	liburi-escape-xs-perl \
 	emboss \
