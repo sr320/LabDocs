@@ -96,21 +96,11 @@ RUN aptitude update && \
     aptitude install -y \
     libreadline-dev
     
+# Set the locale
 RUN locale-gen en_US.UTF-8
-
-COPY ./default_locale /etc/default/locale
-RUN chmod 0755 /etc/default/locale
-    
-# Set Language and locale environmental variables.
-ENV LANG=en_US.UTF-8 \
-    LANGUAGE=en_US.UTF-8 \
-    LC_ALL=en_US.UTF-8 \
-    LC_COLLATE=en_US.UTF-8 \
-    LC_CTYPE=en_US.UTF-8 \
-    LC_MESSAGES=en_US.UTF-8 \
-    LC_MONETARY=en_US.UTF-8 \
-    LC_NUMERIC=en_US.UTF-8 \
-    LC_TIME=en_US.UTF-8
+ENV LANG en_US.UTF-8
+ENV LANGUAGE en_US.UTF-8
+ENV LC_ALL en_US.UTF-8
 
 # Make bioinformatics directory
 RUN mkdir /usr/local/bioinformatics
