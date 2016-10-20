@@ -48,7 +48,11 @@ ENV LANG=en_US.UTF-8 \
     LC_TIME=en_US.UTF-8
 
 # Get software dependencies
-RUN apt-get update && \
+RUN echo 'LC_ALL=en_US.UTF-8' >>  /etc/default/locale && \
+    echo 'en_US.UTF-8 UTF-8' >> /etc/locale.gen && \
+    locale-gen en_US.UTF-8 && \
+    dpkg-reconfigure locales && \
+    apt-get update && \
     apt-get install -y --no-install-recommends \
     apt-utils \
     default-jdk \
