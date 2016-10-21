@@ -42,6 +42,9 @@ After graduating from Western Washington University with a degree in Environment
 
 ### Yaamini Venkataraman
 
+![Yaamini Venkataraman](https://avatars1.githubusercontent.com/u/22335838?v=3&u=eb68e8abc8514869e99bdf6a2638066aedaebef4&s=140)
+
+As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I was always floored by the intricacies of the organisms themselves, but also how complex their environments were. These experiences pushed me to get my B.S. in General Biology and B.A. in Environmental Policy at the University of California, San Diego (UCSD). I studied several different species-environment interactions, including copepods and copper toxicity at the Wrigley Institute for Environmental Studies, marsh plants species and increased carbon inputs at the Smithsonian Institute for Environmental Studies and limpet-surfgrass interactions under acidified conditions at UCSD. I'm also interested in environmental policy and science communication, and have interned at the Tropical Forest Group and served on the editorial board of the undergraduate biology research journal, Saltman Quarterly. At the Roberts Lab, my research broadly focuses on the effects of environmental stressors (ocean acidificiation, warming) on shellfish. I'm currently working on a collaboration with the Department of Natural Resources studying the Pacific oyter, *Crassostrea gigas*, and its response to environmental change in and out of eelgrass beds.
 
 ---
 
