@@ -9,19 +9,19 @@
 
 Person | Notebook | GitHub
 --- | --- | ---
-Steven | [ons](http://onsnetwork.org/halfshell/) <-> [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+Steven | [ons](http://onsnetwork.org/halfshell/) - [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
 Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
-Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
+Laura | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
+Hollie | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
+Yaamini | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
+Rhonda |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
+Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Grace | [genefish/grace](https://genefish.wordpress.com/author/graceac9/)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Mrunmayee | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
 Michelle | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
-Laura | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
-Hollie | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
-Yaamini | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
-Rhonda |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
 
 
 
@@ -30,7 +30,11 @@ Rhonda |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers]
 <a id="pres">
 ## Recent Presentations</a>
 #### 2016
-* [Does DNA Methylation Facilitate Phenotypic Plasticity?](https://github.com/sr320/talk-univ-perp-2016) CNRS Amphitheatre (Moltpellier, France). February 2, 2015.
+* [Hacking the Academy: Open in Action - OA Week @ University of Washington](https://github.com/sr320/talk-UW-OA-2016) University of Washington (Seattle, WA). October 26, 2016
+
+* [Environmental Sciences: A Genomic Perspective](https://github.com/sr320/LabDocs/blob/master/slidedecks/2016-Environment-Comm.pdf) Commodore Options School (Bainbridge Island, WA). October 20, 2016
+
+* [Does DNA Methylation Facilitate Phenotypic Plasticity?](https://github.com/sr320/talk-univ-perp-2016) CNRS Amphitheatre (Moltpellier, France). February 2, 2016.
  
 #### 2015 
 * [Open Access Opportunities for Credit, Tenure, and Promotion](https://github.com/sr320/talk-CC-OA-2015) Claremont College (Claremont, CA). October 15, 2015.
@@ -64,6 +68,11 @@ Rhonda |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers]
 ## Peer-Reviewed Publications</a>     
 
 see also <a href="#preprint">*preprints*</a>
+
+Detree C, Núñez-Acuña G, Roberts S, Gallardo-Escárate C (**2016**) [Uncovering the Complex Transcriptome Response of Mytilus chilensis against Saxitoxin: Implications of Harmful Algal Blooms on Mussel Populations](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165231) PLoS ONE 11(10): e0165231. doi:10.1371/journal.pone.0165231 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0165231" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165231"><img class="wp-image-2505 alignleft" title="toll" src="http://eagle.fish.washington.edu/cnidarian/skitch/journal_pone_0165231_g007_PNG_1DBAC83C.png" alt="heat-map" width="270" height="191" /></a>
+
 
 Dimond JL and Roberts SB  (**2016**), [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) Molecular Ecology doi:10.1111/mec.13414 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> [_preprint_](https://digital.lib.washington.edu/researchworks/handle/1773/34298)
 
@@ -201,7 +210,6 @@ Roberts SB, Barry T, Malison J, Goetz FW. (**2004)**  [Production of a recombina
 
 Roberts SB, Goetz FW. (**2003**)  [Expressed sequence tag analysis of genes expressed in the bay scallop, *Argopecten irradians*](http://www.biolbull.org/content/205/2/227.full) Biological Bulletin 205: 227-228.
 
-<img class="aligncenter" title="pie old" alt="" src="http://www.biolbull.org/content/205/2/227/F1.large.jpg" width="454" height="203" /></p>
 
 Roberts SB, Goetz FW. (**2003**) [Myostatin protein and mRNA transcript levels in adult and developing brook trout](http://www.sciencedirect.com/science/article/pii/S0303720703003125) Molecular and Cellular Endocrinology 210(1-2): 9-20.
 
