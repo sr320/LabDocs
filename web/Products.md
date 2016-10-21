@@ -7,20 +7,23 @@
 
 
 
-Person | Notebook 
+Person | Notebook | GitHub
 --- | --- | ---
-Steven | [onsnetwork.org/halfshell](http://onsnetwork.org/halfshell/) 
-Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/)
+Steven | [ons](http://onsnetwork.org/halfshell/) <-> [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+Sam | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Jake | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
-Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/)
-Grace | [grace@wikispaces](http://genefish.wikispaces.com/Grace%27s+Notebook)
+Jay | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
+Grace | [genefish/grace](https://genefish.wordpress.com/author/graceac9/)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Mrunmayee | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
 Michelle | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
-Laura | [safsoa/Laura](https://safsoa.wordpress.com/category/lauras-notebook/)
-Evan | [genefish/seamaea](https://genefish.wordpress.com/author/seamaea/)
-Hollie | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/)
+Laura | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
+Hollie | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
+Yaamini | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
+Rhonda |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
+
+
 
 ---
 
