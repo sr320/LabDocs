@@ -23,7 +23,21 @@ Megan | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Mrunmayee | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
 Michelle | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
 
-
+Notebook | GitHub
+--- | --- 
+[Steven](http://onsnetwork.org/halfshell/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+[Sam](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
+[Jay](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
+[Laura](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
+[Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
+[Yaamini](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
+[Rhonda](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
+[Jake](http://heareresearch.blogspot.com/)
+[Grace](https://genefish.wordpress.com/author/graceac9/)
+[Beckerlab](http://genefish.wikispaces.com/Becker+Lab+Notebook)
+[Megan](https://www.evernote.com/pub/meganhintz/labnotebook)
+[Mrunmayee](http://onsnetwork.org/mrunmayee/)
+[Michelle](https://genefish.wordpress.com/author/michellenegron/)
 
 ---
 
