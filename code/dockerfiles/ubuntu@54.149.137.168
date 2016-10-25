@@ -1,0 +1,243 @@
+# Roberts Lab
+# Aquatic & Fishery Sciences
+# University of Washington
+# Bioinformatics Image
+
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+# List of bioinformatics software in this image #
+## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+
+#########################
+# SOFTWARE	VERSION #
+#########################
+# bedtools	2.25.0  #
+# bismark	0.15.0  #
+# blast		2.4.0+  #
+# bowtie2	2.2.8   #
+# bsmap		2.90    #
+# cufflinks	2.1.1   #
+# fastqc	0.11.5  #
+# fastx_toolkit	0.0.13  #
+# R		3.2.5   #
+# RStudio Server0.99    #
+# pyrad		3.0.66  #
+# samtools	0.1.19  #
+# stacks	1.40    #
+# tophat	2.1.1   #
+# trimmomatic	0.36    #
+## ## ## ## ## ## ## ## #
+
+
+
+FROM debian:8
+MAINTAINER Sam White <samwhite@uw.edu>
+
+# Get software dependencies
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    openjdk-7-jdk \
+    software-properties-common \
+    build-essential \
+    pkg-config \
+    python-setuptools \
+    python-numpy \
+    python-scipy \
+    libncurses5-dev \
+    libncursesw5-dev \
+    libpng12-0 \
+    zlib1g-dev \
+    dialog \
+    sudo \
+    nano \
+    curl \
+    git \
+    man \
+    unzip \
+    bzip2 \
+    wget \
+    automake \
+    gfortran \
+    gcc-multilib \
+    gobjc++ \
+    aptitude \
+    xorg-dev \
+    apt-utils \
+    texinfo \
+    libsparsehash-dev \
+    gdebi-core \
+    libapparmor1 \
+    libbsd0 \
+    libedit2 \
+    psmisc \
+    sqlite3 \
+    && apt-get clean
+
+    
+RUN aptitude update && \
+    aptitude install -y \
+    libreadline-dev
+    
+# Make bioinformatics directory
+RUN mkdir /usr/local/bioinformatics
+
+# Set working directory
+WORKDIR /usr/local/bioinformatics
+
+# Add bioinformatics directory to PATH
+# ENV PATH /usr/local/bioinformatics:$PATH
+
+# Install bedtools (v2.25.0)
+RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.25.0/bedtools-2.25.0.tar.gz \
+	&& tar -zxvf bedtools-2.25.0.tar.gz \
+	&& make -C /usr/local/bioinformatics/bedtools2 \
+	&& rm bedtools-2.25.0.tar.gz
+
+ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
+    
+# Install blast (v2.4.0+)
+RUN wget ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.4.0/ncbi-blast-2.4.0+-x64-linux.tar.gz \
+	&& tar -zxvpf ncbi-blast-2.4.0+-x64-linux.tar.gz \
+	&& rm ncbi-blast-2.4.0+-x64-linux.tar.gz
+
+ENV PATH /usr/local/bioinformatics/ncbi-blast-2.3.0+/bin:$PATH
+
+# Install bowtie2 (v2.2.8)
+RUN wget --output-document=bowtie2-2.2.8-linux-x86_64.zip \
+	https://sourceforge.net/projects/bowtie-bio/files/bowtie2/2.2.8/bowtie2-2.2.8-linux-x86_64.zip/download \
+	&& unzip bowtie2-2.2.8-linux-x86_64.zip \
+	&& rm bowtie2-2.2.8-linux-x86_64.zip
+
+ENV PATH /usr/local/bioinformatics/bowtie2-2.2.8:$PATH
+
+# Install cufflinks (v2.1.1)
+RUN wget http://cole-trapnell-lab.github.io/cufflinks/assets/downloads/cufflinks-2.1.1.tar.gz \
+	&& tar -zxvf cufflinks-2.1.1.tar.gz \
+	&& rm cufflinks-2.1.1.tar.gz
+
+ENV PATH /usr/local/bioinformatics/cufflinks-2.1.1:$PATH
+
+# Install FastQC (v0.11.5)
+RUN wget http://www.bioinformatics.babraham.ac.uk/projects/fastqc/fastqc_v0.11.5.zip \
+	&& unzip fastqc_v0.11.5.zip \
+	&& chmod 755 /usr/local/bioinformatics/FastQC/fastqc \
+	&& rm fastqc_v0.11.5.zip
+
+ENV PATH /usr/local/bioinformatics/FastQC:$PATH
+	
+# Install samtools0.1.19 (version required for use with Stacks)
+RUN wget --output-document=samtools-0.1.19.tar.bz2 \
+	http://sourceforge.net/projects/samtools/files/samtools/0.1.19/samtools-0.1.19.tar.bz2/download \
+	&& tar -xjf samtools-0.1.19.tar.bz2 \
+	&& make -C /usr/local/bioinformatics/samtools-0.1.19/ \
+	&& rm samtools-0.1.19.tar.bz2
+
+# Install tophat (v2.1.1)
+RUN wget https://ccb.jhu.edu/software/tophat/downloads/tophat-2.1.1.Linux_x86_64.tar.gz \
+	&& tar -zxvf tophat-2.1.1.Linux_x86_64.tar.gz \
+	&& rm tophat-2.1.1.Linux_x86_64.tar.gz
+
+ENV PATH /usr/local/bioinformatics/tophat-2.1.1.Linux_x86_64:$PATH
+
+# Install trimmomatic (v0.36)
+RUN wget http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/Trimmomatic-0.36.zip \
+	&& unzip Trimmomatic-0.36.zip \
+	&& echo 'alias trimmomatic="java -jar /usr/local/bioinformatics/Trimmomatic-0.36/trimmomatic-0.36.jar"' >> ~/.bashrc \
+	&& rm Trimmomatic-0.36.zip
+
+# Install fastx toolkit (v0.0.13)
+RUN wget http://hannonlab.cshl.edu/fastx_toolkit/fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 \
+	&& mkdir /usr/local/bioinformatics/fastx_toolkit \
+	&& tar -xjf fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2 -C /usr/local/bioinformatics/fastx_toolkit \
+	&& rm fastx_toolkit_0.0.13_binaries_Linux_2.6_amd64.tar.bz2
+
+ENV PATH /usr/local/bioinformatics/fastx_toolkit/bin:$PATH
+
+# Install bismark (v0.15.0)
+RUN wget http://www.bioinformatics.babraham.ac.uk/projects/bismark/bismark_v0.15.0.tar.gz \
+	&& tar -xzf bismark_v0.15.0.tar.gz \
+	&& rm bismark_v0.15.0.tar.gz
+
+ENV PATH /usr/local/bioinformatics/bismark_v0.15.0:$PATH
+
+# Install bsmap (v2.90)
+RUN wget http://lilab.research.bcm.edu/dldcc-web/lilab/yxi/bsmap/bsmap-2.90.tgz \
+	&& tar -xzf bsmap-2.90.tgz \
+	&& (cd /usr/local/bioinformatics/bsmap-2.90 && exec make && make install) \
+	&& rm bsmap-2.90.tgz
+
+ENV PATH /usr/local/bioinformatics/bsmap-2.90:$PATH
+
+# Install pyrad (v3.0.66)
+RUN wget https://github.com/dereneaton/pyrad/archive/3.0.66.tar.gz \
+	&& tar -xzf 3.0.66.tar.gz \
+	&& (cd /usr/local/bioinformatics/pyrad-3.0.66 && exec python setup.py install && pyrad -h) \
+	&& rm 3.0.66.tar.gz
+
+ENV PATH /usr/local/bioinformatics/pyrad-3.0.66:$PATH
+
+
+# Install muscle (v3.8.31)
+# pyrad dependency
+RUN wget http://www.drive5.com/muscle/downloads3.8.31/muscle3.8.31_i86linux64.tar.gz \
+	&& tar -xzf muscle3.8.31_i86linux64.tar.gz \
+	&& rm muscle3.8.31_i86linux64.tar.gz
+
+ENV PATH /usr/local/bioinformatics/muscle3.8.31_i86linux64:$PATH
+
+# Install vsearch (v1.11)
+# pyrad dependency
+RUN wget https://github.com/torognes/vsearch/releases/download/v1.11.1/vsearch-1.11.1-linux-x86_64.tar.gz \
+	&& tar -xzf vsearch-1.11.1-linux-x86_64.tar.gz \
+	&& rm vsearch-1.11.1-linux-x86_64.tar.gz
+
+ENV PATH /usr/local/bioinformatics/vsearch-1.11.1-linux-x86_64/bin:$PATH
+
+# Install pear
+# pyrad dependency
+RUN wget http://sco.h-its.org/exelixis/web/software/pear/files/pear-0.9.6-bin-64.tar.gz \
+	&& tar -xzf pear-0.9.6-bin-64.tar.gz \
+	&& rm pear-0.9.6-bin-64.tar.gz
+
+ENV PATH /usr/local/bioinformatics/pear-0.9.6-bin-64:$PATH
+
+# Install R (v3.2.5)
+RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
+	&& tar -xzf R-3.2.5.tar.gz \
+	&& (cd /usr/local/bioinformatics/R-3.2.5 && ./configure --enable-R-shlib; make) \
+	&& cp /usr/local/bioinformatics/R-3.2.5/bin/R /usr/local/bin \
+	&& rm R-3.2.5.tar.gz
+
+# Create srlab user
+RUN useradd -ms /bin/bash srlab \
+	&& echo "srlab:rstudio" | chpasswd
+
+# Install RStudio Server (v.0.99.896)
+RUN wget https://download2.rstudio.org/rstudio-server-0.99.896-amd64.deb \
+	&& gdebi --non-interactive rstudio-server-0.99.896-amd64.deb \
+	&& rm rstudio-server-0.99.896-amd64.deb
+
+# Install Stacks (v.1.40)
+RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
+	&& tar -xzf stacks-1.40.tar.gz \
+	&& (cd /usr/local/bioinformatics/stacks-1.40 && ./configure --enable-sparsehash --enable-bam --with-bam-include-path=/usr/local/bioinformatics/samtools-0.1.19/ --with-bam-lib-path=/usr/local/bioinformatics/samtools-0.1.19/ && make -j 8 && make install) \
+	&& rm stacks-1.40.tar.gz
+
+# Install MiniConda (for installing Jupyter Notebook)
+RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
+	&& bash Miniconda2-latest-Linux-x86_64.sh -b \
+	&& (cd /root/miniconda2/bin && ./conda update conda -y) \
+	&& rm Miniconda2-latest-Linux-x86_64.sh
+
+ENV PATH /root/miniconda2/bin:$PATH
+
+## Install Jupyter Notebook & all dependencies (via MiniConda)
+RUN conda install jupyter -y \
+	&& jupyter notebook --generate-config \
+	&& (sed -i '/# c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
+	&& (sed -i '/# c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
+
+## Install R Kernel & R Essentials for Jupyter Notebook (via MiniConda)
+RUN conda install -c r r-essentials -y
+
+# Expose ports for RStudio Server & Jupyter Notebook, respectively
+EXPOSE 8787 8888
