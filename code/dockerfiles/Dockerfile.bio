@@ -94,6 +94,7 @@ RUN apt-get update && \
 	libfontconfig1 \
 	parallel \
 	locales-all \
+	libzmq3-dev \
     && apt-get clean
 
     
@@ -303,6 +304,14 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
         && gdebi --non-interactive rstudio-server-1.0.44-amd64.deb \
         && echo "alias rstudio-server='/etc/init.d/rstudio-server'" >> ~/.bashrc \
         && rm rstudio-server-1.0.44-amd64.deb
+        
+# Install R Kernel for Jupyter Notebooks
+RUN /usr/local/bin/R --no-save
+RUN install.packages(c('crayon', 'pbdZMQ', 'devtools'))
+RUN devtools::install_github(paste0('IRkernel/', c('repr', 'IRdisplay', 'IRkernel')))
+RUN IRkernel::installspec(user = FALSE)
+RUN q()
+
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
