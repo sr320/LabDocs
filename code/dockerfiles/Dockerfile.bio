@@ -45,6 +45,7 @@ RUN apt-get update && \
     apt-utils \
     locales \
     debconf \
+    glibc-locale \
     default-jdk \
     software-properties-common \
     build-essential \
