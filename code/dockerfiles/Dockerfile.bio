@@ -91,9 +91,6 @@ RUN apt-get update && \
 	libxrender1 \
 	libfontconfig1 \
 	parallel \
-	libncurses-dev \
-	transdecoder \
-	last-align \
     && apt-get clean
 
     
@@ -266,16 +263,6 @@ RUN conda install jupyter -y \
 	&& (sed -i '/c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
 	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
 
-## Install Conditional Reciprocal Best-hits Blast (CRBB; needed for dammit)
-RUN gem install crb-blast
-
-## Install BUSCO for genome assembly assessment (dammit dependency)
-RUN curl -LO http://busco.ezlab.org/files/BUSCO_v1.1b1.tar.gz \
-	&& tar -xvzf BUSCO_v1.1b1.tar.gz \
-	&& chmod +x BUSCO_v1.1b1/*.py \
-	&& rm BUSCO_v1.1b1.tar.gz
-
-ENV PATH /usr/local/bioinformatics/BUSCO_v1.1b1:$PATH
 
 ## Install dammit
 RUN conda install dammit
