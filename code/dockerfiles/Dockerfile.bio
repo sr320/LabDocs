@@ -69,14 +69,17 @@ RUN apt-get update && \
     gobjc++ \
     aptitude \
     xorg-dev \
-    apt-utils \
     texinfo \
     libsparsehash-dev \
     gdebi-core \
     libapparmor1 \
-    libbsd0 \
+    libssl1.0.0 \
     libedit2 \
+    libcurl4-openssl-dev \
+    libssl-dev \
     psmisc \
+    python-setuptools \
+    net-tools \
     sqlite3 \
 	infernal \
 	liburi-escape-xs-perl \
