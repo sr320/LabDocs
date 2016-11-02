@@ -44,7 +44,7 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     apt-utils \
     locales \
-    dpkg-reconfigure \
+    debconf \
     default-jdk \
     software-properties-common \
     build-essential \
