@@ -294,5 +294,15 @@ RUN wget --output-document=bowtie-1.1.2-linux-x86_64.zip \
 	
 ENV PATH /usr/local/bioinformatics/bowtie-1.1.2:$PATH
 
+# Create srlab user
+RUN useradd -ms /bin/bash srlab \
+        && echo "srlab:rstudio" | chpasswd
+
+# Install RStudio Server (v1.0.44)
+RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
+        && gdebi --non-interactive rstudio-server-1.0.44-amd64.deb \
+        && echo "alias rstudio-server='/etc/init.d/rstudio-server'" >> ~/.bashrc \
+        && rm rstudio-server-1.0.44-amd64.deb
+
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
