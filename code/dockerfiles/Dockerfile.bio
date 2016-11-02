@@ -8,31 +8,34 @@
 ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
 
 #################################
-# SOFTWARE	VERSION 	#
+# SOFTWARE		VERSION 		#
 #################################
-# bedtools	2.26.0  	#
-# bismark	0.15.0  	#
-# blast		2.4.0+  	#
-# bowtie1	1.1.2		#
-# bowtie2	2.2.8   	#
-# bsmap		2.90    	#
-# cufflinks	2.1.1   	#
-# dammit			#
-# multiqc	0.8		#
-# fastqc	0.11.5  	#
-# fastx_toolkit	0.0.13  	#
-# R		3.2.5   	#
-# pyrad		3.0.66  	#
-# samtools	0.1.19  	#
-# stacks	1.40    	#
-# tophat	2.1.1   	#
-# trimmomatic	0.36    	#
-# trinity	2.2.0		#
+# bedtools		2.26.0  		#
+# bismark		0.15.0  		#
+# blast			2.4.0+  		#
+# bowtie1		1.1.2			#
+# bowtie2		2.2.8   		#
+# bsmap			2.90    		#
+# cufflinks		2.1.1   		#
+# dammit						#
+# jupyter						#
+# miniconda		2				#
+# multiqc		0.8				#
+# fastqc		0.11.5  		#
+# fastx_toolkit	0.0.13  		#
+# R				3.2.5   		#
+# RStudioServer	1.0.44			#
+# pyrad			3.0.66  		#
+# samtools		0.1.19  		#
+# stacks		1.40    		#
+# tophat		2.1.1   		#
+# trimmomatic	0.36    		#
+# trinity		2.2.0			#
 ## ## ## ## ## ## ## ## ## ## ## 
 
 
 
-FROM ubuntu:16.04
+FROM debian:8
 MAINTAINER Sam White <samwhite@uw.edu>
 
 
