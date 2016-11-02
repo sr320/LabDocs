@@ -306,7 +306,8 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
         && rm rstudio-server-1.0.44-amd64.deb
         
 # Install R Kernel for Jupyter Notebooks
-RUN /usr/local/bin/R --no-save; install.packages(c('crayon', 'pbdZMQ', 'devtools'))
+RUN /usr/local/bin/R --no-save
+install.packages(c('crayon', 'pbdZMQ', 'devtools'))
 
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
