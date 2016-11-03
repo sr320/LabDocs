@@ -35,7 +35,7 @@ Explanation:
 
 #### <a name="basic"></a>Start a Docker Container (Basic)
 
-These instructions will run the Docker container from the [image built above](#build) with no "frills." See the [Intermediate](#intermediate) instructions to begin using ~~R Studio and~~ Jupyter Notebooks in the Docker container.
+These instructions will run the Docker container from the [image built above](#build) with no "frills." See the [Intermediate](#intermediate) instructions to begin using R Studio and Jupyter Notebooks in the Docker container.
 
 - Requires that a Docker image has already been built
 - Mac users: If opening a new Terminal window, enter the following before proceeding:
@@ -67,12 +67,11 @@ Explanation:
 
 1. Start a Docker container with specific port mappings:
 
-  ~~```docker run -p 8787:8787 -p 8888:8888 -it IMAGE_NAME /bin/bash```~~
-  ```docker run -p 8888:8888 -it IMAGE_NAME /bin/bash```
+  ```docker run -p 8787:8787 -p 8888:8888 -it IMAGE_NAME /bin/bash```
 
-2. ~~Start R Studio (enter this inside the container):~~
+2. Start R Studio (enter this inside the container):
 
-  ~~```rstudio-server start```~~
+  ```rstudio-server restart```
   
 3. Start Jupyter Notebook (enter this inside the container):
 
@@ -82,13 +81,13 @@ Explanation:
 
   ```docker-machine ip```
 
-4. ~~Run R Studio in your browser:~~
-  1. ~~Enter URL:~~
-    1. ~~Mac users (use the IP address from Step 4 above): e.g. ```192.168.99.100:8787```~~
-    2. ~~Others: ```localhost:8787```~~
-  2. ~~Enter the following credentials in the R Studio interface:~~
-    1. ~~Username: srlab~~
-    2. ~~Password: rstudio~~
+4. Run R Studio in your browser:
+  1. Enter URL:
+    1. Mac users (use the IP address from Step 4 above): e.g. ```192.168.99.100:8787```
+    2. Others: ```localhost:8787```
+  2. Enter the following credentials in the R Studio interface:
+    1. Username: srlab
+    2. Password: rstudio
 
 5. Run Jupyter Notebook in your browser:
   1. Enter URL (in a different window or tab than what you're using for R Studio):
@@ -96,7 +95,7 @@ Explanation:
     2. Others: ```localhost:8888```
 
 Explanation:
-~~- ```-p 8787:8787``` Tells Docker to create container that binds your computer's port 8787 to container port 8787. Allows you to use R Studio in your browser.~~
+- ```-p 8787:8787``` Tells Docker to create container that binds your computer's port 8787 to container port 8787. Allows you to use R Studio in your browser.
 - ```-p 8888:8888``` Tells Docker to create container that binds your computer's port 8888 to container port 8888. Allows you to use Jupyter Notebook in your browser.
 - The port bindings for your computer can be changed (the first number in the 8787:8787 or 8888:8888). It's recommended to stick to port numbers greater than 9000 if they need to be changed. The port bindings for the container (the second number in the 8787:8787 or 8888:8888) should not be changed, since R Studio and Jupyter Notebooks are currently configured to connect to those ports of the container. 
 
