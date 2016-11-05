@@ -10,7 +10,7 @@
 _This can be done prior to trypsin digestion or in parallel._
 Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
 
-|    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
+i|    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
 |------------|-------------------------|------------------------------|-----------------------------|
 |    B       |    1.5                  |    125                       |    375,   stock             |
 |    C       |    1.0                  |    325                       |    325,   stock             |
@@ -19,21 +19,23 @@ Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dil
 |    F       |    0.25                 |    325                       |    325,   E                 |
 |    G       |    0.125                |    325                       |    325,   F                 |
 |    H       |    0.025                |    400                       |    100,   G                 |
-Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
+
+ Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
 
 ### Mini-Trypsin digestion
-This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is <100 µg protein dissolved in 100 µl total volume.
-1.	Add 6.6 µl of 1.5 M Tris pH 8.8
-2.	Add 2.5 µl 200 mM TCEP and vortex
-3.	Test pH of samples to make sure they are still basic.
+
+_This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is less than 100 µg protein dissolved in 100 µl total volume._
+
+1. Add 6.6 µl of 1.5 M Tris pH 8.8
+2. Add 2.5 µl 200 mM TCEP and vortex
+3. Test pH of samples to make sure they are still basic.
 4.	Incubate samples 1 hour at 37°C
 5.	Add 20 µl of 200 mM iodoacetamide (IAA)
 6.	Incubate 1 hour, room temperature, in dark
 7.	Add 20 µl 200 mM diothiothreitol (DTT, freshly made or frozen), vortex
 8.	Incubate 1 hour, room temperature
 9.	Aliquot the volume equal to 100 µg of protein to a new tube (save remainder at -80°C)
-10.	OPTIONAL: Add ApoA1 to each sample (dilute 1.1 µl 2200 ng/µl stock in 48.9 µl of 50mM NH4HCO3 to make 50 ng/µl) to make 1:300 ratio of ApoA1:total protein.
-a.	For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl of 60 ng/µl ApoA1 solution.
+10.	OPTIONAL: Add ApoA1 to each sample (dilute 1.1 µl 2200 ng/µl stock in 48.9 µl of 50mM NH4HCO3 to make 50 ng/µl) to make 1:300 ratio of ApoA1:total protein. For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl of 60 ng/µl ApoA1 solution.
 11.	Add LysC at a 1:30 enzyme:protein ratio to each sample. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
 12.	Incubate 1 hour, room temperature
 13.	Add 800 µl 25 mM NH4HCO3 and 200 µl HPLC grade methanol to each tube.
@@ -54,7 +56,7 @@ Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 |    96-well   MiniSpin     |    0.03-100               |    30-50                  |    100                  |
 |    96-well   MACROspin    |    0.03-300               |    60-150                 |    300                  |
 
-1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
+1.	Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2.
 2.	Prepare spin columns – see table above for column choice.
 3.	Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times)
 4.	Equilibrate column: Add 200 µl solvent B to columns, spin for 2000 rpm for 3 minutes (repeat 2 times)
