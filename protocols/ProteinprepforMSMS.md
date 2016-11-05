@@ -8,6 +8,7 @@
 
 ### Protein quantification – BCA Assay (Pierce)
 _This can be done prior to trypsin digestion or in parallel._
+
 Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
 
 |    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
