@@ -43,9 +43,9 @@ a.	For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl 
 
 ### Desalting
 Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
+
 Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
-1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
-2.	Prepare spin columns – see table below for column choice.
+
 |    Column   type          |    Sample capacity(µg)    |    Elution volume (µl)    |    Bed   volume (µl)    |
 |---------------------------|---------------------------|---------------------------|-------------------------|
 |    UltraMicro   Spin      |    0.03-30                |    5-25                   |    50                   |
@@ -54,6 +54,8 @@ Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 |    96-well   MiniSpin     |    0.03-100               |    30-50                  |    100                  |
 |    96-well   MACROspin    |    0.03-300               |    60-150                 |    300                  |
 
+1.	Reconstitute samples in 100 µl solvent B.  Ensure pH<2, if it isn’t, add 10 µl increments of 10% formic acid until pH<2.
+2.	Prepare spin columns – see table above for column choice.
 3.	Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times)
 4.	Equilibrate column: Add 200 µl solvent B to columns, spin for 2000 rpm for 3 minutes (repeat 2 times)
 5.	Load protein on column: Add 100 µg of protein digest (1 sample per column).  Spin at 3000 rpm for 3 minutes.  Collect flow-through, put back on column and spin again.
