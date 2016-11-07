@@ -19,6 +19,7 @@
 - [ ] Solvent B (5% acetronitrile + 0.1% trifluoroacetic acid)
 - [ ] ApoA1?
 - [ ] Dry-ice
+- [ ] HPLC grade methanol
 
 _addmore_
 
