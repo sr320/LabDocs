@@ -9,7 +9,16 @@
 - [ ] 1.5 M Tris pH 8.8
 - [ ] 200 mM TCEP
 - [ ] 200 mM iodoacetamide
-- [ ] 200 mM diothiothreitol (DTT, freshly made or frozen)    
+- [ ] 200 mM diothiothreitol (DTT, freshly made or frozen) 
+- [ ] pH test strips
+- [ ] 10% and 1% formic acid
+- [ ] Evaporator 
+- [ ] Lys-C
+- [ ] Trypsin
+- [ ] Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)
+- [ ] Solvent B (5% acetronitrile + 0.1% trifluoroacetic acid)
+- [ ] ApoA1?
+- [ ] Dry-ice
 _addmore_
 
 
