@@ -93,4 +93,4 @@ Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 6.	Wash salts through column: Wash columns with 200 µl solvent B, spinning at 3000 rpm for 3 minutes (repeat twice).
 7.	Elute peptides: Transfer columns to clean collection tubes.  Add 100 µl solvent A, spin 3000 rpm for 3 minutes (repeat once).
 8.	Evaporate samples to near dryness (can be at approximately room temperature).
-9.	Reconstitute peptides in 100 µl 2-5% ACN + 1% formic acid.  Store at -80°C.
+9.	Reconstitute peptides in 100 µl 2-5% ACN + 1% formic acid. Aliquot 15ml of peptide fraction into autosampler vial. Store at -80°C.
