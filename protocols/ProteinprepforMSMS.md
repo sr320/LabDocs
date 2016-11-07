@@ -1,5 +1,21 @@
 ## Protein Preperation for MSMS protocol
 
+**Before you start** (reagents etc.)    
+- [ ] 6M urea
+- [ ] 50 mM NH4HCO3
+- [ ] Ethanol
+- [ ] Sonicator
+- [ ] BCA Assay (Pierce) - Kit that is purchased
+- [ ] 1.5 M Tris pH 8.8
+- [ ] 200 mM TCEP
+- [ ] 200 mM iodoacetamide
+- [ ] 200 mM diothiothreitol (DTT, freshly made or frozen)    
+_addmore_
+
+
+
+---
+
 ### Sonication
 1.	Add 100 µl 6M urea in 50 mM NH4HCO3 (ammonium bicarbonate)
 2.	Sonicate each sample for 10s, chilling in ethanol + dry ice for 5s and storing on wet ice between sonications.  Repeat twice for each sample (total of 3 times).
