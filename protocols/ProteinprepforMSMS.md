@@ -28,10 +28,11 @@ _addmore_
 ---
 
 ### Sonication
-1.	Add 100 µl 6M urea in 50 mM NH4HCO3 (ammonium bicarbonate)
-2.	Sonicate each sample for 10s, chilling in ethanol + dry ice for 5s and storing on wet ice between sonications.  Repeat twice for each sample (total of 3 times).
-3.	Between samples, rinse the sonicating probe with ethanol and nanopure water.
-4.	Store at -80°C if not moving directly to sample digestion.
+1.	Add 500 µl 6M urea in 50 mM NH4HCO3 (ammonium bicarbonate) to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000xg for 5 minutes. 
+2. Aliquot 100ul of supernatant to a new tube.
+3.	Sonicate each sample for 10s, chilling in ethanol + dry ice for 5s and storing on wet ice between sonications.  Repeat twice for each sample (total of 3 times).
+4.	Between samples, rinse the sonicating probe with ethanol and nanopure water.
+5.	Store at -80°C if not moving directly to sample digestion.
 
 ### Protein quantification – BCA Assay (Pierce)
 _This can be done prior to trypsin digestion or in parallel._
