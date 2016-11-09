@@ -308,11 +308,14 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
 
 # Install R kernel for Jupyter notebooks
 RUN touch kernel_script_temp.R
-RUN echo '#!/usr/bin/r' >> kernel_script_temp.R \
-	&& echo 'install.packages(c("crayon", "pbdZMQ", "devtools"), repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
+RUN echo '#!/usr/local/bioinformatics/R-3.2.5/bin/Rscript' >> kernel_script_temp.R \
+	&& echo 'install.packages("devtools", repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
+	&& echo 'install.version("crayon", version = "1.3.1", repos = "http://cran.us.r-project.org")' \
+	&& echo 'install.version("pbdZMQ", version = "0.2.3", repos = "http://cran.us.r-project.org")' \
 	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
 	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
 RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
+
 
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
