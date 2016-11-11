@@ -95,7 +95,6 @@ RUN apt-get update && \
 	parallel \
 	locales-all \
 	libzmq3-dev \
-	littler \
     && apt-get clean
 
     
@@ -127,6 +126,10 @@ RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
 	&& rm Miniconda2-latest-Linux-x86_64.sh
 
 ENV PATH /root/miniconda2/bin:$PATH
+
+# Install pango cairo text rendering library for R studio functionality
+
+RUN apt-get install libpango1.0-dev -y
 
 # Install bedtools (v2.26.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz \
@@ -270,7 +273,6 @@ RUN conda install jupyter -y \
 	&& (sed -i '/c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
 	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
 
-
 ## Install dammit
 RUN conda install dammit
 
@@ -309,14 +311,10 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
 # Install R kernel for Jupyter notebooks
 RUN touch kernel_script_temp.R
 RUN echo '#!/usr/local/bioinformatics/R-3.2.5/bin/Rscript' >> kernel_script_temp.R \
-	&& echo 'install.packages("devtools", repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
-	&& echo 'install.version("crayon", version = "1.3.1", repos = "http://cran.us.r-project.org")' \
-	&& echo 'install.version("pbdZMQ", version = "0.2.3", repos = "http://cran.us.r-project.org")' \
-	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
-	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
+	&& echo 'install.packages(c("crayon", "pbdZMQ", "devtools"), repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
+ 	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
+ 	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
 RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
-
-
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
