@@ -23,6 +23,58 @@
 
 _addmore_
 
+ 
+## To make reagents
+
+__50mM ammonium bicarbonate in 6M urea__
+To make a 250ml solution (500ul required/sample)
+
+For ammonium bicarbonate
+MW: 79.06g/mol
+Concentration: 50mM
+(79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 250ml = 0.988255g of NH4HCO3 for 250ml
+
+For Urea add the following to this 250ml solution:
+MW: 60.06g/ml
+Concentration: 6M
+(60.06g/mol)x(6mol/L)x(1L/1000ml)x 250ml= 90.09g Urea to add to the 250ml.
+
+__200mM Iodoacetamide (IAA)__
+To make a 10ml solution (20ul required/sample)
+
+MW: 166.95g/mol
+Concentration: 200mM
+(166.95g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3339g IAA for 10ml
+Dissolve 0.3339g IAA in nanopure and top off to 10.00ml.
+
+__200mM Dithiothreitol (DTT)__
+To make a 10ml solution (20ul required/sample)
+
+MW: 154.25g/mol
+Concentration: 200mM
+(154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3085g IAA for 10ml
+Dissolve 0.3085g DTT in nanopure and top off to 10.00ml.
+
+__200mM tris(2-carboxyethyl)phosphine (TCEP)__
+To make a 10ml solution (2.5ul required/sample)
+
+MW: 286.65g/mol
+Concentration: 200mM
+(286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 5ml= 0.2865g TCEP for 5ml
+Dissolve 0.2865g TCEP in nanopure and top off to 5.00ml.
+
+__25mM NH4HCO3__
+To make a 400ml solution (800ul required/sample)
+
+MW: 79.06g/mol
+Concentration: 50mM
+(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x 400ml = 0.7906g of NH4HCO3 for 400ml
+Dissolve 0.7906g TCEP in nanopure and top off to 400.0ml.
+
+__APOA1 solution__
+
+
+
 
 
 ---
