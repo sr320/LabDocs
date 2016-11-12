@@ -26,6 +26,7 @@ _addmore_
 ## To make reagents
 
 __50mM ammonium bicarbonate in 6M urea__
+
 To make a 250ml solution (500ul required/sample)
 
 For ammonium bicarbonate
@@ -39,6 +40,7 @@ Concentration: 6M
 (60.06g/mol)x(6mol/L)x(1L/1000ml)x 250ml= 90.09g Urea to add to the 250ml.
 
 __200mM Iodoacetamide (IAA)__
+
 To make a 10ml solution (20ul required/sample)
 MW: 166.95g/mol
 Concentration: 200mM
@@ -46,6 +48,7 @@ Concentration: 200mM
 Dissolve 0.3339g IAA in 10.00 ml nanopure
 
 __200mM Dithiothreitol (DTT)__
+
 To make a 10ml solution (20ul required/sample)
 MW: 154.25g/mol
 Concentration: 200mM
@@ -53,6 +56,7 @@ Concentration: 200mM
 Dissolve 0.3085g DTT in 10.00 ml nanopure
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
+
 To make a 10ml solution (2.5ul required/sample)
 MW: 286.65g/mol
 Concentration: 200mM
@@ -60,6 +64,7 @@ Concentration: 200mM
 Dissolve 0.2865g TCEP in 5.00 ml nanopure.
 
 __25mM NH4HCO3__
+
 To make a 400ml solution (800ul required/sample)
 MW: 79.06g/mol
 Concentration: 25mM
@@ -67,11 +72,13 @@ Concentration: 25mM
 Dissolve 0.7906g TCEP in 400.00 ml nanopure.
 
 __APOA1 solution (60ng/ul)__
+
 To make 3.35ml solution (6.7ul required/sample)
 (60ng/ul)x(3350ul)/1000000=0.201mg APOA1
 Dissolve 0.201mg APOA1 in 3.3 5ml nanopure.
 
 __1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
+
 To make 5ml of solution (6.6ul required/sample)
 MW: 157.596
 Concentration: 1.5M
@@ -79,10 +86,12 @@ Concentration: 1.5M
 Add 1.182g of Tris to 5.00 ml nanopure
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
+
 To make 150ml (200ul required/sample)
 Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure.
 
 __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
+
 To make 150ml (300ul required/sample)
 Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure.
 
