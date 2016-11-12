@@ -67,7 +67,7 @@ _Dissolve 0.3085g DTT in 10.00 ml nanopure_
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
 
-To make a 10ml solution (2.5ul required/sample)
+To make a 5ml solution (2.5ul required/sample)
 
 MW: 286.65g/mol
 
