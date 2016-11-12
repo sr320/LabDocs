@@ -29,13 +29,13 @@ __50mM ammonium bicarbonate in 6M urea__
 
 To make a 250ml solution (500ul required/sample)
 
-- For ammonium bicarbonate
+- For ammonium bicarbonate (NH4HCO3)
 
   MW: 79.06g/mol
 
   (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 250ml = 0.988255g of NH4HCO3 for 250ml
 
-  _Dissolve 0.988255g into 250ml nanopure_
+  _Dissolve 0.988255g NH4HCO3 into 250ml nanopure_
 
 - For Urea add the following to this 250ml solution:
 
@@ -43,7 +43,7 @@ To make a 250ml solution (500ul required/sample)
 
   (60.06g/mol)x(6mol/L)x(1L/1000ml)x 250ml= 90.09g Urea to add to the 250ml.
 	
-  _Dissolve 90.09 g Urea into the same 250ml solution_
+  _Dissolve 90.09g Urea into the same 250ml solution_
 
 __200mM Iodoacetamide (IAA)__
 
