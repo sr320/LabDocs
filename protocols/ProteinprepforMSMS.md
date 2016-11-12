@@ -35,7 +35,7 @@ To make a 250ml solution (500ul required/sample)
 
   (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 250ml = 0.988255g of NH4HCO3 for 250ml
 
-	`Dissolve 0.988255g into 250ml nanopure.`
+  _Dissolve 0.988255g into 250ml nanopure_
 
 - For Urea add the following to this 250ml solution:
 
@@ -43,7 +43,7 @@ To make a 250ml solution (500ul required/sample)
 
   (60.06g/mol)x(6mol/L)x(1L/1000ml)x 250ml= 90.09g Urea to add to the 250ml.
 	
-	`Dissolve 90.09 g Urea into the same 250ml solution.`
+  _Dissolve 90.09 g Urea into the same 250ml solution_
 
 __200mM Iodoacetamide (IAA)__
 
@@ -53,7 +53,7 @@ MW: 166.95g/mol
 
 (166.95g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3339g IAA for 10ml
 
-	Dissolve 0.3339g IAA in 10.00 ml nanopure
+_Dissolve 0.3339g IAA in 10.00 ml nanopure_
 
 __200mM Dithiothreitol (DTT)__
 
@@ -63,7 +63,7 @@ MW: 154.25g/mol
 
 (154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3085g IAA for 10ml
 
-	Dissolve 0.3085g DTT in 10.00 ml nanopure
+_Dissolve 0.3085g DTT in 10.00 ml nanopure_
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
 
@@ -73,7 +73,7 @@ MW: 286.65g/mol
 
 (286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 5ml= 0.2865g TCEP for 5ml
 
-	Dissolve 0.2865g TCEP in 5.00 ml nanopure.
+_Dissolve 0.2865g TCEP in 5.00 ml nanopure_
 
 __25mM NH4HCO3__
 
@@ -83,7 +83,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x 400ml = 0.7906g of NH4HCO3 for 400ml
 
-	Dissolve 0.7906g TCEP in 400.00 ml nanopure.
+_Dissolve 0.7906g TCEP in 400.00 ml nanopure_
 
 __APOA1 solution (60ng/ul)__
 
@@ -91,7 +91,7 @@ To make 3.35ml solution (6.7ul required/sample)
 
 (60ng/ul)x(3350ul)/1000000=0.201mg APOA1
 
-	Dissolve 0.201mg APOA1 in 3.3 5ml nanopure.
+_Dissolve 0.201mg APOA1 in 3.3 5ml nanopure_
 
 __1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
 
@@ -101,19 +101,19 @@ MW: 157.596g/mol
 
 (157.596g/mol)x(1.5M/L)x(1L/1000ml)x 5ml= 1.182g Tris
 
-	Dissolve 1.182g of Tris to 5.00 ml nanopure
+_Dissolve 1.182g of Tris to 5.00 ml nanopure_
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
 To make 150ml (200ul required/sample)
 
-	Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure.
+_Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure_
 
 __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
 
 To make 150ml (300ul required/sample)
 
-	Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure.
+_Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
 
 ---
 
