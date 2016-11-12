@@ -61,7 +61,7 @@ To make a 10ml solution (20ul required/sample)
 
 MW: 154.25g/mol
 
-(154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3085g IAA for 10ml
+(154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3085g DTT for 10ml
 
 _Dissolve 0.3085g DTT in 10.00 ml nanopure_
 
