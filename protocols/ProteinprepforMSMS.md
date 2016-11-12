@@ -73,7 +73,7 @@ MW: 286.65g/mol
 
 (286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 5ml= 0.2865g TCEP for 5ml
 
-_Dissolve 0.2865g TCEP in 5.00 ml nanopure_
+_Dissolve 0.2865g TRIS in 5.00 ml nanopure_
 
 __25mM NH4HCO3__
 
@@ -83,7 +83,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x 400ml = 0.7906g of NH4HCO3 for 400ml
 
-_Dissolve 0.7906g TCEP in 400.00 ml nanopure_
+_Dissolve 0.7906g NH4HCO3 in 400.00 ml nanopure_
 
 __APOA1 solution (60ng/ul)__
 
@@ -91,7 +91,7 @@ To make 3.35ml solution (6.7ul required/sample)
 
 (60ng/ul)x(3350ul)/1000000=0.201mg APOA1
 
-_Dissolve 0.201mg APOA1 in 3.3 5ml nanopure_
+_Dissolve 0.201mg APOA1 in 3.35ml nanopure_
 
 __1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
 
