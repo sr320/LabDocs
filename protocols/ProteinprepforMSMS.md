@@ -73,7 +73,7 @@ MW: 286.65g/mol
 
 (286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 5ml= 0.2865g TCEP for 5ml
 
-_Dissolve 0.2865g TRIS in 5.00 ml nanopure_
+_Dissolve 0.2865g TCEP in 5.00 ml nanopure_
 
 __25mM NH4HCO3__
 
