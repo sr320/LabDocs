@@ -101,7 +101,7 @@ MW: 157.596g/mol
 
 (157.596g/mol)x(1.5M/L)x(1L/1000ml)x 5ml= 1.182g Tris
 
-_Dissolve 1.182g of Tris to 5.00 ml nanopure_
+_Dissolve 1.182g of Tris in 5.00 ml nanopure_
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
