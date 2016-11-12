@@ -29,13 +29,13 @@ __50mM ammonium bicarbonate in 6M urea__
 
 To make a 250ml solution (500ul required/sample)
 
-For ammonium bicarbonate
+- For ammonium bicarbonate
 
 MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 250ml = 0.988255g of NH4HCO3 for 250ml
 
-For Urea add the following to this 250ml solution:
+- For Urea add the following to this 250ml solution:
 
 MW: 60.06g/ml
 
