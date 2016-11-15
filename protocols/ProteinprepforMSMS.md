@@ -49,13 +49,11 @@ __200mM Iodoacetamide (IAA)__
 
 To make a 5ml solution (20ul required/sample)-make 200ul aliquots and store at -80C. Must keep in dark, wrap bottle in foil. Aliquot ten at a time and put in freezer.
 
-MW: 166.95g/mol
+MW: 184.96g/mol
 
-(166.95g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 10ml= 166.95mg IAA for 5ml
+(184.96g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 184.96mg IAA for 5ml
 
-_Dissolve 166.95mgg IAA in 5.00 ml nanopure_
-
-- Emma's instructions say 184.96mg in 5ml
+_Dissolve 184.96mg IAA in 5.00 ml nanopure_
 
 __200mM Dithiothreitol (DTT)__
 
