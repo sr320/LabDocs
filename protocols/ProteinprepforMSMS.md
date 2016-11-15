@@ -27,71 +27,65 @@ _addmore_
 
 __50mM ammonium bicarbonate in 6M urea__
 
-To make a 250ml solution (500ul required/sample)
+To make a 100ml solution (500ul required/sample)
 
-- For ammonium bicarbonate (NH4HCO3)
+- For ammonium bicarbonate (NH4HCO3)-must use within 24hrs of making it.
 
   MW: 79.06g/mol
 
-  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x 250ml = 0.988255g of NH4HCO3 for 250ml
+  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 100ml = 395.3mg of NH4HCO3 for 100ml
 
-  _Dissolve 0.988255g NH4HCO3 into 250ml nanopure_
+  _Dissolve 395.3mg NH4HCO3 into 100ml nanopure_
 
-- For Urea add the following to this 250ml solution:
+- For Urea add the following to this 100ml solution:
 
   MW: 60.06g/ml
 
-  (60.06g/mol)x(6mol/L)x(1L/1000ml)x 250ml= 90.09g Urea to add to the 250ml.
+  (60.06g/mol)x(6mol/L)x(1L/1000ml)x 100ml= 36.036g Urea to add to the 100ml.
 	
-  _Dissolve 90.09g Urea into the same 250ml solution_
+  _Dissolve 36.036g Urea into the same 100ml solution_
 
 __200mM Iodoacetamide (IAA)__
 
-To make a 10ml solution (20ul required/sample)
+To make a 5ml solution (20ul required/sample)-make 200ul aliquots and store at -80C. Must keep in dark, wrap bottle in foil. Aliquot ten at a time and put in freezer.
 
 MW: 166.95g/mol
 
-(166.95g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3339g IAA for 10ml
+(166.95g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 10ml= 166.95mg IAA for 5ml
 
-_Dissolve 0.3339g IAA in 10.00 ml nanopure_
+_Dissolve 166.95mgg IAA in 5.00 ml nanopure_
+
+- Emma's instructions say 184.96mg in 5ml
 
 __200mM Dithiothreitol (DTT)__
 
-To make a 10ml solution (20ul required/sample)
+To make a 5ml solution (20ul required/sample)-make 200ul aliquots and store at -80C.
 
 MW: 154.25g/mol
 
-(154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 10ml= 0.3085g DTT for 10ml
+(154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 154.25mg DTT for 5ml
 
-_Dissolve 0.3085g DTT in 10.00 ml nanopure_
+_Dissolve 154.25mg DTT in 5.00 ml nanopure_
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
 
-To make a 5ml solution (2.5ul required/sample)
+To make a 5ml solution (2.5ul required/sample)-make 200ul aliquots and store at -80C.
 
 MW: 286.65g/mol
 
-(286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x 5ml= 0.2865g TCEP for 5ml
+(286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 286.65mg TCEP for 5ml
 
-_Dissolve 0.2865g TCEP in 5.00 ml nanopure_
+_Dissolve 286.65mg TCEP in 5.00 ml nanopure_
 
 __25mM NH4HCO3__
 
-To make a 400ml solution (800ul required/sample)
+To make a 100ml solution (800ul required/sample)-Must use within 24hrs of making it.
 
 MW: 79.06g/mol
 
-(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x 400ml = 0.7906g of NH4HCO3 for 400ml
+(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mb/1g)x 100ml = 197.65g of NH4HCO3 for 100ml
 
-_Dissolve 0.7906g NH4HCO3 in 400.00 ml nanopure_
-
-__APOA1 solution (60ng/ul)__
-
-To make 3.35ml solution (6.7ul required/sample)
-
-(60ng/ul)x(3350ul)/1000000=0.201mg APOA1
-
-_Dissolve 0.201mg APOA1 in 3.35ml nanopure_
+_Dissolve 197.65mg NH4HCO3 in 100.00 ml nanopure_
 
 __1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
 
@@ -103,15 +97,17 @@ MW: 157.596g/mol
 
 _Dissolve 1.182g of Tris in 5.00 ml nanopure_
 
+-Emma's instructions say to add 1.8g in 5ml?
+
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (200ul required/sample)
+To make 150ml (200ul required/sample)-can store on benchtop
 
 _Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure_
 
 __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (300ul required/sample)
+To make 150ml (300ul required/sample)-can store on benchtop
 
 _Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
 
