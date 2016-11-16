@@ -81,7 +81,7 @@ To make a 100ml solution (800ul required/sample)-Must use within 24hrs of making
 
 MW: 79.06g/mol
 
-(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mb/1g)x 100ml = 197.65g of NH4HCO3 for 100ml
+(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 100ml = 197.65g of NH4HCO3 for 100ml
 
 _Dissolve 197.65mg NH4HCO3 in 100.00 ml nanopure_
 
