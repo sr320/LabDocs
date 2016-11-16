@@ -31,6 +31,7 @@
 # tophat		2.1.1   		#
 # trimmomatic	0.36    		#
 # trinity		2.2.0			#
+# vcftools		0.1.14	#
 ## ## ## ## ## ## ## ## ## ## ## 
 
 
@@ -307,11 +308,17 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
 
 # Install R kernel for Jupyter notebooks
 RUN touch kernel_script_temp.R
+
 RUN echo '#!/usr/local/bioinformatics/R-3.2.5/bin/Rscript' >> kernel_script_temp.R \
 	&& echo 'install.packages(c("crayon", "pbdZMQ", "devtools"), repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
  	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
  	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
+
 RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
+
+## Install vcftools (v0.1.14)
+RUN wget https://github.com/vcftools/vcftools/releases/download/v0.1.14/vcftools-0.1.14.tar.gz \
+	&& tar -xzf vcftools-0.1.14.tar.gz
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
