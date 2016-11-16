@@ -99,19 +99,19 @@ _Dissolve 1.182g of Tris in 5.00 ml nanopure_
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (200ul required/sample)-can store on benchtop
+To make 150ml (200ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
 
 _Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure_
 
 __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (300ul required/sample)-can store on benchtop
+To make 150ml (300ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
 
 _Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
 
 __3% acetonitrile + 1% formic acid for final step__
 
-To make 100ml (100ul required/sample)
+To make 100ml (100ul required/sample). Do not use any plastic to make this solvent!
 
 _Add 3ml acetonitrile and 1ml of formic acid to 96ml of nanopure_
 
