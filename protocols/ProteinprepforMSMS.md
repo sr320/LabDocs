@@ -27,23 +27,23 @@ _addmore_
 
 __50mM ammonium bicarbonate in 6M urea__
 
-To make a 100ml solution (500ul required/sample)
+To make a 20ml solution (500ul required/sample)
 
 - For ammonium bicarbonate (NH4HCO3)-must use within 24hrs of making it.
 
   MW: 79.06g/mol
 
-  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 100ml = 395.3mg of NH4HCO3 for 100ml
+  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 20ml = 79.06mg of NH4HCO3 for 20ml
 
-  _Dissolve 395.3mg NH4HCO3 into 100ml nanopure_
+  _Dissolve 79.06mg NH4HCO3 into 20ml nanopure_
 
-- For Urea add the following to this 100ml solution:
+- For Urea add the following to this 20ml solution:
 
   MW: 60.06g/ml
 
-  (60.06g/mol)x(6mol/L)x(1L/1000ml)x 100ml= 36.036g Urea to add to the 100ml.
+  (60.06g/mol)x(6mol/L)x(1L/1000ml)x 20ml= 7.21g Urea to add to the 20ml.
 	
-  _Dissolve 36.036g Urea into the same 100ml solution_
+  _Dissolve 7.21g Urea into the same 20ml solution_
 
 __200mM Iodoacetamide (IAA)__
 
@@ -108,6 +108,12 @@ __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
 To make 150ml (300ul required/sample)-can store on benchtop
 
 _Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
+
+__3% acetonitrile + 1% formic acid for final step__
+
+To make 100ml (100ul required/sample)
+
+_Add 3ml acetonitrile and 1ml of formic acid to 96ml of nanopure_
 
 ---
 
