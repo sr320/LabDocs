@@ -99,13 +99,13 @@ _Dissolve 1.182g of Tris in 5.00 ml nanopure_
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (200ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
+To make 150ml (300ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
 
 _Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure_
 
 __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (300ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
+To make 150ml (500ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
 
 _Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
 
@@ -119,7 +119,7 @@ _Add 3ml acetonitrile and 1ml of formic acid to 96ml of nanopure_
 
 ### Sonication
 1.	Add 500 µl 6M urea in 50 mM NH4HCO3 (ammonium bicarbonate) to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000xg for 5 minutes. 
-2. Aliquot 100ul of supernatant to a new tube.
+2. 	Aliquot 100ul of supernatant to a new tube.
 3.	Sonicate each sample for 10s, chilling in ethanol + dry ice for 5s and storing on wet ice between sonications.  Repeat twice for each sample (total of 3 times).
 4.	Between samples, rinse the sonicating probe with ethanol and nanopure water.
 5.	Store at -80°C if not moving directly to sample digestion.
@@ -127,7 +127,7 @@ _Add 3ml acetonitrile and 1ml of formic acid to 96ml of nanopure_
 ### Protein quantification – BCA Assay (Pierce)
 _This can be done prior to trypsin digestion or in parallel._
 
-Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
+Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl 50 mM NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
 
 |    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
 |------------|-------------------------|------------------------------|-----------------------------|
@@ -145,9 +145,9 @@ Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl NH4HCO3 to dil
 
 _This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is less than 100 µg protein dissolved in 100 µl total volume._
 
-1. Add 6.6 µl of 1.5 M Tris pH 8.8
-2. Add 2.5 µl 200 mM TCEP and vortex
-3. Test pH of samples to make sure they are still basic.
+1. 	Add 6.6 µl of 1.5 M Tris pH 8.8
+2. 	Add 2.5 µl 200 mM TCEP and vortex
+3. 	Test pH of samples to make sure they are still basic.
 4.	Incubate samples 1 hour at 37°C
 5.	Add 20 µl of 200 mM iodoacetamide (IAA)
 6.	Incubate 1 hour, room temperature, in dark
