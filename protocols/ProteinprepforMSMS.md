@@ -1,4 +1,4 @@
-﻿## Protein Preperation for MSMS protocol
+﻿## Protein Preparation for MSMS protocol
 
 **Before you start** (reagents etc.)    
 - [ ] 6M urea
