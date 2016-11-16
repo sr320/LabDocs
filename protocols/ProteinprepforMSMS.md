@@ -35,7 +35,7 @@ To make a 20ml solution (500ul required/sample during sonication)
 
   (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 30ml = 118.59mg of NH4HCO3 for 30ml
 
-  _Dissolve 79.06mg NH4HCO3 into 30ml nanopure. Set aside 10ml of this solution for protein quantification._
+  _Dissolve 118.59mg NH4HCO3 into 30ml nanopure. Set aside 10ml of this solution for protein quantification._
 
 - For Urea add the following to 20ml of the 50mM NH4HCO3 solution:
 
