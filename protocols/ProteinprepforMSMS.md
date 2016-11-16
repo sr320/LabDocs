@@ -27,23 +27,23 @@ _addmore_
 
 __50mM ammonium bicarbonate in 6M urea__
 
-To make a 20ml solution (500ul required/sample)
+To make a 20ml solution (500ul required/sample during sonication)
 
 - For ammonium bicarbonate (NH4HCO3)-must use within 24hrs of making it.
 
   MW: 79.06g/mol
 
-  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 20ml = 79.06mg of NH4HCO3 for 20ml
+  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 30ml = 118.59mg of NH4HCO3 for 30ml
 
-  _Dissolve 79.06mg NH4HCO3 into 20ml nanopure_
+  _Dissolve 79.06mg NH4HCO3 into 30ml nanopure. Set aside 10ml of this solution for protein quantification._
 
-- For Urea add the following to this 20ml solution:
+- For Urea add the following to 20ml of the 50mM NH4HCO3 solution:
 
   MW: 60.06g/ml
 
   (60.06g/mol)x(6mol/L)x(1L/1000ml)x 20ml= 7.21g Urea to add to the 20ml.
 	
-  _Dissolve 7.21g Urea into the same 20ml solution_
+  _Dissolve 7.21g Urea into 20ml of 50mM NH4HCO3_
 
 __200mM Iodoacetamide (IAA)__
 
