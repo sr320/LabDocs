@@ -318,7 +318,8 @@ RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
 
 ## Install vcftools (v0.1.14)
 RUN wget https://github.com/vcftools/vcftools/releases/download/v0.1.14/vcftools-0.1.14.tar.gz \
-	&& tar -xzf vcftools-0.1.14.tar.gz
+	&& tar -xzf vcftools-0.1.14.tar.gz \
+	&& (cd /usr/local/bioinformatics/vcftools-0.1.14 && ./configure && make && make install)
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
