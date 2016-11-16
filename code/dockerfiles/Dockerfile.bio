@@ -95,6 +95,7 @@ RUN apt-get update && \
 	parallel \
 	locales-all \
 	libzmq3-dev \
+	libpango1.0-dev \
     && apt-get clean
 
     
@@ -126,10 +127,6 @@ RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
 	&& rm Miniconda2-latest-Linux-x86_64.sh
 
 ENV PATH /root/miniconda2/bin:$PATH
-
-# Install pango cairo text rendering library for R studio functionality
-
-RUN apt-get install libpango1.0-dev -y
 
 # Install bedtools (v2.26.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz \
