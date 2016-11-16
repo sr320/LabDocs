@@ -95,8 +95,6 @@ MW: 157.596g/mol
 
 _Dissolve 1.182g of Tris in 5.00 ml nanopure_
 
--Emma's instructions say to add 1.8g in 5ml?
-
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
 To make 150ml (300ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
