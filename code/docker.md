@@ -8,7 +8,7 @@ There are five sections of instructions, each with increasing usage complexity:
 
 - [Build an Image](#build): Required to begin working with Docker.
 - [Starting a Container](#basic): Instructions on running a container from an image. Lacks the ability to interact with files on your computer.
-- [Using R Studio & Jupyter Notebooks](#intermediate): Instructions on how to run a container and use ~~R Studioand~~ Jupyter Notebooks in your computer's browser. Lacks the ability to interact with files on your computer.
+- [Using R Studio & Jupyter Notebooks](#intermediate): Instructions on how to run a container and use R Studio and Jupyter Notebooks in your computer's browser. Lacks the ability to interact with files on your computer.
 - [Interact with Files on Your Computer](#advanced): Instructions on how to run a container that can interact with files on your computer. This will be the most useful container and will likely be the default setup you use from here on out.
 - [Semi-important Supplemental Info](#supplemental): Instructions on how to limit and reduce Docker image disk space usage by re-using existing images/containers and/or deleting old/unused images/containers.
 
