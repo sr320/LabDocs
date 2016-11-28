@@ -17,7 +17,7 @@
 - [ ] Trypsin
 - [ ] Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)
 - [ ] Solvent B (5% acetronitrile + 0.1% trifluoroacetic acid)
-- [ ] ApoA1?
+- [ ] ApoA1 (use for DIA analyses)
 - [ ] Dry-ice
 - [ ] HPLC grade methanol
 
@@ -33,17 +33,17 @@ To make a 20ml solution (500ul required/sample during sonication)
 
   MW: 79.06g/mol
 
-  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 30ml = 118.59mg of NH4HCO3 for 30ml
+  (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 20ml = 79.06mg of NH4HCO3 for 20ml
 
-  _Dissolve 118.59mg NH4HCO3 into 30ml nanopure. Set aside 10ml of this solution for protein quantification._
+  _Dissolve 79.06mg NH4HCO3 into 10ml nanopure and add Urea (see below) before topping off to 20ml with nanopure._
 
-- For Urea add the following to 20ml of the 50mM NH4HCO3 solution:
+- For Urea add the following to the NH4HCO3 solution you just made:
 
   MW: 60.06g/ml
 
-  (60.06g/mol)x(6mol/L)x(1L/1000ml)x 20ml= 7.21g Urea to add to the 20ml.
+  (60.06g/mol)x(6mol/L)x(1L/1000ml)x 20ml= 7.21g Urea to add to the NH4HCO3 
 	
-  _Dissolve 7.21g Urea into 20ml of 50mM NH4HCO3_
+  _Dissolve 7.21g Urea into the solution you just made. Once dissolved, add nanopure to reach 20ml._
 
 __200mM Iodoacetamide (IAA)__
 
@@ -53,7 +53,7 @@ MW: 184.96g/mol
 
 (184.96g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 184.96mg IAA for 5ml
 
-_Dissolve 184.96mg IAA in 5.00 ml nanopure_
+_Dissolve 184.96mg IAA in 4.00 ml nanopure. Add additional nanopure to reach 5.00 ml._
 
 __200mM Dithiothreitol (DTT)__
 
@@ -63,7 +63,7 @@ MW: 154.25g/mol
 
 (154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 154.25mg DTT for 5ml
 
-_Dissolve 154.25mg DTT in 5.00 ml nanopure_
+_Dissolve 154.25mg DTT in 4.00 ml nanopure. Add additional nanopure to reach 5.00 ml._
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
 
@@ -73,17 +73,17 @@ MW: 286.65g/mol
 
 (286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 286.65mg TCEP for 5ml
 
-_Dissolve 286.65mg TCEP in 5.00 ml nanopure_
+_Dissolve 286.65mg TCEP in 4.00 ml nanopure. Add additional nanopure to reach 5.00 ml._
 
 __25mM NH4HCO3__
 
-To make a 100ml solution (800ul required/sample)-Must use within 24hrs of making it.
+To make a 25ml solution (800ul required/sample)-Must use within 24hrs of making it.
 
 MW: 79.06g/mol
 
-(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 100ml = 197.65g of NH4HCO3 for 100ml
+(79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 25ml = 49.4mg of NH4HCO3 for 25ml
 
-_Dissolve 197.65mg NH4HCO3 in 100.00 ml nanopure_
+_Dissolve 49.4mg NH4HCO3 in 20ml nanopure. Once dissolved, add additional nanopure to reach 25ml._
 
 __1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
 
@@ -93,7 +93,7 @@ MW: 157.596g/mol
 
 (157.596g/mol)x(1.5M/L)x(1L/1000ml)x 5ml= 1.182g Tris
 
-_Dissolve 1.182g of Tris in 5.00 ml nanopure_
+_Dissolve 1.182g of Tris in 3.00 ml nanopure. Adjust pH with NaOH to reach ph8.8. Add more nanopure to reach 5.00ml._
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
