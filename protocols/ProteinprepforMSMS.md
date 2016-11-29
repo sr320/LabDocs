@@ -107,11 +107,11 @@ To make 150ml (500ul required/sample)-can store on benchtop. Do not use any plas
 
 _Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
 
-__3% acetonitrile + 1% formic acid for final step__
+__3% acetonitrile + 0.1% formic acid for final step__
 
 To make 100ml (100ul required/sample). Do not use any plastic to make this solvent!
 
-_Add 3ml acetonitrile and 1ml of formic acid to 96ml of nanopure_
+_Add 3ml acetonitrile and 0.1ml of formic acid to 96.9ml of nanopure_
 
 ---
 
