@@ -97,6 +97,7 @@ RUN apt-get update && \
 	locales-all \
 	libzmq3-dev \
 	libpango1.0-dev \
+	build-dep r-base-dev \
     && apt-get clean
 
     
