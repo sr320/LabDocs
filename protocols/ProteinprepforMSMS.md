@@ -33,7 +33,7 @@ To make a 20ml solution:
 
   (79.06g/mol)x(1mol/1,000mmol)x(50mM/1L)x(1L/1,000ml)x(1,000mg/1g)x 20ml = 79.06mg of NH4HCO3 for 20ml
 
-  _Dissolve 79.06mg NH4HCO3 into 10ml nanopure and add Urea (see below) before topping off to 20ml with nanopure._
+  _Dissolve 79.06mg NH4HCO3 into 10ml nanopure. Vortex. Add Urea (see below) before topping off to 20ml with nanopure._
 
 - For Urea add the following to the NH4HCO3 solution you just made:
 
@@ -41,7 +41,7 @@ To make a 20ml solution:
 
   (60.06g/mol)x(6mol/L)x(1L/1000ml)x 20ml= 7.21g Urea to add to the NH4HCO3 
 	
-  _Dissolve 7.21g Urea into the solution you just made. Once dissolved, add nanopure to reach 20ml._
+  _Dissolve 7.21g Urea into the solution you just made. Vortex and add nanopure to reach 20ml._
 
 __200mM Iodoacetamide (IAA)__
 
@@ -51,7 +51,7 @@ MW: 184.96g/mol
 
 (184.96g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 184.96mg IAA for 5ml
 
-_Dissolve 184.96mg IAA in 4.00 ml nanopure. Add additional nanopure to reach 5.00 ml._
+_Dissolve 184.96mg IAA in 4.00 ml nanopure. Vortex and add additional nanopure to reach 5.00 ml._
 
 __200mM Dithiothreitol (DTT)__
 
@@ -61,7 +61,7 @@ MW: 154.25g/mol
 
 (154.25g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 154.25mg DTT for 5ml
 
-_Dissolve 154.25mg DTT in 4.00 ml nanopure. Add additional nanopure to reach 5.00 ml._
+_Dissolve 154.25mg DTT in 4.00 ml nanopure. Vortex and add additional nanopure to reach 5.00 ml._
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
 
@@ -71,7 +71,7 @@ MW: 286.65g/mol
 
 (286.65g/mol)x(1mol/1,000mmol)x(200mM/1L)x(1L/1000ml)x(1000mg/1g)x 5ml= 286.65mg TCEP for 5ml
 
-_Dissolve 286.65mg TCEP in 4.00 ml nanopure. Add additional nanopure to reach 5.00 ml._
+_Dissolve 286.65mg TCEP in 4.00 ml nanopure. Vortex and add additional nanopure to reach 5.00 ml._
 
 __25mM NH4HCO3__
 
@@ -81,7 +81,7 @@ MW: 79.06g/mol
 
 (79.06g/mol)x(1mol/1,000mmol)x(25mM/1L)x(1L/1,000ml)x(1000mg/1g)x 25ml = 49.4mg of NH4HCO3 for 25ml
 
-_Dissolve 49.4mg NH4HCO3 in 20ml nanopure. Once dissolved, add additional nanopure to reach 25ml._
+_Dissolve 49.4mg NH4HCO3 in 20ml nanopure. Vortex and add additional nanopure to reach 25ml._
 
 __1.5M Tris(tris(hydroxymethyl)aminomethane hydrochloride) pH8.8__
 
@@ -91,7 +91,7 @@ MW: 157.596g/mol
 
 (157.596g/mol)x(1.5M/L)x(1L/1000ml)x 5ml= 1.182g Tris
 
-_Dissolve 1.182g of Tris in 3.00 ml nanopure. Adjust pH with NaOH to reach ph8.8. Add more nanopure to reach 5.00ml._
+_Dissolve 1.182g of Tris in 3.00 ml nanopure. Vortex. Adjust pH with 5N NaOH to reach ph8.8 (vortex after every addition). Add more nanopure to reach 5.00ml._
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
@@ -157,7 +157,7 @@ __BCA standards (Genn's dilution curve):__
 
 __Procedure:__
 
-1) Make your 8 BCA standards in snaptop centrifuge tubes (see table). Make sure to vortex and centrifuge down before using one standard to create your next standard.
+1) Make your 8 BCA standards in snaptop centrifuge tubes (see table). Make sure to vortex before using one standard to create your next standard.
 
 2) Create a table to describe the contents of the microplate wells.
 
@@ -210,13 +210,13 @@ __Procedure:__
 
 3) Add 6.6 µl of 1.5 M Tris pH 8.8
 
-4) Add 2.5 µl 200 mM TCEP and vortex
+4) Add 2.5 µl 200 mM TCEP and vortex.
 
 5) Test pH of samples to make sure they are still basic using pH test strips.
 
 6) Incubate samples 1 hour at 37°C. 
 
-7) Add 20 µl of 200 mM iodoacetamide (IAA)
+7) Add 20 µl of 200 mM iodoacetamide (IAA), vortex
 
 8) Incubate 1 hour, room temperature, in dark
 
@@ -228,7 +228,7 @@ __Procedure:__
 
 12) Prepare LysC by adding 450ul nanopure to 2AU vial. This creates a 2ug/ul concentration of LysC. Make 20ul aliquots and store in -80C.
 
-13) Add 1.65ul LysC (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
+13) Add 1.65ul LysC (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample, vortex. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
 
 14) Incubate 1 hour, room temperature
 
@@ -236,7 +236,7 @@ __Procedure:__
 
 16) Prepare the number of trypsin bottles needed (3.3ug/sample). Add 20 µl nanopure to each 20 ug bottle of trypsin and vortex lightly. This creates a 1ug/ul concentration of Trypsin.  
 
-17) Add 3.3ul Trypsin (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample.
+17) Add 3.3ul Trypsin (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample, vortex.
 
 18) Incubate overnight at room temperature or for 4 hours at 37°C.
 
@@ -267,7 +267,7 @@ _Other options for columns:_
 
 __Procedure:__
 
-1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2 (could take ~80ul of 10% formic acid). Test one sample and apply to the rest.
+1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2 (could take ~80ul of 10% formic acid). Test 1-2 samples and apply to the rest.
 
 2) Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times for a total of 4 times). Discard remaining liquid everyother time to accomodate room for next round.
 
