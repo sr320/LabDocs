@@ -25,7 +25,7 @@ __50mM ammonium bicarbonate in 6M urea__
 
 _Make only what you need for each sub-procedure as you must use within 24 hours of making it_
 
-To make a 20ml solution
+To make a 20ml solution:
 
 - For ammonium bicarbonate (NH4HCO3)
 
@@ -126,7 +126,7 @@ __Procedure:__
 2. 	Aliquot 150ul of supernatant to a new labeled tube. Save the remainder in the -80C.
 3. 	Make an ethanol dry-ice bath by getting a small plastic container and filling with ethanol. You will only need to dip one sample at a time. Slowly add small chunks of dry-ice until they are not dissolving very fast. This should be cold enough.
 3.	Sonicate each sample for 10s and dip in ethanol + dry ice for 5s. Repeat twice for each sample (total of 3 times). When finished with a sample, wedge the tube into wet ice and move on to next sample.
-4.	Between samples, rinse the sonicating probe with ethanol and nanopure.
+4.	Between samples, rinse the sonicating probe with ethanol and nanopure. Dry with kim wipe.
 5.	Aliquot 11ul of each sample to a new labeled tube for BCA assay. Save remainder for mini-trypsin digestion.
 6. 	Store all tubes at -80°C.
 
