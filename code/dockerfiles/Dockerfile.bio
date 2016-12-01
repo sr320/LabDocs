@@ -323,5 +323,8 @@ RUN wget https://github.com/vcftools/vcftools/releases/download/v0.1.14/vcftools
 
 ENV PATH /usr/local/bioinformatics/vcftools-0.1.14:$PATH
 
+# Install rpy2 for R magics in Jupyter Notebooks (v2.8.2)
+RUN conda install -c r rpy2=2.8.2
+
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
