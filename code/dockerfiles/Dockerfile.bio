@@ -293,8 +293,8 @@ ENV PATH /usr/local/bioinformatics/bowtie-1.1.2:$PATH
 RUN useradd -ms /bin/bash srlab \
         && echo "srlab:rstudio" | chpasswd
 
-# Install R (v3.3.1)
-RUN conda install -c r r=3.3.1
+# Install R (v3.3.1 1)
+RUN conda install -c r r-base='3.3.1 1'
 
 # Install R Essentials (v1.4.3)
 RUN conda install -c r r-essentials=1.4.3
@@ -325,6 +325,7 @@ ENV PATH /usr/local/bioinformatics/vcftools-0.1.14:$PATH
 
 # Install rpy2 for R magics in Jupyter Notebooks (v2.8.1)
 RUN conda install -c r rpy2=2.8.1
+
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888
