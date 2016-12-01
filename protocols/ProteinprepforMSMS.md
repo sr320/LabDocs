@@ -214,9 +214,9 @@ __Reagents required:__
 
 11) *For DIA analyses:* Add ApoA1 to each sample (dilute 1.1 µl 2200 ng/µl stock in 48.9 µl of 50mM NH4HCO3 to make 50 ng/µl) to make 1:300 ratio of ApoA1:total protein. For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl of 60 ng/µl ApoA1 solution.
 
-12) Prepare LysC by adding 450ul nanopure to 2AU vial. This creates a 2ug/ul concentration of Lys-C. Make 20ul aliquots and store in -80C.
+12) Prepare LysC by adding 450ul nanopure to 2AU vial. This creates a 2ug/ul concentration of LysC. Make 20ul aliquots and store in -80C.
 
-13) Add 1.65ul Lys-C (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
+13) Add 1.65ul LysC (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
 
 14) Incubate 1 hour, room temperature
 
@@ -267,4 +267,4 @@ _Other options for columns:_
 
 7) Evaporate samples to near dryness at 4C in speed vac (should take ~4hrs)
 
-8) Reconstitute peptides in 100 µl final solvent. Light vortex. Store at -80°C.
+8) Reconstitute peptides in 100 µl final solvent. Light vortex and centrifuge down. Store at -80°C.
