@@ -179,7 +179,7 @@ __Procedure:__
 
 11) Create a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axis. Add a polynomial trendline and display the equation and R-squared value. This way you can easily plug in the X (absorbance) and calculate the Y (protein concentration).
 
-12) Because you diluted with 1:2 with 50 mM NH4HCO3 in 6M Urea multiply the protein concentrations you calculated by 3.
+12) Because you diluted your sample 1:2 with 50 mM NH4HCO3 in 6M Urea, multiply the protein concentrations you calculated by 3.
 
 13) Then calculate how much volume is needed to have 100ug of protein in each sample. Becuase you will want 100ul to start the mini-trypsin digestion, calculate how much 50mM NH4HCO3 + 6M urea you will need to add to reach 100ul total volume.
 
