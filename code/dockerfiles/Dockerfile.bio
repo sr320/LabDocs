@@ -140,7 +140,7 @@ ENV PATH /usr/local/bioinformatics/bedtools2:$PATH
 ## Add MiniConda channel to allow easy install of khmer (dammit dependency)
 RUN conda config --add channels ged --add channels bioconda
 
-ENV PATH root/miniconda2/bin/:$PATH
+ENV PATH /root/miniconda2/bin/:$PATH
 
 ## Install Python dependencies for use in dammit
 RUN conda install setuptools pandas khmer doit nose ficus matplotlib numexpr scipy numpy
