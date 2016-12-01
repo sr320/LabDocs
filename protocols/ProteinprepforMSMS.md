@@ -243,8 +243,7 @@ __Reagents required:__
 
 - Macrospin columns (Sample capacity: 0.03-300ug, Elution volume 50-150ul, Bed volume 300ul)
 
-Other options for columns:
-
+_Other options for columns:_
 |    Column   type          |    Sample capacity(µg)    |    Elution volume (µl)    |    Bed   volume (µl)    |
 |---------------------------|---------------------------|---------------------------|-------------------------|
 |    UltraMicro   Spin      |    0.03-30                |    5-25                   |    50                   |
