@@ -113,7 +113,7 @@ _Add 3ml acetonitrile and 0.1ml of formic acid to 96.9ml of nanopure_
 
 ### Sonication
 
-_Reagents required:_
+__Reagents required:__
 
 - 50 mM NH4HCO3 +6M urea solution
 - Ethanol
@@ -131,7 +131,7 @@ _Reagents required:_
 ### Protein quantification – BCA Assay (Pierce)
 _This can be done prior to trypsin digestion or in parallel._
 
-_Reagents required:_
+__Reagents required:__
 
 - BCA working reagent (50 BCA reagent A : 1 BCA reagent B)
 - 50mM NH4HCO3
@@ -178,30 +178,70 @@ _Reagents required:_
 ---
 
 ### Mini-Trypsin digestion
+_This method requires having 100ug of protein in each sample. You must also have 100ul volume to start. Therefore your concentration of protein is 100ug/ul._
 
-_This digestion is for total starting volume of 100 µl.  You can either aliquot the volume to equal 100 µg of protein to a new tube and add additional 6M urea in 50 mM NH4HCO3 (Step 9 - save remaining lysed cells/proteins in -80°C freezer), or digest your entire sample if it is less than 100 µg protein dissolved in 100 µl total volume._
+__Reagents required:__
 
-1. 	Add 6.6 µl of 1.5 M Tris pH 8.8
-2. 	Add 2.5 µl 200 mM TCEP and vortex
-3. 	Test pH of samples to make sure they are still basic.
-4.	Incubate samples 1 hour at 37°C
-5.	Add 20 µl of 200 mM iodoacetamide (IAA)
-6.	Incubate 1 hour, room temperature, in dark
-7.	Add 20 µl 200 mM diothiothreitol (DTT, freshly made or frozen), vortex
-8.	Incubate 1 hour, room temperature
-9.	Aliquot the volume equal to 100 µg of protein to a new tube (save remainder at -80°C)
-10.	OPTIONAL: Add ApoA1 to each sample (dilute 1.1 µl 2200 ng/µl stock in 48.9 µl of 50mM NH4HCO3 to make 50 ng/µl) to make 1:300 ratio of ApoA1:total protein. For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl of 60 ng/µl ApoA1 solution.
-11.	Add LysC at a 1:30 enzyme:protein ratio to each sample. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
-12.	Incubate 1 hour, room temperature
-13.	Add 800 µl 25 mM NH4HCO3 and 200 µl HPLC grade methanol to each tube.
-14.	Prepare the number of trypsin bottles needed (you will want 5 µg of trypsin for each sample, or 1 µg trypsin: 20 µg protein).  Add 20 µl water or trypsin buffer to each bottle of trypsin and vortex lightly.  Aliquot 5 µl of trypsin to each sample for 100 µg of sample (1:30 enzyme:protein).
-15.	Incubate overnight at room temperature or for 4 hours at 37°C. 
-16.	Evaporate samples at 4°C to near dryness on speed vacuum (<20 µl). Store at -80°C.
+- 50mM NH4HCO3 + 6M urea
+- 1.5M Tris pH 8.8 (6.6ul/sample)
+- 200mM TCEP (2.5ul/sample)
+- 200mM IAA (20ul/sample)- wrap tubes in foil when you get them out of -80C.
+- 200mM DTT (20ul/sample)
+- Lys-C (3.3ug/sample)
+- Trypsin (3.3ug/sample)
+
+1) Turn on heating block in lab to 37C. Double check temperature as it heats up with another thermometer.
+
+1) Aliquot the equivalent of 100ug of protein from each of your samples into new labeled tubes.
+
+2) Add 50mM NH4HCO3 + 6M urea solution to reach final volume of 100ul.
+
+3) Add 6.6 µl of 1.5 M Tris pH 8.8
+
+4) Add 2.5 µl 200 mM TCEP and vortex
+
+5) Test pH of samples to make sure they are still basic using pH test strips.
+
+6) Incubate samples 1 hour at 37°C. 
+
+7) Add 20 µl of 200 mM iodoacetamide (IAA)
+
+8) Incubate 1 hour, room temperature, in dark
+
+9) Add 20 µl 200 mM diothiothreitol (DTT), vortex
+
+10) Incubate 1 hour, room temperature
+
+11) *For DIA analyses:* Add ApoA1 to each sample (dilute 1.1 µl 2200 ng/µl stock in 48.9 µl of 50mM NH4HCO3 to make 50 ng/µl) to make 1:300 ratio of ApoA1:total protein. For 100 µg total protein in a sample, add 333 ng of ApoA1 by adding 6.7 µl of 60 ng/µl ApoA1 solution.
+
+12) Prepare LysC by adding 450ul nanopure to 2AU vial. This creates a 2ug/ul concentration of Lys-C. Make 20ul aliquots and store in -80C.
+
+13) Add 1.65ul Lys-C (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample. (LysC cleaves at C-terminus of R and K, like trypsin, but works well in 6M urea.)
+
+14) Incubate 1 hour, room temperature
+
+15) Add 800 µl 25 mM NH4HCO3 and 200 µl HPLC grade methanol to each tube.
+
+16) Prepare the number of trypsin bottles needed (3.3ug/sample). Add 20 µl nanopure to each 20 ug bottle of trypsin and vortex lightly. This creates a 1ug/ul concentration of Trypsin.  
+
+17) Add 3.3ul Trypsin (1:30 enzyme:protein ratio) for 100ug of protein you have in each sample.
+
+18) Incubate overnight at room temperature or for 4 hours at 37°C.
+
+19) Evaporate samples at 4°C to near dryness on speed vacuum. May take 10+ hours. Store at -80°C.
+
 
 ### Desalting
-Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
 
-Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
+__Reagents required:__
+
+- Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
+
+- Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
+
+- Final Solvent = 3% acetonitrile + 0.1% formic acid
+
+Macro s
 
 |    Column   type          |    Sample capacity(µg)    |    Elution volume (µl)    |    Bed   volume (µl)    |
 |---------------------------|---------------------------|---------------------------|-------------------------|
@@ -211,8 +251,9 @@ Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
 |    96-well   MiniSpin     |    0.03-100               |    30-50                  |    100                  |
 |    96-well   MACROspin    |    0.03-300               |    60-150                 |    300                  |
 
-1.	Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2.
-2.	Prepare spin columns – see table above for column choice.
+1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2.
+
+2) Prepare spin columns – see table above for column choice.
 3.	Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times)
 4.	Equilibrate column: Add 200 µl solvent B to columns, spin for 2000 rpm for 3 minutes (repeat 2 times)
 5.	Load protein on column: Add 100 µg of protein digest (1 sample per column).  Spin at 3000 rpm for 3 minutes.  Collect flow-through, put back on column and spin again.
