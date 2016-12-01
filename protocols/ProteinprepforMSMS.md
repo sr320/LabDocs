@@ -265,6 +265,6 @@ _Other options for columns:_
 
 6) Elute peptides: Transfer columns to clean collection tubes.  Add 100 µl solvent A, spin 3000 rpm for 3 minutes (repeat once for a total of 2 times). Your peptides are now in the liquid- do not discard!
 
-7) Evaporate samples to near dryness at 4C in speed vac.
+7) Evaporate samples to near dryness at 4C in speed vac (should take ~4hrs)
 
-8) Reconstitute peptides in 100 µl final solvent. Store at -80°C.
+8) Reconstitute peptides in 100 µl final solvent. Light vortex. Store at -80°C.
