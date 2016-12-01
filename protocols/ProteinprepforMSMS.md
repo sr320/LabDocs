@@ -261,7 +261,7 @@ _Other options for columns:_
 
 __Procedure:__
 
-1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2. 
+1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2 (could take ~80ul of 10% formic acid). Test one sample and apply to the rest.
 
 2) Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times for a total of 4 times). Discard remaining liquid everyother time to accomodate room for next round.
 
