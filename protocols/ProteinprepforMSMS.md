@@ -181,7 +181,7 @@ __Procedure:__
 
 12) Because you diluted your sample 1:2 with 50 mM NH4HCO3 in 6M Urea, multiply the protein concentrations you calculated by 3.
 
-13) Then calculate how much volume is needed to have 100ug of protein in each sample. Becuase you will want 100ul to start the mini-trypsin digestion, calculate how much 50mM NH4HCO3 + 6M urea you will need to add to reach 100ul total volume.
+13) Then calculate how much volume is needed to have 100ug of protein in each sample. Because you will want 100ul to start the mini-trypsin digestion, calculate how much 50mM NH4HCO3 + 6M urea you will need to add to reach 100ul total volume.
 
 ---
 
