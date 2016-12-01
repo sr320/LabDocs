@@ -22,6 +22,7 @@
 ## To make reagents
 
 __50mM ammonium bicarbonate in 6M urea 
+
 _Make only what you need for each sub-procedure as you must use within 24 hours of making it_
 
 To make a 20ml solution
