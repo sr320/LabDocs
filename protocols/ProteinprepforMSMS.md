@@ -135,12 +135,14 @@ _This needs to be done prior to Mini-Trypsin digestion._
 
 __Reagents required:__
 
-- BCA working reagent (50 BCA reagent A : 1 BCA reagent B)
-- 50mM NH4HCO3
-- Lysis buffer (50mM NH4HCO3 + 6M urea solution diluted 2:1 with nanopure)
-- BCA standards (see table)
+- BCA working reagent is 50 parts BCA reagent A : 1 part BCA reagent B  (600ul/sample and 600ul/standard)
+- BSA stock from kit (700ul for these 8 standards)
+- Lysis buffer is 50mM NH4HCO3 + 6M urea solution diluted 2:1 with nanopure (2.5ml total for these 8 standards)
+- 50mM NH4HCO3 (22ul/sample)
 
-|    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
+__BCA standards (Genn's dilution curve):__
+
+|    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |   Vol.  BSA & dilution (ul) |
 |------------|-------------------------|------------------------------|-----------------------------|
 |    B       |    1.5                  |    125                       |    375,   stock             |
 |    C       |    1.0                  |    325                       |    325,   stock             |
@@ -153,7 +155,7 @@ __Reagents required:__
 
 __Procedure:__
 
-1) Make your 8 BCA standards in snaptop centrifuge tubes. Make sure to vortex and centrifuge down before using one standard to create your next standard.
+1) Make your 8 BCA standards in snaptop centrifuge tubes (see table). Make sure to vortex and centrifuge down before using one standard to create your next standard.
 
 2) Create a table to describe the contents of the microplate wells.
 
@@ -173,7 +175,7 @@ __Procedure:__
 
 10) Subtract the average absorbance for the Blank Standard Replicates from the average absorbances of all the other standards and unknown samples. This is your blank-corrected absorbance.
 
-11) Create a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axix. Add a polynomial trendline and display the equation and R-squared value. This way you can easily plug in the X (absorbance) and calculate the Y (protein concentration).
+11) Create a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axis. Add a polynomial trendline and display the equation and R-squared value. This way you can easily plug in the X (absorbance) and calculate the Y (protein concentration).
 
 12) Because you diluted with 1:2 with 50 mM NH4HCO3 in 6M Urea multiply the protein concentrations you calculated by 3.
 
@@ -192,6 +194,8 @@ __Reagents required:__
 - 200mM IAA (20ul/sample)- wrap tubes in foil when you get them out of -80C.
 - 200mM DTT (20ul/sample)
 - Lys-C (3.3ug/sample)
+- 25mM NH4HCO3 (800ul/sample)
+- HPLC methanol (200ul/sample)
 - Trypsin (3.3ug/sample)
 
 __Procedure:__
