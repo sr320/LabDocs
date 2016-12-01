@@ -169,7 +169,7 @@ __Procedure:__
 
 6) Add 200ul of working reagent to every well- standards and unknown samples.
 
-7) Cover microplate and bring to Genome Sciences building. Log into computer attached to spectrophotometer and open SkanIt RE for Varioskan Flash 2.4.5 (there are two icons- pick bottom icon). Open new session and name it. Click on execution to connect. Use green and red arrows on bottom left hand side of screen to insert the microplate. The program will automatically incubate samples for 37C, then shake to mix reagents, and then measure the absorbance at 562nm.
+7) Cover microplate and bring to Genome Sciences building. Log into computer attached to spectrophotometer and open SkanIt RE for Varioskan Flash 2.4.5 (there are two icons- pick bottom icon). Open new session and name it. Click on execution to connect. Use green and red arrows on bottom left hand side of screen to insert the microplate. The program will automatically incubate samples for 30 minutes at 37C, then shake to mix reagents, and then measure the absorbance at 562nm.
 
 8) When process is complete (takes about an hour), take a screenshot or photo of results and email it to yourself.
 
