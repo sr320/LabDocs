@@ -23,7 +23,7 @@
 # multiqc		0.8				#
 # fastqc		0.11.5  		#
 # fastx_toolkit	0.0.13  		#
-# R				3.1.1   		#
+# R				3.3.1   		#
 # RStudioServer	1.0.44			#
 # pyrad			3.0.66  		#
 # samtools		0.1.19  		#
@@ -97,7 +97,6 @@ RUN apt-get update && \
 	locales-all \
 	libzmq3-dev \
 	libpango1.0-dev \
-	r-base \
     && apt-get clean
 
     
@@ -293,6 +292,9 @@ ENV PATH /usr/local/bioinformatics/bowtie-1.1.2:$PATH
 # Create srlab user
 RUN useradd -ms /bin/bash srlab \
         && echo "srlab:rstudio" | chpasswd
+
+# Install R (v3.3.1)
+RUN conda install -c r r=3.3.1
 
 # Install RStudio Server (v1.0.44)
 RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
