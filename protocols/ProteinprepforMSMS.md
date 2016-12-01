@@ -131,7 +131,7 @@ __Procedure:__
 ---
 
 ### Protein quantification – BCA Assay (Pierce)
-_This can be done prior to trypsin digestion or in parallel._
+_This needs to be done prior to Mini-Trypsin digestion._
 
 __Reagents required:__
 
