@@ -115,8 +115,10 @@ _Add 3ml acetonitrile and 0.1ml of formic acid to 96.9ml of nanopure_
 
 __Reagents required:__
 
-- 50 mM NH4HCO3 +6M urea solution
-- Ethanol
+- 50 mM NH4HCO3 + 6M urea solution (500ul/sample)
+- Ethanol (for dry-ice bath and sanitation)
+
+__Procedure:__
 
 1.	Add 500 µl 50 mM NH4HCO3 + 6M urea solution to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000rpm for 5 minutes. 
 2. 	Aliquot 150ul of supernatant to a new labeled tube. Save the remainder in the -80C.
@@ -149,7 +151,9 @@ __Reagents required:__
 |    H       |    0.025                |    400                       |    100,   G                 |
 |    I       |    0.000                |    500                       |    N/A	                    |
 
-1) Make your BCA standards in snaptop centrifuge tubes. Make sure to vortex and centrifuge down before using one standard to create your next standard.
+__Procedure:__
+
+1) Make your 8 BCA standards in snaptop centrifuge tubes. Make sure to vortex and centrifuge down before using one standard to create your next standard.
 
 2) Create a table to describe the contents of the microplate wells.
 
@@ -182,13 +186,15 @@ _This method requires having 100ug of protein in each sample. You must also have
 
 __Reagents required:__
 
-- 50mM NH4HCO3 + 6M urea
+- 50mM NH4HCO3 + 6M urea (determine amount needed from BCA assay)
 - 1.5M Tris pH 8.8 (6.6ul/sample)
 - 200mM TCEP (2.5ul/sample)
 - 200mM IAA (20ul/sample)- wrap tubes in foil when you get them out of -80C.
 - 200mM DTT (20ul/sample)
 - Lys-C (3.3ug/sample)
 - Trypsin (3.3ug/sample)
+
+__Procedure:__
 
 1) Turn on heating block in lab to 37C. Double check temperature as it heats up with another thermometer.
 
@@ -235,11 +241,11 @@ __Reagents required:__
 
 __Reagents required:__
 
-- Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid
+- Solvent A = 60% acetonitrile + 0.1% trifluoroacetic acid (300ul/sample)
 
-- Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid
+- Solvent B = 5% acetonitrile + 0.1% trifluoroacetic acid (500ul/sample)
 
-- Final Solvent = 3% acetonitrile + 0.1% formic acid
+- Final Solvent = 3% acetonitrile + 0.1% formic acid (100ul/sample)
 
 - Macrospin columns (Sample capacity: 0.03-300ug, Elution volume 50-150ul, Bed volume 300ul)
 
@@ -252,6 +258,8 @@ _Other options for columns:_
 |    MacroSpin              |    0.03-300               |    50-150                 |    300                  |
 |    96-well   MiniSpin     |    0.03-100               |    30-50                  |    100                  |
 |    96-well   MACROspin    |    0.03-300               |    60-150                 |    300                  |
+
+__Procedure:__
 
 1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2. 
 
