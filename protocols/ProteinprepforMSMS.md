@@ -1,10 +1,8 @@
 ﻿## Protein Preparation for MSMS protocol
 
 **Before you start** (reagents etc.)    
-- [ ] 6M urea
-- [ ] 50 mM NH4HCO3
+- [ ] 50 mM NH4HCO3 + 6M urea solution
 - [ ] Ethanol
-- [ ] Sonicator
 - [ ] BCA Assay (Pierce) - Kit that is purchased
 - [ ] 1.5 M Tris pH 8.8
 - [ ] 200 mM TCEP
@@ -12,24 +10,22 @@
 - [ ] 200 mM diothiothreitol (DTT, freshly made or frozen) 
 - [ ] pH test strips
 - [ ] 10% and 1% formic acid
-- [ ] Evaporator 
 - [ ] Lys-C
 - [ ] Trypsin
 - [ ] Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)
 - [ ] Solvent B (5% acetronitrile + 0.1% trifluoroacetic acid)
 - [ ] ApoA1 (use for DIA analyses)
-- [ ] Dry-ice
 - [ ] HPLC grade methanol
+- [ ] Lysis Buffer
 
-_addmore_
-
+---
 ## To make reagents
 
-__50mM ammonium bicarbonate in 6M urea__
+__50mM ammonium bicarbonate in 6M urea (Make only what you need for each sub-procedure as you must use within 24 hours of making it)__
 
-To make a 20ml solution (500ul required/sample during sonication)
+To make a 20ml solution
 
-- For ammonium bicarbonate (NH4HCO3)-must use within 24hrs of making it.
+- For ammonium bicarbonate (NH4HCO3)
 
   MW: 79.06g/mol
 
@@ -47,7 +43,7 @@ To make a 20ml solution (500ul required/sample during sonication)
 
 __200mM Iodoacetamide (IAA)__
 
-To make a 5ml solution (20ul required/sample)-make 200ul aliquots and store at -80C. Must keep in dark, wrap bottle in foil. Aliquot ten at a time and put in freezer.
+To make a 5ml solution (20ul required/sample). Make 200ul aliquots and store at -80C. Must keep in dark; wrap tubes in foil when ready to use.
 
 MW: 184.96g/mol
 
@@ -57,7 +53,7 @@ _Dissolve 184.96mg IAA in 4.00 ml nanopure. Add additional nanopure to reach 5.0
 
 __200mM Dithiothreitol (DTT)__
 
-To make a 5ml solution (20ul required/sample)-make 200ul aliquots and store at -80C.
+To make a 5ml solution (20ul required/sample). Make 200ul aliquots and store at -80C.
 
 MW: 154.25g/mol
 
@@ -67,7 +63,7 @@ _Dissolve 154.25mg DTT in 4.00 ml nanopure. Add additional nanopure to reach 5.0
 
 __200mM tris(2-carboxyethyl)phosphine (TCEP)__
 
-To make a 5ml solution (2.5ul required/sample)-make 200ul aliquots and store at -80C.
+To make a 5ml solution (2.5ul required/sample). Make 200ul aliquots and store at -80C.
 
 MW: 286.65g/mol
 
@@ -97,35 +93,50 @@ _Dissolve 1.182g of Tris in 3.00 ml nanopure. Adjust pH with NaOH to reach ph8.8
 
 __Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (300ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
+To make 150ml (300ul required/sample)-can store on benchtop. (Minimize plastic use to make this solvent. Pour small amounts of reagents into beakers to pipette from and store working solution in glass bottle. You may pipette directly out of working bottle for procedure) 
 
 _Add 90ml acetonitrile and 0.15ml trifluoroacetic acid to 59.85ml of nanopure_
 
 __Solvent B (5% acetonitrile + 0.1% trifluoroacetic acid)__
 
-To make 150ml (500ul required/sample)-can store on benchtop. Do not use any plastic to make this solvent!
+To make 150ml (500ul required/sample)-can store on benchtop. (Minimize plastic use to make this solvent. Pour small amounts of reagents into beakers to pipette from and store working solution in glass bottle. You may pipette directly out of working bottle for procedure) 
 
 _Add 7.5ml acetonitrile and 0.15ml trifluoroacetic acid to 142.35ml of nanopure_
 
 __3% acetonitrile + 0.1% formic acid for final step__
 
-To make 100ml (100ul required/sample). Do not use any plastic to make this solvent!
+To make 100ml (100ul required/sample). (Minimize plastic use to make this solvent. Pour small amounts of reagents into beakers to pipette from and store working solution in glass bottle. You may pipette directly out of working bottle for procedure) 
 
 _Add 3ml acetonitrile and 0.1ml of formic acid to 96.9ml of nanopure_
 
 ---
 
 ### Sonication
-1.	Add 500 µl 6M urea in 50 mM NH4HCO3 (ammonium bicarbonate) to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000xg for 5 minutes. 
-2. 	Aliquot 100ul of supernatant to a new tube.
-3.	Sonicate each sample for 10s, chilling in ethanol + dry ice for 5s and storing on wet ice between sonications.  Repeat twice for each sample (total of 3 times).
-4.	Between samples, rinse the sonicating probe with ethanol and nanopure water.
-5.	Store at -80°C if not moving directly to sample digestion.
+
+_Reagents required:_
+
+- 50 mM NH4HCO3 +6M urea solution
+- Ethanol
+
+1.	Add 500 µl 50 mM NH4HCO3 + 6M urea solution to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000rpm for 5 minutes. 
+2. 	Aliquot 150ul of supernatant to a new labeled tube. Save the remainder in the -80C.
+3. 	Make an ethanol dry-ice bath by getting a small plastic container and filling with ethanol. You will only need to dip one sample at a time. Slowly add small chunks of dry-ice until they are not dissolving very fast. This should be cold enough.
+3.	Sonicate each sample for 10s and dip in ethanol + dry ice for 5s. Repeat twice for each sample (total of 3 times). When finished with a sample, wedge the tube into wet ice and move on to next sample.
+4.	Between samples, rinse the sonicating probe with ethanol and nanopure.
+5.	Aliquot 11ul of each sample to a new labeled tube for BCA assay. Save remainder for mini-trypsin digestion.
+6. 	Store all tubes at -80°C.
+
+---
 
 ### Protein quantification – BCA Assay (Pierce)
 _This can be done prior to trypsin digestion or in parallel._
 
-Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl 50 mM NH4HCO3 to dilute urea.  Follow the microplate protocol for BCA using 10 µl of sample and Genn’s dilution curve (below).  Lysis buffer = 50 mM NH4HCO3 with 6M urea diluted 1:2.
+_Reagents required:_
+
+- BCA working reagent (50 BCA reagent A : 1 BCA reagent B)
+- 50mM NH4HCO3
+- Lysis buffer (50mM NH4HCO3 + 6M urea solution diluted 2:1 with nanopure)
+- BCA standards (see table)
 
 |    Vial    |    BSA conc. (µg/µl)    |    Vol. lysis buffer (µl)    |    Vol.   BSA & dilution    |
 |------------|-------------------------|------------------------------|-----------------------------|
@@ -136,8 +147,35 @@ Aliquot 11 µl of sonicated sample to a clean tube and add 22 µl 50 mM NH4HCO3 
 |    F       |    0.25                 |    325                       |    325,   E                 |
 |    G       |    0.125                |    325                       |    325,   F                 |
 |    H       |    0.025                |    400                       |    100,   G                 |
+|    I       |    0.000                |    500                       |    N/A	                    |
 
- Use BCA protocol equations to calculate the sample volume containing 100 µg of protein. Make sure to correct for any dilutions.
+1) Make your BCA standards in snaptop centrifuge tubes. Make sure to vortex and centrifuge down before using one standard to create your next standard.
+
+2) Create a table to describe the contents of the microplate wells.
+
+3) Make three replicates for each BCA standard. Pipette 10ul for each replicate into microplate well. 
+
+4) Obtain your samples for the BCA assay (each tube has 11ul). Add 22ul of 50 mM NH4HCO3. Vortex and centrifuge down.
+
+5) Make three replicates for each unknown sample. Pipette 10 ul for each replicate into microplate well.
+
+6) Add 200ul of working reagent to every well- standards and unknown samples.
+
+7) Cover microplate and bring to Genome Sciences building. Log into computer attached to spectrophotometer and open SkanIt RE for Varioskan Flash 2.4.5 (there are two icons- pick bottom icon). Open new session and name it. Click on execution to connect. Use green and red arrows on bottom left hand side of screen to insert the microplate reader. The program will automatically incubate samples for 37C, then shake to mix reagents, and then measure the absorbance at 562nm.
+
+8) When process is complete (takes about an hour), take a screenshot or photo of results and email it to yourself.
+
+9) Calculate the averages from the three replicates for both your standards and unknown samples.
+
+10) Subtract the average absorbance for the Blank Standard Replicates from the average absorbances of all the other standards and unknown samples. This is your blank-corrected absorbance.
+
+11) Create a scatter plot in excel for the standards by plotting the BSA concentration (ug/ul) on the Y-axis and the blank-corrected absorbances on the X-axix. Add a polynomial trendline and display the equation and R-squared value. This way you can easily plug in the X (absorbance) and calculate the Y (protein concentration).
+
+12) Because you diluted with 1:2 with 50 mM NH4HCO3 in 6M Urea multiply the protein concentrations you calculated by 3.
+
+13) Then calculate how much volume is needed to have 100ug of protein in each sample. Becuase you will want 100ul to start the mini-trypsin digestion, calculate how much 50mM NH4HCO3 + 6M urea you will need to add to reach 100ul total volume.
+
+---
 
 ### Mini-Trypsin digestion
 
