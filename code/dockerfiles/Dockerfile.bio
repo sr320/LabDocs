@@ -308,7 +308,7 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
 #	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
 # 	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
 
-RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
+#RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
 
 ## Install vcftools (v0.1.14)
 RUN wget https://github.com/vcftools/vcftools/releases/download/v0.1.14/vcftools-0.1.14.tar.gz \
