@@ -296,6 +296,9 @@ RUN useradd -ms /bin/bash srlab \
 # Install R (v3.3.1)
 RUN conda install -c r r=3.3.1
 
+# Install R Essentials (v1.4.3)
+RUN conda install -c r r-essentials=1.4.3
+
 # Install RStudio Server (v1.0.44)
 RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
         && gdebi --non-interactive rstudio-server-1.0.44-amd64.deb \
