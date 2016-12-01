@@ -241,7 +241,9 @@ __Reagents required:__
 
 - Final Solvent = 3% acetonitrile + 0.1% formic acid
 
-Macro s
+- Macrospin columns (Sample capacity: 0.03-300ug, Elution volume 50-150ul, Bed volume 300ul)
+
+Other options for columns:
 
 |    Column   type          |    Sample capacity(µg)    |    Elution volume (µl)    |    Bed   volume (µl)    |
 |---------------------------|---------------------------|---------------------------|-------------------------|
@@ -251,13 +253,18 @@ Macro s
 |    96-well   MiniSpin     |    0.03-100               |    30-50                  |    100                  |
 |    96-well   MACROspin    |    0.03-300               |    60-150                 |    300                  |
 
-1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2.
+1) Reconstitute samples in 100 µl solvent B.  Ensure pH2, if it isn’t, add 10 µl increments of 10% formic acid until pH is less than 2. 
 
-2) Prepare spin columns – see table above for column choice.
-3.	Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times)
-4.	Equilibrate column: Add 200 µl solvent B to columns, spin for 2000 rpm for 3 minutes (repeat 2 times)
-5.	Load protein on column: Add 100 µg of protein digest (1 sample per column).  Spin at 3000 rpm for 3 minutes.  Collect flow-through, put back on column and spin again.
-6.	Wash salts through column: Wash columns with 200 µl solvent B, spinning at 3000 rpm for 3 minutes (repeat twice).
-7.	Elute peptides: Transfer columns to clean collection tubes.  Add 100 µl solvent A, spin 3000 rpm for 3 minutes (repeat once).
-8.	Evaporate samples to near dryness (can be at approximately room temperature).
-9.	Reconstitute peptides in 100 µl 2-5% ACN + 1% formic acid. Aliquot 15ml of peptide fraction into autosampler vial. Store at -80°C.
+2) Wash column: Add 200 µl solvent A to columns, spin for 2000 rpm 3 minutes (repeat 3 times for a total of 4 times). Discard remaining liquid everyother time to accomodate room for next round.
+
+3) Equilibrate column: Add 200 µl solvent B to columns, spin for 2000 rpm for 3 minutes (repeat 2 times for a total of 3 times). Discard remaining liquid everyother time to accomodate room for next round.
+
+4) Load protein on column: Add 100 µg of protein digest (1 sample per column).  Spin at 3000 rpm for 3 minutes.  Collect flow-through, put back on column and spin again. Your peptides are now in the columns. Transfer the remaining liquid to new tubes (just in case) and store at -80C.
+
+5) Wash salts through column: Wash columns with 200 µl solvent B, spinning at 3000 rpm for 3 minutes (repeat twice for a total of 3 times). Save remaining liquid at the bottom of each tube by transferring it to a new labeled tube (just in case) and store at -80C
+
+6) Elute peptides: Transfer columns to clean collection tubes.  Add 100 µl solvent A, spin 3000 rpm for 3 minutes (repeat once for a total of 2 times). Your peptides are now in the liquid- do not discard!
+
+7) Evaporate samples to near dryness at 4C in speed vac.
+
+8) Reconstitute peptides in 100 µl final solvent. Store at -80°C.
