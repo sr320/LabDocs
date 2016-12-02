@@ -127,7 +127,6 @@ RUN wget https://repo.continuum.io/miniconda/Miniconda2-latest-Linux-x86_64.sh \
 	&& (cd /root/miniconda2/bin && ./conda update conda -y) \
 	&& rm Miniconda2-latest-Linux-x86_64.sh
 
-ENV PATH /root/miniconda2/bin:$PATH
 
 # Install bedtools (v2.26.0)
 RUN wget https://github.com/arq5x/bedtools2/releases/download/v2.26.0/bedtools-2.26.0.tar.gz \
