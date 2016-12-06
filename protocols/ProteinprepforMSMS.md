@@ -28,6 +28,7 @@
 - [ ] Centrifuge
 - [ ] Cold Speed Vacuum at 4C(Genome Sciences building)
 - [ ] Heating block at 37C
+- [ ] Macrospin columns
 
 ## To make reagents
 
