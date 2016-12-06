@@ -26,7 +26,7 @@
 - [ ] Pipettes and pipette tips
 - [ ] Snaptop centrifuge tubes
 - [ ] Centrifuge
-- [ ] Cold Speed Vacuum (Genome Sciences building)
+- [ ] Cold Speed Vacuum at 4C(Genome Sciences building)
 - [ ] Heating block at 37C
 
 ## To make reagents
