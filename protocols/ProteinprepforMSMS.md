@@ -17,8 +17,18 @@
 - [ ] ApoA1 (use for DIA analyses)
 - [ ] HPLC grade methanol
 - [ ] Lysis Buffer
+- [ ] Dry-ice (Health Sciences-J wing)
 
----
+***Equipment Required***
+- [ ] Sonicater (Genome Sciences building for now)- broken one in Roberts Lab
+- [ ] Plate reader- Spectrophotometer (Genome Sciences building)
+- [ ] Disposable microplate
+- [ ] Pipettes and pipette tips
+- [ ] Snaptop centrifuge tubes
+- [ ] Centrifuge
+- [ ] Cold Speed Vacuum (Genome Sciences building)
+- [ ] Heating block at 37C
+
 ## To make reagents
 
 __50mM ammonium bicarbonate in 6M urea__
