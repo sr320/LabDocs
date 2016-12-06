@@ -19,7 +19,7 @@
 - [ ] Lysis Buffer
 - [ ] Dry-ice (Health Sciences-J wing)
 
-***Equipment Required***
+**Equipment Required**
 - [ ] Sonicater (Genome Sciences building for now)- broken one in Roberts Lab
 - [ ] Plate reader- Spectrophotometer (Genome Sciences building)
 - [ ] Disposable microplate
