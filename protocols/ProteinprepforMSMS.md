@@ -16,7 +16,7 @@
 - [ ] Solvent A (60% acetonitrile + 0.1% trifluoroacetic acid)
 - [ ] Solvent B (5% acetronitrile + 0.1% trifluoroacetic acid)
 - [ ] ApoA1 (use for DIA analyses)
-- [ ] HPLC grade methanol
+- [ ] HPLC grade methanol 
 - [ ] Lysis Buffer
 - [ ] Dry-ice (Health Sciences-J wing)
 - [ ] Wet ice (FTR Building)
@@ -25,10 +25,11 @@
 - [ ] Disposable microplate
 - [ ] Pipettes and pipette tips
 - [ ] Snaptop centrifuge tubes
-- [ ] Centrifuge
+- [ ] Centrifuge (FSH209 and FSH213)
 - [ ] Cold Speed Vacuum at 4C(Genome Sciences building)
-- [ ] Heating block at 37C
-- [ ] Macrospin columns
+- [ ] Heating block at 37C (FSH209)
+- [ ] Macrospin columns (FSH 213)
+- [ ] pH meter for making 1.5M Tris pH 8.8 (FSH209)
 
 ***Ordering of Supplies***
 
