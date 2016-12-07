@@ -1,6 +1,6 @@
 ﻿## Protein Preparation for MSMS protocol
 
-**Before you start** (reagents etc.)    
+**Before you start** (reagents, equipment, etc.)    
 - [ ] 50 mM NH4HCO3 + 6M urea solution
 - [ ] Ethanol
 - [ ] BCA Assay (Pierce) - Kit that is purchased
@@ -18,6 +18,16 @@
 - [ ] HPLC grade methanol
 - [ ] Lysis Buffer
 - [ ] Dry-ice (Health Sciences-J wing)
+- [ ] Wet ice (FTR Building)
+- [ ] Sonicater (Genome Sciences building for now)- broken one in Roberts Lab
+- [ ] Plate reader- Spectrophotometer (Genome Sciences building)
+- [ ] Disposable microplate
+- [ ] Pipettes and pipette tips
+- [ ] Snaptop centrifuge tubes
+- [ ] Centrifuge
+- [ ] Cold Speed Vacuum at 4C(Genome Sciences building)
+- [ ] Heating block at 37C
+- [ ] Macrospin columns
 
 ***Ordering of Supplies***
 
@@ -39,17 +49,6 @@
 
 -BCA Protein Assay Kit: Fisher (BCA Protein kit, cat: PI23225)
 
-
-**Equipment Required**
-- [ ] Sonicater (Genome Sciences building for now)- broken one in Roberts Lab
-- [ ] Plate reader- Spectrophotometer (Genome Sciences building)
-- [ ] Disposable microplate
-- [ ] Pipettes and pipette tips
-- [ ] Snaptop centrifuge tubes
-- [ ] Centrifuge
-- [ ] Cold Speed Vacuum at 4C(Genome Sciences building)
-- [ ] Heating block at 37C
-- [ ] Macrospin columns
 
 ## To make reagents
 
