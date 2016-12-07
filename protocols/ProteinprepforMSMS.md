@@ -63,6 +63,8 @@
 
 - Triflouroacetic acid: Fisher Scientific (25 ml)
 
+- MS glass autosampler vials: ThermoFisher Scientific (Pack of 100, glass, clear, Convenience Kit, 9mm Wide Opening 1.5mLTotal Recovery Screw Vial with 10μL Reservoir, MSCERT5000-33TR)
+
 
 ## To make reagents
 
