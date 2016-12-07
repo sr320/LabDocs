@@ -31,23 +31,37 @@
 
 ***Ordering of Supplies***
 
--Trypsin: Life Technologies (20ug x 5 cat. 90057)
+- Trypsin: Life Technologies (20ug x 5 cat. 90057)
 
--TCEP: Sigma (cat. C4706-2G)
+- TCEP: Sigma (cat. C4706-2G)
 
--Macrospin columns: The Nest Group (macrospin c18 columns, #SMM SS18V)
+- Macrospin columns: The Nest Group (macrospin c18 columns, #SMM SS18V)
 
--pH test strip: Cole Palmer (Hach pH Paper Test Strips, 0 to 14 pH Range; 100 Strips/Pk, cat: WU-05546-42)
+- pH test strip: Cole Palmer (Hach pH Paper Test Strips, 0 to 14 pH Range; 100 Strips/Pk, cat: WU-05546-42)
 
--Lys-C: Wako Chemicals (Lysyl Endopeptidase, cat: 125-02543)
+- Lys-C: Wako Chemicals (Lysyl Endopeptidase, cat: 125-02543)
 
--Formic acid: Sigma (500mL HPLC formic acid, cat: 09676-500ML)
+- Formic acid: Sigma (500mL HPLC formic acid, cat: 09676-500ML)
 
--IAA: Sigma (IAA, cat: I1149-5G)
+- 2-Iodoacetamide: Sigma (IAA, cat: I1149-5G)
 
--HPLC methanol: Fisher (1L HPLC methanol, cat:A4521)
+- HPLC methanol: Fisher (1L HPLC methanol, cat:A4521)
 
--BCA Protein Assay Kit: Fisher (BCA Protein kit, cat: PI23225)
+- BCA Protein Assay Kit: Fisher (BCA Protein kit, cat: PI23225)
+
+- Acetonitrile: Fisher Scientific (1L)
+
+- Urea: Fisher Scientific (2.5 kilos)
+
+- Ammonium Bicarbonate: Fisher Scientific (500g)
+
+- 100% Ethanol: Decon Laboratories Inc- Foxwest Sales (24 x 16oz bottles)
+
+- Dithiothreitol: Fisher Scientific (5 grams)
+
+- Tris(hydroxymethyl)aminomethane hydrochloride: Fisher Scientific (500g)
+
+- Triflouroacetic acid: Fisher Scientific (25 ml)
 
 
 ## To make reagents
