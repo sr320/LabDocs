@@ -19,6 +19,19 @@
 - [ ] Lysis Buffer
 - [ ] Dry-ice (Health Sciences-J wing)
 
+***Ordering of Supplies***
+
+-Trypsin: Life Technologies (20ug x 5 cat. 90057)
+-TCEP: Sigma (cat. C4706-2G)
+-Macrospin columns: The Nest Group (macrospin c18 columns, #SMM SS18V)
+-pH test strip: Cole Palmer (Hach pH Paper Test Strips, 0 to 14 pH Range; 100 Strips/Pk (cat: WU-05546-42))
+-Lys-C: Wako Chemicals (Lysyl Endopeptidase (cat: 125-02543))
+-Formic acid: Sigma (500mL HPLC formic acid (cat: 09676-500ML)
+-IAA: Sigma (IAA (cat: I1149-5G))
+-HPLC methanol: Fisher (1L HPLC methanol (cat:A4521))
+-BCA Protein Assay Kit: Fisher (BCA Protein kit (cat: PI23225))
+
+
 **Equipment Required**
 - [ ] Sonicater (Genome Sciences building for now)- broken one in Roberts Lab
 - [ ] Plate reader- Spectrophotometer (Genome Sciences building)
