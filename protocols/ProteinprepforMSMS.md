@@ -9,6 +9,7 @@
 - [ ] 200 mM iodoacetamide
 - [ ] 200 mM diothiothreitol (DTT, freshly made or frozen) 
 - [ ] pH test strips
+- [ ] Concentrated NaOH to adjust pH(5N)
 - [ ] 10% and 1% formic acid
 - [ ] Lys-C
 - [ ] Trypsin
