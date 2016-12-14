@@ -261,10 +261,15 @@ RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 	&& rm stacks-1.40.tar.gz
 
 ## Install Jupyter Notebook & all dependencies (via MiniConda)
+# Creates config file
+# Sets browser to FALSE
+# Sets default IP address to 0.0.0.0; uses \x27 to set single quotes
+# Sets browser token (so no password needed to access notebooks) to blank; uses \x27 to set single quotes
 RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config \
 	&& (sed -i '/c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
-	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
+	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py) \
+	&& (sed -i '/c.NotebookApp.token/c\c.NotebookApp.token = u\x27\x27' /root/.jupyter/jupyter_notebook_config.py)
 
 ## Install dammit
 RUN conda install dammit
