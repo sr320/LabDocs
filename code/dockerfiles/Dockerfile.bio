@@ -97,6 +97,8 @@ RUN apt-get update && \
 	locales-all \
 	libzmq3-dev \
 	libpango1.0-dev \
+	tree \
+	htop \
     && apt-get clean
 
     
