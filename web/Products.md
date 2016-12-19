@@ -28,6 +28,10 @@ Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/aut
 <a id="pres">
 ## Recent Presentations</a>
 #### 2016
+* [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
+
+* [Towards a functional understanding of DNA methylation in shellfish and implications for aquaculture](https://github.com/sr320/talk-unjr-2016) NOAA Northwest Fisheries Science Center (Seattle, WA). November 2, 2016
+
 * [Hacking the Academy: Open in Action - OA Week @ University of Washington](https://github.com/sr320/talk-UW-OA-2016) University of Washington (Seattle, WA). October 26, 2016
 
 * [Environmental Sciences: A Genomic Perspective](https://github.com/sr320/LabDocs/blob/master/slidedecks/2016-Environment-Comm.pdf) Commodore Options School (Bainbridge Island, WA). October 20, 2016
@@ -49,16 +53,6 @@ Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/aut
 
 * [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
-#### 2014
-* [Does DNA methylation facilitate phenotypic plasticity in marine invertebrates?](http://www.slideshare.net/sr320/does-dna-methylation-facilitate-phenotypic-plasticity-in-marine-invertebrates) Friday Harbor Research Labs Seminar Series (Friday Harbor, WA). August 2014.        
-
-* [Science Communication and Impact: A Researcher's Perspective](http://www.slideshare.net/sr320/science-communication-and-impact-a-researchers-perspective) Special Libraries Association - Panel discussion - Staying in the Game: New Roles for Libraries in Research Support Assocation (Vancouver, WA). June 2014.      
-
-* [Genomic approaches to assessing ecosystem health](http://www.slideshare.net/sr320/genomic-approaches-to-assessing-ecosystem-health) Salish Sea Conference (Seattle, WA). May 2014.			
-
-* [Collaborative Genomic Data Analyses in the Cloud](http://www.slideshare.net/sr320/escience-roberts-microsoft) Escience in the Cloud -Microsoft Research Campus (Seattle, WA). March 2014	.		
-
-* [Genomics on the Half Shell: Making Science more Open](http://www.slideshare.net/sr320/escience-roberts) UW escience Seminar (Seattle, WA). February 2014	.		
 
 ---
 
