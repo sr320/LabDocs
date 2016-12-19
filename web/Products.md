@@ -234,6 +234,9 @@ Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, i
 <a id="preprint">
 ## PrePrints</a>
 
+Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615> 
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/094615" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Heare JE, White SJ, Roberts SB. (2015) Differential response to stress in _Ostrea lurida_ (Carpenter 1864) as measured by gene expression. PeerJ PrePrints 3:e1595v1 <https://doi.org/10.7287/peerj.preprints.1595v1>
 
 Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
