@@ -239,7 +239,6 @@ Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle
 
 Heare JE, White SJ, Roberts SB. (2015) Differential response to stress in _Ostrea lurida_ (Carpenter 1864) as measured by gene expression. PeerJ PrePrints 3:e1595v1 <https://doi.org/10.7287/peerj.preprints.1595v1>
 
-Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
 
 Gavery MR, Delrow J, Basom R, Roberts SB. (2015) Influence of 17α-ethinylestradiol on DNA Methylation in Oysters. **GitHub / Zenodo** <https://github.com/sr320/paper-Oyster-EE2>
 
@@ -262,6 +261,8 @@ Roberts et al. (**preprint**) Hard clam gene expression analysis. Status: [Avail
 
 
 _Archived_
+
+Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
 
 Mackenzie Gavery and Steven Roberts (**preprint**) A context specific role for DNA methylation in bivalves. Status: _Archived_ [download](https://dl.dropboxusercontent.com/u/115356/Gavery_Roberts_context2013.pdf) (_Revised and later accepted at_ [Briefings in Functional Genomics](https://10.1093/bfgp/elt054) 10.1093/bfgp/elt054
 
