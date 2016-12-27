@@ -16,12 +16,14 @@ Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNot
 Hollie Putnam | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Rhonda Elliot |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
+Sean Bennett | [rpubs/sean80](http://rpubs.com/seanb80) - [genefish/seanb80](https://genefish.wordpress.com/author/seanb80/) |  [![GitHub followers](https://img.shields.io/github/followers/seanb80.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/seanb80)
 Jake Heare | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Grace Crandall | [genefish/grace](https://genefish.wordpress.com/author/graceac9/)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 Mrunmayee Manohar Shete  | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
 Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
+
 
 ---
 
