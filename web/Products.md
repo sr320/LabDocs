@@ -9,7 +9,7 @@
 
 Person | Notebook | GitHub
 --- | --- | ---
-Steven Roberts | [ons](http://onsnetwork.org/halfshell/) - [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+Steven Roberts | [sr320.github.io](https://sr320.github.io/)  -  [ons/sr320](http://onsnetwork.org/halfshell/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
 Sam White | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
