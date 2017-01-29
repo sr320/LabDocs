@@ -2,6 +2,8 @@
 
 Data Management Plan for dealing with sequencing data. 
 
+_see also_ : https://github.com/sr320/LabDocs/wiki/Data-Management
+
 
 ##Sequence Job Submission
 _Phasing out_      
