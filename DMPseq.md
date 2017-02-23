@@ -29,3 +29,15 @@ _Phasing out_
 
 
 ##SRA Upload
+
+##Owl Uploader
+
+* Requirements: Directory with new sequence data, MD5 file from sequencing facility, copy of owluploader.R, destination directory on owl.
+
+1) Copy the owluploader.R script to the directory that contains the new data and the MD5 file provided by the facility. Script needs write access to this directory to create temporary and log files.
+
+2) Edit owluploader.R. Change the string on line 12 to be the directory for the new data, line 13 to the facility MD5 file name, and line 14 to the destination directory on owl.
+
+3) Open terminal, type "Rscript owluploader.R" in the terminal.
+
+4) When the script completes, inspect the MD5Mismatch.txt file for files that did not copy correctly. Also inspect the checksum.md5 and readme.MD files to make sure the new files were added properly.
