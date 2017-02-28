@@ -23,7 +23,7 @@
 # multiqc		0.8				#
 # fastqc		0.11.5  		#
 # fastx_toolkit	0.0.13  		#
-# R				3.2.5   		#
+# R				3.3.1   		#
 # RStudioServer	1.0.44			#
 # pyrad			3.0.66  		#
 # samtools		0.1.19  		#
@@ -97,6 +97,8 @@ RUN apt-get update && \
 	locales-all \
 	libzmq3-dev \
 	libpango1.0-dev \
+	tree \
+	htop \
     && apt-get clean
 
     
@@ -252,13 +254,6 @@ RUN wget http://sco.h-its.org/exelixis/web/software/pear/files/pear-0.9.6-bin-64
 
 ENV PATH /usr/local/bioinformatics/pear-0.9.6-bin-64:$PATH
 
-# Install R (v3.2.5)
-RUN wget https://cran.r-project.org/src/base/R-3/R-3.2.5.tar.gz \
-	&& tar -xzf R-3.2.5.tar.gz \
-	&& (cd /usr/local/bioinformatics/R-3.2.5 && ./configure --with-cairo --with-libpng --enable-R-shlib; make) \
-	&& cp /usr/local/bioinformatics/R-3.2.5/bin/R /usr/local/bin \
-	&& rm R-3.2.5.tar.gz
-
 # Install Stacks (v.1.40)
 RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 	&& tar -xzf stacks-1.40.tar.gz \
@@ -266,10 +261,15 @@ RUN wget http://catchenlab.life.illinois.edu/stacks/source/stacks-1.40.tar.gz \
 	&& rm stacks-1.40.tar.gz
 
 ## Install Jupyter Notebook & all dependencies (via MiniConda)
+# Creates config file
+# Sets browser to FALSE
+# Sets default IP address to 0.0.0.0; uses \x27 to set single quotes
+# Sets browser token (so no password needed to access notebooks) to blank; uses \x27 to set single quotes
 RUN conda install jupyter -y \
 	&& jupyter notebook --generate-config \
 	&& (sed -i '/c.NotebookApp.open_browser/c\c.NotebookApp.open_browser = False' /root/.jupyter/jupyter_notebook_config.py) \
-	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py)
+	&& (sed -i '/c.NotebookApp.ip/c\c.NotebookApp.ip = \x270.0.0.0\x27' /root/.jupyter/jupyter_notebook_config.py) \
+	&& (sed -i '/c.NotebookApp.token/c\c.NotebookApp.token = u\x27\x27' /root/.jupyter/jupyter_notebook_config.py)
 
 ## Install dammit
 RUN conda install dammit
@@ -300,6 +300,12 @@ ENV PATH /usr/local/bioinformatics/bowtie-1.1.2:$PATH
 RUN useradd -ms /bin/bash srlab \
         && echo "srlab:rstudio" | chpasswd
 
+# Install R (v3.3.1 1)
+RUN conda install -c r r-base='3.3.1 1'
+
+# Install R Essentials (v1.4.3)
+RUN conda install -c r r-essentials=1.4.3
+
 # Install RStudio Server (v1.0.44)
 RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
         && gdebi --non-interactive rstudio-server-1.0.44-amd64.deb \
@@ -307,14 +313,14 @@ RUN wget https://download2.rstudio.org/rstudio-server-1.0.44-amd64.deb \
         && rm rstudio-server-1.0.44-amd64.deb
 
 # Install R kernel for Jupyter notebooks
-RUN touch kernel_script_temp.R
+#RUN touch kernel_script_temp.R
 
-RUN echo '#!/usr/local/bioinformatics/R-3.2.5/bin/Rscript' >> kernel_script_temp.R \
-	&& echo 'install.packages(c("crayon", "pbdZMQ", "devtools"), repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
- 	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
- 	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
+#RUN echo '#!/usr/local/bioinformatics/R-3.2.5/bin/Rscript' >> kernel_script_temp.R \
+#	&& echo 'install.packages(c("crayon", "pbdZMQ", "devtools"), repos = "http://cran.us.r-project.org")' >> kernel_script_temp.R \
+#	&& echo 'devtools::install_github(paste0("IRkernel/", c("repr", "IRdisplay", "IRkernel")))' >> kernel_script_temp.R \
+# 	&& echo 'IRkernel::installspec(user = FALSE)' >> kernel_script_temp.R
 
-RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
+#RUN /usr/local/bioinformatics/R-3.2.5/bin/Rscript kernel_script_temp.R
 
 ## Install vcftools (v0.1.14)
 RUN wget https://github.com/vcftools/vcftools/releases/download/v0.1.14/vcftools-0.1.14.tar.gz \
@@ -323,6 +329,10 @@ RUN wget https://github.com/vcftools/vcftools/releases/download/v0.1.14/vcftools
 	&& rm vcftools-0.1.14.tar.gz
 
 ENV PATH /usr/local/bioinformatics/vcftools-0.1.14:$PATH
+
+# Install rpy2 for R magics in Jupyter Notebooks (v2.8.1)
+RUN conda install -c r rpy2=2.8.1
+
 
 # Expose ports for RStudio Server & Jupyter Notebook, respectively
 EXPOSE 8787 8888

@@ -9,13 +9,14 @@
 
 Person | Notebook | GitHub
 --- | --- | ---
-Steven Roberts | [ons](http://onsnetwork.org/halfshell/) - [sr320.github.io](https://sr320.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
+Steven Roberts | [sr320.github.io](https://sr320.github.io/)  -  [ons/sr320](http://onsnetwork.org/halfshell/) |   [![GitHub followers](https://img.shields.io/github/followers/sr320.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sr320)
 Sam White | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Hollie Putnam | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Rhonda Elliot |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
+Sean Bennett | [rpubs/sean80](http://rpubs.com/seanb80) - [genefish/seanb80](https://genefish.wordpress.com/author/seanb80/) |  [![GitHub followers](https://img.shields.io/github/followers/seanb80.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/seanb80)
 Jake Heare | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Grace Crandall | [genefish/grace](https://genefish.wordpress.com/author/graceac9/)
 Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
@@ -23,11 +24,16 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 Mrunmayee Manohar Shete  | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
 Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
 
+
 ---
 
 <a id="pres">
 ## Recent Presentations</a>
 #### 2016
+* [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
+
+* [Towards a functional understanding of DNA methylation in shellfish and implications for aquaculture](https://github.com/sr320/talk-unjr-2016) NOAA Northwest Fisheries Science Center (Seattle, WA). November 2, 2016
+
 * [Hacking the Academy: Open in Action - OA Week @ University of Washington](https://github.com/sr320/talk-UW-OA-2016) University of Washington (Seattle, WA). October 26, 2016
 
 * [Environmental Sciences: A Genomic Perspective](https://github.com/sr320/LabDocs/blob/master/slidedecks/2016-Environment-Comm.pdf) Commodore Options School (Bainbridge Island, WA). October 20, 2016
@@ -49,16 +55,6 @@ Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/aut
 
 * [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
-#### 2014
-* [Does DNA methylation facilitate phenotypic plasticity in marine invertebrates?](http://www.slideshare.net/sr320/does-dna-methylation-facilitate-phenotypic-plasticity-in-marine-invertebrates) Friday Harbor Research Labs Seminar Series (Friday Harbor, WA). August 2014.        
-
-* [Science Communication and Impact: A Researcher's Perspective](http://www.slideshare.net/sr320/science-communication-and-impact-a-researchers-perspective) Special Libraries Association - Panel discussion - Staying in the Game: New Roles for Libraries in Research Support Assocation (Vancouver, WA). June 2014.      
-
-* [Genomic approaches to assessing ecosystem health](http://www.slideshare.net/sr320/genomic-approaches-to-assessing-ecosystem-health) Salish Sea Conference (Seattle, WA). May 2014.			
-
-* [Collaborative Genomic Data Analyses in the Cloud](http://www.slideshare.net/sr320/escience-roberts-microsoft) Escience in the Cloud -Microsoft Research Campus (Seattle, WA). March 2014	.		
-
-* [Genomics on the Half Shell: Making Science more Open](http://www.slideshare.net/sr320/escience-roberts) UW escience Seminar (Seattle, WA). February 2014	.		
 
 ---
 
@@ -240,9 +236,11 @@ Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, i
 <a id="preprint">
 ## PrePrints</a>
 
+Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615> 
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/094615" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Heare JE, White SJ, Roberts SB. (2015) Differential response to stress in _Ostrea lurida_ (Carpenter 1864) as measured by gene expression. PeerJ PrePrints 3:e1595v1 <https://doi.org/10.7287/peerj.preprints.1595v1>
 
-Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
 
 Gavery MR, Delrow J, Basom R, Roberts SB. (2015) Influence of 17α-ethinylestradiol on DNA Methylation in Oysters. **GitHub / Zenodo** <https://github.com/sr320/paper-Oyster-EE2>
 
@@ -265,6 +263,8 @@ Roberts et al. (**preprint**) Hard clam gene expression analysis. Status: [Avail
 
 
 _Archived_
+
+Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
 
 Mackenzie Gavery and Steven Roberts (**preprint**) A context specific role for DNA methylation in bivalves. Status: _Archived_ [download](https://dl.dropboxusercontent.com/u/115356/Gavery_Roberts_context2013.pdf) (_Revised and later accepted at_ [Briefings in Functional Genomics](https://10.1093/bfgp/elt054) 10.1093/bfgp/elt054
 
