@@ -1,0 +1,9 @@
+protid	protLen	0	0	0	0	0	0	1	1	1	1	1	1
+pleuromamma_t_h01_00009_comp7_c0	395	0	0	0	0	0	0	2	0	0	0	0	0
+pleuromamma_t_h01_00034_comp27_c0	312	0	1	1	0	0	0	1	0	1	0	2	0
+pleuromamma_t_h01_00043_comp37_c0	244	0	5	0	0	0	0	5	3	0	0	1	0
+pleuromamma_t_h01_00140_comp139_c0	248	8	5	2	2	2	0	7	5	3	0	1	0
+pleuromamma_t_h01_00239_comp246_c0	295	0	0	0	0	0	0	4	3	0	0	0	0
+pleuromamma_t_h01_00357_comp355_c0	298	5	4	1	1	1	0	0	3	0	0	0	0
+pleuromamma_t_h01_00373_comp380_c0	426	0	2	0	0	0	0	1	0	0	1	0	0
+pleuromamma_t_h01_00375_comp383_c0	547	0	6	0	0	1	0	22	9	0	0	3	1
