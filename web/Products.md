@@ -63,6 +63,8 @@ Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/aut
 
 see also <a href="#preprint">*preprints*</a>
 
+The Aquaculture Genomics, Genetics and Breeding Workshop (**2017**) [Aquaculture genomics, genetics and breeding in the United States: current status, challenges, and priorities for future research](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3557-1) BMC Genomics 18:191. doi: 10.1186/s12864-017-3557-1 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-017-3557-1" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Detree C, Núñez-Acuña G, Roberts S, Gallardo-Escárate C (**2016**) [Uncovering the Complex Transcriptome Response of Mytilus chilensis against Saxitoxin: Implications of Harmful Algal Blooms on Mussel Populations](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165231) PLoS ONE 11(10): e0165231. doi:10.1371/journal.pone.0165231 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0165231" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165231"><img class="wp-image-2505 alignleft" title="toll" src="http://eagle.fish.washington.edu/cnidarian/skitch/journal_pone_0165231_g007_PNG_1DBAC83C.png" alt="heat-map" width="270" height="191" /></a>
