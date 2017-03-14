@@ -13,6 +13,11 @@ Skip back a word: Esc+b
 
 ---
 
+###Mount a server share (Linux)
+
+```sudo mount -o username=your_username_for_the_server //IP.address.of.server/path/to/folder/on/server /path/to/emtpy/directory/on/local/computer```
+
+---
 
 ###Uncompress / Unzip all files in a directory
 
