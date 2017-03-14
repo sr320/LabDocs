@@ -1,4 +1,4 @@
-###Shortcuts
+### Shortcuts
 Keyboard shortcuts in Terminal (OSX)    
 Skip to beginning of line: Ctrl+a   
 Skip to end of line: Ctrl+e   
@@ -7,19 +7,19 @@ Skip back a word: Esc+b
 
 ---
 
-###Simple for loop in terminal
+### Simple for loop in terminal
 
 `for i in e f; do echo $i; done`
 
 ---
 
-###Mount a server share (Linux)
+### Mount a server share (Linux)
 
 ```sudo mount -o username=your_username_for_the_server //IP.address.of.server/path/to/folder/on/server /path/to/emtpy/directory/on/local/computer```
 
 ---
 
-###Uncompress / Unzip all files in a directory
+### Uncompress / Unzip all files in a directory
 
 ```
 %%bash
@@ -33,7 +33,7 @@ done
 
 ---
 
-###Count the number of lines in a file
+### Count the number of lines in a file
 `$wc -l < /path/to/file`
 
 Explanation:
@@ -46,7 +46,7 @@ wc = Terminal command for "word count"
 
 
 ---
-###Count the number of reads in an Illumina FASTQ file
+### Count the number of reads in an Illumina FASTQ file
 
 `echo $(( $(wc -l < filename.fastq) / 4 ))`
 
@@ -55,7 +55,7 @@ Explanation:
 An Illumina FASTQ file contains four lines per read, so run a word count on the number of lines divided by four will yield the number of reads.
 
 ---
-###Count the number of reads in an gzipped Illumina FASTQ file
+### Count the number of reads in an gzipped Illumina FASTQ file
 
 `echo $(( $(gunzip -c filename.fastq.gz | wc -l) / 4 ))`
 
@@ -68,7 +68,7 @@ See above explanations for the word counts.
 
 
 ---
-###Count the number of instances/occurrences of items in a column in a file
+### Count the number of instances/occurrences of items in a column in a file
 
 `$cut -f1 /path/to/file | sort | uniq -c`
 
@@ -90,7 +90,7 @@ uniq -c - Counts the number of occurrences of each unique "word" in the specifie
 
 ---
 
-###Count the number of columns in a file
+### Count the number of columns in a file
 
 ```
 $awk '{print NF; exit}' input_file.txt
@@ -101,13 +101,13 @@ This reads the number of fields (```NF```; i.e. columns) in just the first row o
 ---
 
 ---
-###Count the number of characters in column
+### Count the number of characters in column
 
 `awk '{print $1, "\t", $2, "\t", length($2)}' j_tab2 > tab_1_length﻿`
 
 ---
 
-###Substitutions in a File
+### Substitutions in a File
 This is the same as Find and Replace in programs like Microsoft Word, but will run on files that are too large to be opened with such programs.
 
 ```
@@ -124,7 +124,7 @@ NOTE: This command is case sensitive and will only match EXACLTY what you enter 
 
 ---
 
-###Replace delimiters with different characters
+### Replace delimiters with different characters
 
 Here's an example:
 
@@ -137,11 +137,11 @@ The above code will replace the delimiters after each field (i.e. column) with t
 ---
 
 
-###Convert FASTQ to FASTA
+### Convert FASTQ to FASTA
     zcat input_file.fastq.gz | awk 'NR%4==1{printf ">%s\n", substr($0,2)}NR%4==2{print}' > output_file.fa
 
 ---
-###Audible Notification of Job Completion (Terminal)
+### Audible Notification of Job Completion (Terminal)
 
 After typing in a Terminal command (and before hitting 'Enter') add the following:
 
@@ -279,7 +279,7 @@ You should now see the values you want in your PATH.
 
 ---
 
-###Remove spaces from filenames in a directory
+### Remove spaces from filenames in a directory
 
 ```
 for file in *; do mv "$file" ${file// /}; done
@@ -295,7 +295,7 @@ Explanation:
 
 ---
 
-###Back up onsnetwork.org notebooks for offline viewing
+### Back up onsnetwork.org notebooks for offline viewing
 
 Note: Uses ```wget``` which is not installed on Mac OS X by default.
 
@@ -334,7 +334,7 @@ Explanation:
 ```http://website.com/notebook``` - Replace this with the URL to the desired notebook.
 
 ---
-###Back up Blogger/blogspot notebooks for offline viewing
+### Back up Blogger/blogspot notebooks for offline viewing
 
 Note: Uses ```wget``` which is not installed on Mac OS X by default.
 
