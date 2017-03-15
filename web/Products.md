@@ -63,6 +63,8 @@ Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/aut
 
 see also <a href="#preprint">*preprints*</a>
 
+C. Gallardo-Escárate V. Valenzuela-Muñoz S. Boltaña G. Nuñez-Acuña D. Valenzuela-Miranda A.T. Gonçalves C. Détrée E. Tarifeño-Saldivia R. Farlora S. Roberts H.M. Putnam (**2017**) [The _Caligus rogercresseyi_ miRNome: Discovery and transcriptome profiling during the sea lice ontogeny](http://dx.doi.org/10.1016/j.aggene.2017.03.002) AgriGene doi: 10.1016/j.aggene.2017.03.002 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aggene.2017.03.002" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 The Aquaculture Genomics, Genetics and Breeding Workshop (**2017**) [Aquaculture genomics, genetics and breeding in the United States: current status, challenges, and priorities for future research](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3557-1) BMC Genomics 18:191. doi: 10.1186/s12864-017-3557-1 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-017-3557-1" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Detree C, Núñez-Acuña G, Roberts S, Gallardo-Escárate C (**2016**) [Uncovering the Complex Transcriptome Response of Mytilus chilensis against Saxitoxin: Implications of Harmful Algal Blooms on Mussel Populations](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165231) PLoS ONE 11(10): e0165231. doi:10.1371/journal.pone.0165231 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0165231" data-hide-no-mentions="true" class="altmetric-embed"></span>
