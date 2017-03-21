@@ -1,4 +1,4 @@
-﻿Characterization of the gonad transcriptome of the Pacific geoduck 
+﻿Characterization of the gonad transcriptome of Pacific geoduck (Panopea generosa)
 Miguel A. Del Río-Portilla1, Carmen E. Vargas-Peralta1, Fabiola Lafarga De La Cruz1, Brent Vadopalas2, Steven B. Roberts2
 
 
@@ -6,90 +6,47 @@ Miguel A. Del Río-Portilla1, Carmen E. Vargas-Peralta1, Fabiola Lafarga De La C
  2. School of Aquatic & Fishery Sciences, University of Washington, Seattle, Washington, United States of America.
 
 
-Journal options - (ones to consider)
-1. Scientific Data
-2. Genetica An International Journal of Genetics and Evolution, there are some (recent) transcriptome paper in it.
-http://link.springer.com/journal/10709
-1. BMC Genomics  http://bmcgenomics.biomedcentral.com/submission-guidelines. 
-(cost $2145, but the University of Washington is in the Membership Program, which indicates we may pay a lower amount)
+
+
 1. Marine Biotechnology
 http://link.springer.com/journal/10126
-I think this is a good option
-1.  
+Preprint in BioArxiv 
+http://biorxiv.org/
 ________________
 Abstract
+Pacific geoduck represent are a significant fishery along the eastern Pacific Ocean coast. 
+Key Words
+Clam, geoduck, reproduction, RNA-seq, 
 Introduction
-The Pacific geoduck, Panopea generosa Gould, 1850, endemic to the eastern Pacific coast and estuaries from 29-57 N latitude (Punta Canoas, Baja California, Mexico to Kodiak Island, Alaska, USA), represents a valuable export fishery for Mexico, USA and Canada, primarily to markets in Asia. To meet demand, mostly from China and Hong Kong, aquaculture production of this valuable clam has increased considerably in Washington State, USA and British Columbia, Canada over the last two decades. As an example, USA aquaculture production has rise from 9 tons in 2000 to a maximum of 727 tons with 24.4 million USD value in 2013 (FAO, 2016[a]). Whereas in British Columbia, Canada, clams aquaculture[b] production has increased from 47 tons in 1990 to 1,327 tons in 2014 (Fisheries and Oceans Canada, 2016[c]). In contrast, in recent years efforts are underway to commercialize geoduck aquaculture in the Baja California peninsula in Mexico, where there are three private hatcheries and two universities producing geoduck juveniles (El Mexicano newspaper, 2015;[d] CESAIBC, 2016[e]).
+The Pacific geoduck, Panopea generosa Gould, 1850, endemic to the eastern Pacific Ocean coast and estuaries from 29-57 N latitude (Punta Canoas, Baja California, Mexico to Kodiak Island, Alaska, USA), represents a valuable export fishery for Mexico, USA and Canada, primarily to markets in Asia, with global production in 2014 exceeding 7000 MT with an approximate value of over 200 million USD[a]. To meet ongoing demand, aquaculture comprises approximately 10% of global production, with approximately 90% grown in Washington, USA (Shamshak and King 2015), Efforts are underway to commercialize geoduck aquaculture in Mexico; three private hatcheries and two universities are currently producing geoduck juveniles on the Baja peninsula (Peñuelas Alarid 2015); (CESAIBC 2016).
  
-Sustainable fisheries and viable aquaculture production of geoduck clams both rely on effective reproductive output. Reproductive development in bivalve shellfish can be influenced by a number of factors: exogenous factors include temperature regime, primary productivity[f], physiological stressors and depth (e.g. Eversole 1989, Walker & Heffernan 1994). Endogenous influences include body size, basal metabolic rate, genetic and epigenetic factors (CITA?)[g].  The interplay of endogenous and exogenous influences on maturation is an important determinant of species persistence, source-sink relationships, and metapopulation dynamics (CITA?)[h]. Understanding these relationships requires baseline biological information on reproduction. 
+Sustainable fisheries and viable aquaculture production of geoduck both rely on effective reproductive output. Reproductive development in bivalve shellfish can be influenced by both exogenous factors such as temperature regime, primary productivity (Calderon-Aguilera et al. 2010), physiological stressors and depth (e.g. (Eversole 1989), (Walker and Heffernan 1994)) and endogenous factors such as body size, basal metabolic rate, genetics and epigenetics.  The interplay of endogenous and exogenous influences on maturation is an important determinant of species persistence, source-sink relationships, and metapopulation dynamics. Understanding these relationships requires baseline biological information on reproduction. 
  
-Despite the economic importance of the Pacific geoduck P. generosa, little is known about its reproductive biology.  Campbell & Ming (2003) characterized age and size at maturation for geoduck in British Columbia, Canada as 2-3 years and ~60 mm in shell length. Among three sites in Washington State, USA, Vadopalas et al. (2015) reported age and size at maturation for males and females as 22 mo, 58 mm and 29 mo, 80 mm, respectively.  In addition, gender ratios in geoduck[i] aged 2-5 years are skewed toward males, the overall male:female ratio of 2.3:1 observed in known age 2–5-y-olds farmed geoduck [j](Vadopalas et al., 2015) is similar yet lower [k]than the ratios reported by Andersen (1971; 17:1), Sloan and Robinson (1984, 9:1) and Campbell & Ming (2003; 12:1) all based on size rather than known age[l].  Both Vadopalas et al. (2015) and Campbell & Ming (2003) reported simultaneous hermaphrodites at an approximate rate of 0.4%. Taken together, these data suggest protandry as postulated by Andersen (1971) and shown for the congener Panopea zelandica by Gribben and Creese (2003).  
+Despite the economic importance of the Pacific geoduck, relatively little is known about its reproductive biology.  (Campbell and Ming 2003) characterized age and size at maturation for wild geoduck in British Columbia, Canada as 2-3 years and ~60 mm in shell length, similar to farmed geoduck in Washington State, USA, (Vadopalas et al. 2015).  Vadopalas et al. (2015) reported maturation in females occurs approximately six mo later and at ~20 mm greater length than males. In addition, sex ratios in young, mature Pacific geoduck are skewed toward males (Andersen 1971); (Sloan NA, Robinson SMC 1984); (Campbell and Ming 2003)(Vadopalas et al. 2015) ). As postulated by (Andersen 1971), protandry appears likely in this species given typical ratios for wild Pacific geoduck once recruited to the fishery are approximately 1:1 (Goodwin 1976); the congener P. zelandica is protandric (Gribben and Creese 2003).  
 
 
-Marshall et al. (2012) [m]examined broodstock development of P. generosa over a range of temperatures (7, 11, 15 and 19°C), finding out that clams held at lower temperature displayed a more advanced state of reproductive development than those at the two higher temperatures. Anto to optimized reproductive performance in hatchery reared organisms, clams should be held at 11°C where prolonged spawnings and gamete generation are achieved. In the other hand, higher temperatures (19°C) should be avoided as gonads shown degeneration under this conditions.. Later on, Marshall et al. (2014) evaluated the effect of feed ration on gonadal development of P. generosa, finding an appropriate ration of 4.0×109 cells of Isochrysis sp. and Chaetoceros muelleri (50 : 50 cell count) per clam per day to maximize gamete output over time under hatchery conditions.
-
-
-A study of biochemical changes during maturation of the congener P. globosa by Arcos-Ortega et al.  (2015) demonstrated a strong correlation of vitellin with maturation in females.   
+(Marshall et al. 2012) showed increased gametogenesis at lower temperatures (7 and 11 °C), in accord with field studies that observed ripening during winter months with similar water temperatures (Campbell and Ming, 2003, Sloan and Robinson 1984, Goodwin 1976). (Arcos-Ortega et al. 2015) tracked biochemical changes during maturation of the congener P. globosa and demonstrated a strong correlation of vitellin with maturation in females, and identified these chemicals as potential biomarkers of sex and maturation status. 
  
-Efforts to understand and characterize maturation in wild populations, as well as to optimize maturation for aquaculture purposes, would benefit from baseline information on gene expression.  Previous work on other bivalves has demonstrated the value of transcriptomic resources. One example is a study using a microarray platform to examine the gonad transcriptome in Crassostrea gigas by Dheilly and coworkers (2012).  In comparing males and females Dheilly et al. identified 77 genes that were sex-specific, which could have practical application in identifying broodstock. Focusing on another important aquaculture species, the European clam (Ruditapes decussatus),  (de Sousa et al., 2015) used a microarray to identify potential biomarkers of oocyte quality. From this work it was determined that chaperones molecules are main determinants of good quality oocytes and genes involved in stress response, including apoptosis, are associated with poor oocyte quality. 
+Efforts to understand and characterize maturation in wild populations, as well as to optimize maturation for aquaculture purposes, would benefit from baseline gene expression information.  Previous work on other bivalves has demonstrated the value of transcriptomic resources focused on maturation. (Dheilly et al. 2012) used a microarray platform to examine the gonad transcriptome in male and female Crassostrea gigas, and identified 77 sex-specific genes that have practical application in identifying broodstock. Focusing on another important aquaculture species, the European clam (Ruditapes decussatus), (de Sousa et al. 2015) used a DNA microarray to determine that molecular chaperones are associated with good quality oocytes and genes involved in stress response, including apoptosis, are associated with poor quality oocytes.  Zhang et al. (2014)[b] and Li et al. (2016) compared transcriptomes of bivalve ovaries and testes (from the oyster Crassostrea gigas and the scallop Patinopecten yessoensis, respectively) and found some genes, differentially expressed between sexes in vertebrates, are likewise differentially expressed in C. gigas and P. yessoensis, suggesting the importance of these conserved genes for sex determination.  
 
 
-This work[n] generated a transcriptomic resource for Pacific geoduck P. generosa using RNA-seq technology, providing important tools for characterizing the reproductive development of wild populations across the species range, enabling efficiencies in broodstock maturation for aquaculture production of this valuable resource.
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Methods
+Our goal is to contribute a transcriptomic resource for Pacific geoduck using RNA-seq technology, providing important tools for characterizing the reproductive development of wild populations across the species range, and enabling efficiencies in broodstock maturation for aquaculture production of this valuable resource.
+Materials and methods
 RNA-seq Libraries
-Based on histological determination of reproductive maturational stage, seven female and six male paraffin-embedded gonad samples were selected for RNA isolation (Crandall and Roberts, 2016). The female samples represented three maturational stages including; stage 1 (No secondary oocytes; or secondary oocytes ~ 5 - 15 µm) ID=fGeo-08; stage 5 (secondary oocytes ~50 - 75 µm) ID=fGeo-34, fGeo-35, fGeo-38; and stage 6 (secondary oocytes ~65 - 85 µm) ID=fGeo-51, fGeo-69, fGeo-70. Males samples represented two maturational stages; stage 1 (~ <5 % spermatids per acinus; small acini) ID=mGeo-02, mGeo-07, mGeo-09 and stage 3 (~50 % spermatids per acinus) mGeo-41, mGeo-42, mGeo-46. RNA was isolated using the PAXgene Tissue RNA Kit (Qiagen) based on manufacturer’s instructions. Sections (5 µm) were collected from paraffin blocks. In lieu of a shaker-incubator indicated in the protocol, the samples were incubated for 15 min at 45 °C in a dry oven using the Disruptor Genie (Scientific Industries). Samples were eluted using 40 µL of Buffer TR4. All RNA samples were quantified using a NanoDrop1000 (Thermo Fisher Scientific). RNA integrity was verified on a Bioanalyzer (Agilent Technologies) using either the RNA 6000 Pico Kit (Agilent Technologies) or the RNA 6000 Nano Kit (Agilent Technologies), depending on sample concentration.
+Based on histological determination of reproductive maturational stage, seven female and six male paraffin-embedded gonad samples were selected for RNA isolation (Crandall and Roberts 2016a). The female samples represented three maturational stages including; stage 1 (No secondary oocytes; or secondary oocytes ~ 5 - 15 µm) ID=fGeo-08; stage 5 (secondary oocytes ~50 - 75 µm) ID=fGeo-34, fGeo-35, fGeo-38; and stage 6 (secondary oocytes ~65 - 85 µm) ID=fGeo-51, fGeo-69, fGeo-70. Male samples represented two maturational stages; stage 1 (~ <5 % spermatids per acinus; small acini) ID=mGeo-02, mGeo-07, mGeo-09 and stage 3 (~50 % spermatids per acinus) mGeo-41, mGeo-42, mGeo-46, with identification codes corresponding to those reported in (Crandall and Roberts 2016b)   RNA was isolated using the PAXgene Tissue RNA Kit (Qiagen) based on manufacturer’s instructions. Sections (5 µm) were collected from paraffin blocks. In lieu of a shaker-incubator indicated in the protocol, the samples were incubated for 15 min at 45 °C in a dry oven using the Disruptor Genie (Scientific Industries). Samples were eluted using 40 µL of Buffer TR4. All RNA samples were quantified using a NanoDrop1000 (Thermo Fisher Scientific). RNA integrity was verified on a Bioanalyzer (Agilent Technologies) using either the RNA 6000 Pico Kit (Agilent Technologies) or the RNA 6000 Nano Kit (Agilent Technologies), depending on sample concentration.
 Two pools of RNA (male RNA and female RNA) were prepared for RNA-seq. Both pools contained equal quantities of RNA from each maturational stage. Library preparations and sequencing were performed by GeneWiz, Inc. Libraries were constructed using the Ultra RNA Library Preparation Kit (New England Biolabs). Both libraries were sequenced on a single lane of the HiSeq2500 (Illumina) sequencer.
-Raw sequence reads were quality trimmed using Trim Galore v0.4.0[o] (Krueger 2013), and quality assessed using FastQC (Andrews 2010). A combined assembly of sequence reads was carried out using Trinity[p] r20131110 (Grabherr et al. 2011) with default parameters. In order to eliminate any possible non-target sequences in the the libraries, a Blastn search (nt database) was carried out and non Eukaryota results (E value <= 1E-20) were removed from further analysis.  TransRate[q] v1.0.1 (reference) was used to assess assembly parameters. 
-
-
+Raw sequence reads were quality trimmed using Trim Galore v0.4.0 (Krueger, 2015, http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/), and quality assessed using FastQC (Andrews 2010). A combined assembly of sequence reads was carried out using Trinity r20131110 (Grabherr et al. 2011) with default parameters. In order to eliminate any possible non-target sequences in the the libraries, a Blastn search (nt database) was carried out and non Eukaryota results (E value <= 1E-20) were removed from further analysis. TransRate v1.0.1 (Smith-Unna et al. 2016) was used to assess assembly parameters. 
 
 
 Transcriptome Annotation
-Resulting contigs were compared to the Uniprot/Swiss-Prot protein database using BLASTx with an e-value threshold of 1E-05 and associated Gene Ontology terms identified. Biological Process GO-slim parameters were used in order to summarize annotation. In order to determine the completeness of  the resulting transcriptome, contigs were compared with other transcriptome databases: C. gigas, Gigaton (Riviere et al. 2015), Rup[r]hibase, (Milan et al. 2011) (http://compgen.bio.unipd.it/ruphibase/) using Blastn with an evalue threshold of 1E-10.
+Resulting contigs were compared to the UniProtKB/Swiss-Prot protein database using BLASTx with an e-value threshold of 1E-05 and associated Gene Ontology terms identified. Biological Process GO-slim parameters were used in order to summarize annotation. In order to determine the completeness of  the resulting transcriptome, contigs were compared with other transcriptome databases: C. gigas, Gigaton (Riviere et al. 2015), Ruphibase, (Milan et al. 2011) (http://compgen.bio.unipd.it/ruphibase/) using Blastn with an evalue threshold of 1E-10.
+Interested particularly on genes involved in reproductive biology, we examined the transcriptome for a previously described gene sets. One suite of genes previously characterized is from (Dheilly et al. 2012), where researchers described sex and stage specific genes in C. gigas. To make this comparison, the fasta file corresponding to the (Dheilly et al. 2012) study microarray study (available from (Olson and Roberts 2014) was compared to the P. generosa transcriptome using Blastn (E value 1E-60) and SQLShare used to join with (Dheilly et al. 2012) supplemental Table 1 (sex-specific genes) and supplemental Table 2 (gametogenesis differential expression).
+General differences in gene expression between males and females were detected by mapping reads (CLC Genomics v8.5) from male or female quality trimmed reads to the assembled contigs. A set of contigs were classified as highly expressed in the male library or female library based on the following parameters: at least 200 unique reads mapped a contig and 100-fold less expression reads from the other sex was mapped to this contig.
+Enrichment analysis[c] Gene ontology based enrichment analysis was performed on genes a) predominantly expressed in female gonad tissue and b) predominantly expressed in male gonad tissue, using DAVID (what it stands for). Specifically the Swiss-Prot annotation were used and the sex-predominant genes were compares to the complete annotated transcriptome as the background. 
 
 
-Interested particularly on genes involved in reproductive biology, we examined the transcriptome for a previously described gene sets. One suite of genes previously characterized is from Dheilly et al. (2012), where researchers described sex and stage specific genes in C. gigas. To make this comparison, the fasta file corresponding to the Dheilly et al. (2012) study microarray study (available from Olson and Roberts, 2014) was compared to the P. generosa transcriptome using Blastn (E value 1E-60) and SQLShare used to join with Dheilly et al. (2012) supplemental Table 1 (sex-specific genes) and supplemental Table 2 (gametogenesis differential expression).
-
-
-General differences in gene expression between males and females were detected by mapping reads (CLC Genomics v8.5) from male or female quality trimmed reads to the assembled contigs. A set of contigs were classified as highly expressed in the male library or female library based on the following parameters:  ..at least 200 unique reads mapped a contig and no reads from the other sex was mapped to this contig.[s]
-
-
-CpG-methods
-Germline methylation levels were inferred based on the hypermutability of methylated cytosines, which convert to thymines over evolutionary time. This results in a reduction in CpG dinucleotides, meaning that heavily methylated genomic regions are associated with reduced numbers of CpGs. Thus, methylation patterns that have been inherited through the germline over evolutionary time can be estimated using the ratio of observed to expected CpG, known as CpG O/E. Germline DNA methylation estimated by analysis of CpG O/E is highly correlated with direct assays of methylation (Suzuki 2007, Sarda 2012, Gavery 2013). CpG O/E was defined as:
-CpG O/E = (number of CpG / number of C x number of G) x (l2/l-1)
-where l is the number of nucleotides in the contig.
-Only annotated sequences were used for calculation of CpG O/E to increase the likelihood that sequences were oriented in the 5' to 3' direction.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Microsatellite
-Contigs were analyzed with msatcommander (Faircloth, 2008) in order to detect possible microsatellites in P. generosa transcriptome. Search parameters were for di- (8 repeats), tri- (8 repeats), tetra- (6 repeats), penta- (6 repeats) and hexanucleotide (6 repeats), looking only for perfect repeats and for primer design default conditions were used (100-450 segment length, primer size 18-22, Tm 58-62, GC% 30-70).
+Microsatellite Discovery
+Contigs were analyzed with Msatcommander (Faircloth 2008) in order to detect possible microsatellites in P. generosa transcriptome. Search parameters were for di- (8 repeats), tri- (8 repeats), tetra- (6 repeats), penta- (6 repeats) and hexanucleotide (6 repeats), looking only for perfect repeats and for primer design default conditions were used (100-450 segment length, primer size 18-22, Tm 58-62, GC% 30-70).
 
 
 ________________
@@ -97,22 +54,42 @@ Results
 
 
 Assembly
-A total of 443,468,476 reads was obtained and the de novo assembly resulted in a total of 153,982 transcript contigs, after removing any non-eukaryotic matched sequences[t], with an average contig length of 660 bp and an N50 value of 1015 bp[u] and a GC content of 37%. Consider comparison based on TransRate[v]. Raw sequence reads from the two libraries (pooled male gonad, pooled female gonad) have been deposited in the NCBI SRA database as project SRP072283. The assembled contigs are available at ???  
+A total of 443,468,476 reads was obtained and the de novo assembly resulted in a total of 153,982 transcript contigs with a mean contig length of 660 bp and an N50 value of 1015 bp and a GC content of 37%. Raw sequence reads from the two libraries (pooled male gonad, pooled female gonad) have been deposited in the NCBI SRA database as project SRP072283. The assembled contigs (Geoduck-transcriptome-v3.fa) are available at https://osf.io/3xf6m/. A total of 153,982 contigs was obtained with 101 Mb and an N50 of 1015 b, GC content of 36% and CpG of a 0.5477. The smallest contig was 201 bp and the largest was 18024 bp.
+Annotation
+Of the 153,982 contigs, 25,963 contigs were found to have a match with tested databases (Figure 1; supplemental file: Contig-annotations.tab at https://osf.io/3xf6m/ ). A total of 22,974 (15%) had similarity with proteins in the UniProtKB/Swiss-Prot database, and their corresponding Gene Ontology (GO) information was obtained for 21,683 contigs and 21364 PFAM matches. A total of 19,393 (12.59%) contigs were annotated to Biological Processes of GO. Protein similarities were 19.01 % RNA metabolism, 17.93 % transport, 16.42 % protein metabolism and 10.36 % developmental processes (Figure 2).
+ A total of 11823 and 2859 contigs matched the GigaTON and Ruphibase databases representing 43.61 % [11823/27108] and 8.77 % [2859/ 32606] of the transcriptomes of C. gigas and R. phillippinarum, respectively. 
+        Panopea generosa contigs were also compared to a set of Crassostrea gigas genes that were previously described as 1) sex-specific expressed genes and 2) gene whose expression changed during gonad development (Dheilly et al. 2012) . Two Panopea contigs matched had matches with the 77 genes determined to be sex-specific including comp142444_c0_seq2 Forkhead box protein L2 and comp137246_c1_seq24 Actin, which were more expressed in female and male oysters, respectively (Dheilly et al. 2012). In comparing our contigs with oyster sequences whose expression changed during gonad development in 161 matched including geoduck sequences corresponding to genes expressed in gonads in early gonad developmental stages (7; Dheilly_Cluster 1), with increasing expression during spermatogenesis (44;  Dheilly_Cluster 5-6), with increasing expression during oogenesis (31; Dheilly_Cluster 2-4) and genes with varying expression level during gonadogenesis in both sexes (79; Dheilly_Cluster 7-10)  (supplemental file: Contig-annotaions.tab at https://osf.io/3xf6m/ ).
 
 
 
 
 
 
-Annotation[w]
-Of the 153,982 contigs, 22,974 (15%) had similarity with proteins in the Swiss-Prot/Uniprot database, and their corresponding Biological Process Gene Ontology information was obtained[x] for 19, 393 contigs (13%). The most common annotation was to RNA metabolism with 19 %, followed by transport and protein metabolism with 18 and 16 %, respectively (Figure 3). Reproduction annotation based on ontology was less than 1 % of all contigs. 
 
 
+ Panopea_venn3.png 
+
+Fig. 1.  Panopea generosa transcriptome annotation with different databases UniProtKB/Swiss-Prot, Giga-TON (Riviere et al. 2015) and Ruphibase, (Milan et al. 2011) databases. 
 
 
  Panopea_annotationNoduplicatesnorbacteriaNoother.png 
 
-Fig. 3.  Panopea generosa transcriptome gene ontology (slim) annotation for Biological Processes. Reproduction annotation was extracted from other other biological processe[y][z]s.The remaining other biological and metabolic processes were removed.
+Fig. 2.[d]  Panopea generosa transcriptome gene ontology annotation for Biological Processes. Reproduction annotation was extracted from other other biological processes.The remaining other biological and metabolic processes were removed.
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+Fig. 3.[e]
 
 
 
@@ -121,59 +98,71 @@ Fig. 3.  Panopea generosa transcriptome gene ontology (slim) annotation for Biol
 
 
 
+Gene Expression
+        While there are not sufficient samples to properly perform differential gene expression we did identify a suite of genes determined to be highly expressed in either males or females, 171 and 381[f] contigs, respectively. As would be expected, enrichment analyses of contigs highly expressed in males revealed enriched biological processes including intracellular signal transduction (GO:0035556
+p<0.02), spermatid development (GO:0007286, p<0.02), and flagellum-dependent cell motility (GO:0001539, p<0.02). Enriched biological processes identified in genes at high levels predominantly in females include homophilic cell adhesion via plasma membrane adhesion molecules (GO:0007156,
+ p<0.02), serotonergic neuron axon guidance (GO:0036515,  p<0.02), and dopaminergic neuron axon guidance (GO:0036514,  p<0.02).
+
+
+ Females.png 
+
+ Females_males.png 
+
+ Males.png 
+
+ Males_females.png 
 
 
 
 
-A total of 11823 and 2859 contigs matched the GigaTON and Ruphibase databases representing xxxxxx % [11823/xxx][aa] and 8.77 % [2859/ 32606] of the transcriptomes of C. gigas and R. phillippinarum, respectively. When comparing the  P. generosa transcriptome with previously described gene sets, two contigs were identified as putatively sex-specific based on work in C. gigas (Fig. 5). This includes contig comp142444, analogous to Forkhead box protein L2 and comp137246 with homology to actin, cytoplasmic A3a and comp142462_c1_seq1 analogous to the sperm-associated antigen 6 (involved in sperm motility). $$$need to confirm not non-euk$$$[ab]. 
 
+ Captura de pantalla 2017-03-10 a la(s) 10.43.45.png 
 
-
-
- Dheillyscomparisson.png 
-[ac]
-Fig. 5. Transcriptome comparison between the Pacific oyster, C. gigas (Dheilly et al. 2012), and the Geoduck, P. generosa. 
-
-
-
-
-
-
-Differential Expression[ad]
-A total of 148 and 198 contigs[ae] were expressed only in male and female gonads respectively. However, only 36 and 44 contigs were annotated, respectively. Genes include testis-specific serine/threonine-protein kinase 1 and testis-specific kinase 4, which are involved spermatid development and in a signaling pathway during male germ cell development or mature sperm function[af][ag][ah]. 
-
-
-There were 173 contigs that corresponded to gene identified in C. gigas to be differentially expressed through gametogenesis[ai].
-
-
-
-
+CpG Observed / Expected Ratio
 Microsatellites
-A total of 1366 microsatellites was found, of which 1330 (97.4 %) were dinucleotide microsatellites (Table 3), and the most common repetition motif was AT. The tetranucleotide microsatellites were the second most common, but only with 1.4% of the total found, and the motifs AAAC and AACC were the most common .Only 13 trinucleotide microsatellites were found and the ATC motif was the most common (61.54). However, primers could be designed for 112  microsatellites, 100 dinucleotide, nine trinucleotide and three tetranucleotide.
+A total of 1366 microsatellites was found, of which 1330 (97.4 %) were dinucleotide microsatellites (Table 3), and the most common repetition motif was AT. The tetranucleotide microsatellites were the second most common, but only with 1.4% of the total found, and the motifs AAAC and AACC were the most common. Only 13 trinucleotide microsatellites were found and the ATC motif was the most common (61.54). However, primers could be designed for 112  microsatellites, 100 dinucleotide, nine trinucleotide and three tetranucleotide.
 
 
-
-
+CHECK MICRO ANNOTATION 
 
 
 Discussion
-In recent years and thanks to the development of sequencing techniques has allowed to obtain  several transcriptomic studies on gonads of several bivalves, such as Pinctada margaritifera (Teaniniuraitemoana et al., 2014), Cristaria plicata (Patnaik et al., 2016) Patinopecten yessoensis (Li et al., 2016) and also in gasteropods such as abalone (Valenzuela-Muñoz et al., 2014). These studies focus on the identification of genes involved in reproduction, reproductive regulation, gonad development, sex determination among others. In the present work, we report the transcriptome for Panopea generosa related to male and female gonad tissues. To our knowledge, this is the first reproduction[aj] related transcriptome of this species, and this information would be very useful in other reproduction studies mainly for aquaculture purposes.
-High throughput sequencing equipment and technologies produce different number of reads. However, it seems that the number of annotated contigs does not depend on the size of the databases, but it may depend on the number of databases used for comparison and whether or not there is a database similar to the species in concern. The total number of reads in this study was smaller (443,468,476) than the those obtained in P. margaritifera (2,125,798,302) [ak]
-The geoduck, P. generosa, does not have a complete genome description, thus a de novo assembling had to be carried out. This may be the reason why the low number of annotated sequences, as well as the use of Swissprot Uniprot reference proteins. When the total number of contigs considered for the transcriptomes of C. gigas and R. phillipinarum (38316 and 32606 respectivelly) the 19, 393 contigs would suggest that about half of the P. geneosa could have been characterized.
 
 
+1. Novel Genes  --- SR - Figure out how unique this is - # novel genes. 
+2. Sex Specific MA already annotated  
+3. CpG   -----  My Part Discussion
+4. Markers
+
+
+
+
+
+
+
+
+
+
+
+
+In recent years and thanks to the development of sequencing techniques has allowed to obtain  several transcriptomic studies on gonads of several bivalves, such as Pinctada margaritifera (Teaniniuraitemoana et al. 2014), Cristaria plicata (Patnaik et al. 2016) Patinopecten yessoensis (Li et al. 2016) and also in gastropods such as abalone (Valenzuela-Muñoz et al. 2012). These studies focus on the identification of genes involved in reproduction, reproductive regulation, gonad development, sex determination among others. In the present work, we report the transcriptome for Panopea generosa related to male and female gonad tissues. To our knowledge, this is the first reproduction[g] related transcriptome of this species, and this information would be very useful in other reproduction studies mainly for aquaculture purposes.
+High throughput sequencing equipment and technologies produce different number of reads. However, it seems that the number of annotated contigs does not depend on the size of the databases, but it may depend on the number of databases used for comparison and whether or not there is a database similar to the species in concern. The total number of reads in this study was smaller (443,468,476) than the those obtained in P. margaritifera (2,125,798,302) 
+The geoduck, P. generosa, does not have a complete genome description, thus a de novo assembling had to be carried out. This may be the reason why the low number of annotated sequences, as well as the use of UniProtKB/Swiss-Prot reference proteins. When the total number of contigs considered for the transcriptomes of C. gigas and R. phillipinarum (38316 and 32606 respectively) the 19, 393 contigs would suggest that about half of the P. generosa could have been characterized.
 
 
 Annotation
-The most common biological processes in P. yessoensis gonads were a) organic substance metabolic, b) primary metabolic and cellular processes (Li et al., 2016), while in C. plicata were a) cellular, b) metabolic and c) single cell processes (Patnaik et al., 2016). In the case of P. margaritifera the most common biological processes were a) cellular, b) metabolic and biological regulation (Teaniniuraitemoana et al., 2014). However, in P. generosa, there were several differences, because the highest annotation, after removing all other biological and other metabolic processes, transport (18%), RNA metabolism (19%) and protein metabolism (16%) (Fig. 3). Gene expression depends on several factors
+The most common biological processes in P. yessoensis gonads were a) organic substance metabolic, b) primary metabolic and cellular processes (Li et al. 2016), while in C. plicata were a) cellular, b) metabolic and c) single cell processes (Patnaik et al. 2016). In the case of P. margaritifera the most common biological processes were a) cellular, b) metabolic and biological regulation (Teaniniuraitemoana et al. 2014). However, in P. generosa, there were several differences, because the highest annotation, after removing all other biological and other metabolic processes, transport (18%), RNA metabolism (19%) and protein metabolism (16%) (Fig. 2). Gene expression depends on several factors
  
 
 
 
 
 Sex specific genes. 
-Sex determination in bivalves has been studied by several authors (Guo et al., 1998; Hedrick and Hedgecock, 2010). Beside environmental factors, 2-genotype (Guo et al., 1998) and 3-genotype models (Hedrick and Hedgecock, 2010) have been proposed for the Crassostrea gigas sex determination. In the case of P. generosa, further research has to be carried out to elucidate the sex determination and whether the sex-related genes found in this study have a higher roll in this determination or environmental factors are more important. In this study, we used female at stages 1, 5 and 6, while for males we used stages 1 and 3. These conditions could have influenced the number of transcripts [al]
-A total of 17 perfect and combined microsatellites loci have described in the GenBank for P. abrupta (=generosa)  (Vadopalas and Bentzen, 2000; Vadopalas et al., 2004) (Kaukinen,K.H., Supernault,J. and Miller,K.M. unpublished), June, 30th, 2016), which have been used for population differentiation (Suárez-Moo et al., 2016; Vadopalas et al., 2004). In this work, we found 112 microsatellites with designed primers, which could be considered for further analysis to check their importance for aquaculture purposes. 
+Sex determination in bivalves has been studied by several authors (Guo et al. 1998); (Hedrick and Hedgecock 2010). Beside environmental factors, 2-genotype (Guo et al. 1998) and 3-genotype models (Hedrick and Hedgecock 2010) have been proposed for the Crassostrea gigas sex determination. In the case of P. generosa, further research has to be carried out to elucidate the sex determination and whether the sex-related genes found in this study have a higher roll in this determination or environmental factors are more important. In this study, we used female at stages 1, 5 and 6, while for males we used stages 1 and 3. These conditions could have influenced in the number of transcripts related with sex determination and gonad development. However, we were able to find some sex-related genes expressed in females (Vitellogenin-6) and males (). 
+Vitellogenin-6 (contig comp144315_c1_seq1) is the precursor of the egg-yolk proteins, which are source of nutrients during embryonic development. Vitellogenin-6 is considered as a female specific gene (Teaniniuraitemoana et al., 2014), however, vitellogenin in other mollusk is not female specific (i. e. abalone, López-Landavery et al. 2017), as it was found to be also expressed in males of P. generosa. 
+Dynein heavy chains (chains 1, 3, 6 and 7) were found only in male gonads and  are involved in sperm motility. 
+Alpha-scruin, threonine-protein kinase (TSK-1, TSK-2, TSK-5) and sperm-specific protein PL-1 were found overexpressed in  males (males >females).  Alpha-scruin is an actin bundling protein found in the acrosomal sperm process. TSK-1 and 2 are required, during spermatogenesis, “for the transformation of a ring-shaped structure around the base of the flagellum originating from the chromatoid body” (Uniprot description), while TSK-5 may be involved in a signaling pathway during male germ cell development or mature sperm function.         Sperm-specific protein PL-1 is involved in the process of spermatid maturation into spermatozoa. 
+Foxl2 (Pmarg-foxl2) has been found genes encoding for proteins involved in female sex differentiation in P. margaritifera. While in P. generosa
 
 
 
@@ -182,8 +171,10 @@ A total of 17 perfect and combined microsatellites loci have described in the Ge
 
 
 
+A total of 17 perfect and combined microsatellites loci have described in the GenBank for P. abrupta (=generosa)  (Vadopalas and Bentzen 2000); (Vadopalas et al. 2004) (Kaukinen,K.H., Supernault,J. and Miller,K.M. unpublished, June, 30th, 2016), which have been used for population differentiation (Suárez-Moo et al. 2016); (Vadopalas et al. 2004). In this work, we found 112 microsatellites with designed primers, which could be considered for further analysis to check their importance for aquaculture purposes. 
 
 
+UN DESCRIBED GENES
 
 
 
@@ -204,109 +195,25 @@ A total of 17 perfect and combined microsatellites loci have described in the Ge
 
 
 
+Acknowledgements
 
 
+The present work was funded by 
+And as a collaboration between the University of Washington and CICESE.
 
 
-References
-Andersen (1971)                                                                             
-Andersen, A. M. J. 1971. Spawning, growth, and spatial distribution of the geoduck clam, Panopea generosa (Gould) in Hood Canal. PhD diss., University of Washington. 132 pp
-                                
-                        
-                
-         
 
 
-Andrews, S. 2010. “FastQC: A Quality Control Tool for High Throughput Sequence Data.” http://www.bioinformatics.babraham.ac.uk/projects/ fastqc
 
 
-Arcos-Ortega et al (2015)
-Arcos-Ortega, F. G., León-Hing, S. J. S., Rodriguez-Jaramillo, C., Burgos-Aceves, M. A., Giffard-Mena, I., & García-Esquivel, Z. (2015). Biochemical and histochemical changes associated with gonad development of the Cortez geoduck, Panopea globosa (Dall 1898), from the Gulf of California, Mexico. Journal of Shellfish Research, 34(1), 71-80.
-  
 
 
-Campbell and Ming (2003; 12:1) 
-Campbell, A., & Ming, M. D. (2003). Maturity and growth of the Pacific geoduck clam, Panopea abrupta, in southern British Columbia, Canada. Journal of Shellfish Research, 22(1), 85-90.
+References → I don’t see references to these in text yet. 
 
 
-                                
-                        
-                
-         
-
-
-Crandall, Grace; Roberts, Steven (2016): Reproductive Maturation in Geoduck clams (Panopea generosa). figshare.
-https://dx.doi.org/10.6084/m9.figshare.3205975.v1
-Retrieved: 18 30, Jul 11, 2016 (GMT)
-
-
-Dheilly, Nolwenn M, Christophe Lelong, Arnaud Huvet, Kristell Kellner, Marie-Pierre Dubos, Guillaume Riviere, Pierre Boudry, and Pascal Favrel. (2012). Gametogenesis in the Pacific Oyster Crassostrea Gigas: A Microarrays-Based Analysis Identifies Sex and Stage Specific Genes. PloS One 7 (5) (January 9): e36353. doi:10.1371/journal.pone.0036353. http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036353
-Dheilly, N. M., Lelong, C., Huvet, A., Kellner, K., Dubos, M. P., Riviere, G., Boudry, P. & Favrel, P. (2012). Gametogenesis in the Pacific oyster Crassostrea gigas: a microarrays-based analysis identifies sex and stage specific genes. PloS one, 7(5), e36353.
-
-
-
-
-Eversole 1989, 
-
-
-Faircloth, B., 2008. MSATCOMMANDER: detection of microsatellite repeat arrays and automated, locus-specific primer design. Mol. Ecol. Resour. 8, 92–94.
-
-
-Gavery 2013
-
-
-Grabherr MG, Haas BJ, Yassour M, Levin JZ, Thompson DA, Amit I, Adiconis X, Fan L, Raychowdhury R, Zeng Q, Chen Z, Mauceli E, Hacohen N, Gnirke A, Rhind N, di Palma F, Birren BW, Nusbaum C, Lindblad-Toh K, Friedman N, Regev A. Full-length transcriptome assembly from RNA-seq data without a reference genome. Nat Biotechnol. 2011 May 15;29(7):644-52. doi: 10.1038/nbt.1883. PubMed PMID: 21572440.
-
-
-Gribben and Creese (2003)
-Gribben, P. E. & R. G. Creese. 2003. Protandry in the New Zealand geoduck, Panopea zelandica (Mollusca, Bivalvia). Invertebr. Reprod. Dev. 44:119–129.
-                                
-                        
-                
-          
-Guo, X., Hedgecock, D., Hershberger, W.K., Cooper, K., Allen, S.K., 1998. Genetic Determinants of Protandric Sex in the Pacific Oyster, Crassostrea gigas Thunberg. Evolution (N. Y). 52, 394. doi:10.2307/2411076
-Hedrick, P.W., Hedgecock, D., 2010. Sex Determination: Genetic Models for Oysters. J. Hered. 101, 602–611. doi:10.1093/jhered/esq065
-Li, Y., Zhang, L., Sun, Y., Ma, X., Wang, J., Li, R., Zhang, M., Wang, S., Hu, X., Bao, Z., 2016. Transcriptome Sequencing and Comparative Analysis of Ovary and Testis Identifies Potential Key Sex-Related Genes and Pathways in Scallop Patinopecten yessoensis. Mar. Biotechnol. 1–13. doi:10.1007/s10126-016-9706-8
-
-
-Marshall, R., McKinley, R. S., & Pearce, C. M. (2012). Effect of temperature on gonad development of the Pacific geoduck clam (Panopea generosa Gould, 1850). Aquaculture, 338, 264-273.
-  
-Marshall, R., McKinley, R. S., & Pearce, C. M. (2014). Effect of ration on gonad development of the Pacific geoduck clam, Panopea generosa (Gould, 1850). Aquaculture Nutrition, 20(4), 349-363.
-
-
-
-
-
-
-Milan, M., Coppe, A., Reinhardt, R., Cancela, L.M., Leite, R.B., Saavedra, C., Ciofi, C., Chelazzi, G., Patarnello, T., Bortoluzzi, S., Bargelloni, L., 2011. Transcriptome sequencing and microarray development for the Manila clam, Ruditapes philippinarum: genomic tools for environmental monitoring. BMC Genomics 12, 234. doi:10.1186/1471-2164-12-234
-Patnaik, B.B., Wang, T.H., Kang, S.W., Hwang, H.-J., Park, S.Y., Park, E.B., Chung, J.M., Song, D.K., Kim, C., Kim, S., Lee, J.S., Han, Y.S., Park, H.S., Lee, Y.S., 2016. Sequencing, De Novo Assembly, and Annotation of the Transcriptome of the Endangered Freshwater Pearl Bivalve, Cristaria plicata, Provides Novel Insights into Functional Genes and Marker Discovery. PLoS One 11, e0148622. doi:10.1371/journal.pone.0148622
-Plazzi, F., Ceregato, A., Taviani, M., Passamonti, M., 2011. A Molecular Phylogeny of Bivalve Mollusks: Ancient Radiations and Divergences as Revealed by Mitochondrial Genes. PLoS One 6, e27147. doi:10.1371/journal.pone.0027147
-Riviere, G., Klopp, C., Ibouniyamine, N., Huvet, A., Boudry, P., Favrel, P., 2015. GigaTON: an extensive publicly searchable database providing a new reference transcriptome in the pacific oyster Crassostrea gigas. BMC Bioinformatics 16, 401. doi:10.1186/s12859-015-0833-4
-
-
-
-
-Sloan and Robinson (1984, 9:1),
-Sloan, N. A. & M. C. Robinson. 1984. Age and gonad development in the geoduck clam Panopea abrupta (Conrad) from southern British Columbia, Canada. J. Shellfish Res. 4:131–137. 
-
-
-Sarda 2012, 
-Suárez-Moo, P. de J., Gilbert-Horvath, E.A., Vadopalas, B., Calderon-Aguilera, L.E., Garza, J.C., Rocha-Olivares, A., 2016. Genetic homogeneity of the geoduck clam Panopea generosa in the northeast Pacific. Biochem. Syst. Ecol. 65, 66–71. doi:10.1016/j.bse.2016.02.003
-Suzuki 2007, 
-Teaniniuraitemoana, V., Huvet, A., Levy, P., Klopp, C., Lhuillier, E., Gaertner-Mazouni, N., Gueguen, Y., Le Moullac, G., 2014. Gonad transcriptome analysis of pearl oyster Pinctada margaritifera: identification of potential sex differentiation and sex determining genes. BMC Genomics 15, 491. doi:10.1186/1471-2164-15-491
-
-
-
-
-
-
-Walker & Heffernan 1994
-
-
-Vadopalas, B., Bentzen, P., 2000. Isolation and characterization of di- and tetranucleotide microsatellite loci in geoduck clams, Panopea abrupta. Mol. Ecol. 9, 1435–1436. doi:10.1046/j.1365-294X.2000.01000-2.x
-Vadopalas, B., Davis, J.P., Friedman, C.S., 2015. Maturation, Spawning, and Fecundity of the Farmed Pacific Geoduck Panopea generosa in Puget Sound, Washington. J. Shellfish Res. 34, 31–37. doi:10.2983/035.034.0106.
-Vadopalas, B., Leclair, L.L., Bentzen, P., 2004. Microsatellite and allozyme analyses reveal few genetic differences among spatially distinct aggregations of geoduck clams (Panopea abrupta, conrad 1849). J. Shellfish Res. 23, 693–706.
-Valenzuela-Muñoz, V., Bueno-Ibarra, M. a., Escárate, C.G., 2014. Characterization of the transcriptomes of Haliotis rufescens reproductive tissues. Aquac. Res. 45, 1026–1040. doi:10.1111/are.12044
+Trim Galore v0.4.0 (Krueger, 2013)[h]
+Krueger, F. (2015). Trim Galore. A wrapper tool around Cutadapt and FastQC to consistently apply quality and adapter trimming to FastQ files.
+This? http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/ (-Grace) 
 
 
 
@@ -326,12 +233,8 @@ Fig. 1. Contig length distribution of the Pacific geoduck, Panopea generosa, tra
  BiologicalFunctionProcessCellC.png 
 
 Fig. 2 Distribution of the contigs with Biological process (P), with cellular component (C), and or molecular function (F). Function, contigs, percent (%).
-Protein similarities were 19.01 % RNA metabolism, 17.93 % transport, 16.42 % protein metabolism and 10.36 % developmental processes (Fig. ).
 
 
- Panopea_annotationNoduplicatesnorbacteriaNoother.png 
-
-Fig. 3.  Panopea generosa transcriptome gene ontology annotation for Biological Processes. Reproduction annotation was extracted from other other biological processes.The remaining other biological and metabolic processes were removed.
  Geoduck-tranv3-blastx_P.png 
 
 Fig. 4. The lists of GO terms, were summarized with REVIGO http://http://revigo.irb.hr/ by clustering semantically close GO terms into categories (in different color) of cellular processes.
@@ -374,12 +277,8 @@ Table 1. Summary statistics of P. generosa gonad transcriptome sequencing, assem
 	 
 	198
 	 
-	 
-	 
-	 
-	 
-	 
-	Assembly
+[i]	
+Assembly
 	 
 	 
 	 
@@ -442,39 +341,9 @@ Table 1. Summary statistics of P. generosa gonad transcriptome sequencing, assem
 	43,616
 (62.2%)
 	 
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	1 (Patnaik et al., 2016)
-2 (Teaniniuraitemoana et al., 2014)
-3 (Li et al., 2016)
+	1 (Patnaik et al. 2016)
+2 (Teaniniuraitemoana et al. 2014)
+3 (Li et al. 2016)
 + non-eukaryote contigs removed
 
 
@@ -488,16 +357,12 @@ Table 1. Summary statistics of P. generosa gonad transcriptome sequencing, assem
 
 
 
-Table 2. Summary of Geoduck transcriptome (v3) contig length, GC and CpG content
+Table 2. Summary of Geoduck transcriptome (v3) contig length, GC and CpG (observed/expected) content (n=153982)
 
 
-	length
+	Length
 	GC
 	CpG
-	count
-	153982
-	153982
-	153982
 	mean
 	660.440
 	36.035
@@ -691,51 +556,52 @@ Microsatellite type and motives
 	 
 
 
-[a]http://www.fao.org/fishery/statistics/global-aquaculture-production/query/en
-[b]panopea is incluided in clams! but I couldn´t find it just alone
-[c]http://www.dfo-mpo.gc.ca/aquaculture/sector-secteur/species-especes/clams-myes-eng.htm
-[d]http://www.el-mexicano.com.mx/informacion/noticias/1/3/estatal/2015/09/23/886139/cultivaran-almeja-generosa-en-litorales-de-baja-california
-[e]CESAIBC
-http://www.cesaibc.org/sitio/directorio.php
+References 
+Andersen AMJ (1971) Spawning, growth, and spatial distribution of the geoduck clam, Panopea generosa (Gould) in Hood Canal. Doctor of Philosphy, University of Washington
+Andrews S (2010) FastQC: A Quality Control Tool for High Throughput Sequence Data.
+Arcos-Ortega FG, Sánchez León-Hing SJ, Rodriguez-Jaramillo C, et al (2015) Biochemical And Histochemical Changes Associated with Gonad Development of the Cortez Geoduck, Panopea globosa (Dall 1898), from the Gulf of California, Mexico. J Shellfish Res 34:71–80.
+Calderon-Aguilera LE, Aragón-Noriega EA, Reyes-Bonilla H, et al (2010) Reproduction of the Cortes Geoduck Panopea globosa (Bivalvia: Hiatellidae) and Its Relationship with Temperature and Ocean Productivity. J Shellfish Res 29:135–141.
+Campbell A, Ming MD (2003) Maturity and growth of the Pacific geoduck clam, Panopea abrupta, in southern British Columbia, Canada. J Shellfish Res 22:85–90.
+CESAIBC (2016) Directorio de productores acuícolas de moluscos 2016. In: Comité Estatal de Sanidad Acuícola e Inocuidad de Baja California. http://www.cesaibc.org/sitio/directorio.php.
+Crandall G, Roberts S (2016a) Reproductive Maturation in Geoduck clams (Panopea generosa).
+Crandall G, Roberts S (2016b) Reproductive Maturation in Geoduck clams (Panopea generosa). https://figshare.com/articles/Reproductive_Maturation_in_Geoduck_clams_Panopea_generosa_/3205975/1.
+de Sousa JT, Milan M, Pauletto M, et al (2015) A microarray-based analysis of oocyte quality in the European clam Ruditapes decussatus. Aquaculture 446:17–24.
+Dheilly NM, Lelong C, Huvet A, et al (2012) Gametogenesis in the Pacific oyster Crassostrea gigas: a microarrays-based analysis identifies sex and stage specific genes. PLoS One 7:e36353.
+Eversole AG (1989) Gametogenesis and spawning in North American clam populations: implications for culture. Clam Mariculture in North America Developments in Aquaculture and Fisheries Science 19:75–109.
+Faircloth BC (2008) msatcommander: detection of microsatellite repeat arrays and automated, locus-specific primer design. Mol Ecol Resour 8:92–94.
+Goodwin CL (1976) Observations on spawning and growth of subtidal geoducks (Panope generosa, Gould). In: Proceedings of the National Shellfisheries Association. pp 49–58
+Grabherr MG, Haas BJ, Yassour M, et al (2011) Full-length transcriptome assembly from RNA-seq data without a reference genome.
+Gribben PE, Creese RG (2003) Protandry in the New Zealand geoduck, Panopea zelandica (Mollusca, Bivalvia). Invertebr Reprod Dev 44:119–129.
+Guo X, Hedgecock D, Hershberger WK, et al (1998) Genetic Determinants of Protandric Sex in the Pacific Oyster, Crassostrea gigas Thunberg. Evolution 52:394.
+Hedrick PW, Hedgecock D (2010) Sex determination: genetic models for oysters. J Hered 101:602–611.
+Li Y, Zhang L, Sun Y, et al (2016) Transcriptome Sequencing and Comparative Analysis of Ovary and Testis Identifies Potential Key Sex-Related Genes and Pathways in Scallop Patinopecten yessoensis. Mar Biotechnol 18:453–465.
+López-Landavery, Edgar A., Amelia Portillo-López, Cristian Gallardo-Escárate, and Miguel A. Del Río-Portilla. 2017. “Sex-Related Genes Expression in Juveniles of Red Abalone, Haliotis Rufescens (Swanson, 1822).” Invertebrate Reproduction & Development 61 (1): 58–69. doi:10.1080/07924259.2017.1282383.
+Marshall R, McKinley RS, Pearce CM (2012) Effect of temperature on gonad development of the Pacific geoduck clam (Panopea generosa Gould, 1850). Aquaculture 338–341:264–273.
+Milan M, Coppe A, Reinhardt R, et al (2011) Transcriptome sequencing and microarray development for the Manila clam, Ruditapes philippinarum: genomic tools for environmental monitoring. BMC Genomics 12:234.
+Olson CE, Roberts SB (2014) Genome-wide profiling of DNA methylation and gene expression in Crassostrea gigas male gametes. Front Physiol. doi: 10.3389/fphys.2014.00224
+Patnaik BB, Wang TH, Kang SW, et al (2016) Sequencing, De Novo Assembly, and Annotation of the Transcriptome of the Endangered Freshwater Pearl Bivalve, Cristaria plicata, Provides Novel Insights into Functional Genes and Marker Discovery. PLoS One 11:e0148622.
+Peñuelas Alarid B (2015) Cultivarán almeja generosa en litorales de Baja California. In: El Mexicano. http://www.el-mexicano.com.mx/informacion/noticias/1/3/estatal/2015/09/23/886139/cultivaran-almeja-generosa-en-litorales-de-baja-california.
+Riviere G, Klopp C, Ibouniyamine N, et al (2015) GigaTON: an extensive publicly searchable database providing a new reference transcriptome in the pacific oyster Crassostrea gigas. BMC Bioinformatics 16:401.
+Shamshak GL, King JR (2015) From cannery to culinary luxury: The evolution of the global geoduck market. Mar Policy 55:81–89.
+Sloan NA, Robinson SMC (1984) Age and gonad development in the geoduck clam Panope abrupta (Conrad) from southern British Columbia, Canada. J Shellfish Res 4:131–137.
+Smith-Unna R, Boursnell C, Patro R, et al (2016) TransRate: reference-free quality assessment of de novo transcriptome assemblies. Genome Res 26:1134–1144.
+Suárez-Moo P de J, de Jesús Suárez-Moo P, Gilbert-Horvath EA, et al (2016) Genetic homogeneity of the geoduck clam Panopea generosa in the northeast Pacific. Biochem Syst Ecol 65:66–71.
+Teaniniuraitemoana V, Huvet A, Levy P, et al (2014) Gonad transcriptome analysis of pearl oyster Pinctada margaritifera: identification of potential sex differentiation and sex determining genes. BMC Genomics 15:491.
+Vadopalas B, Bentzen P (2000) Isolation and characterization of di- and tetranucleotide microsatellite loci in geoduck clams, Panopea abrupta. Mol Ecol 9:1435–1436.
+Vadopalas B, Davis JP, Friedman CS (2015) Maturation, Spawning, and Fecundity of the Farmed Pacific Geoduck Panopea generosa in Puget Sound, Washington. J Shellfish Res 34:31–37.
+Vadopalas B, Leclair LL, Bentzen P (2004) Microsatellite and allozyme analyses reveal few genetic differences among spatially distinct aggregations of geoduck clams. J Shellfish Res 23:693–707.
+Valenzuela-Muñoz V, Bueno-Ibarra MA, Escárate CG (2012) Characterization of the transcriptomes of Haliotis rufescens reproductive tissues. Aquac Res 45:1026–1040.
+Walker RL, Heffernan PB (1994) Temporal and spatial effects of tidal exposure on the gametogenic cycle of the northern quahog, Mercenaria mercenaria (Linnaeus, 1758) in coastal Georgia. J Shellfish Res 13:479–486.
 
 
-Directorio de productores acuícolas de moluscos 2016
-http://www.cesaibc.org/sitio/archivos/Directorio%20de%20Productores%20de%20Moluscos_200116183003.pdf
-[f]more recent reference about these two parameters
-Calderon-Aguilera, L. E., Aragón-Noriega, E. A., Reyes-Bonilla, H., Paniagua-Chavez, C. G., Romo-Curiel, A. E., & Moreno-Rivera, V. M. (2010). Reproduction of the Cortes geoduck Panopea globosa (Bivalvia: Hiatellidae) and its relationship with temperature and ocean productivity. Journal of Shellfish Research, 29(1), 135-141.
-[g]reference?
-[h]reference?
-[i]farmed? wild?
-[j]I found it confuse!!
-[k]similar yet lower?
-2.3:1 similar to 17:1, 9:1 or 12:1
-I think looks really lower than....
-also you are comparing farmed vs wilds ....
-[l]wilds!!!
-[m]"In a hatchery setting, P. generosa should be held at a temperature of 11 °C if reproductive output is to be maximized. Lower temperatures (e.g. 7 °C), however, could be used to hold ripe broodstock for extended periods"
-[n]introduce the objective of it
-[o]for reference: https://github.com/sr320/paper-pano-go/wiki/Quality-trim-output
-[p]for reference: http://onsnetwork.org/halfshell/2015/07/13/second-look-at-geoduck-transcriptome/
-[q]for reference: https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/01.4-Transrate.ipynb
-[r]for reference: https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/01.3-Transcriptome-Completeness.ipynb
-[s]+mdelrio@cicese.mx is this correct?
-[t]for reference: https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/01.1-Removal-nonEuk-sequences.ipynb
-[u]for reference: http://localhost:8888/notebooks/jupyter-nbs/01.4-Transrate.ipynb
-[v]will look into - http://localhost:8888/notebooks/jupyter-nbs/01.4-Transrate.ipynb
-[w]Do we have a big table???
-https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/09-Geo-uniprotfunctions-Final.ipynb ?
-[x]for reference: https://github.com/sr320/paper-pano-go/blob/63f84c78226cb890bbf17b6fe319d47d1d6ebe62/jupyter-nbs/01.2-Geo-Trans-annotation.ipynb
-[y]This does not make sense .. is reproduction not a Slim annotation.
-[z]Yes, it is, but there were so few reproduction genes (9, I think) that they were included in the "other biological processes" category.
-[aa]Need to confirm # of GigoTON sequences for this.
-[ab]comp142444, comp137246 (something is missing from these two),  comp142462_c1_seq1 are eukaryote.
-[ac]This needs consideration - think it might best be in supplemental table.
-[ad]I think a volcano plot would be good for this section.
-[ae]we should indicate these in a table..
-[af]Reference needed for a bivalve or mollusk, the function is from the Uniprot, but it is from mouse.
-[ag]The fact that we state how annotation were done, covers this to a degree..
-[ah]ok
-[ai]are these annotated in a table somewhere?
-[aj]Is this true? I have not found other paper(s)
-[ak]Still working on this paragraph
-[al]explain more
+
+
+[a]I need to verify this
+[b]it is missing,
+[c]I will add this..
+[d]This fig was in discussion, but I think it should be in the results section/
+[e]Add description
+[f]check data
+[g]Is this true? I have not found other paper(s)
+[h]year ok?
+[i]remove this row
