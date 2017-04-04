@@ -21,6 +21,7 @@ There are also several documents that live elsewhere (ie Google Drive) due to re
 
 * [Primer Database](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mrc305%40gmail.com&ctz=America/Los_Angeles)
+* [Lab inventory](https://github.com/sr320/LabDocs/wiki/Lab-Inventory)
 
 ---
 
