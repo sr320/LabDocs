@@ -21,8 +21,9 @@ There are also several documents that live elsewhere (ie Google Drive) due to re
 
 * [Primer Database](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mrc305%40gmail.com&ctz=America/Los_Angeles)
-* [Spreadsheet of contents of drawers/cabinets in FTR 209 and 213](https://docs.google.com/spreadsheets/d/11RA_mlLB-3m_GySnTTuDazDdOi0bCxJu2VERuX9Qfx8/edit#gid=0)
-* [Spreadsheet of contents of metal trays in left -80˚ freezer](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=0)
+* [FTR 209 and 213 Inventory (spreadsheet)](https://docs.google.com/spreadsheets/d/11RA_mlLB-3m_GySnTTuDazDdOi0bCxJu2VERuX9Qfx8/edit#gid=0)
+  * contents of drawers/cabinets
+* [-80˚ Inventory (spreadsheet)](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=0)
 
 ---
 
