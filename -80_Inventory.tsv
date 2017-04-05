@@ -1,0 +1,239 @@
+rack_number	column	row	label	sample_type	species_common_name	species_scientific
+2	1	1	OA RNA Samples Dave species: Pinto Abalone		pinto abalone	Haliotis kamtschatkana
+2	1	2	C.gigas Cu/vt Challenge Gill RNA + DNased RNA	RNA	pacific oyster	Crassostrea gigas
+2	1	3	Hard Clam gill samples in RNA later Rec'd 6/24/10 [1 of 2]		hard clam	Mercenaria mercenaria
+2	1	4	Hard Clam Gill Rutgers Rec'd 11/13/09		hard clam	Mercenaria mercenaria
+2	1	5	Gigas Tissues Copper/Vibrio Exposure (from FISH441)		pacific oyster	Crassostrea gigas
+2	2	1	Hard Clam Hemolymph in RNA Later Rec'd 5/5/10 SJW		hard clam	Mercenaria mercenaria
+2	2	2	Derek Brady 06 March 2012 C.gigas RNA Samples for qPCR Controls(CT) 1-4 Exposed(EST) 1-4		pacific oyster	Crassostrea gigas
+2	2	3	17 AUG 2011 Derek Brady C.gigas Prelim Experiment Green=Control Orange=Estradiol		pacific oyster	Crassostrea gigas
+2	2	4	Hard Clam Tissues Rec'd 9/2/10 From MBL		hard clam	Mercenaria mercenaria
+2	2	5	C.gigas larvae in RNA later Taylor Hatch. indoor 2010 Box 2		pacific oyster	Crassostrea gigas
+2	3	1	C.gigas Larvae - NOAA OA September 2010 Emma		pacific oyster	Crassostrea gigas
+2	3	2	Lisa - FSH507 BLK AB RNA 08:13/14 (Gill)		black abalone	Haliotis cracherodii
+2	3	3	C.gigas Larvae RNA Emma started 5.24.10		pacific oyster	Crassostrea gigas
+2	3	4	Gigas Gill - CO2 vs Air Stress vs NS 11/4/09		pacific oyster	Crassostrea gigas
+2	3	5	Abalone Dg RNA		black abalone	Haliotis cracherodii
+2	4	1	Hard Clam Gill Tissue From MBL Rec'd 10/19/2010		hard clam	Mercenaria mercenaria
+2	4	2	Hard Clam Tissues MAX 1-30, CA 1-30, MA 1-21 Rec'd 8/20/2010		hard clam	Mercenaria mercenaria
+2	4	3	Hard Clam Gill in RNA Later Rec'd 5/5/10		hard clam	Mercenaria mercenaria
+2	4	4	Lexi -80C			
+2	4	5	Hard Clam Hemolymph samples in RNA later Rec'd 6/24/10		hard clam	Mercenaria mercenaria
+1	1	1	Hard Clam V.t. Challenge RNA 5/2/2011		hard clam	Mercenaria mercenaria
+1	1	2	Hard Clam gill samples in RNA later Rec'd 6/24/10 [2 of 2]		hard clam	Mercenaria mercenaria
+1	1	3	Gigas Tissue Vibrio Exposure 1,3hr. 1/11/11		pacific oyster	Crassostrea gigas
+1	1	4	Hard Clam Hemolymph X13-30 From Rutgers Rec'd 10/15/20		hard clam	Mercenaria mercenaria
+1	1	5	C.gigas larvae (@ NOAA) 5/9-6/6/11 Emma		pacific oyster	Crassostrea gigas
+1	2	1	Hard Clam Gill & Hemolymph Gill:X12-30 Hemo: C1-30, M1-30, X1-12 From Rutgers 10/15/10		hard clam	Mercenaria mercenaria
+1	2	2	Hard Clam Hemos X13-30 Rec'd 8/20/10		hard clam	Mercenaria mercenaria
+1	2	3	-80C Storage			
+1	2	4	11/16/09 BX-4 & FL-3 slams scudders (#s 1-15 for both)		hard clam	Mercenaria mercenaria
+1	2	5	Hard Clam Samples From Rutgers Rec'd 6/24/10 Box 2 of 3		hard clam	Mercenaria mercenaria
+1	3	1	Hard Clam Samples From Rutgers Rec'd 6/24/10 Box 1 of 3		hard clam	Mercenaria mercenaria
+1	3	2	Hard Clam Samples From Rutgers Rec'd 6/24/10 Box 3 of 3		hard clam	Mercenaria mercenaria
+1	3	3	Bay & Sea Scallop Project		scallop	
+1	3	4	Dave's Pinto Larvae sep/oc 2010		pinto abalone	Haliotis kamtschatkana
+1	3	5	Gigas Tissues -> pH=7.3 Collected 8/31/09 SJW		pacific oyster	Crassostrea gigas
+1	4	1	Lexie -80C Samples			
+1	4	2	Dave's Hard Clam/QPX RNA	RNA	hard clam, qpx	Mercenaria mercenaria
+1	4	3	Dave's Hard Clam GPX RNA	RNA	hard clam	Mercenaria mercenaria
+1	4	4	Hard Clam Gill in RNA Later C1-30, M1-30, X1-21 From Rutgers Rec'd 10/15/10	tissue	hard clam	Mercenaria mercenaria
+1	4	5	Oyster Disease Resistant Dermo (SRoberts) HemolymphH1-30 (Hemolymph) M1-30 Gill 1825	tissue		
+4	1	1	EE2 Trial: Day 35 Samples Tanks 3 + 4 box 3 of 5		pacific oyster	Crassostrea gigas
+4	1	2	EE2 Trial: Day 35 Samples Tanks 4 + 5 box 4 of 5		pacific oyster	Crassostrea gigas
+4	1	3	EE2 Trial: Day 35 Samples Tanks 5 + 6 box 5 of 5		pacific oyster	Crassostrea gigas
+4	1	4	EE2 Experiment T=0 tissue Samples / 2 week samples 5.16.12 MG	tissue	pacific oyster	Crassostrea gigas
+4	1	5	NOAA - Olympia oyster Box B		olympia oyster	Ostrea lurida
+4	2	1	NOAA - Olympia oyster Box C		olympia oyster	Ostrea lurida
+4	2	2	Sam's RNA Box #1	RNA		
+4	2	3	NOAA - Oly Oyster - "A"		olympia oyster	Ostrea lurida
+4	2	4	EE2 Trial 2 week timepoint 5.30.12 MG Tissue: Gonad	tissue	pacific oyster	Crassostrea gigas
+4	2	5	AL Sockeye Families #2, 7, 10		sockeye salmon	Oncorhynchus nerka
+4	3	1	Sockeye tissue for sonia	tissue	sockeye salmon	Oncorhynchus nerka
+4	3	2	L Jensen 6/09 Sockey Brain RNA	RNA	sockeye salmon	Oncorhynchus nerka
+4	3	3	Dave OA Clam Larvae July/Aug 2011		hard clam	Mercenaria mercenaria
+4	3	4	Acid Shocked AK Families			
+4	3	5	EE2 week 5 Tank 1-2		pacific oyster	Crassostrea gigas
+4	4	1	EE2 Trial: Day 42 Gonad 6.29.12	tissue	pacific oyster	Crassostrea gigas
+4	4	2	Dave's DNased QPX-Hard Clam RNA	RNA	hard clam	Mercenaria mercenaria
+4	4	3	Leslie Jensen 06/09 Sockey Brain in TriReagent	tissue	sockeye salmon	Oncorhynchus nerka
+4	4	4				
+4	4	5	AL Sockeye Family #4		sockeye salmon	Oncorhynchus nerka
+3	1	1	Olympia oyster gonad RNA 7.11.12 (from FHL experiment)	RNA	olympia oyster	Ostrea lurida
+3	1	2	June 09			
+3	1	3	Copepod RNA	RNA		
+3	1	4	Illumina Library Oligos & Barcodes			
+3	1	5	O.lurida Larval RNA (FHL) Day 1, 5.9.12, 5.16.12 Dave	RNA	olympia oyster	Ostrea lurida
+3	2	1	Herring RNA Box #1	RNA	pacific herring	Clupea pallasii
+3	2	2	V.tub + Gigas 12/19/08 8/27/09 V.tub pH 12/8/08			Vibrio tubiashii
+3	2	3	V. tub pH Exp.			Vibrio tubiashii
+3	2	4				
+3	2	5	SB NB WB Juveniles 35x51 Dec 09 C.gigas Bioindicator		pacific oyster	Crassostrea gigas
+3	3	1	Vibrio Protein			Vibrio tubiashii
+3	3	2	EE2v2 T=0 + Day 7 (1.25.13)			
+3	3	3	C.gigas Field Samples Aug 2009 BB, LC, DH		pacific oyster	Crassostrea gigas
+3	3	4	Mac's -80 40C heat Olys/Pacific gonad 12.28.12 80-87" 10.23.12 gill/gonad	tissue	pacific oyster, olympia oyster	Crassostrea gigas, Ostrea lurida
+3	3	5	EE2v2 day 60#111-141 gonad, 160 gill	tissue	pacific oyster	Crassostrea gigas
+3	4	1	Box 3 AA EM			
+3	4	2	Etilet & Ahmed Field Samples 2013 Box 2			
+3	4	3	Ahmed & Etilet Field Samples 2013			
+3	4	4	Juv: NB, SB, WB Adults: SB APBIL2010			
+3	4	5	EE2v2 day 60 71-110			
+5	1	1	970ppm CO2 Exp. Gigas Tissue/Hemos	tissue	pacific oyster	Crassostrea gigas
+5	1	2	Gigas Tissues -> pH = 7.3 Collected 8/31/09 SJW	tissue	pacific oyster	Crassostrea gigas
+5	1	3	Abalone			
+5	1	4	PO CFH Tim Green			
+5	1	5				
+5	2	1	NOAA OA 2011 C.gigas Emma		pacific oyster	Crassostrea gigas
+5	2	2	Tim Green P. RNA			
+5	2	3	Hard Clam QPx Challenge 12/2/09		hard clam, qpx	Mercenaria mercenaria
+5	2	4	C.gigas RNA & cDNA 2010 Box 1 Emma	RNA, cDNA	pacific oyster	Crassostrea gigas
+5	2	5	Emma Cg RNA juv whole body	RNA	pacific oyster	Crassostrea gigas
+5	3	1	Friedman Black Abalone DG for RNA 08:4 Termination - Controls	tissue	black abalone	Haliotis cracherodii
+5	3	2	Hard Clam Tissues MA 22-30 " " Hemos CA 1-30, MA 1-30, X 1-12 Rec'd 8/20/10	tissue	hard clam	Mercenaria mercenaria
+5	3	3	Shellfish RNA Box #4	RNA		
+5	3	4	MV RNA DNAse treated	RNA		
+5	3	5	MV 22-55 Supes & Pellets			
+5	4	1	FL Cytes Lymph 11/16/09 Scudders Lane		hard clam	Mercenaria mercenaria
+5	4	2	BX Hemocytes Lymph Scudders Lane 11/16/09		hard clam	Mercenaria mercenaria
+5	4	3	AL Sockeye Families		sockeye salmon	Oncorhynchus nerka
+5	4	4	Sockeye Pops HRM		sockeye salmon	Oncorhynchus nerka
+5	4	5	Tim Green Gill/Hemocytes RNA Samples Add PO	RNA		
+6	1	1	FISH441 2012 Cyclodextrin RNA & tissue	RNA, tissue		
+6	1	2	FISH441 2012 Oly. tissues	tissue	olympia oyster	Ostrea lurida
+6	1	3	Frozen Stocks Box #1			
+6	1	4	Sam White 7-26-13			
+6	1	5	Andrew Spanjer RNA	RNA		
+6	2	1	Charles RNA			
+6	2	2	FISH441 RNA 2012	RNA		
+6	2	3	FISH441 2012 Pac. oyster tissue	tissue	pacific oyster	Crassostrea gigas
+6	2	4	FISH441 2012 Pac. oyster tissue	tissue	pacific oyster	Crassostrea gigas
+6	2	5	Andrew Spanjer, aspanjer@uw.edu, 360 319 3111			
+6	3	1	Claire - heat shock samples 3/26/13			
+6	3	2	Halley Froehlich -80˚C; Pacific herring GONAD TISSUE (206) 375 4182; hefroehl@uw.edu	tissue	pacific herring	Clupea pallasii
+6	3	3	Halley Froehlich; hefroehl@uw.edu; -80˚C; Pacfic herring GILL TISSUE; (206) 375 4182	tissue	pacific herring	Clupea pallasii
+6	3	4	Halley Froehlich; hefroehl@uw.edu; HIF Box 2 "Threshold" Exp			
+6	3	5	Claire - RNA Extractions	RNA		
+6	4	1	Halley Nelson			
+6	4	2	Andrew Spanjer; Coho RNA; aspanjer@uw.edu; 360-318-3111	RNA	coho	Oncorhynchus kisutch
+6	4	3	Andrew Spanjer ; aspanjer@uw.edu; 360-318-3111			
+6	4	4	Andrew Spanjer; 360 318 3111; aspanjer@uw.edu			
+6	4	5	Claire Spawning experiment samples 5/6/13			
+7	1	1	Shellfish RNA Box #1	RNA		
+7	1	2	Shellfish RNA Box #2	RNA		
+7	1	3	Shellfish RNA Box #3	RNA		
+7	1	4	3398 A & B Gill 3411 A & B			
+7	1	5	Shellfish RNA Box #5	RNA		
+7	2	1	Next Gen Sequencing Libraries			
+7	2	2	unlabeled	RNA		
+7	2	3	Shellfish Tissues Box #1	tissue		
+7	2	4	Sam Protein Extracts	protein		
+7	2	5	Gigas Hemocytes	hemocytes	pacific oyster	Crassostrea gigas
+7	3	1	Aug. 22, 2006			
+7	3	2	Milford Oyster Hemocyte RNA 7.25.01	RNA		
+7	3	3	unlabeled			
+7	3	4	MV-Hemocytes 3219	hemocytes		
+7	3	5	MV-RNA MG Jun 2009	RNA		
+7	4	1	unlabeled			
+7	4	2	Sarah & Emma OA & Vt			
+7	4	3	Sockeye pops HRM UW EtOH preserved	tissues	sockeye salmon	Oncorhynchus nerka
+7	4	4	3326 A & B Hemo			
+7	4	5	3398 A Hemo & RNA	hemolymph, RNA		
+8	1	1	Geoduck Tissue Samples + Hemolymph 1/2/2015 Grace Crandall	tissue, hemolymph	geoduck	Panopea generosa
+8	1	2	Geoduck Proteomics - Ready for MS Emma May 2015		geoduck	Panopea generosa
+8	1	3	Geoduck Tissue Samples 11/7/2014	tissue	geoduck	Panopea generosa
+8	1	4	Geoduck Tissue Samples 2015 Emma	tissue	geoduck	Panopea generosa
+8	2	1	Claire - heat shock samples 3/19/13			
+8	2	2	Claire - heat shock samples 3/26/13			
+8	2	3	C.gigas Larvae - NOAA O.A. September 2010 Emma	larvae	pacific oyster	Crassostrea gigas
+8	2	4	C.gigas Larvae RNA Emma Started 5.24.10	RNA	pacific oyster	Crassostrea gigas
+8	3	1	42315 Oly ctenidia/mantle Mech Heat Control	tissue	olympia oyster	Ostrea lurida
+8	3	2	42315 Oly ctenidia/mantle Mech Heat	tissue	olympia oyster	Ostrea lurida
+8	3	3	Oly 42215 Heat/Mech Stress	tissue	olympia oyster	Ostrea lurida
+8	3	4	Oly 42215 Heat/Mech Stress	tissue	olympia oyster	Ostrea lurida
+8	4	1	Shellfish RNA Box #6	RNA		
+8	4	2	42215 Oly ctenidia RNA Heat/Mech Stress	RNA	olympia oyster	Ostrea lurida
+8	4	3	42315 Oly RNAzol Heat/Mech Stress ctendia	tissue	olympia oyster	Ostrea lurida
+8	4	4	FISH441 RNA 11/25/14	RNA		
+9	1	1	Geoduck OA Putnam Geoduck RNA Samples, 8/23/16 HP	RNA	geoduck	Panopea generosa
+9	1	2	Putnam Geoduck Tissue Homogenates 8-24-16 HP	tissue	geoduck	Panopea generosa
+9	1	3	RNA Geoduck Homogenate in RNAzol 25 Aug 16, HP	RNA	geoduck	Panopea generosa
+9	1	4	8 March 16, HP, Geoduck OA Epigenetics Project, EtOH rinsed samples snap frozen for transcriptomics and epigenetics	tissue ?	geoduck	Panopea generosa
+9	2	1	Geoduck OA Putnam Poly A Purified mRNA, 30 Aug 16, HP	RNA	geoduck	Panopea generosa
+9	2	2	UW - Steven Roberts 360-362-3626 geoduck larvae 2-18-2016	larvae	geoduck	Panopea generosa
+9	2	3	Cutthroat Spring 2016, aspanjer@uw.edu, Evan Seamans DNAsed samples capstone seamea@uw.edu			
+9	2	4				
+9	3	1	Anthroplenra elegantissima, Heat Shock Expt., - 2 anemones - "#1" and "#2" (#1 larger); - animals held at 5˚C for 2 weeks; Heat shocked at 37˚C for one hour; Tentacles sampled before and after	tissue	anemone	
+9	3	2				
+9	3	3				
+9	3	4				
+9	4	1	Bradley -80˚C			
+9	4	2	Bioanalyzer RNA pico ladder aliquots 12/18/15 SJW			
+9	4	3				
+9	4	4				
+10	1	1	C. gigas gill + RNA field Samples 04/09	tissue and RNA	pacific oyster	Crassostrea gigas
+10	1	2	C. gigas field samples Aug 2009, WB + NB		pacific oyster	Crassostrea gigas
+10	1	3	C. gigas field Oct 09, WB, BB, DH, MG		pacific oyster	Crassostrea gigas
+10	1	4	SB, NB, WB Adult C. gigas bioindicator, Dec 09		pacific oyster	Crassostrea gigas
+10	1	5	Juvoyster gill Oct 09 sampling for RNA + gDNA isolations, 11-23-09, MG	RNA and gDNA	pacific oyster	Crassostrea gigas
+10	2	1	C. gigas field samples, Aug 2009, SB		pacific oyster	Crassostrea gigas
+10	2	2	C. gigas field Oct 09, LC, NB		pacific oyster	Crassostrea gigas
+10	2	3	BB, LC, DH C. gigas bioindicator Dec 09 / + WB April 2010		pacific oyster	Crassostrea gigas
+10	2	4	NB, DH, LC, BB, Oyster adults, April 2010		pacific oyster	Crassostrea gigas
+10	2	5	NOAA Oly Box "D"		olympia oyster	ostrea lurida
+10	3	1	5-20-2010 5-azacytidine pilot study (gill and gDNA) MG	tissue and gDNA		
+10	3	2	C. gigas samples from hatchery spawn 7-01-2010		pacific oyster	Crassostrea gigas
+10	3	3	May Sampling C.g gill in RNAlater Box 1, Emma	tissue	pacific oyster	Crassostrea gigas
+10	3	4	May Sampling + July 2010 Cg Gill in RNAlater, BIoindicator, Box 2, Emma	tissue	pacific oyster	Crassostrea gigas
+10	3	5	July 2010, Adult C.gigas gill in RNAlater, Bioindicator, Box 3, Emma	tissue	pacific oyster	Crassostrea gigas
+10	4	1	C. gigas vinclozolin F1 gonad, sampled 12-19-12	tissue	pacific oyster	Crassostrea gigas
+10	4	2	C. gigas vinclozolin F1 gill, sampled 12-19-12	tissue	pacific oyster	Crassostrea gigas
+10	4	3	April 2009, SB,LG,NB			
+11	1	1	EE2, Trial  2 week timepoint, 5-30-2012, tissue: gill, MG	tissue	pacific oyster	Crassostrea gigas
+11	1	2	EE2, C. gigas Oct 2011; methionine C. gigas Dec 2011	tissue	pacific oyster	Crassostrea gigas
+11	1	3	EE2 V2, Day 60, #142 gonad, #161 gill - 190 	tissue	pacific oyster	Crassostrea gigas
+11	1	4	EE2 V2, Day 61, #191 - 230, 71- 	tissue	pacific oyster	Crassostrea gigas
+11	2	1	EE2, Day 61, #231 - 	tissue	pacific oyster	Crassostrea gigas
+11	2	2	EE2, Day 61, #267-300	tissue	pacific oyster	Crassostrea gigas
+11	2	3	EE2 V2, C. gigas, M Gavery, 2-28-2013	tissue	pacific oyster	Crassostrea gigas
+11	2	4	Emma - Proteomics, August 2012			
+11	3	1	Sockeye Salmon DNA low yield samples, C. Stover, 08.28.09	DNA	sockeye salmon	Oncorhynchus nerka
+11	3	2	Sockeye pop.s, HRM, U. Washington		sockeye salmon	Oncorhynchus nerka
+11	3	3	Herring - Seeb Lab, Box 1 of 2		pacific herring	Clupea pallasii
+11	3	4	Herring - Seeb Lab, Box 2 of 2		pacific herring	Clupea pallasii
+11	4	1	NF Olys		olympia oyster	Ostrea lurida
+11	4	2	NF Olys		olympia oyster	Ostrea lurida
+11	4	3	2HL Olys		olympia oyster	Ostrea lurida
+11	4	4	Shellfish RNA Box #5	RNA		
+12	1	1	Olympia oyster tissue, Box 1, August 12, 2015	tissue	olympia oyster	Ostrea lurida
+12	1	2	Olympia oyster tissue, Box 2, August 12, 2015	tissue	olympia oyster	Ostrea lurida
+12	1	3	Geoduck tissue, Box 1, Genome Seq., Aug 11, 2015	tissue	geoduck	Panopea generosa
+12	1	4	Geoduck tissue, Box 2, Genome Seq., Aug 11, 2015	tissue	geoduck	Panopea generosa
+12	2	1	DNR Geoduck, Samples #1-81		geoduck	Panopea generosa
+12	2	2	DNR Geoduck, Samples #82-162	tissue	geoduck	Panopea generosa
+12	2	3	DNA Geoduck, Samples #163-209	tissue	geoduck	Panopea generosa
+12	2	4	C. gigas gill - MAC's DNAsed RNA, Box #1	RNA	pacific oyster	Crassostrea gigas
+12	3	1	DNAsed RNA, 7-5-2011	RNA		
+12	3	2	Invitrogen MethylMiner			
+12	3	3	Rhonda's 2016 Oyster Samples		pacific oyster	Crassostrea gigas
+12	3	4	Rhonda Geoduck 2016		geoduck	Panopea generosa
+12	4	1	Rhonda Elliot, Dr. Roberts, Oyster Samples 2016, 12/5/16		pacific oyster	Crassostrea gigas
+12	4	2	2016 Oyster Samples, back-up desalting 		pacific oyster	Crassostrea gigas
+12	4	3	Rhonda Oyster 2016		pacific oyster	Crassostrea gigas
+12	4	4	Rhonda's Oyster samples 2016		pacific oyster	Crassostrea gigas
+13	1	1	Microbial Samples, Silos # 2, 3, 9 Rhonda 2016	filter paper	pacific oyster	Crassostrea gigas
+13	1	2	Microbial Samples, Silos # 1, 4, 5, 7, 8, 10	filter paper	pacific oyster	Crassostrea gigas
+13	1	3	Laura + Yaamini samples for MS 1/13/17			
+13	1	4	12/7/16. Yaamini DNR Oyster Protein Extractions			
+13	2	1	Laura H. Spencer, DNR Geoduck OA: Protein Extractions; 12/2016		geoduck	Panopea generosa
+13	2	2	Vancouver Transgenic Coho Tissue Samples, 12/2000, SR	tissue	Coho	Oncorhynchus kisutch
+13	2	3	Unknown. Tubes labeled --> FID ### M *or* FID ### g			
+13	2	4	NOAA Oly's Box E			
+13	3	1	Oly (Whole) RNA, 0.1% DEPC H20, 11/11/13, Jake Heare	RNA	oly	Ostrea lurida
+13	3	2	Rhonda Elliot, Roberts Lab, Oyster Seed experiment, 10/14/15		pacific oyster	Crassostrea gigas
+13	3	3	RNA 6000 picoladder, R'cvd Feb 5, 2016			
+13	3	4	09 Sept 16, HP, Putnam Geoduck x OA juvenile homogenated tissue for RNA/DNA	tissue	geoduck	Panopea generosa
+13	4	1	R. Elliot; 200 mM DTT (200µl - aliquots); 200 mM TCEP (200µl - aliquots) made 11/16/16; 200 mM IAA (200µl - aliquots) made 11/23/16			
+13	4	2	Bioanalyzer RNA 6000 picoladder 8-26-16 HP			
+13	4	3	Lys-C (20µl aliquots @ 2µg/ml) R. Elliot 11/28/16			
+13	4	4				
