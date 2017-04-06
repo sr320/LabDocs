@@ -17,10 +17,13 @@ The [![issues](https://img.shields.io/github/issues/sr320/LabDocs.svg)](https://
 
 ---
 
-There are also several documents that live elsewhere (ie Google Drive) due to reasons of convienence. Those include..
+There are also several documents that live elsewhere (ie Google Drive) due to reasons of convenience. Those include..
 
 * [Primer Database](https://docs.google.com/spreadsheets/d/14m2kkFhxcoKWWIGoAD_7VOVsAg9wilME2UcSLqfnqLI/edit?usp=sharing&authkey=CP736rQK)
 * [Calendar](https://calendar.google.com/calendar/embed?src=mrc305%40gmail.com&ctz=America/Los_Angeles)
+* [FTR 209 and 213 Inventory (spreadsheet)](https://docs.google.com/spreadsheets/d/11RA_mlLB-3m_GySnTTuDazDdOi0bCxJu2VERuX9Qfx8/edit#gid=0)
+  * contents of drawers/cabinets
+* [-80˚ Inventory (spreadsheet)](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=0)
 
 ---
 

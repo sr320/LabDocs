@@ -1,6 +1,6 @@
-#Jupyter
+# Jupyter
 
-###Convert number stored in variable
+### Convert number stored in variable
 If using a bash commands to store numbers to variables in Jupyter (IPython) notebooks, the variable will store the number as a Python string list instead of just the actual number. This is identifiable by the format of the ```print``` command output. Here's an example:
 
 Input: ```print variable```
@@ -27,7 +27,7 @@ Note: You may need to use ```float``` instead of ```int``` if you have a non-int
 
 
 
-###Embed IPython notebook hosted on nbviewer in onsnetwork.org wordpress
+### Embed IPython notebook hosted on nbviewer in onsnetwork.org wordpress
 `iframe` can be used for this, something normally not allowed on wordpress.com.
 Here is an example
 ```
@@ -36,9 +36,9 @@ Here is an example
 This code is used on 
 http://onsnetwork.org/halfshell/2015/03/02/up-down-in-the-house/
 
-###Embed Jupyter (iPython) notebook hosted on GitHub in onsnetwork.org wordpress
+### Embed Jupyter (iPython) notebook hosted on GitHub in onsnetwork.org wordpress
 
-####Obtain the Jupyter Notebook GitHub URL
+#### Obtain the Jupyter Notebook GitHub URL
 1. Go to GitHub page to view the Jupyter (iPython) Notebook
 2. Right-click on the Jupyter (iPython) Notebook
 3. View the source for the frame - the verbiage varies by browser.
@@ -46,12 +46,12 @@ http://onsnetwork.org/halfshell/2015/03/02/up-down-in-the-house/
 5. Paste the URL into the iframe code shown in example above.
 
 
-###Start IPython in a web browser (via Terminal or Command Line):
+### Start IPython in a web browser (via Terminal or Command Line):
 `ipython notebook`
 Or, type this URL into a browser: http://127.0.0.1:8888
 
 
-###Start a specific notebook in a web browser (via Terminal or Command Line):
+### Start a specific notebook in a web browser (via Terminal or Command Line):
 `ipython notebook /path/to_your/notebook.ipynb`   
 
 NOTE: By saving your notebook files to Dropbox, you will have access to all your notebooks on any computer with Dropbox installed.
@@ -60,7 +60,7 @@ NOTE: Default notebook save location (on Mac OSX) is: /Users/Username/Notebook_n
 
 
 
-###Run IPython on a remote computer (e.g. Hummingbird)
+### Run IPython on a remote computer (e.g. Hummingbird)
 The following instructions are for Linux or OS X
 
 Tunneling into Hummingbird
@@ -141,7 +141,7 @@ Mount your Eagle web folder for easy access to your files when using IPython rem
 4. Enter password when prompted.
 
 
-###Change the default save location for IPython notebooks (via Terminal)
+### Change the default save location for IPython notebooks (via Terminal)
 There are two choices for this:
 
 Option #1 - Change to your desired directory each time you start IPython
@@ -233,7 +233,7 @@ NOTE: In order to enable this, some permissions need to be changed on /usr/local
 This will now allow you to add additional users and grant them read/write permissions via the Finder's "Get Info" menu. In Finder, use the "Go" > "Go to folder..." and enter /usr/local/bin. Right-click on the "bin" folder, "Get Info" and then you can add your user account and enable read/write permissions (you must be an administrator to make these changes).
 
 
-###Copy program for a command line program to /usr/local/bin (via Terminal):
+### Copy program for a command line program to /usr/local/bin (via Terminal):
 `!cp -i /path/to_your_file/your_file /usr/local/bin`
 
 Explanation:
@@ -249,21 +249,21 @@ cp - The copy command in Terminal
 /usr/local/bin - The path to the destination folder of your file
 
 
-###Run code in a cell:
+### Run code in a cell:
 
 Type your code in a cell and press Ctrl+Enter
 
 - This will execute the code in just that cell and the cursor will remain in that cell.
 
 
-###Run code in a cell and insert a new cell below:
+### Run code in a cell and insert a new cell below:
 
 Type your code in a cell and press Shift+Enter
 
 - This will execute the code in just that cell, insert a cell below and put your cursor in the new cell.
 
 
-###Install a python module/package:
+### Install a python module/package:
 
 After downloading your desired module/package, navigate to the module's folder in Terminal or Command Line and type:
 
