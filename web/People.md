@@ -95,7 +95,7 @@ Claire Olson
 
 [Mackenzie Gavery](http://students.washington.edu/mgavery/Welcome.html)
 
-[Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html)
+[Emma Timmins-Schiffman](http://emmatimminsschiffman.weebly.com)
 
 [Doug Immerman](https://plus.google.com/u/0/117047808586108412854/about)
 
