@@ -1,12 +1,12 @@
-#FASTAstic
+# FASTAstic
 
 
-###Convert FASTQ to FASTA
+### Convert FASTQ to FASTA
     zcat input_file.fastq.gz | awk 'NR%4==1{printf ">%s\n", substr($0,2)}NR%4==2{print}' > output_file.fa
     
 ---
     
-###Fasta to tab-delimited
+### Fasta to tab-delimited
 
 ```
 !perl -e '$count=0; $len=0; while(<>) {s/\r?\n//; s/\t/ /g; if (s/^>//) { if ($. != 1) {print "\n"} s/ |$/\t/; $count++; $_ .= "\t";} else {s/ //g; $len += length($_)} print $_;} print "\n"; warn "\nConverted $count FASTA records in $. lines to tabular format\nTotal sequence length: $len\n\n";' /Volumes/web/cnidarian/oyster.v9.fa > /Volumes/web/cnidarian/cgigas_v9_genome01.tab
@@ -21,17 +21,17 @@
 
 ---
 
-###Count bp in fasta Tab-delim
+### Count bp in fasta Tab-delim
 
 ```
 !perl -e '$col = 2;' -e 'while (<>) { s/\r?\n//; @F = split /\t/, $_; $len = length($F[$col]); print "$_\t$len\n" } warn "\nAdded column with length of column $col for $. lines.\n\n";' /Volumes/web/cnidarian/cgigas_v9_genome01.tab > /Volumes/web/cnidarian/cgigas_v9_genome02.tab
 ```
 
-###Count Number of Sequences in a FASTA File (grep)
+### Count Number of Sequences in a FASTA File (grep)
 
     $grep -c '>' path/to/InputFasta/file.fasta
 
-###Count Number of Sequences in a FASTA File (awk)
+### Count Number of Sequences in a FASTA File (awk)
 
     $awk '/>/ { count++ } END { print count }' path/to/InputFastFile.fasta
 
@@ -52,7 +52,7 @@ NOTE: If the sequence IDs of your FASTA file also contain ">", the one-liner lis
 
 ---  
 
-###Filter FASTA File by Minimum Sequence Length
+### Filter FASTA File by Minimum Sequence Length
 Just change the number "200" in the code below to your desired minimum sequence length. 
 
 ```
