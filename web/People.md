@@ -56,27 +56,19 @@ As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I
 
 # Research Scientists
 
-**Hollie Putnam** (Visiting Scientist)      
-Assistant Professor      
-Department of Biological Sciences    
-University of Rhode Island    
-[www.hollieputnam.com](http://www.hollieputnam.com/)
-
 Sam White
 
 Brent Vadopalas
 
-Crystal Simchick
-
-Giles Goetz
-
-Andy Jasonowicz
-
 Grace Crandall 
+
+Sean Bennett
 
 ---
 
 # Undergraduate Students
+
+Kaitlyn Mitchell
 
 Mrunmayee Manohar Shete
 
@@ -187,8 +179,24 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/researc
 
 <br>
 
+### _Research Scientists_
+
+Crystal Simchick
+
+Giles Goetz
+
+Andy Jasonowicz
 
 ### _Visiting Scientsts_
+
+Marcos Espinel
+April 2017
+
+**Hollie Putnam**      
+Assistant Professor      
+Department of Biological Sciences    
+University of Rhode Island    
+[www.hollieputnam.com](http://www.hollieputnam.com/)
 
 Jose Angel Hidalgo de la Toba - CIBNOR PhD student     
 March 27-April 25, 2016
