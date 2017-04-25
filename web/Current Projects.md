@@ -1,7 +1,6 @@
 <blockquote>
 <h1>Environmental Epigenetics</h1>
 </blockquote>
-##### 
 
 ##### Developing genomic resources to support restoration and protection of the Olympia Oyster in Puget Sound
 _Summary_: There is a significant gap in our fundamental understanding of this species’ resilience in the face of environmental change, ecological interactions, and population structure. This information is critical to local restoration efforts and to predicting how molluscs will adapt to long-term environmental change. There is recent evidence that oysters have the capacity to respond to environmental change at a rate beyond what would be predicted by genetic variation alone. The overall objective of this research is to produce genomic resources and capacity to understand the response of Olympia oysters to environmental change. Specifically, a draft genome assembly for the Olympia oyster will be produced and used to understand how responses of the Olympia oyster to environmental changes are inherited (i.e., genetic or epigenetic) using restriction site associated DNA sequencing (RAD-Seq) and bisulfite sequencing (BS-Seq). A web-based platform will be developed based on these resources that will be used for discovery and further collaboration.
@@ -52,3 +51,10 @@ _Summary_: The overall goal of this project is use a ‘bottom- up’ approach t
 
 ##### Crossbreeding and Selection for Resistance to Ocean Acidification in Pacific Oysters
 _Summary_: We propose to utilize the large number of genetically distinct, pair-mated Pacific oyster lines produced through Taylor Shellfish Company’s breeding program to initiate large-scale and high throughput testing for evaluating differential response in Pacific oysters during two critical and sensitive larval life history phases to increased levels of pCO2 under experimental conditions. Information on relative resilience (measured as survivorship, growth and lipid energy reserves) to OA conditions in genetically distinct oyster lines will inform and guide the production of genetically improved broodstocks and provide the shellfish industry with better surviving/performing intraspecific hybrid oysters. This research will also enable us to greatly expand upon ongoing WA Sea Grant supported work that is investigating the critical importance of OA exposure during the sexual development phase (e.g. conditioning) in adults on subsequent larval and seed survivorship and growth (e.g. intergenerational effects).
+
+#### Characterization of SNPs in genes related to growth from transcriptomes of the flounder _Paralichthys adspersus_
+_Summary_: Project: The main goal of this project is to: identify SNPs related to development and growth in larvae and juveniles of the flounder _P. adspersus_ by the comparison of complete transcriptomes. The aims include 1)	Characterize transcriptomes during early stages (larvae) of development, 2)	Evaluate the transcriptome from different tissues of juveniles (of 6 months post hatching) under captivity with normal and low growth, and evaluate the expression patterns of genes associated with the growth of larvae compared to juveniles, and growth patterns, 3) Identify SNPs markers in genes associated with growth and its relationship to gene expression level, and 4) Validation and characterization of SNPs related to growth in different flounder families keep under controlled conditions.
+
+
+	
+
