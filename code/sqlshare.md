@@ -52,7 +52,7 @@ The order that you write out the columns determines their order in the result of
 
 
 <hr>
-###Sort a file based on values in a column
+### Sort a file based on values in a column
     SELECT *, ROW_NUMBER ()
     OVER (PARTITION BY [col 1] ORDER BY [col 2] DESC) AS [new col name]
     FROM [file name]
@@ -62,7 +62,7 @@ Code explanation
 - The data in column 2 are sorted in descending order. Since this code also has PARTITION BY, the sorting of column 2 data happens just within the groups formed within column 1.
 - AS creates a new column with the rank of values from column 2. 
 
-###Keep values that have a certain rank (see above for ranking values)
+### Keep values that have a certain rank (see above for ranking values)
 Your input file should have a column with ranks.  This example chooses the top 3 values from your dataset (i.e. ranks 1,2, and 3).
 ```
 SELECT * FROM [file name]
@@ -71,7 +71,7 @@ WHERE [column with ranks] <=3
 Code explanation 
 - takes all columns in your file that have a rank of at least 3
 
-###Sum values across data columns
+### Sum values across data columns
 ```
 SELECT [col 1], [col 2], [data col1]+[data col2] AS [new col name]
 FROM [file name]
@@ -79,7 +79,7 @@ FROM [file name]
 Code explanation
 - For each entry (defined by values in columns 1 and 2), sum the data values from the 2 data columns and put them in a new column
 
-###Choose only entries that occur once
+### Choose only entries that occur once
 You may want to use this command when you are only interested in a certain value/data entry that is specific (i.e. does not occur multiple times in your dataset)
 ```
 SELECT * FROM [file name] WHERE [col of interest from file] IN
@@ -93,7 +93,7 @@ Code explanation
 - The main query makes those values that occur one time into a new file.
 - Instead of = 1 you could also use < 2
 
-###Keep only unique entries in a file (i.e. Remove duplicate entries)
+### Keep only unique entries in a file (i.e. Remove duplicate entries)
 ```
 SELECT DISTINCT [col 1 name], [col 2 name]
 FROM [file name]
@@ -101,7 +101,7 @@ FROM [file name]
 Code explanation
 - The new file will only have unique combinations of values in columns 1 and 2 (redundancies will be removed)
 
-###Join files on top of each other and add column denoting file origination 
+### Join files on top of each other and add column denoting file origination 
 ```
 SELECT
 1 AS fileID, *
@@ -115,7 +115,7 @@ Code explanation
 - "fileID" is the name of the new column.  A 1 in that column means the data in that row came from file 1, a 2 means it came from file 2.
 - The input files for this command had identical structures 
 
-###From files joined on top of each other (see above) create file with data in columns
+### From files joined on top of each other (see above) create file with data in columns
 This command will create a new file that has 1 column of identifiers (or row names) and then 2 columns of data from the 2 files that were originally joined (so that each file's data has its own column).
 ```
 SELECT [col 1], [col 2],
@@ -131,7 +131,7 @@ Code explanation
 - data1 and data2 are sourced from the data column in the original file.  The values are only filled into the new data1 and data2 columns if there is data in the original data column for that entry.  Data is entered into the new data columns based on the original file's value in the fileID column, i.e. if there is a 1 in the fileID column then the data column value will go in the new data1 column.
 
 <hr>
-###Rename columns in a table
+### Rename columns in a table
 - Use "Edit Dataset" button in SQLShare
 - After executing the query, press the "Update Dataset" button below the query window.
 - Use the "as" function.
@@ -172,7 +172,7 @@ Code explanation:
 This adds, mathematically, the numerical content of two columns (GeneCGS and CDS_CGs) that exist in the Stats_mRNA_CGs table and names the resulting column "Total_CGs".
 <hr>
 
-###Count the number of terms in a column
+### Count the number of terms in a column
 
     SELECT [column_name], COUNT([column_name])
     FROM [user].[table]
@@ -190,7 +190,7 @@ _FROM_ -- Standard SQL to identify location source of data.
 _GROUP BY_ -- Groups the data by the terms in the specified column.
 
 <hr>
-###Conventional Joining of tables
+### Conventional Joining of tables
 (Keeping everything in first table)
 
     SELECT * 
@@ -227,7 +227,7 @@ NOTE:  The code above can be simplified using the WHERE command.  This command c
 
 
  <hr>
-###Counting Records
+### Counting Records
     SELECT COUNT (*)
     FROM
     (
@@ -245,7 +245,7 @@ _FROM_ -- Specifies the table containing the source information.  In this exampl
 _alias_ -- The subquery requires an alias in order for the outside SELECT statement to execute properly.  The alias can be any alphabet character(s).  In this example, we used the literal word "alias" as the alias.  However, we could have also used "x", or "pizza", or "b" instead of the word "alias".
 <hr>
 
-###Operate depending on column value (case when)
+### Operate depending on column value (case when)
     SELECT
     cd.Column9 as seqname,  
     cd.Column2 as source,  
@@ -260,7 +260,7 @@ _alias_ -- The subquery requires an alias in order for the outside SELECT statem
     FROM 
     [sr320@washington.edu].[CDS GFF with Gene start and stop] cd
 <hr>
-###Operate depending on column value (case when) >2 values
+### Operate depending on column value (case when) >2 values
 ```sql
 SELECT CAS001,
 CASE WHEN CAS001=2 THEN 'NM'
@@ -271,7 +271,7 @@ FROM [emmats@washington.edu].[summed presence absence fragment peaks]
 ```
 
 
-###Rename columns in a table   
+### Rename columns in a table   
 - Use "Edit Dataset" button in SQLShare    
 - After executing the query, press the "Update Dataset" button below the query window.   
 - Use the "as" function.   
@@ -307,7 +307,7 @@ This adds, mathematically, the numerical content of two columns (GeneCGS and CDS
 
 
 
-###Count the number of terms in a column
+### Count the number of terms in a column
 
 ```
 SELECT column_name, COUNT(column_name)
