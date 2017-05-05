@@ -1,4 +1,4 @@
-#SQLShare
+# SQLShare
 
 
 Below are examples of some standard queries. In some examples datasets are actual datasets in SQLShare, and in other cases the code reflects a generic example. In the latter instances `[user].[table_]` is used to indicate a particular dataset.
