@@ -129,7 +129,8 @@ Code explanation
 - For each entry in columns 1 and 2 (which identify the data), 2 new columns will be created: data1 and data2
 - data1 and data2 are sourced from the data column in the original file.  The values are only filled into the new data1 and data2 columns if there is data in the original data column for that entry.  Data is entered into the new data columns based on the original file's value in the fileID column, i.e. if there is a 1 in the fileID column then the data column value will go in the new data1 column.
 
-<hr>
+--- 
+
 ### Rename columns in a table
 - Use "Edit Dataset" button in SQLShare
 - After executing the query, press the "Update Dataset" button below the query window.
@@ -169,7 +170,8 @@ Example:
 Code explanation:
 
 This adds, mathematically, the numerical content of two columns (GeneCGS and CDS_CGs) that exist in the Stats_mRNA_CGs table and names the resulting column "Total_CGs".
-<hr>
+
+---
 
 ### Count the number of terms in a column
 
@@ -188,7 +190,8 @@ _FROM_ -- Standard SQL to identify location source of data.
 
 _GROUP BY_ -- Groups the data by the terms in the specified column.
 
-<hr>
+---
+
 ### Conventional Joining of tables
 (Keeping everything in first table)
 
@@ -222,10 +225,8 @@ NOTE:  The code above can be simplified using the WHERE command.  This command c
     FROM [table1]
     WHERE [table1].[column_of_interest]=[table2].[column_of_interest]
 
+---
 
-
-
- <hr>
 ### Counting Records
     SELECT COUNT (*)
     FROM
@@ -242,7 +243,9 @@ _SELECT_ -- Standard SQL to identify the source information you want to work wit
 _COUNT (*)_ -- Specifies which columns to count.  Asterisk means "all columns"
 _FROM_ -- Specifies the table containing the source information.  In this example, we will be pulling the data from a subquery, which is what is contained in the parentheses.  The subquery specifies which columns to select from [table1].  Using a single asterisk in place of specific column names will specify all columns.  
 _alias_ -- The subquery requires an alias in order for the outside SELECT statement to execute properly.  The alias can be any alphabet character(s).  In this example, we used the literal word "alias" as the alias.  However, we could have also used "x", or "pizza", or "b" instead of the word "alias".
-<hr>
+
+
+---
 
 ### Operate depending on column value (case when)
     SELECT
@@ -258,7 +261,10 @@ _alias_ -- The subquery requires an alias in order for the outside SELECT statem
      
     FROM 
     [sr320@washington.edu].[CDS GFF with Gene start and stop] cd
-<hr>
+
+
+---
+
 ### Operate depending on column value (case when) >2 values
 ```sql
 SELECT CAS001,
@@ -325,7 +331,7 @@ GROUP BY: Groups the data by the terms in the specified column.
 ---
 
 
-###SQL Share Python API
+### SQL Share Python API
 Single file upload  
 
 ```
