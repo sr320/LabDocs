@@ -49,9 +49,8 @@ After running this query in SQLShare, press the "Update dataset" button beneath 
 Code explanation:
 The order that you write out the columns determines their order in the result of the query. 
 
+---
 
-
-<hr>
 ### Sort a file based on values in a column
     SELECT *, ROW_NUMBER ()
     OVER (PARTITION BY [col 1] ORDER BY [col 2] DESC) AS [new col name]
