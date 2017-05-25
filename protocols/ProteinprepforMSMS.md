@@ -174,7 +174,7 @@ __Procedure:__
 1.	Add 500 µl 50 mM NH4HCO3 + 6M urea solution to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000rpm for 5 minutes. 
 2. 	Aliquot 150ul of supernatant to a new labeled tube. Save the remainder in the -80C.
 3. 	Make an ethanol dry-ice bath by getting a small plastic container and filling with ethanol. You will only need to dip one sample at a time. Slowly add small chunks of dry-ice until they are not dissolving very fast. This should be cold enough.
-4.      Adjust sonicatior settings. Pipet an amount of water equal to that of the samples to be sonicated into a new centrifuge tube. Test sonication intensity by sonicating the water in that tube. Ideal intensity is the highest intensity at which no water sprays out of the centrifuge tube (ex. for Roberts Lab sonicator, use amplitude of 50% when sonicating samples that have a volume of 100 µL).
+4.	Adjust sonicatior settings. Pipet an amount of water equal to that of the samples to be sonicated into a new centrifuge tube. Test sonication intensity by sonicating the water in that tube. Ideal intensity is the highest intensity at which no water sprays out of the centrifuge tube (ex. for Roberts Lab sonicator, use amplitude of 50% when sonicating samples that have a volume of 100 µL).
 5.	Sonicate each sample for 10s and dip in ethanol + dry ice for 5s. Repeat twice for each sample (total of 3 times). When finished with a sample, put in dry ice bath, then wedge the tube into wet ice and move on to next sample.
 6.	Between samples, rinse the sonicating probe with ethanol and nanopure. Dry with kim wipe.
 7.	Aliquot 11ul of each sample to a new labeled tube for BCA assay. Save remainder for mini-trypsin digestion.
