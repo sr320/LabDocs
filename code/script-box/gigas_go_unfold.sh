@@ -22,6 +22,13 @@ sed 's/; /\t/g' /path/to/input/file > /path/to/new/filename
 # Saves location of the newly formatted file to variable called "file".
 file="/path/to/new/filename"
 
+# Identify first field containing a GO term.
+# Search file with grep for "GO:" and pipe to awk.
+# Awk sets tab as field delimiter (-F'\t'), runs a for loop that looks for "GO:" (~/GO:/), and then prints the field number).
+# Awk results are piped to sort, which sorts unique by number (-ug).
+# Sort results are piped to head to retrieve the lowest value (i.e. the top of the list; "-n1").
+begin_goterms=$(grep "GO:" gotest_no_semicolons.txt | awk -F'\t' '{for (i=1;i<=NF;i++) if($i ~/GO:/) print i}' | sort -ug | head -n1)
+
 # While loop to process each line of the input file.
 while read -r line
 	do
@@ -39,9 +46,9 @@ while read -r line
 	# Since not all the lines contain the same number of fields (e.g. may not have GO terms),
 	# evaluate the number of fields in each line to determine how to handle current line.
 
-	# If the value in max_field is less than 13 (GO terms are present starting in field 13, if they're present),
+	# If the value in max_field is less than the field number where the GO terms begin,
 	# then just print the current line (%s) followed by a newline (\n).
-	if (( "$max_field" < 13 ))
+	if (( "$max_field" < "$begin_goterms" ))
 		then printf "%s\n" "$line"
 			else
 
