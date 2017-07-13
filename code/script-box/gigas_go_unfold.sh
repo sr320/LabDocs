@@ -27,7 +27,7 @@ file="/path/to/new/filename"
 # Awk sets tab as field delimiter (-F'\t'), runs a for loop that looks for "GO:" (~/GO:/), and then prints the field number).
 # Awk results are piped to sort, which sorts unique by number (-ug).
 # Sort results are piped to head to retrieve the lowest value (i.e. the top of the list; "-n1").
-begin_goterms=$(grep "GO:" gotest_no_semicolons.txt | awk -F'\t' '{for (i=1;i<=NF;i++) if($i ~/GO:/) print i}' | sort -ug | head -n1)
+begin_goterms=$(grep "GO:" "$file" | awk -F'\t' '{for (i=1;i<=NF;i++) if($i ~/GO:/) print i}' | sort -ug | head -n1)
 
 # While loop to process each line of the input file.
 while read -r line
