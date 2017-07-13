@@ -34,7 +34,7 @@ while read -r line
 	# Send contents of current line to cut.
 	# Cut fields (i.e. retain those fields) 1-12.
 	# Save the results of the echo/cut pipe (i.e. fields 1-12) to the variable "fixed_fields"
-	set_fields=$(echo "$line" | cut -f1-12)
+	fixed_fields=$(echo "$line" | cut -f1-12)
 
 	# Since not all the lines contain the same number of fields (e.g. may not have GO terms),
 	# evaluate the number of fields in each line to determine how to handle current line.
@@ -58,7 +58,7 @@ while read -r line
 			# Print the first 12 fields (i.e. the fields stored in "fixed_fields") followed by a tab (%s\t).
 			# Print the current element in the array (i.e. the current GO term) followed by a new line (%s\n).
 			for element in "${!array[@]}"	
-				do printf "%s\t%s\n" "$set_fields" "${array[$element]}"
+				do printf "%s\t%s\n" "$fixed_fields" "${array[$element]}"
 			done
 	fi
 
