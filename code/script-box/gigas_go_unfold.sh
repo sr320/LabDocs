@@ -55,7 +55,7 @@ while read -r line
 			# Send contents of current line (which contains GO terms) to cut.
 			# Cut fields (i.e. retain those fields) 13 to whatever the last field is in the curent line.
 			# Save the results of the echo/cut pipe (i.e. all the GO terms fields) to the variable "goterms".
-			goterms=$(echo "$line" | cut -f13-$max_field)
+			goterms=$(echo "$line" | cut -f"$begin_goterms"-"$max_field")
 			
 			# Assign values in the variable "goterms" to a new indexed array (called "array"), 
 			# with tab delimiter (IFS=$'\t')
