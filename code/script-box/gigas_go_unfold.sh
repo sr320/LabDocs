@@ -13,14 +13,20 @@
 
 # /path/to/input/file
 # /path/to/new/filename
-# /path/to/new/filename
+# /path/to/output_file
+
+
+# Set variables for files
+# input_file is the initial, "problem" file
+# file is an intermediate file that most of the program works upon
+# output_file is the final file produced by the script
+input_file="/path/to/input/file"
+file="/path/to/new/filename"
+output_file="/paht/to/output/file"
 
 # sed command substitutes the "; " sequence to a tab and writes the new format to a new file.
 # This character sequence is how the GO terms are delimited in their field.
-sed 's/; /\t/g' /path/to/input/file > /path/to/new/filename
-
-# Saves location of the newly formatted file to variable called "file".
-file="/path/to/new/filename"
+sed $'s/; /\t/g' "$input_file" > "$file"
 
 # Identify first field containing a GO term.
 # Search file with grep for "GO:" and pipe to awk.
@@ -70,4 +76,4 @@ while read -r line
 	fi
 
 # Send the input file into the while loop and send the output to a file named "rhonda_fixed.txt".
-done < /path/to/new/filename > rhonda_fixed.txt
+done < "$file" > "$output_file"
