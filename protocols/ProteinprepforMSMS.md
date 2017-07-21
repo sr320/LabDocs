@@ -30,7 +30,7 @@
 - [ ] Heating block at 37C (FSH209)
 - [ ] Macrospin columns (FSH 213)
 - [ ] pH meter for making 1.5M Tris pH 8.8 (FSH209)
-- [ ] Peptide Retention Time Calibration Mixture (used for each sample on the mass spectrometer)
+- [ ] Peptide Retention Time Calibration Mixture (DIA and SRM only, used for each sample on the mass spectrometer)
 
 ***Ordering of Supplies***
 
@@ -350,7 +350,7 @@ __Procedure:__
 
 8) Reconstitute peptides in 100 µl final solvent. Light vortex and centrifuge down. Store at -80°C.
 
-### PRTC Addition
+### PRTC Addition (DIA and SRM only?)
 
 __Reagents required:__
 
@@ -364,7 +364,7 @@ __Procedure:__
 
 1) Calculate amount of sample to be placed in autosampler vial: (µg to be injected/injection volume) x (final volume) / (sample concentration), i.e. ((1 µg/2 µl) x 15 µl) / (concentration)
 
-2) Calculate amount of PRTC to be added: (PRTC final concentration) x (final volume) x (1/PRTC stock concentration), i.e. (25 fmol/µl) x (15 µl) x (1/200 fmol/µl)
+2) Calculate amount of PRTC to be added: (PRTC final concentration/injection volume) x (final volume) x (1/PRTC stock concentration), i.e. (50 fmol/2 µl) x (15 µl) x (1/200 fmol/µl)
 
 3) Dilute stock PRTC solution. Mix 20 µL 0.5 pmol/µL stock PRTC solution and 30 µL final solvent to get 50 µL 0.2 pmol/µL PRTC solution to add to samples. Scale up as needed for the number of samples to be used.
 
