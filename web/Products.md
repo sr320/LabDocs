@@ -63,6 +63,8 @@ Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/aut
 
 see also <a href="#preprint">*preprints*</a>
 
+Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 C. Gallardo-Escárate V. Valenzuela-Muñoz S. Boltaña G. Nuñez-Acuña D. Valenzuela-Miranda A.T. Gonçalves C. Détrée E. Tarifeño-Saldivia R. Farlora S. Roberts H.M. Putnam (**2017**) [The _Caligus rogercresseyi_ miRNome: Discovery and transcriptome profiling during the sea lice ontogeny](http://dx.doi.org/10.1016/j.aggene.2017.03.002) AgriGene doi: 10.1016/j.aggene.2017.03.002 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aggene.2017.03.002" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 The Aquaculture Genomics, Genetics and Breeding Workshop (**2017**) [Aquaculture genomics, genetics and breeding in the United States: current status, challenges, and priorities for future research](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3557-1) BMC Genomics 18:191. doi: 10.1186/s12864-017-3557-1 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1186/s12864-017-3557-1" data-hide-no-mentions="true" class="altmetric-embed"></span>
