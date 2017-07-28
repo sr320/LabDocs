@@ -56,29 +56,19 @@ As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I
 
 # Research Scientists
 
-**Hollie Putnam** (Visiting Scientist)      
-Assistant Professor      
-Department of Biological Sciences    
-University of Rhode Island    
-[www.hollieputnam.com](http://www.hollieputnam.com/)
-
 Sam White
 
 Brent Vadopalas
 
-Crystal Simchick
-
-Giles Goetz
-
-Andy Jasonowicz
-
 Grace Crandall 
+
+Sean Bennett
 
 ---
 
 # Undergraduate Students
 
-Mrunmayee Manohar Shete
+Kaitlyn Mitchell
 
 ---
 
@@ -95,7 +85,7 @@ Claire Olson
 
 [Mackenzie Gavery](http://students.washington.edu/mgavery/Welcome.html)
 
-[Emma Timmins-Schiffman](http://students.washington.edu/emmats/Emmas_site/Home.html)
+[Emma Timmins-Schiffman](http://emmatimminsschiffman.weebly.com)
 
 [Doug Immerman](https://plus.google.com/u/0/117047808586108412854/about)
 
@@ -108,9 +98,11 @@ Dave Metzger
 
 ### _Undergraduates_
 
-Grace Crandall  [proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing) [paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing)  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook](http://genefish.wikispaces.com/Grace%27s+Notebook)
+Grace Crandall (2016) [proposal](https://docs.google.com/document/d/1JfGHW-ou-9uNA5Ty8yz3eh2lTRMwnazGAGJQry16AOc/edit?usp=sharing) [paper](https://docs.google.com/document/d/1y-tYILgL0CJXYl1REl67167CPA0nK3sP4WabVMaeOP0/edit?usp=sharing)  [slides](https://docs.google.com/presentation/d/1iOL7psop59XczsrTr-hOIKJuxNpCivmh3rIZjdIvuC0/edit?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAUUg2dTV1a2RMNVk/view?usp=sharing)  [notebook](http://genefish.wikispaces.com/Grace%27s+Notebook)
 
-Jonathan Allen UW  [proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing) [paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing)  [slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing)  [notebook](http://jda26.blogspot.com/)
+Jonathan Allen UW (2016) [proposal](https://docs.google.com/document/d/1Nde23goE2X2Vv9Cidrc02dmYxw5_RZjb9cHNjR4Q8N4/edit?usp=sharing) [paper](https://docs.google.com/document/d/1w5mecAsBgYUB-ZdbeTpg0TGzXOHr_ZoxaJl_r7y3cac/edit?usp=sharing)  [slides](https://drive.google.com/file/d/0B9V_gF766XZAU2tDSjQ2UWpxZ0E/view?usp=sharing)  [presentation](https://drive.google.com/file/d/0B9V_gF766XZAY01LSnJ3UU8yMWs/view?usp=sharing)  [notebook](http://jda26.blogspot.com/)
+
+Mrunmayee Manohar Shete (2015) [notebook](http://onsnetwork.org/mrunmayee/page/3/)
 
 Katie Jackson UW SAFS (2015)
 
@@ -187,8 +179,24 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/researc
 
 <br>
 
+### _Research Scientists_
+
+Crystal Simchick
+
+Giles Goetz
+
+Andy Jasonowicz
 
 ### _Visiting Scientsts_
+
+Marcos Espinel
+April 2017
+
+**Hollie Putnam**      
+Assistant Professor      
+Department of Biological Sciences    
+University of Rhode Island    
+[www.hollieputnam.com](http://www.hollieputnam.com/)
 
 Jose Angel Hidalgo de la Toba - CIBNOR PhD student     
 March 27-April 25, 2016

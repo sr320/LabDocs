@@ -30,6 +30,7 @@
 - [ ] Heating block at 37C (FSH209)
 - [ ] Macrospin columns (FSH 213)
 - [ ] pH meter for making 1.5M Tris pH 8.8 (FSH209)
+- [ ] Peptide Retention Time Calibration Mixture (DIA and SRM only, used for each sample on the mass spectrometer)
 
 ***Ordering of Supplies***
 
@@ -66,6 +67,8 @@
 - Triflouroacetic acid: Fisher Scientific (25 ml)
 
 - MS glass autosampler vials: ThermoFisher Scientific (Pack of 100, glass, clear, Convenience Kit, 9mm Wide Opening 1.5mLTotal Recovery Screw Vial with 10μL Reservoir, MSCERT5000-33TR)
+
+- Peptide Retention Time Calibration Mixture: [ThermoFisher Scientific, 200 µL stock solution](https://www.thermofisher.com/order/catalog/product/88321)
 
 
 ## To make reagents
@@ -171,13 +174,28 @@ __Reagents required:__
 
 __Procedure:__
 
+**For larvae**:
+
 1.	Add 500 µl 50 mM NH4HCO3 + 6M urea solution to each sample and homogenize larvae using pestle. After homogenization, spin samples down at 2000rpm for 5 minutes. 
 2. 	Aliquot 150ul of supernatant to a new labeled tube. Save the remainder in the -80C.
+
+**For tissue**:
+1.	Split tissue sample in half using a clean razor blade. Place the half not being used for proteomics back in the -80ºC freezer.
+2.	Add 5100 µl 50 mM NH4HCO3 + 6M urea solution to each sample and homogenize tissue using pestle. After homogenization, vortex tissue sample.
+
+**For both larvae and tissue**:
+
 3. 	Make an ethanol dry-ice bath by getting a small plastic container and filling with ethanol. You will only need to dip one sample at a time. Slowly add small chunks of dry-ice until they are not dissolving very fast. This should be cold enough.
-3.	Sonicate each sample for 10s and dip in ethanol + dry ice for 5s. Repeat twice for each sample (total of 3 times). When finished with a sample, wedge the tube into wet ice and move on to next sample.
-4.	Between samples, rinse the sonicating probe with ethanol and nanopure. Dry with kim wipe.
-5.	Aliquot 11ul of each sample to a new labeled tube for BCA assay. Save remainder for mini-trypsin digestion.
-6. 	Store all tubes at -80°C.
+
+4.	Adjust sonicatior settings. Pipet an amount of water equal to that of the samples to be sonicated into a new centrifuge tube. Test sonication intensity by sonicating the water in that tube. Ideal intensity is the highest intensity at which no water sprays out of the centrifuge tube (ex. for Roberts Lab sonicator, use amplitude of 50% when sonicating samples that have a volume of 100 µL).
+
+5.	Sonicate each sample for 10s and dip in ethanol + dry ice for 5s. Repeat twice for each sample (total of 3 times). When finished with a sample, put in dry ice bath, then wedge the tube into wet ice and move on to next sample.
+
+6.	Between samples, rinse the sonicating probe with ethanol and nanopure. Dry with kim wipe.
+
+7.	Aliquot 11ul of each sample to a new labeled tube for BCA assay. Save remainder for mini-trypsin digestion.
+
+8. 	Store all tubes at -80°C.
 
 ---
 
@@ -331,3 +349,27 @@ __Procedure:__
 7) Evaporate samples to near dryness at 4C in speed vac (should take ~4hrs)
 
 8) Reconstitute peptides in 100 µl final solvent. Light vortex and centrifuge down. Store at -80°C.
+
+### PRTC Addition (DIA and SRM only?)
+
+__Reagents required:__
+
+- Peptide Retention Time Calibration Mixture (0.5 pmol/µL stock solution from online order)
+
+- Final Solvent = 3% acetonitrile + 0.1% formic acid
+
+- Autosampler vials and clean centrifuge tubes for each sample
+
+__Procedure:__
+
+1) Calculate amount of sample to be placed in autosampler vial: (µg to be injected/injection volume) x (final volume) / (sample concentration), i.e. ((1 µg/2 µl) x 15 µl) / (concentration)
+
+2) Calculate amount of PRTC to be added: (PRTC final concentration/injection volume) x (final volume) x (1/PRTC stock concentration), i.e. (50 fmol/2 µl) x (15 µl) x (1/200 fmol/µl)
+
+3) Dilute stock PRTC solution. Mix 20 µL 0.5 pmol/µL stock PRTC solution and 30 µL final solvent to get 50 µL 0.2 pmol/µL PRTC solution to add to samples. Scale up as needed for the number of samples to be used.
+
+4) In a clean centrifuge tube, pipet volume of sample calculated in Step 1 and 0.2 pmol/µL PRTC solution calculated in Step 2. Add as much final solvent as needed to get volume in the centrifuge tube up to 15 µL. Vortex gently.
+
+5) Pipet 15 µL sample + PRTC + final solvent solution into clean autosampler vial. Be sure to pipet slowly and without bubbles. 
+
+6) Run samples on mass spectrometer immediately, or place in -80ºC freezer until ready to run.
