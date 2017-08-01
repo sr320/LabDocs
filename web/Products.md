@@ -13,16 +13,11 @@ Steven Roberts | [sr320.github.io](https://sr320.github.io/)  -  [ons/sr320](htt
 Sam White | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub followers](https://img.shields.io/github/followers/kubu4.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kubu4)
 Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
-Hollie Putnam | [github/Hollie](https://hputnam.github.io/Putnam_Lab_Notebook/) |  [![GitHub followers](https://img.shields.io/github/followers/hputnam.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/hputnam)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Rhonda Elliot |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
 Sean Bennett | [rpubs/sean80](http://rpubs.com/seanb80) - [genefish/seanb80](https://genefish.wordpress.com/author/seanb80/) |  [![GitHub followers](https://img.shields.io/github/followers/seanb80.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/seanb80)
-Jake Heare | [heareresearch.blogspot](http://heareresearch.blogspot.com/)
 Grace Crandall | [genefish/grace](https://genefish.wordpress.com/author/graceac9/)
-Beckerlab | [beckerlab@wikispaces](http://genefish.wikispaces.com/Becker+Lab+Notebook)
 Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
-Mrunmayee Manohar Shete  | [onsnetwork.org/mrunmayee](http://onsnetwork.org/mrunmayee/)
-Michelle McCartha | [genefish/michellenegron](https://genefish.wordpress.com/author/michellenegron/)
 
 
 ---
