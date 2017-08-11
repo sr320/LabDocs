@@ -1,7 +1,7 @@
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 
-Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more. Not only does this effort serve a an effective means to share our activities with the public, but it facilitates scientific collaboration. 
+Our lab strives to make all research products readily available. This includes publishing of online lab notebooks, presentations, data, and more. This is an effective means to openly share our activities with the public.
 
 
 
