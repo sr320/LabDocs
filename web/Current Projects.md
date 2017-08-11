@@ -1,3 +1,12 @@
+
+Research in our lab focuses on characterizing physiological responses of marine organisms to environmental change. Using integrative approaches we strive to examine impacts and adaptive potential from the nucleotide to organismal level. A core component of this includes investigating the functional relationship of genetics, epigenetics, and protein expression. Three major themes of are current projects include **Environmental Epigenetics**, **Reproductive Biology and Ecology**, and **Aquaculture Resource Development. 
+
+
+
+
+
+
+
 <blockquote>
 <h1>Environmental Epigenetics</h1>
 </blockquote>
@@ -51,12 +60,4 @@ _Summary_: The UW Shellfish Farm is a project conceived by several graduate stud
 [more info](https://csf.uw.edu/project/531)
 
 ##### A novel proteomic-based approach to identify and mitigate factors responsible for shellfish mortality events
-_Summary_: The overall goal of this project is use a ‘bottom- up’ approach to investigate the process of Pacific oyster larval development. This includes identifying the most susceptible and environmentally sensitive stage of the setting process, characterizing the cause of mass mortalities, and providing guidance and advice for testing and altering culture practices that can obviate seed mortality. The effort includes a discovery-based proteomics approach to reveal critical differences in protein expression profiles between groups of Pacific oysters at three early life stages that are destined to die or survive.  The identified suite of proteins will then be used in a targeted proteomics approach to develop a reproducible, quantifiable assay.  The novel assay will be used to test specific hypotheses based on the response of Pacific oysters to their environment in hatchery and wild settings. An integrated collaboration between researchers, K-12 teachers, and students will build knowledge and increase connections among educators, the shellfish industry, and the scientific community. The specific research objectives of this project are to, 1a) Identify protein biomarkers indicative of Pacific oyster larvae mortality events, 1b) Characterize fundamental physiological changes in Pacific oyster larvae development, 2a) Develop targeted assay to query specific suites of proteins, and 2b) Perform the targeted assay on hatchery produced and wild Pacific oysters.
-
-
-#### Characterization of SNPs in genes related to growth from transcriptomes of the flounder _Paralichthys adspersus_
-_Summary_: Project: The main goal of this project is to: identify SNPs related to development and growth in larvae and juveniles of the flounder _P. adspersus_ by the comparison of complete transcriptomes. The aims include 1)	Characterize transcriptomes during early stages (larvae) of development, 2)	Evaluate the transcriptome from different tissues of juveniles (of 6 months post hatching) under captivity with normal and low growth, and evaluate the expression patterns of genes associated with the growth of larvae compared to juveniles, and growth patterns, 3) Identify SNPs markers in genes associated with growth and its relationship to gene expression level, and 4) Validation and characterization of SNPs related to growth in different flounder families keep under controlled conditions.
-
-
-	
-
+_Summary_: The overall goal of this project is use a ‘bottom- up’ approach to investigate the process of Pacific oyster larval development. This includes identifying the most susceptible and environmentally sensitive stage of the setting process, characterizing the cause of mass mortalities, and providing guidance and advice for testing and altering culture practices that can obviate seed mortality. The effort includes a discovery-based proteomics approach to reveal critical differences in protein expression profiles between groups of Pacific oysters at three early life stages that are destined to die or survive.  The identified suite of proteins will then be used in a targeted proteomics approach to develop a reproducible, quantifiable assay.  The novel assay will be used to test specific hypotheses based on the response of 
