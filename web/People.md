@@ -1,3 +1,9 @@
+
+Learn more about the lab members including their diverse interests and the current reasearch efforts they are engaged in. 
+
+
+
+
 # Principal Investigator
 ### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
