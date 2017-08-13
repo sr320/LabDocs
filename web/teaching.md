@@ -1,23 +1,13 @@
 
 
-#Courses
+
+[FISH 546: Bioinformatics for Environmental Sciences](https://github.com/sr320/course-fish546-2016/wiki) Project based course focused on genomics and reproducible science.
 
 
-FISH 546 Bionformatics for Environmental Sciences
+[FISH 270: Aquatic Eco-Physiology](https://canvas.uw.edu/courses/1099514/assignments/syllabus) Introductory  biology course. 
 
 
-FISH 270 Aquactic Eco-Physiology
+[FISH 441/541: Environmental Physiology](https://canvas.uw.edu/courses/1139303/assignments/syllabus) Integrative, comparative physiology course with emphasis on molecular approaches and case studies. 
 
 
-FISH 441/541 Environmental Physiology
-
-
-
-
-
-
-
-Prior 
-
-FISH 310 Biology of Shellfishes (lyt: 
 
