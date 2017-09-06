@@ -28,6 +28,7 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 <a id="pres">
 ## Recent Presentations</a>
+
 #### 2016
 * [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
 
@@ -62,7 +63,11 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 see also <a href="#preprint">*preprints*</a>
 
+Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+<!--
 Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
+-->
 
 Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
