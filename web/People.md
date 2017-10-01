@@ -1,15 +1,10 @@
 
-Learn more about the lab members including their diverse interests and the current reasearch efforts they are engaged in. 
-
-
-
-
 # Principal Investigator
 ### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
-<img src="https://dl.dropboxusercontent.com/u/115356/Steven-Roberts1-262x262.jpg" width="144" height="142" /> 
+<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" /> 
 
-Kenneth K. Chew Endowed Professor in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
+Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
 
 ---
 
@@ -42,13 +37,6 @@ As a Univeristy of Washington alumna with a B.S. in Chemical Oceanography, I am 
 
 ---
 
-### Rhonda Elliott
-
-<img src="https://github.com/Ellior2/Ellior2.github.io/blob/master/images/WFC.jpg?raw=true" width="180" height="162" />
-
-After graduating from Western Washington University with a degree in Environmental Science, I served as a U.S. Peace Corps volunteer in the Coastal Resource Management Program in the Philippines. We worked on ecotourism projects to relieve fishing pressure and created programs in giant clam restocking, coral propagation, and mangrove restoration. I gained a deep appreciation for sustainable aquaculture while abroad and began working at the Taylor Shellfish hatchery in Quilcene, WA shortly after returning. Over the past few years, I have been helping manage an ocean acidification monitoring unit on the [NANOOS](http://nvs.nanoos.org/Explorer) network and researching ways to improve hatchery production through nutrition experiments, water treatments, and husbandry techniques. We are collaborating with the Roberts Lab to better understand mass mortality events that occur at our hatchery using proteomic tools. We have identified key bottlenecks in production and we hope to learn more about physiological responses in shellfish so we can be better prepared and adapt in an era of climate change and other environmental perturbations. 
-
----
 
 ### Yaamini Venkataraman
 
@@ -68,7 +56,11 @@ Brent Vadopalas
 
 Grace Crandall 
 
-Sean Bennett
+Crystal Simchick
+
+Giles Goetz
+
+Andy Jasonowicz
 
 ---
 
@@ -82,6 +74,8 @@ Kaitlyn Mitchell
 <br>
 
 ### _Graduate Students_
+
+Rhonda Elliot
 
 [Jake Heare](http://heareresearch.blogspot.com/)
 
@@ -185,31 +179,25 @@ Zachary Schiller; Tufts University <a title="http://fish.washington.edu/researc
 
 <br>
 
-### _Research Scientists_
 
-Crystal Simchick
 
-Giles Goetz
-
-Andy Jasonowicz
-
-### _Visiting Scientsts_
+### _Visiting Scientists_
 
 Marcos Espinel
 April 2017
 
-**Hollie Putnam**      
-Assistant Professor      
-Department of Biological Sciences    
-University of Rhode Island    
-[www.hollieputnam.com](http://www.hollieputnam.com/)
+Dr. Cristian Gallardo
+Autumn 2016
+
+Dr. Hollie Putnam
+Autumn 2016      
 
 Jose Angel Hidalgo de la Toba - CIBNOR PhD student     
-March 27-April 25, 2016
+April 2016
 _New method for determining size at age in individuals to inform geoduck population models._  
 
 Timothy Green; University of Queensland
 
-Adelaide Rhodes; Visiting Scholar <a title="http://genefish.fish.washington.edu/rhodes/" href="http://genefish.fish.washington.edu/rhodes/">website</a>
+Adelaide Rhodes; Visiting Scholar 
 
 <br>
