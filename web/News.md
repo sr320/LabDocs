@@ -1,4 +1,6 @@
 
+- <a href="https://uwescience.github.io/2017-10-02-uw/">Sam teaches Shell lesson and helps at Software Carpentry @ UW eScience Data Center</a> [10/17]
+
 - <a href="https://uwescience.github.io/2016-10-10-uw/">Sam teaches Shell lesson and helps at Software Carpentry @ UW eScience Data Center</a> [10/16]
 <br>
 
