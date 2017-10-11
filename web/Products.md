@@ -29,6 +29,13 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 <a id="pres">
 ## Recent Presentations</a>
 
+#### 2017
+* [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) PCSGA (Welches, OR). September 20, 2017
+
+* [At the whim of the tides: larval exchange among Olympia oyster (*Ostrea lurida*) in Puget Sound](https://figshare.com/articles/Hintz_PCSGA_FINAL_pptx/5445622) PCSGA (Welches, OR). September 20, 2017
+
+* [Geoduck as indicators of environmental change](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/5447302) PCSGA (Welches, OR). September 20, 2017
+
 #### 2016
 * [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
 
