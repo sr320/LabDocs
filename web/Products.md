@@ -29,6 +29,13 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 <a id="pres">
 ## Recent Presentations</a>
 
+#### 2017
+* [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) PCSGA (Welches, OR). September 20, 2017
+
+* [At the whim of the tides: larval exchange among Olympia oyster (*Ostrea lurida*) in Puget Sound](https://figshare.com/articles/Hintz_PCSGA_FINAL_pptx/5445622) PCSGA (Welches, OR). September 20, 2017
+
+* [Geoduck as indicators of environmental change](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/5447302) PCSGA (Welches, OR). September 20, 2017
+
 #### 2016
 * [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
 
@@ -43,17 +50,7 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 #### 2015 
 * [Open Access Opportunities for Credit, Tenure, and Promotion](https://github.com/sr320/talk-CC-OA-2015) Claremont College (Claremont, CA). October 15, 2015.
 
-* [Phenotypic Plasticity and Epigenetics in Invertebrates](https://github.com/sr320/talk-cicese-2015) Centro de Investigación Científica y de Educación Superior de Ensenada, B.C. (CICESE). October 19, 2015.
-
 * [Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster](https://github.com/sr320/talk-osu-2015) Oregon State Unversity (Corvallis, OR). May 4, 2015.
-
-* [Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?](https://github.com/sr320/talk-fiu-2015) Florida International University (Miami, FL). April 23, 2015.
-
-* [USDA NRSP-8 - NSA Genomics Resource Coordination Workshop](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-USDA-NSA.pdf) Monterey, CA. March 25, 2015.
-
-* [Science Communication & Impact](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-Altmetrics.pdf) Altmetric Webinar. February 18th, 2015. [Blog post](http://www.digital-science.com/blog/events/applied-altmetrics-researchers-in-action/) - [Webinar](http://godigitalscience.com/view/mail?iID=Y9PXAVDJMH5JVAUPJU79)
-
-* [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
 
 
 ---
