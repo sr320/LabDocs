@@ -30,6 +30,9 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 ## Recent Presentations</a>
 
 #### 2017
+
+* [A functional understanding of DNA methylation in shellfish](https://github.com/sr320/talk-ae-2017) Aquaculture Europe (Dubrovonik, Croatia). October 17-20, 2017
+
 * [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) PCSGA (Welches, OR). September 20, 2017
 
 * [At the whim of the tides: larval exchange among Olympia oyster (*Ostrea lurida*) in Puget Sound](https://figshare.com/articles/Hintz_PCSGA_FINAL_pptx/5445622) PCSGA (Welches, OR). September 20, 2017
@@ -47,11 +50,6 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 * [Does DNA Methylation Facilitate Phenotypic Plasticity?](https://github.com/sr320/talk-univ-perp-2016) CNRS Amphitheatre (Moltpellier, France). February 2, 2016.
  
-#### 2015 
-* [Open Access Opportunities for Credit, Tenure, and Promotion](https://github.com/sr320/talk-CC-OA-2015) Claremont College (Claremont, CA). October 15, 2015.
-
-* [Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster](https://github.com/sr320/talk-osu-2015) Oregon State Unversity (Corvallis, OR). May 4, 2015.
-
 
 ---
 
@@ -61,16 +59,13 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 see also <a href="#preprint">*preprints*</a>
 
 
-Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Roberts (**2017**) [Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, _Ostrea lurida_](https://www.nature.com/articles/sdata2017130) Scientific Data 4, Article number: 170130 doi: 10.1038/sdata.2017.130 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/sdata.2017.13" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
-
-<!--
-Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
--->
 
 Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
