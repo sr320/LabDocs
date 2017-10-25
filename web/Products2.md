@@ -6,16 +6,13 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Roberts (**2017**) [Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, _Ostrea lurida_](https://www.nature.com/articles/sdata2017130) Scientific Data 4, Article number: 170130 doi: 10.1038/sdata.2017.130 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/sdata.2017.13" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
-
-<!--
-Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
--->
+Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
