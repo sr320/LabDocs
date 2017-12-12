@@ -58,6 +58,7 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 see also <a href="#preprint">*preprints*</a>
 
+Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](https://doi.org/10.7717/peerj.4147) PeerJ 5:e4147 doi: 10.7717/peerj.4147 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4147" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
