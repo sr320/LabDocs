@@ -6,6 +6,8 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](https://doi.org/10.7717/peerj.4147) PeerJ 5:e4147 doi: 10.7717/peerj.4147 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4147" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
