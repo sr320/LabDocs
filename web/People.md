@@ -15,7 +15,7 @@ Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fi
 
 <img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" />
 
-I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. 
+I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. Contact: jldimond@uw.edu
 
 ---
 
