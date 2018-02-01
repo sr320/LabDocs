@@ -46,6 +46,13 @@ As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I
 
 ---
 
+
+### Grace Crandall
+
+<img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" />
+I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I attended UW as an undergraduate and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the enormous opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). I will be focusing on investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). I am very excited to be embarking on this new chapter in my research and educational career. If you would like to know more about the project, check out my lab notebook for updates: [Grace's Lab Notebook](https://grace-ac.github.io). Or if would like to ask me any questions regarding the project or the undergraduate/graduate/lab tech experience at UW, email me at: graceac9@uw.edu  
+
+---
 <br>
 
 # Research Scientists
@@ -53,8 +60,6 @@ As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I
 Sam White
 
 Brent Vadopalas
-
-Grace Crandall 
 
 Crystal Simchick
 
