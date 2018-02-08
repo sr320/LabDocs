@@ -6,8 +6,9 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in _Ostrea lurida_ as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi: 10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span> 
 
-Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags](https://doi.org/10.1111/fog.12239) Fish Oceanogr. 2017;00:1–16. <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/fog.12239" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags](https://doi.org/10.1111/fog.12239) Fish Oceanogr. 2017;00:1–16. doi: 10.1111/fog.12239 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/fog.12239" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](https://doi.org/10.7717/peerj.4147) PeerJ 5:e4147 doi: 10.7717/peerj.4147 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4147" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
