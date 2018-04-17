@@ -62,7 +62,7 @@ see also <a href="#preprint">*preprints*</a>
 
 
 
-Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reportsvolume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in Ostrea lurida as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi:10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
