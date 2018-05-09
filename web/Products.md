@@ -61,6 +61,9 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 see also <a href="#preprint">*preprints*</a>
 
 
+
+Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in Ostrea lurida as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi:10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags](https://doi.org/10.1111/fog.12239) Fish Oceanogr. 2017;00:1–16. doi:10.1111/fog.12239  <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/fog.12239" data-hide-no-mentions="true" class="altmetric-embed"></span>
