@@ -22,15 +22,6 @@ I'm a naturalist at heart with a particular fascination with marine invertebrate
 ---
 
 
-### Megan Hintz
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/FieldWork__2__jpg_1BD04567.png" alt="FieldWork__2__jpg_1BD04567.png"/>
-
-Like many Washingtonians, I grew up exploring and enjoying the unique marine environment of Puget Sound. Because of the natural connection I had with the waters in Puget Sound, I became interested in marine research in college. I started in the Becker Lab at UW Tacoma as an undergraduate researcher on two projects: determining the ability of mussels to remove nutrients from the Thea Foss Waterway and measuring the distribution of Olympia oyster larvae in Fidalgo Bay. Following graduation, I completed an eight month internship at the Center for Urban Waters, where I investigated different methods to remove phosphorus from stormwater. Currently my research focuses on studying the movements of larval oysters to enhance restoration efforts. The dynamic nature of my current research, with the combination of field and lab elements, keeps me intrigued and motivated.  At any time I could be trudging through the mud in Fidalgo Bay or doing molecular biology in the lab. Through this research experience I have also discovered that baby oysters are super cute. It’s not every day that you get to use complex science to aid in the restoration of adorable marine critters.  Follow Megan on Twitter ([@BivalveFanatic](https://twitter.com/BivalveFanatic))
-
----
-
-
 ### Laura Spencer
 
 <img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" />
@@ -89,6 +80,8 @@ Kaitlyn Mitchell
 <br>
 
 ### _Graduate Students_
+
+Megan Hintz
 
 Rhonda Elliot
 
