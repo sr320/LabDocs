@@ -2,9 +2,11 @@
 # Principal Investigator
 ### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
-<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" /> 
+<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" ALIGN = "left" /> 
 
 Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
+
+<br> <br>
 
 ---
 
