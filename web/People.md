@@ -15,7 +15,7 @@ Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fi
 
 ### Jay Dimond 
 
-<img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" />
+<img src="http://eagle.fish.washington.edu/astrangia/jay.JPG" width="180" height="162" ALIGN = "left" />
 
 I'm a naturalist at heart with a particular fascination with marine invertebrates. My background is primarily in the biology and ecology of symbiotic cnidarians, including reef corals and sea anemones that host endosymbiotic dinoflagellates and other photosymbionts. My work in the Roberts Lab will evaluate the role of epigenetics in the ability of these organisms to acclimatize and adapt to their environment, a topic that is especially relevant as we march on into the "anthropocene", an era of increasingly human-altered ecosystems. Contact: jldimond@uw.edu
 
@@ -24,7 +24,7 @@ I'm a naturalist at heart with a particular fascination with marine invertebrate
 
 ### Laura Spencer
 
-<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" />
+<img src="https://github.com/laurahspencer/LabNotebook/blob/master/images/IMG_4758.jpg?raw=true" width="180" height="162" ALIGN = "left" />
 
 As a Univeristy of Washington alumna with a B.S. in Chemical Oceanography, I am very pleased to return to the UW to pursue a Masters at SAFS as an NSF Graduate Fellow. In the years between I began my career at SustainableWorks, an ARRA-funded energy efficiency program in Seattle working to reduce residential energy consumption, then with the Seattle-based consulting firm Ross Strategic on a spectrum of environmental projects such as flood mitigation, Puget Sound salmon recovery, air quality on tribal lands, the EPA Exchange Network, etc. Most recently I joined the Puget Sound Restoration Fund, a non-profit using boots-on-the-ground tactics to restore the native Olympia oyster & Pinto abalone in Puget Sound, where I gained valuable experience in hatchery techniques and a curiosity in shellfish restoration and research. Additionally, dual interests in scientific education/outreach and Ocean Acifidification led to volunteering with the Seattle Aquarium, the Ocean Inquiry Project, WA Sea Grant, and Earth Echo. In joining the Roberts Lab I seek to perform applied research to provide useful knowledge for shellfish aquaculture and restoration communities, with the express interest of maintaining affordable, delicious shellfish on our tables and shorelines.  
 
@@ -35,9 +35,9 @@ Contact: lhs3@uw.edu
 
 
 ### Yaamini Venkataraman
-[Lab notebook](https://yaaminiv.github.io) [CV](https://yaaminiv.github.io/about/) Twitter: @YaaminiV
+[Lab notebook](https://yaaminiv.github.io) | [CV](https://yaaminiv.github.io/about/) | Twitter: @YaaminiV
 
-![Yaamini Venkataraman](https://avatars1.githubusercontent.com/u/22335838?v=3&u=eb68e8abc8514869e99bdf6a2638066aedaebef4&s=140)
+<img src="https://avatars1.githubusercontent.com/u/22335838?v=3&u=eb68e8abc8514869e99bdf6a2638066aedaebef4&s=140" ALIGN = "left" />
 
 As a California Bay Area native, I grew up going to the Monterey Bay Aquarium. I was always floored by the intricacies of the organisms themselves, but also how complex their environments were. These experiences pushed me to get my B.S. in General Biology and B.A. in Environmental Policy at the University of California, San Diego (UCSD). I studied several different species-environment interactions, including copepods and copper toxicity at the Wrigley Institute for Environmental Studies, marsh plants species and increased carbon inputs at the Smithsonian Institute for Environmental Studies and limpet-surfgrass interactions under acidified conditions at UCSD. At the Roberts Lab, I study how climate change is going to affect the organisms in our current and future oceans. My current projects involve examining  ocean acidification’s effects on oysters using “-omic” techniques.
 
@@ -50,7 +50,8 @@ If you want to know more about my path to graduate school, what it's like to be 
 
 ### Grace Crandall
 
-<img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" />
+<img src="http://owl.fish.washington.edu/scaphapoda/grace/peoplepageprofpic.jpg" width="95" height="162" ALIGN = "left" />
+
 I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I attended UW as an undergraduate and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the enormous opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). I will be focusing on investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). I am very excited to be embarking on this new chapter in my research and educational career. If you would like to know more about the project, check out my lab notebook for updates: [Grace's Lab Notebook](https://grace-ac.github.io). Or if would like to ask me any questions regarding the project or the undergraduate/graduate/lab tech experience at UW, email me at: graceac9@uw.edu  
 
 ---
