@@ -29,6 +29,10 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 <a id="pres">
 ## Recent Presentations</a>
 
+#### 2018
+
+* [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
+
 #### 2017
 
 * [Epigenetic mechanisms in marine invertebrates: perspectives and applications](https://github.com/sr320/talk-bh-2017) Biotecnología Habana 2017 (Varadero, Cuba) December 3-6, 2017
