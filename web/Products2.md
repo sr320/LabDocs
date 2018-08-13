@@ -30,7 +30,7 @@ Detree C, Núñez-Acuña G, Roberts S, Gallardo-Escárate C (**2016**) [Uncoveri
 
 Dimond JL and Roberts SB  (**2016**), [Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change](http://onlinelibrary.wiley.com/doi/10.1111/mec.13414/abstract) Molecular Ecology doi:10.1111/mec.13414 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.13414" data-hide-no-mentions="true" class="altmetric-embed"></span> [_preprint_](https://digital.lib.washington.edu/researchworks/handle/1773/34298)
 
-Jasonowicz AJ, Goetz FW, Goetz GW, Nichols KM (**2016**) [Love the one you're with: Genomic evidence of panmixia in the sablefish (_Anoplopoma fimbria_)](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2016-0012#.V9RNUJMrIyd) Canadian Journal of Fisheries and Aquatic Sciences doi: 10.1139/cjfas-2016-0012 
+Jasonowicz AJ, Goetz FW, Goetz GW, Nichols KM (**2016**) [Love the one you're with: Genomic evidence of panmixia in the sablefish (_Anoplopoma fimbria_)](http://www.nrcresearchpress.com/doi/abs/10.1139/cjfas-2016-0012#.V9RNUJMrIyd) Canadian Journal of Fisheries and Aquatic Sciences doi: 10.1139/cjfas-2016-0012
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1139/cjfas-2016-0012" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 
@@ -147,8 +147,8 @@ Biga PR, Roberts SB, Iliev DB, McCauley LA, Moon JS, Collodi P, and Goetz FW. (*
 Roberts SB, Romano C, and Gerlach G. (**2005**) [Characterization of EST derived SSRs from the bay scallop, _Argopectens irradians_ ](http://onlinelibrary.wiley.com/doi/10.1111/j.1471-8286.2005.00996.x/abstract)Molecular Ecology Notes 5: 567-568.
 
 Jentoft S, Topp N, Seeliger M, Malison JA, Barry TP, Held JA, Roberts SB, and Goetz FW. (**2005**) [Lack of growth enhancement by exogenous growth hormone treatment in yellow perch in four separate experiments](http://www.sciencedirect.com/science/article/pii/S0044848605001675) Aquaculture 250:471-479.
-  
-  
+
+
 <img class="alignright" title="coho" alt="" src="http://jeb.biologists.org/content/207/21/3741/F1.medium.gif" width="293" height="308" /></p>
 
 
@@ -190,13 +190,16 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 
 Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, in Genomics in Aquaculture](http://www.sciencedirect.com/science/book/9780128014189). Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9
 
+
+Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Reproduction: Oysters](http://dx.doi.org/10.1016/B978-0-12-809633-8.20621-3). In M. K. Skinner (Ed.), Encyclopedia of Reproduction. vol. 6, pp. 736–742. Academic Press: Elsevier. doi: 10.1016/B978-0-12-809633-8.20621-3
+
 ---
 
 
 <a id="preprint">
 ## PrePrints</a>
 
-Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615> 
+Emma B. Timmins-Schiffman, Grace A. Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, Steven B. Roberts (2016) Integrating proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation. **bioRxiv** doi: <https://doi.org/10.1101/094615>
 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1101/094615" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Heare JE, White SJ, Roberts SB. (2015) Differential response to stress in _Ostrea lurida_ (Carpenter 1864) as measured by gene expression. PeerJ PrePrints 3:e1595v1 <https://doi.org/10.7287/peerj.preprints.1595v1>
@@ -224,7 +227,7 @@ Roberts et al. (**preprint**) Hard clam gene expression analysis. Status: [Avail
 
 _Archived_
 
-Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298> 
+Dimond JL and Roberts SB  (2015) Germline DNA methylation in reef corals: patterns and potential roles in response to environmental change UW ResearchWorks Archive uri:<http://hdl.handle.net/1773/34298>
 
 Mackenzie Gavery and Steven Roberts (**preprint**) A context specific role for DNA methylation in bivalves. Status: _Archived_ [download](https://dl.dropboxusercontent.com/u/115356/Gavery_Roberts_context2013.pdf) (_Revised and later accepted at_ [Briefings in Functional Genomics](https://10.1093/bfgp/elt054) 10.1093/bfgp/elt054
 
@@ -262,13 +265,9 @@ The Effects of Ocean Acidification on Multiple Life History Stages of the Pacifi
 Sablefish (_Anoplopoma fimbria_) sperm: The physiology of activation and the development of a cryopreservation protocol. Doug Immerman. 2014. [http://hdl.handle.net/1773/25414](http://hdl.handle.net/1773/25414)
 
 
-Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. figshare. 
+Genetic and phenotypic diversity in sockeye salmon, <em>Oncorhynchus nerka</em>. Caroline Storer. 2012. figshare.
 <a href="http://dx.doi.org/10.6084/m9.figshare.661720"> http://dx.doi.org/10.6084/m9.figshare.661720</a><span class="impactstory-embed" data-id="10.6084/m9.figshare.661720" data-id-type="doi" data-api-key="ROBERTSf058cdcd" data-show-logo="false" data-badge-size="small"></span>
 
 Characterizing the effects of ocean acidification in larval and juvenile Manila clam, <em>Ruditapes philippinarum</em>, using a transcriptomic approach. David Metzger. 2012 <a href="http://fish.washington.edu/research/publications/ms_phd/Metzger_D_MS_Sp12.pdf"> download</a>
 
 ---
-
-
-
- 
