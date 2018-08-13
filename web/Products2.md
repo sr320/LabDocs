@@ -7,17 +7,26 @@
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
 
+Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in _Ostrea lurida_ as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi: 10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+
+Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags](https://doi.org/10.1111/fog.12239) Fish Oceanogr. 2017;00:1–16. doi: 10.1111/fog.12239 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/fog.12239" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](https://doi.org/10.7717/peerj.4147) PeerJ 5:e4147 doi: 10.7717/peerj.4147 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4147" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
+<a href="https://doi.org/10.7717/peerj.4147"><img class="wp-image-2505 alignright" title="aq-epigenetic" src="https://d.pr/i/prer0r+" alt="heat-map" width="265" height="143" /></a>
+
+Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
 Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Roberts (**2017**) [Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, _Ostrea lurida_](https://www.nature.com/articles/sdata2017130) Scientific Data 4, Article number: 170130 doi: 10.1038/sdata.2017.130 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/sdata.2017.13" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-<!--
-Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
--->
-
-Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span> [pdf](https://d.pr/f/LhniBr)
 
 C. Gallardo-Escárate V. Valenzuela-Muñoz S. Boltaña G. Nuñez-Acuña D. Valenzuela-Miranda A.T. Gonçalves C. Détrée E. Tarifeño-Saldivia R. Farlora S. Roberts H.M. Putnam (**2017**) [The _Caligus rogercresseyi_ miRNome: Discovery and transcriptome profiling during the sea lice ontogeny](http://dx.doi.org/10.1016/j.aggene.2017.03.002) AgriGene doi: 10.1016/j.aggene.2017.03.002 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aggene.2017.03.002" data-hide-no-mentions="true" class="altmetric-embed"></span>
 

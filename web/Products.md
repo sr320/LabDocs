@@ -18,9 +18,9 @@ Sam White | [onsnetwork.org/kubu4](http://onsnetwork.org/kubu4/) |   [![GitHub f
 Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![GitHub followers](https://img.shields.io/github/followers/jldimond.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jldimond)
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
+Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)    
 Rhonda Elliot |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
 Sean Bennett | [rpubs/sean80](http://rpubs.com/seanb80) - [genefish/seanb80](https://genefish.wordpress.com/author/seanb80/) |  [![GitHub followers](https://img.shields.io/github/followers/seanb80.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/seanb80)
-Grace Crandall | [genefish/grace](https://genefish.wordpress.com/author/graceac9/)
 Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
 
 
@@ -28,6 +28,22 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 <a id="pres">
 ## Recent Presentations</a>
+
+#### 2018
+
+* [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
+
+#### 2017
+
+* [Epigenetic mechanisms in marine invertebrates: perspectives and applications](https://github.com/sr320/talk-bh-2017) Biotecnología Habana 2017 (Varadero, Cuba) December 3-6, 2017
+
+* [A functional understanding of DNA methylation in shellfish](https://github.com/sr320/talk-ae-2017) Aquaculture Europe (Dubrovonik, Croatia). October 17-20, 2017
+
+* [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) PCSGA (Welches, OR). September 20, 2017
+
+* [At the whim of the tides: larval exchange among Olympia oyster (*Ostrea lurida*) in Puget Sound](https://figshare.com/articles/Hintz_PCSGA_FINAL_pptx/5445622) PCSGA (Welches, OR). September 20, 2017
+
+* [Geoduck as indicators of environmental change](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/5447302) PCSGA (Welches, OR). September 20, 2017
 
 #### 2016
 * [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
@@ -40,21 +56,6 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 * [Does DNA Methylation Facilitate Phenotypic Plasticity?](https://github.com/sr320/talk-univ-perp-2016) CNRS Amphitheatre (Moltpellier, France). February 2, 2016.
 
-#### 2015
-* [Open Access Opportunities for Credit, Tenure, and Promotion](https://github.com/sr320/talk-CC-OA-2015) Claremont College (Claremont, CA). October 15, 2015.
-
-* [Phenotypic Plasticity and Epigenetics in Invertebrates](https://github.com/sr320/talk-cicese-2015) Centro de Investigación Científica y de Educación Superior de Ensenada, B.C. (CICESE). October 19, 2015.
-
-* [Genomics on the Half Shell: Environmental Epigenetics, Open Science, and the Oyster](https://github.com/sr320/talk-osu-2015) Oregon State Unversity (Corvallis, OR). May 4, 2015.
-
-* [Does DNA Methylation Facilitate Phenotypic Plasticity in Marine Invertebrates?](https://github.com/sr320/talk-fiu-2015) Florida International University (Miami, FL). April 23, 2015.
-
-* [USDA NRSP-8 - NSA Genomics Resource Coordination Workshop](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-USDA-NSA.pdf) Monterey, CA. March 25, 2015.
-
-* [Science Communication & Impact](https://github.com/sr320/LabDocs/blob/master/slidedecks/2015-Altmetrics.pdf) Altmetric Webinar. February 18th, 2015. [Blog post](http://www.digital-science.com/blog/events/applied-altmetrics-researchers-in-action/) - [Webinar](http://godigitalscience.com/view/mail?iID=Y9PXAVDJMH5JVAUPJU79)
-
-* [Integrating SQLShare into Genomic Workflows](https://github.com/sr320/escience-talk-sqlshare-2015) UW escience Seminar  (Seattle, WA). January 2015.
-
 
 ---
 
@@ -64,18 +65,27 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 see also <a href="#preprint">*preprints*</a>
 
 
-Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
+Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in Ostrea lurida as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi:10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags](https://doi.org/10.1111/fog.12239) Fish Oceanogr. 2017;00:1–16. doi:10.1111/fog.12239  <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/fog.12239" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Gavery MR, Roberts SB. (**2017**) [Epigenetic considerations in aquaculture](https://doi.org/10.7717/peerj.4147) PeerJ 5:e4147 doi: 10.7717/peerj.4147 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4147" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+
+<a href="https://doi.org/10.7717/peerj.4147"><img class="wp-image-2505 alignright" title="aq-epigenetic" src="https://d.pr/i/prer0r+" alt="heat-map" width="265" height="143" /></a>
+
+Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology 38:e12458 doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Megan Hintz, Katherine Gratz, Bonnie Becker, Brent Vadopalas, and Steven Roberts (**2017**) [A Nonlethal Anesthesia Protocol for Accessing the Mantle Cavity of Olympia Oysters in the Laboratory or Field](https://doi.org/10.2983/035.036.0207) Journal of Shellfish Research 2017 36 (2), 353-357 doi: 10.2983/035.036.0207 <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.036.0207" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Samuel J. White, Brent Vadopalas, Katherine Silliman & Steven B. Roberts (**2017**) [Genotoype-by-sequencing of three geographically distinct populations of Olympia oysters, _Ostrea lurida_](https://www.nature.com/articles/sdata2017130) Scientific Data 4, Article number: 170130 doi: 10.1038/sdata.2017.130 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/sdata.2017.13" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Dimond JL, Gamblewood SK, Roberts SB. (**2017**) [Genetic and epigenetic insight into morphospecies in a reef coral](http://dx.doi.org/10.1111/mec.14252) Molecular Ecology. 00:1–12. doi: 10.1111/mec.14252 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/mec.14252" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-<!--
-Jake Emerson Heare, Brady Blake, Jonathan P Davis, Brent Vadopalas, Steven Roberts (**2017**) [Evidence of Ostrea lurida Carpenter, 1864 population structure in Puget Sound, WA](https://doi.org/10.1111/maec.12458) Marine Ecology doi: 10.1111/maec.12458 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/maec.12458" data-hide-no-mentions="true" class="altmetric-embed"></span>
--->
-
-Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Emma B. Timmins-Schiffman, Grace A Crandall, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn and Steven Roberts (**2017**) [Integrating discovery-driven proteomics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](http://pubs.acs.org/doi/pdf/10.1021/acs.jproteome.7b00288) Journal of Proteome Research doi: 10.1021/acs.jproteome.7b00288 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.jproteome.7b00288" data-hide-no-mentions="true" class="altmetric-embed"></span> [pdf](https://d.pr/f/LhniBr)
 
 C. Gallardo-Escárate V. Valenzuela-Muñoz S. Boltaña G. Nuñez-Acuña D. Valenzuela-Miranda A.T. Gonçalves C. Détrée E. Tarifeño-Saldivia R. Farlora S. Roberts H.M. Putnam (**2017**) [The _Caligus rogercresseyi_ miRNome: Discovery and transcriptome profiling during the sea lice ontogeny](http://dx.doi.org/10.1016/j.aggene.2017.03.002) AgriGene doi: 10.1016/j.aggene.2017.03.002 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.aggene.2017.03.002" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
