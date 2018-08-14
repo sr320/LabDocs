@@ -261,6 +261,8 @@ Roberts SB, Jackson LF, King WK, Taylor RG, Grier HJ, Sullivan CV. (**1999**) [A
 Moreira Sanmartín R, Roberts SB, Figueras A. (2016) [Molluscs. pages 223-245, in Genomics in Aquaculture](http://www.sciencedirect.com/science/book/9780128014189). Editors: Simon A. MacKenzie and Sissel Jentoft. ISBN: 978-0-12-801418-9
 
 Gavery, M., & Roberts, S. (2018). [Genetics & Epigenetics in Life History and Reproduction: Oysters](http://dx.doi.org/10.1016/B978-0-12-809633-8.20621-3). In M. K. Skinner (Ed.), Encyclopedia of Reproduction. vol. 6, pp. 736–742. Academic Press: Elsevier. doi: 10.1016/B978-0-12-809633-8.20621-3
+
+
 ---
 
 
