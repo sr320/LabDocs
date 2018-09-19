@@ -2,7 +2,7 @@
 # Principal Investigator
 ### [Steven Roberts](http://faculty.washington.edu/sr320/?page_id=3577)
 
-<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" ALIGN = "left" border = "5" /> 
+<img src="https://fish.uw.edu/wp-content/uploads/sites/4/2015/05/Steven-Roberts1-528x528.jpg" width="144" height="142" ALIGN = "left" /> 
 
 Kenneth K. Chew Endowed Professor in Aquaculture in the School of Aquatic and Fishery Sciences at the University of Washington where his research focuses on characterizing physiological responses of marine organisms to environmental change. 
 
@@ -60,7 +60,7 @@ I have been in love with the ocean and its critters my entire life, having grown
 ### Shelly Trigg
 [Lab notebook](https://shellytrigg.github.io) | [CV](http://htmlpreview.github.com/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTrigg-CV_09192018.html) | satrigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
 
-<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg" width="100" height="120" border = "5" ALIGN = "left" />
+<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg?raw=true" width="100" height="120" border = "5" ALIGN = "left" />
 
 I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. My main interests are in research and public education outreach on how organisms’ molecular networks respond to human-influenced environmental change. My current research focuses on how ocean acidification impacts physiology and epigenetic variation in bivalves.  
 <br>
