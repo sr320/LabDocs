@@ -55,7 +55,17 @@ If you want to know more about my path to graduate school, what it's like to be 
 I have been in love with the ocean and its critters my entire life, having grown up on the central California coast. I attended UW as an undergraduate and happily found myself in the School of Aquatic and Fishery Sciences. After volunteering in the Roberts lab from 2014-2016, and then having the enormous opportunity of working as a lab technician from 2016-2017, I have finally become a part of the graduate student research team (Winter 2018). I will be focusing on investigating the effects of temperature and disease - Bitter Crab Syndrome, caused by parasitic dinoflagellate *Hematodinium spp.* - on the genetic expression of Tanner Crabs (*Chionoecetes bairdi*). I am very excited to be embarking on this new chapter in my research and educational career. If you would like to know more about the project, check out my lab notebook for updates: [Grace's Lab Notebook](https://grace-ac.github.io). Or if would like to ask me any questions regarding the project or the undergraduate/graduate/lab tech experience at UW, email me at: graceac9@uw.edu  
 
 ---
+# Postdoctoral Research Associates
+
+### Shelly Trigg
+[Lab notebook](https://shellytrigg.github.io) | [CV](http://htmlpreview.github.com/?https://github.com/shellytrigg/shellytrigg.github.io/blob/master/docs/ShellyTrigg-CV_09192018.html) |satrigg@uw.edu | [ORCID iD](https://orcid.org/0000-0001-6904-4149)
+
+<img src="https://github.com/shellytrigg/shellytrigg.github.io/blob/master/images/shelly_muk_crabs.jpg" width="100" height="120" border = "5" ALIGN = "left" />
+
+I joined the Roberts lab in September 2018 after completing my Ph.D. in Biolgoy at UC San Diego. My main interests are in research and public education outreach on how organisms’ molecular networks respond to human-influenced environmental change. My current research focuses on how ocean acidification impacts physiology and epigenetic variation in bivalves.  
 <br>
+
+---
 
 # Research Scientists
 
