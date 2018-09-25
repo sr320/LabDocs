@@ -31,7 +31,7 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 #### 2018
 
-* [Influence of Ocean Acidification on the Epigenome of Oyster Reproductive Tissue](https://github.com/RobertsLab/project-virginica-oa/blob/master/presentations/Venkataraman_WED_1030.pptx) PCSGA (Blaine, WA). September 19, 2018
+* [Influence of Ocean Acidification on the Epigenome of Oyster Reproductive Tissue](https://figshare.com/s/f80800d0a1739bdd2726) PCSGA (Blaine, WA). September 19, 2018
 
 * [Epigenetic variation in oysters and implications for aquaculture](https://github.com/sr320/talk-Rushan-2018/blob/master/2018-Rushan-Roberts.pdf) China International Oyster Forum - April 21-23 Rushan China
 
