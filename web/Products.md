@@ -31,6 +31,8 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 #### 2018
 
+* [Carry-over effects of parental pH exposure in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7130837.v1) Annual PCSGA/PC-NSA conference in Blaine, WA Sept. 18-21, 2018
+
 * [Epigenetic variation in oysters and implications for aquaculture](https://github.com/sr320/talk-Rushan-2018/blob/master/2018-Rushan-Roberts.pdf) China International Oyster Forum - April 21-23 Rushan China
 
 * [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
