@@ -31,6 +31,9 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 #### 2018
 
+
+* [Carry-over effects of parental pH exposure in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7130837.v1) PCSGA (Blaine, WA). September 19, 2018
+
 * [Influence of Ocean Acidification on the Epigenome of Oyster Reproductive Tissue](https://figshare.com/s/f80800d0a1739bdd2726) PCSGA (Blaine, WA). September 19, 2018
 
 * [Epigenetic variation in oysters and implications for aquaculture](https://github.com/sr320/talk-Rushan-2018/blob/master/2018-Rushan-Roberts.pdf) China International Oyster Forum - April 21-23 Rushan China
