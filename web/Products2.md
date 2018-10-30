@@ -6,7 +6,7 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
-Roberts SB, Gavery MR. (**2018**) [Opportunities in Functional Genomics: A Primer on Lab and Computational Aspects](https://doi.org/10.2983/035.037.0406) Journal of Shellfish Research 37(4):747-754. <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.037.0406" data-hide-no-mentions="true" class="altmetric-embed"></span>
+Roberts SB, Gavery MR. (**2018**) [Opportunities in Functional Genomics: A Primer on Lab and Computational Aspects](https://doi.org/10.2983/035.037.0406) Journal of Shellfish Research 37(4):747-754. doi:10.2983/035.037.0406  <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.037.0406" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
