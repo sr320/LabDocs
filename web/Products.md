@@ -73,7 +73,7 @@ see also <a href="#preprint">*preprints*</a>
 
 Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Adult low pH exposure influences larval abundance in Pacific oysters (_Crassostrea gigas_)](http://hdl.handle.net/1773/43182) Journal of Shellfish Research.
 
-Laura H Spencer, Micah Horwith, Alexander T. Lowe, Yaamini R. Venkataraman, Emma Timmins-Schiffman, Brook L. Nunn, Steven B. Roberts (**2019**) Pacific geoduck (_Panopea generosa_) resilience to natural pH variation. Comparative Biochemistry and Physiology Part D: Genomics and Proteomics. doi:10.1016/j.cbd.2019.01.010 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2019.01.010" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/432542)
+Spencer LH, Horwith M, Lowe AT, Venkataraman YR, Timmins-Schiffman E, Nunn BL, Roberts SB. (**2019**) Pacific geoduck (_Panopea generosa_) resilience to natural pH variation. Comparative Biochemistry and Physiology Part D: Genomics and Proteomics. doi:10.1016/j.cbd.2019.01.010 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2019.01.010" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/432542)
 
 Venkataraman YR, Timmins-Schiffman E, Horwith MJ, Lowe AT and others (**2019**) Characterization of Pacific oyster _Crassostrea gigas_ proteomic response to natural environmental differences. Mar Ecol Prog Ser 610:65-81. doi:10.3354/meps12858 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps12858" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/460204)
 
