@@ -6,11 +6,19 @@
 
 see also <a href="#preprint">*preprints*</a> and [_Google Scholar_](https://scholar.google.com/citations?sortby=pubdate&hl=en&user=aAoYWVUAAAAJ&view_op=list_works)
 
+Venkataraman YR, Spencer LH, Roberts SB. (**2019**) [Adult low pH exposure influences larval abundance in Pacific oysters (_Crassostrea gigas_)](http://hdl.handle.net/1773/43182) Journal of Shellfish Research. 
+
+Laura H Spencer, Micah Horwith, Alexander T. Lowe, Yaamini R. Venkataraman, Emma Timmins-Schiffman, Brook L. Nunn, Steven B. Roberts (**2019**) Pacific geoduck (_Panopea generosa_) resilience to natural pH variation. Comparative Biochemistry and Physiology Part D: Genomics and Proteomics. doi:10.1016/j.cbd.2019.01.010 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1016/j.cbd.2019.01.010" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/432542)
+
+Venkataraman YR, Timmins-Schiffman E, Horwith MJ, Lowe AT and others (**2019**) Characterization of Pacific oyster _Crassostrea gigas_ proteomic response to natural environmental differences. Mar Ecol Prog Ser 610:65-81. doi:10.3354/meps12858 <span data-badge-popover="right" data-badge-type="2" data-doi="10.3354/meps12858" data-hide-no-mentions="true" class="altmetric-embed"></span> [_bioRxiv_](https://doi.org/10.1101/460204)
+
+Javier A. Rodriguez‐Casariego, Mark C. Ladd, Andrew A. Shantz, Christian Lopes, Manjinder S. Cheema, Bohyun Kim, Steven B. Roberts, James W. Fourqurean, Juan Ausio, Deron E. Burkepile, and Jose M. Eirin‐Lopez. (**2018**) [Coral epigenetic responses to nutrient stress: Histone H2A.X phosphorylation dynamics and DNA methylation in the staghorn coral _Acropora cervicornis_](https://doi.org/10.1002/ece3.4678) Ecol Evol. 2018;00:1–15. doi:10.1002/ece3.4678 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1002/ece3.4678" data-hide-no-mentions="true" class="altmetric-embed"></span> [pdf](http://gannet.fish.washington.edu/seashell/snaps/Rodriguez-Casariego_et_al-2018-Ecology_and_Evolution.pdf)
+
 Roberts SB, Gavery MR. (**2018**) [Opportunities in Functional Genomics: A Primer on Lab and Computational Aspects](https://doi.org/10.2983/035.037.0406) Journal of Shellfish Research 37(4):747-754. doi:10.2983/035.037.0406  <span data-badge-popover="right" data-badge-type="2" data-doi="10.2983/035.037.0406" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Silliman KE, Bowyer TK, Roberts SB. (**2018**) [Consistent differences in fitness traits across multiple generations of Olympia oysters](https://doi.org/10.1038/s41598-018-24455-3) Scientific Reports volume 8, Article number:6080. doi:10.1038/s41598-018-24455-3 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1038/s41598-018-24455-3" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in _Ostrea lurida_ as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi: 10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span> 
+Heare JE, White SJ, Vadopalas B, Roberts SB. (**2018**) [Differential response to stress in _Ostrea lurida_ as measured by gene expression](https://doi.org/10.7717/peerj.4261) PeerJ 6:e4261. doi: 10.7717/peerj.4261 <span data-badge-popover="right" data-badge-type="2" data-doi="10.7717/peerj.4261" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
 Goetz FW, Jasonowicz AJ, Roberts SB. (**2017**) [What goes up must come down: Diel vertical migration in the deep-water sablefish (Anoplopoma fimbria) revealed by pop-up satellite archival tags](https://doi.org/10.1111/fog.12239) Fish Oceanogr. 2017;00:1–16. doi: 10.1111/fog.12239 <span data-badge-popover="right" data-badge-type="2" data-doi="10.1111/fog.12239" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
