@@ -36,6 +36,8 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 * [Temperature-influenced protein network differences in the Pacific oyster during larval development](https://shellytrigg.github.io/55th-post/) Cold Spring Harbor Laboratories Network Biology Meeting (Cold Spring Harbor, NY). March 19-23, 2019.
 
+* Parental low pH exposure affects reproduction & larval gene expression in the Olympia oyster - Aquaculture 2019, (New Orleans, LA) March 7-11, 2019. [Full presentation](https://doi.org/10.6084/m9.figshare.7841348.v1); [Student Spotlight competition](https://doi.org/10.6084/m9.figshare.7841336.v1)
+
 #### 2018
 
 
@@ -46,6 +48,10 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 * [Epigenetic variation in oysters and implications for aquaculture](https://github.com/sr320/talk-Rushan-2018/blob/master/2018-Rushan-Roberts.pdf) China International Oyster Forum - April 21-23 Rushan China
 
 * [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
+
+* Genetic testing informs breeding methods for native oyster restoration - presented at [Aquaculture America](https://doi.org/10.6084/m9.figshare.8066327.v1) (Las Vegas, NV), February 2018, and at the [National Shellfisheries Association conference](https://doi.org/10.6084/m9.figshare.8066333.v1) (Seattle, WA), March 2018 
+
+* [Native oyster restoration in Washington State, USA](https://doi.org/10.6084/m9.figshare.8066336.v1) - Port Stephens Fisheries Research Institute (New South Wales, Australia), June 2018. 
 
 #### 2017
 
