@@ -47,6 +47,10 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 * [Pre-Gametogenic pH exposure induces larval carryover effect](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) NSA (Seattle, WA). March 22, 2018
 
+* Genetic testing informs breeding methods for native oyster restoration - presented at [Aquaculture America](https://doi.org/10.6084/m9.figshare.8066327.v1) (Las Vegas, NV), February 2018, and at the [National Shellfisheries Association conference](https://doi.org/10.6084/m9.figshare.8066333.v1) (Seattle, WA), March 2018 
+
+* [Native oyster restoration in Washington State, USA](https://doi.org/10.6084/m9.figshare.8066336.v1) - Port Stephens Fisheries Research Institute (New South Wales, Australia), June 2018. 
+
 #### 2017
 
 * [Epigenetic mechanisms in marine invertebrates: perspectives and applications](https://github.com/sr320/talk-bh-2017) Biotecnología Habana 2017 (Varadero, Cuba) December 3-6, 2017
