@@ -19,6 +19,9 @@ Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![Git
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)    
+Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/)
+
+_Former lab members_
 Rhonda Elliot |  [ellior2.github.io](https://ellior2.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/ellior2.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ellior2)
 Sean Bennett | [rpubs/sean80](http://rpubs.com/seanb80) - [genefish/seanb80](https://genefish.wordpress.com/author/seanb80/) |  [![GitHub followers](https://img.shields.io/github/followers/seanb80.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/seanb80)
 Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebook)
@@ -28,6 +31,10 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 <a id="pres">
 ## Recent Presentations</a>
+
+#### 2019
+
+* [Temperature-influenced protein network differences in the Pacific oyster during larval development](https://shellytrigg.github.io/55th-post/) Cold Spring Harbor Laboratories Network Biology Meeting (Cold Spring Harbor, NY). March 19-23, 2019.
 
 #### 2018
 
