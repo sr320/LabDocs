@@ -67,16 +67,6 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) | |  [![G
 
 * [Geoduck as indicators of environmental change](https://figshare.com/articles/Geoduck_as_indicators_of_environmental_change/5447302) PCSGA (Welches, OR). September 20, 2017
 
-#### 2016
-* [Environmental influences on DNA methylation patterns in oysters and the relationship with phenotypic variation](https://github.com/sr320/talk-Chicago-eed-2016) University of Chicago (Chicago, IL). December 5, 2016
-
-* [Towards a functional understanding of DNA methylation in shellfish and implications for aquaculture](https://github.com/sr320/talk-unjr-2016) NOAA Northwest Fisheries Science Center (Seattle, WA). November 2, 2016
-
-* [Hacking the Academy: Open in Action - OA Week @ University of Washington](https://github.com/sr320/talk-UW-OA-2016) University of Washington (Seattle, WA). October 26, 2016
-
-* [Environmental Sciences: A Genomic Perspective](https://github.com/sr320/LabDocs/blob/master/slidedecks/2016-Environment-Comm.pdf) Commodore Options School (Bainbridge Island, WA). October 20, 2016
-
-* [Does DNA Methylation Facilitate Phenotypic Plasticity?](https://github.com/sr320/talk-univ-perp-2016) CNRS Amphitheatre (Moltpellier, France). February 2, 2016.
 
 
 ---
