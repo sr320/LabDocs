@@ -34,12 +34,15 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 
 #### 2019
 
+* [Multidimensional Training for Multidimensional Graduate Students: Better Preparing Tomorrow's Leaders](https://www.youtube.com/watch?v=8TbcVPMdo1w&list=PLgDT5hypdTyTHB5lI338UDbinahTxU8ew&index=55&t=0s) SAFS Centennial Celebration and 2019 Bevan Symposium (Seattle, WA). April 16, 2019
+
 * [Temperature-influenced protein network differences in the Pacific oyster during larval development](https://shellytrigg.github.io/55th-post/) Cold Spring Harbor Laboratories Network Biology Meeting (Cold Spring Harbor, NY). March 19-23, 2019.
 
 #### 2018
 
-
 * [Carry-over effects of parental pH exposure in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7130837.v1) PCSGA (Blaine, WA). September 19, 2018
+
+* [Adult low pH exposure influences larval abundance in Pacific oysters (*Crassostrea gigas*)](https://github.com/RobertsLab/project-oyster-oa/blob/master/presentations/Manchester/Venkataraman_NSA2018.pptx) Western Society of Naturalists (Tacoma, WA). November 9, 2018
 
 * [Influence of Ocean Acidification on the Epigenome of Oyster Reproductive Tissue](https://figshare.com/s/f80800d0a1739bdd2726) PCSGA (Blaine, WA). September 19, 2018
 
@@ -50,6 +53,8 @@ Megan Hintz | [megan@evernote](https://www.evernote.com/pub/meganhintz/labnotebo
 #### 2017
 
 * [Epigenetic mechanisms in marine invertebrates: perspectives and applications](https://github.com/sr320/talk-bh-2017) Biotecnología Habana 2017 (Varadero, Cuba) December 3-6, 2017
+
+* [Exploring proteomic variation in Pacific Oysters](https://figshare.com/articles/PCSGA_2017_Exploring_Proteomic_Variation_in_Pacific_Oysters/5445616) Western Society of Naturalists (Pasadena, CA). November 18, 2017 
 
 * [A functional understanding of DNA methylation in shellfish](https://github.com/sr320/talk-ae-2017) Aquaculture Europe (Dubrovonik, Croatia). October 17-20, 2017
 
