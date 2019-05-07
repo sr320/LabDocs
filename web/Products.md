@@ -35,7 +35,7 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) | |  [![G
 
 * [Temperature-influenced protein network differences in the Pacific oyster during larval development](https://shellytrigg.github.io/55th-post/) Cold Spring Harbor Laboratories Network Biology Meeting (Cold Spring Harbor, NY). March 19-23, 2019.
 
-* Parental low pH exposure affects reproduction & larval gene expression in the Olympia oyster - Aquaculture 2019, (New Orleans, LA) March 7-11, 2019. [Full presentation](https://doi.org/10.6084/m9.figshare.7841348.v1); [Student Spotlight competition](https://doi.org/10.6084/m9.figshare.7841336.v1)
+* [Parental low pH exposure affects reproduction & larval gene expression in the Olympia oyster](https://doi.org/10.6084/m9.figshare.7841348) - Aquaculture 2019, (New Orleans, LA) March 7-11, 2019. [Student Spotlight competition](https://doi.org/10.6084/m9.figshare.7841336.v1)
 
 #### 2018
 
