@@ -19,7 +19,7 @@ Jay Dimond | [onsnetwork.org/jdimond ](http://onsnetwork.org/jdimond/) |  [![Git
 Laura Spencer | [laurahspencer.github.io](https://laurahspencer.github.io/LabNotebook/)  | [![GitHub followers](https://img.shields.io/github/followers/laurahspencer.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/laurahspencer)
 Yaamini Venkataraman | [yaaminiv.github.io](https://yaaminiv.github.io/) | [![GitHub followers](https://img.shields.io/github/followers/yaaminiv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yaaminiv)
 Grace Crandall | [grace-ac.github.io](https://grace-ac.github.io/) |  [![GitHub followers](https://img.shields.io/github/followers/grace-ac.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/grace-ac)
-Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) | |  [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)
+Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![GitHub followers](https://img.shields.io/github/followers/shellytrigg.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/shellytrigg)
 
 
 
