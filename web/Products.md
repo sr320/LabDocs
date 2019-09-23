@@ -30,6 +30,8 @@ Shelly Trigg | [shellytrigg.github.io](https://shellytrigg.github.io/) |   [![Gi
 ## Recent Presentations</a>
 
 #### 2019
+* [A protein inventory reveals mechanisms of temperature impact on oyster development](https://github.com/shellytrigg/OysterSeedProject/tree/master/Presentations) Pacific Coast Shellfish Growers Association 2019 Conference (Portland, Oregon) September 17-19, 2019
+
 * [Epigenetic Variation in Shellfish and Implications for Aquaculture](https://github.com/sr320/talk-mj-2019) Aquaculture Canada (Victoria, British Columbia) May 07, 2019
 
 * [Intergenerational Carryover Effects in Shellfish and the Consideration of a Role for DNA Methylation](https://github.com/sr320/talk-mj-2019) NOAA Monster Jam (Seattle, WA) May 02, 2019
